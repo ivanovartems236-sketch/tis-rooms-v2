@@ -1,0 +1,361 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа О-МКИ-251 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ec5827424b7237711eee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:490ad7b92a5229e4d76f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:9c853f3538128f1f57e6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T173500
+DTEND;TZID=Europe/Moscow:20261013T191000
+SUMMARY:Рекламная деятельность (Лекция)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b9bc96530ae3201c7037@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T173500
+DTEND;TZID=Europe/Moscow:20261014T191000
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ff10081fa32d8ffcf636@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T192000
+DTEND;TZID=Europe/Moscow:20261014T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-308
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:37abebea1aef4a5cf74d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Лекция
+ )
+LOCATION:К-609
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:56561ef30127165fbab6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3cd6426864f5e0310e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T173500
+DTEND;TZID=Europe/Moscow:20261015T191000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Практи
+ ка)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb845a3864d02976d84@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:02a6bbdd2bffb11ee48d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7d50730b75d54b5deb4f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T140500
+DTEND;TZID=Europe/Moscow:20261019T154000
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d3f0b990d0f94053b2da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T155000
+DTEND;TZID=Europe/Moscow:20261019T172500
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0c161948aa37cfec1c8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a920413d73db5832b2fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T155000
+DTEND;TZID=Europe/Moscow:20261020T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5e1410b62429a11ababc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T140500
+DTEND;TZID=Europe/Moscow:20261021T154000
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Практи
+ ка)
+LOCATION:К-301
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2c84550acb0785bf25dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T155000
+DTEND;TZID=Europe/Moscow:20261021T172500
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Практи
+ ка)
+LOCATION:К-301
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d8720c68fe1902251395@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:2 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5a80f27ff3f4fa2c2b1d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3b7354d82d1e06948af2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:33f3cea4e89715840a89@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T155000
+DTEND;TZID=Europe/Moscow:20261023T172500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (Л
+ екция)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:aabd69fe4368d0c3eabc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T173500
+DTEND;TZID=Europe/Moscow:20261023T191000
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc43aee1f1b5f52ea24@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T192000
+DTEND;TZID=Europe/Moscow:20261023T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-301
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c442d3a264e7af9c71ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:43e39de428acc2dfd611@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c5aa9132efc403a82015@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e78d6ac74ca21b1712@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c6bef5ac9b73f10abf43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T173500
+DTEND;TZID=Europe/Moscow:20261027T191000
+SUMMARY:Рекламная деятельность (Лекция)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ba8a43dbe76a9fe91712@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e12dd5de3c2763cfce2c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c062312036193705af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Лекция
+ )
+LOCATION:К-609
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:508ab7a0ddb931c0345a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:56e4263b4cd6a41e7192@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Практи
+ ка)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+END:VCALENDAR

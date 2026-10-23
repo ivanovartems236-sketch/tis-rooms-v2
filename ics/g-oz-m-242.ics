@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа ОЗ-М-242 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a3feec2d193f182a1c95@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T083000
+DTEND;TZID=Europe/Moscow:20261013T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:003317402a40858baeef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Риск-менеджмент (Практика)
+LOCATION:К-106
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:cde0685bfd6b5dff12a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a95adf977fe2b3fba9fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:21835fedb8ebaec49ced@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f8ff0dda52ba0f61d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:75d2e4d4c199216c7bd3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Инвестиционный менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:4 пара · Семенова Н.В. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:1b0f4503a71ba194d1d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1f4f09c780fd73d030f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Стратегический менеджмент (Практика
+ )
+LOCATION:К-217
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4237360abc36c74094@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Эконометрика (Практика)
+LOCATION:К-217
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ea53597ffc918c219bd9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:5bfb1dfd6761ef29bbc7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Финансовый менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:08e525afac42ec7ef3c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Производственный менеджмент (Лекция
+ )
+LOCATION:К-217
+DESCRIPTION:4 пара · Ионова А.Ч. · группы: ОЗ-М-242
+END:VEVENT
+END:VCALENDAR

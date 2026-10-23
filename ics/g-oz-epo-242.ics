@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа ОЗ-Эпо-242 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:482dde4c31428f7c40f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T083000
+DTEND;TZID=Europe/Moscow:20261013T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:34e670dc7e327d247dd6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d108103ad5083a15037a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Налоги и налогообложение (Практика)
+LOCATION:К-107
+DESCRIPTION:1 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a669d6232ddb0fdeaf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:2043f239c5c5cb2d41e5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Экономика недвижимости (Практика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a24e417d31fb8eb2bc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Экономическая оценка инвестиций (Пр
+ актика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:440fff04fabe01972a0b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:bb78c60fb9e32cf34147@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:59b25c8c336f62bd371e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:35c98324624d118c24e6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Экономическая оценка инвестиций (Ле
+ кция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a44ed83fe6668c2763cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Государственное регулирование экон
+ омики (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a88767c3950bd4e2dd4b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:3e99e714dfcf4d127b9b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Экономика недвижимости (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3f53789e0ba0e52d1b17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Эконометрика (Практика)
+LOCATION:К-217
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:dc4cedb79718dd7d1570@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:746e6aa0e5b099c8bebc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Деловые коммуникации (Лекция)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+END:VCALENDAR

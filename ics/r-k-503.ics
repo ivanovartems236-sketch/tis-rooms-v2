@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-503 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:76e74e7e0ee11d665061@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T173500
+DTEND;TZID=Europe/Moscow:20261012T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7013c947c1a4d1e012@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:74bd8a7eabeec7950ffe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e73b4f9a8213ea4d9fd7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-503
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Ки-261\, З-Ки-262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Т
+ м-261\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:2779ba64f5f689afe2d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bd4d3e645a7bd3f5c09d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:36825277548d0b60940f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: З
+ -Ки-262
+END:VEVENT
+BEGIN:VEVENT
+UID:f6420eeaf6e7ffd24f69@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Промышленные технологии и инновации
+  (Лекция)
+LOCATION:К-503
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-262
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4cb6812588da165179@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: ОЗ-К
+ и-241
+END:VEVENT
+BEGIN:VEVENT
+UID:1b183340c26f1be78082@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:5a0020a8b472392acc73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T140500
+DTEND;TZID=Europe/Moscow:20261021T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:4 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8b0c11adbf30a66dac7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T155000
+DTEND;TZID=Europe/Moscow:20261021T172500
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ea8ff0f4c673029771@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T083000
+DTEND;TZID=Europe/Moscow:20261022T100500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:1 пара · Смирнова М.Ю. · группы: ОЗ-К
+ и-241
+END:VEVENT
+BEGIN:VEVENT
+UID:aa7670d0f169a36f3b99@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: ОЗ-К
+ и-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ea56916fea2605ac76d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T155000
+DTEND;TZID=Europe/Moscow:20261022T172500
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:21d911e435777bd0b41e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T173500
+DTEND;TZID=Europe/Moscow:20261022T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ae96ef3f885f28fb56a4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Теория решения изобретательских зад
+ ач (Лаб.)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe81d80926e7389cfeb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T155000
+DTEND;TZID=Europe/Moscow:20261023T172500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (Л
+ екция)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:27f7b53d9046a594996c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T083000
+DTEND;TZID=Europe/Moscow:20261026T100500
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a79c2373085e41ce2ed6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Еремина Е.А. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:1f672d096178312ad33a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4811d7197834e9ecc1e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:431f8a59bfb38a527174@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8ecf144ef6376e986e9b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:1792b7d77103de3f6764@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+END:VEVENT
+END:VCALENDAR

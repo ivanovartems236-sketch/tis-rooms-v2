@@ -1,0 +1,352 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Саиег Т.Х. — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7d6ce9b5c1dd0dc5f341@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Информатика (Лаб.)
+LOCATION:К-401
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:dc733e90b667df215a70@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Информатика (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:17ddf9929d00eeef303f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T155000
+DTEND;TZID=Europe/Moscow:20261012T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:39b687697831011de1b0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c43d214d132b682a2461@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Информатика (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bc84334d8b3bd958286e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Информатика (Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-26
+ 1\, З-ИстТ-262
+END:VEVENT
+BEGIN:VEVENT
+UID:f889bc7c95582ca192b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:25a0932146dbd58bfe79@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Информатика (Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:4811838ee48157b2e8c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T173500
+DTEND;TZID=Europe/Moscow:20261015T191000
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:df8a380fe2bbf14559a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:92b802d8fab35cdbd2af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:da34785b9d327693d223@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ae35d434d1cdef6314dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T173500
+DTEND;TZID=Europe/Moscow:20261016T191000
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:К-401
+DESCRIPTION:6 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:118b269e2a3832479dcc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T173500
+DTEND;TZID=Europe/Moscow:20261020T191000
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:К-401
+DESCRIPTION:6 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:34fab136769df891e3bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T155000
+DTEND;TZID=Europe/Moscow:20261021T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0339cf7d6d83245a3658@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T155000
+DTEND;TZID=Europe/Moscow:20261021T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:716096b5dbc46561a163@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T173500
+DTEND;TZID=Europe/Moscow:20261021T191000
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Практика)
+LOCATION:К-406
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:3a439bfa8bf498061b23@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T173500
+DTEND;TZID=Europe/Moscow:20261021T191000
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1df593e7b2a308adacac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd4b26ddb16c9103a4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T155000
+DTEND;TZID=Europe/Moscow:20261022T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:76dd43b8cba6b1fefdfe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T155000
+DTEND;TZID=Europe/Moscow:20261023T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:d15b6590df803ad2019e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Информатика (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e220ef37785fd14926c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8d81f16b47c645e4bbf3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0576ed0f37a108f764f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Информатика (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:899702016e0959cadf92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d85e138374801d544f91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd0fe60a3cb19730b07@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb1be5b76e10e146e15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:934ab75a01b0f310eecf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+END:VCALENDAR

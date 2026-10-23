@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-313 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c255b5c7403a4d537b7b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-313
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8629b7d2e765b04a58e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Основы инженерного творчества (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6c764194e7d70c2f3f6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Основы инженерного творчества (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Тм-26
+ 1\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:af47f37796a5224f775b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:bad81aa73a4376371e47@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T155000
+DTEND;TZID=Europe/Moscow:20261020T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:739c2908529b78d8dce0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-313
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4272f32c52edb56bbc6b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Лаб.)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1b71492b73b5f913c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Основы инженерного творчества (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
+ 1
+END:VEVENT
+END:VCALENDAR

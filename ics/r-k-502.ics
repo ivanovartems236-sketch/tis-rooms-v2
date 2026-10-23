@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-502 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:31f54d278a3a194a1ae0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5b325d9dd128ad34488e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Колосова О.Ю. / Черепов П.В. 
+ · группы: О-ИстТ-261\, ОЗ-ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bea05bdbef6deb117f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Информатика (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b7311cb64337864af3d1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Операционные системы и среды (Практи
+ ка)
+LOCATION:К-502
+DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4bebfbc5ed9ef09d8279@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-502
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
+END:VEVENT
+BEGIN:VEVENT
+UID:ed97333730f23adc1ced@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb782bd136a7d1dede5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T140500
+DTEND;TZID=Europe/Moscow:20261019T154000
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:68f91e653c4503f96cae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Лекция)
+LOCATION:К-502
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:43c77cea536063d8ae2e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfb4e54540495800d06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:77afc115ec9964a64b72@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T140500
+DTEND;TZID=Europe/Moscow:20261021T154000
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5832774c3a59e39d87@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-К
+ и-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7356138f5965c1e317@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T155000
+DTEND;TZID=Europe/Moscow:20261022T172500
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-К
+ и-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fd61abc05e1cba5852fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Лекция)
+LOCATION:К-502
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9b292a99ad47478c6557@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:48411f53aff472c79714@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Колосова О.Ю. / Черепов П.В. 
+ · группы: О-ИстТ-261\, ОЗ-ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:307a4de272131d5f9977@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Информатика (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1c1924cc74063f836fba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Операционные системы и среды (Практи
+ ка)
+LOCATION:К-502
+DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-413 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:06b7aae7d5f5c8feb6fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-413
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd08a76eee85e193807@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-413
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:27fe5027f2f59a83e671@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Цифровая обработка сигналов (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:f3d7cad04b92a1ece52f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T154000
+DTEND;TZID=Europe/Moscow:20261017T171000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:b4279ee93c0099b84123@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T140000
+DTEND;TZID=Europe/Moscow:20261024T153000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:471d8c0111e201aaf942@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-413
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:80754a295cb2c576b333@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-413
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:881bd7a8cf3bcff89db6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Цифровая обработка сигналов (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
+ 241
+END:VEVENT
+END:VCALENDAR

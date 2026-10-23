@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:(получение паролей от ЭИОС\, знакомство с ЭБС) — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f0fec292a578cec2cf6a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Ознакомительное организационное со
+ брание в 09:00 в Подиумном зале
+LOCATION:
+DESCRIPTION:1 пара · (получение паролей от ЭИОС\
+ , знакомство с ЭБС) · группы: З-ИксМ-261\, З-И
+ ксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки-261\, З-Ки-262
+ \, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-262\, З-Ст-261\, 
+ З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, З-Т-262\, З-Тб-
+ 261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
+END:VEVENT
+END:VCALENDAR

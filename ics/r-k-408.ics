@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-408 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3fcf13bc29adb1fbd0c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Информатика (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c3138f9e54a4e4996a3e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a8586c08dfe0d6c00f93@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T083000
+DTEND;TZID=Europe/Moscow:20261013T100500
+SUMMARY:Информационные технологии (Лаб.)
+LOCATION:К-408
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Ист
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:edcf4c3b7d7eb0efc3d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:Информационное обеспечение стратег
+ ического планирования (Лекция)
+LOCATION:К-408
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c9913745f80d3b848894@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лекция)
+LOCATION:К-408
+DESCRIPTION:5 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:c1035eb314229f7bd01b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T173500
+DTEND;TZID=Europe/Moscow:20261013T191000
+SUMMARY:Системная инженерия (Практика)
+LOCATION:К-408
+DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:58b5e10c2ca8a58214b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T192000
+DTEND;TZID=Europe/Moscow:20261013T205500
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лаб.)
+LOCATION:К-408
+DESCRIPTION:7 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:daca14ded1e6617b49dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-408
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:16d0477538205a20d8e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Модели и методы поддержки принятия р
+ ешений (Лаб.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e69e746881affa1de68e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Модели и методы интеллектуального а
+ нализа данных (Лаб.)
+LOCATION:К-408
+DESCRIPTION:5 пара · Черепов П.В. · группы: ОЗ-МИ
+ СТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:377b96e07fb35574d0d2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Черепов П.В. · группы: З-Ист
+ Т-261\, З-ИстТ-262
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c7b9e6b821752bdf0d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В. · группы: З-Ист
+ Т-261\, З-ИстТ-262
+END:VEVENT
+BEGIN:VEVENT
+UID:42cdb6b4aca6bb9882b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Информационные технологии (Лекция)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В. · группы: З-Ист
+ Т-261\, З-ИстТ-262
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa7593ddaff3a4919ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Технологии обработки информации (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:67e40b98e428e5144219@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-408
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Ист
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fdba341c034238c04a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-408
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ece9dcdd8ff8c318ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Информатика (Лекция)
+LOCATION:К-408
+DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-О
+ дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:de9065d1bdc0ab9d550e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:25016e14c586083867e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Архитектура аппаратных средств и ос
+ новы сетевых технологий (Лекция)
+LOCATION:К-408
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:009d68d17e3a23a5290f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Информатика (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:061686e6e99ef42ca518@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:5fdf26e29ae96cf4bf30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Информационные технологии (Лаб.)
+LOCATION:К-408
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Ист
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcd4930b4fd8e98c6d1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Информационное обеспечение стратег
+ ического планирования (Лекция)
+LOCATION:К-408
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a8c1a998c7616fd720@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лекция)
+LOCATION:К-408
+DESCRIPTION:5 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:af230951e95a74657d46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T173500
+DTEND;TZID=Europe/Moscow:20261027T191000
+SUMMARY:Системная инженерия (Практика)
+LOCATION:К-408
+DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab2691c365de3388c8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T192000
+DTEND;TZID=Europe/Moscow:20261027T205500
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лаб.)
+LOCATION:К-408
+DESCRIPTION:7 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:57e01f33a8d9f5497895@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-408
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7e7fc0cf42db805c93@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Технологии обработки информации (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В.. · группы: ОЗ-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe731a36ce49acbd158@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-408
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Ист
+ Т-261
+END:VEVENT
+END:VCALENDAR

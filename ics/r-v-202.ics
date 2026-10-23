@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. В-202 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b88389db6f533d41d870@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T155000
+DTEND;TZID=Europe/Moscow:20261012T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ceb54c118724c71239@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T173500
+DTEND;TZID=Europe/Moscow:20261012T191000
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лекция)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МИС
+ Т-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:14f0441d71e68f23b431@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T192000
+DTEND;TZID=Europe/Moscow:20261012T205500
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лаб.)
+LOCATION:В-202
+DESCRIPTION:7 пара · Черепов П.В. · группы: ОЗ-МИ
+ СТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:eba3fa01bb00e2e332b8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f3bf7ce22293e8b7ff16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T173500
+DTEND;TZID=Europe/Moscow:20261013T191000
+SUMMARY:Управление проектами (Лекция)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МИС
+ Т-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3538a78a6ece8ea08007@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T192000
+DTEND;TZID=Europe/Moscow:20261013T205500
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лаб.)
+LOCATION:В-202
+DESCRIPTION:7 пара · Черепов П.В. · группы: О-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e04f99933da3c99f7825@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Информатика (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
+ дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fc30b92e1139811e86fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Компьютерные технологии в науке (Лаб
+ .)
+LOCATION:В-202
+DESCRIPTION:5 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:da068a0952607b30d669@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T173500
+DTEND;TZID=Europe/Moscow:20261015T191000
+SUMMARY:Цифровые технологии в профессиональ
+ ной деятельности (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:376b5e1c764b586c73d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:27832a782d3138c141e0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T173500
+DTEND;TZID=Europe/Moscow:20261016T191000
+SUMMARY:Современные проблемы науки и произв
+ одства (информационные системы) (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d948cfb60a17bf461f16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T155000
+DTEND;TZID=Europe/Moscow:20261019T172500
+SUMMARY:Модели и методы интеллектуального а
+ нализа данных (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Черепов П.В. · группы: ОЗ-МИ
+ СТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd1f6ba323da1084c59@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T173500
+DTEND;TZID=Europe/Moscow:20261019T191000
+SUMMARY:Теория решения изобретательских зад
+ ач (Практика)
+LOCATION:В-202
+DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:9a426b58d0237ef7ab35@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T192000
+DTEND;TZID=Europe/Moscow:20261019T205500
+SUMMARY:Современные проблемы науки и произв
+ одства (информационные системы) (Лаб.)
+LOCATION:В-202
+DESCRIPTION:7 пара · Черепов П.В. · группы: О-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0e39a949c198a046c4bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Базы данных (Лекция)
+LOCATION:В-202
+DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ca27529b01ac00a9cc8a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T192000
+DTEND;TZID=Europe/Moscow:20261020T205500
+SUMMARY:Цифровые технологии в профессиональ
+ ной деятельности (Лаб.)
+LOCATION:В-202
+DESCRIPTION:7 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:3b628fab6f28e1891ef8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T155000
+DTEND;TZID=Europe/Moscow:20261021T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c0a149c11d2e2c63884d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T173500
+DTEND;TZID=Europe/Moscow:20261021T191000
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8f0985a554f9c186c70c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:35e49def2c7c2dd6fe70@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T173500
+DTEND;TZID=Europe/Moscow:20261022T191000
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:В-202
+DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:2a629f8d866502d41d50@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T192000
+DTEND;TZID=Europe/Moscow:20261022T205500
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лаб.)
+LOCATION:В-202
+DESCRIPTION:7 пара · Черепов П.В. · группы: О-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ab993b5d17365225a5f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Практика)
+LOCATION:В-202
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:78bd3d1a0031ded11ba1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Мировая экономика и международные э
+ кономические отношения (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:bff7aecfd9fb9f3ea5f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Лекция)
+LOCATION:В-202
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:9e482d608d9c7f85d5f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Базы данных (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c997e5553943bbd60d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e4eba6dd7adfc519535f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лекция)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МИС
+ Т-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:10ecb7ba20433b70497a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:623be3cfa61216f6ee14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T173500
+DTEND;TZID=Europe/Moscow:20261027T191000
+SUMMARY:Управление проектами (Лекция)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МИС
+ Т-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1fab8c7e5a8e9960a04f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T192000
+DTEND;TZID=Europe/Moscow:20261027T205500
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лаб.)
+LOCATION:В-202
+DESCRIPTION:7 пара · Черепов П.В. · группы: О-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:95f0a8f2a974396734d1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Информатика (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
+ дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:be9b96caca561db69007@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Базы данных (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3f74f7285acd58598eec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Компьютерные технологии в науке (Лаб
+ .)
+LOCATION:В-202
+DESCRIPTION:5 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2039065af82ea2dbe6e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Цифровые технологии в профессиональ
+ ной деятельности (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4dad5a63e8fb5d87903f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e066360e8cfb8ac269cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T173500
+DTEND;TZID=Europe/Moscow:20261030T191000
+SUMMARY:Современные проблемы науки и произв
+ одства (информационные системы) (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МИС
+ Т-261
+END:VEVENT
+END:VCALENDAR

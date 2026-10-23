@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Макеенко И.П. — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bb4c4a93dbdd769c41d0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-201
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:992fd590954f0a728f93@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:037df7c56685c40f87af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-205
+DESCRIPTION:1 пара · Макеенко И.П. · группы: З-Сп-
+ 261\, З-Сп-262\, З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262\
+ , З-Т-261\, З-Т-262
+END:VEVENT
+BEGIN:VEVENT
+UID:de2c05b4ea106c1bd443@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f2f0bb79e5f26cd74a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T155000
+DTEND;TZID=Europe/Moscow:20261022T172500
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3fdb5a9bbe6f58d821a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T083000
+DTEND;TZID=Europe/Moscow:20261026T100500
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-201
+DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:d31211aea2751aab6536@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-201
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8fc7402544519094da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
+END:VCALENDAR

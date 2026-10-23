@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-306 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1e962d56d29bd5ed6ef5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:8e15e6da1c5d3a07ff45@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Деловая культура (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bf5ed1d0d5d017fa3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-306
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdb298240966bcbbaed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-306
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:21511a5ec34bbc402b8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3adb1010463122d1f153@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T173500
+DTEND;TZID=Europe/Moscow:20261020T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1c4efa5f0aac9b625bb2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T192000
+DTEND;TZID=Europe/Moscow:20261020T205500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:7 пара · Смирнова Н.Г. · группы: ОЗ-М
+ ИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4be39255b12e6eebd23b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Деловая культура (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5eefe593c765b76a72@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-306
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:47a7f8b5e483e6caefa8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:c88635dd0e129c19c1e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Деловая культура (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:42d045a565e4ad7928c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-306
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+END:VCALENDAR

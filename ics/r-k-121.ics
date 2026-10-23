@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-121 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d936fd9e78e0988bee73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
+ О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
+ 1\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:6b93e9c4d17435501981@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T083000
+DTEND;TZID=Europe/Moscow:20261013T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
+ М-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242
+ \, ОЗ-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:91a5acb316ab9753ab46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:История России (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Смирнова Н.Г. · группы: З-Ик
+ сМ-261\, З-ИксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки-2
+ 61\, З-Ки-262\, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-262\,
+  З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, З-Т
+ -262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:ca024741a4508d17da2f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-121
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-261\, З-ИксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки-2
+ 61\, З-Ки-262\, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-262\,
+  З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, З-Т
+ -262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:b163f4a522805bc05d30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-261\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9c15da7a4d45ebd634ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa72a0f01596272a6f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, 
+ О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d715e0a463f434d6c423@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
+ 261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
+ -М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc9a893faa3dbd0aae6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Хачатурян Р.Е. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки
+ -261\, З-Ки-262\, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-262
+ \, З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, З-
+ Т-262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-2
+ 62
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc9e89a9f9ac60703a8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d5d8965bded4888a8cf2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Смирнова Н.Г. · группы: З-Тб-
+ 261\, З-Тб-262
+END:VEVENT
+BEGIN:VEVENT
+UID:c352b6c477de026da7b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки
+ -261\, З-Ки-262\, З-Рт-261\, З-Рт-262\, З-Тб-261\, З-Тб-262
+ \, З-Ти-261\, З-Тм-261\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:ed94125b187b992c7dba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T101000
+DTEND;TZID=Europe/Moscow:20261017T114000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-Ки-261\, З-Ки-262\, З-Рт-261\, 
+ З-Рт-262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-
+ Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:206a6088bd6a9c27b670@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:31589162a555d727ac91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
+ М-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242
+ \, ОЗ-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:bd0752725f1b36b37d61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
+ 261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
+ -М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:93ab3caa98dccd643ecd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, 
+ О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c97d3972cb26c62c2e72@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
+ О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
+ 1\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:f40ada8dd35b79f9b666@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T083000
+DTEND;TZID=Europe/Moscow:20261022T100500
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
+ 261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
+ -М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4f6e353c5abd1133d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:История России (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:86ebab9ff407dcedf41a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:История России (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7f377706102f946e30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T083000
+DTEND;TZID=Europe/Moscow:20261023T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
+ О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
+ 1\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc0da5288d030fdc403@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
+ О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
+ 1\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:eebf19e7ad1a81de7317@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
+ М-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242
+ \, ОЗ-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1a0fb2114d9f597c65f3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-261\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ef435e19ef9a7472e522@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a38c09f3fbb7bc941c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, 
+ О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1286f3b85ada9e58ac2b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
+ 261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
+ -М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:58d23bd26be5bc193f31@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+END:VCALENDAR

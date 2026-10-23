@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Смирнова Н.Г. — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5d5cf7ee79cbcf456887@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T155000
+DTEND;TZID=Europe/Moscow:20261012T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Смирнова Н.Г. · группы: О-МК
+ И-261
+END:VEVENT
+BEGIN:VEVENT
+UID:70b01b78bff4e5ecb1ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:443b642886c8c355d194@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:c41e204776e7a8c66383@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:История России (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Смирнова Н.Г. · группы: З-Ик
+ сМ-261\, З-ИксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки-2
+ 61\, З-Ки-262\, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-262\,
+  З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, З-Т
+ -262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:910cfbcc68f59650ef55@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Практика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:de861bebf293b08ff248@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T173500
+DTEND;TZID=Europe/Moscow:20261015T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Смирнова Н.Г. · группы: О-МИ
+ СТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fc7938a2d3d2035ab540@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Смирнова Н.Г. · группы: З-Тб-
+ 261\, З-Тб-262
+END:VEVENT
+BEGIN:VEVENT
+UID:4406598aaf8cc278edc3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T083000
+DTEND;TZID=Europe/Moscow:20261019T100500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a0138690334306628309@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-301
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-И
+ стТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:a891abf6680773e679f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T173500
+DTEND;TZID=Europe/Moscow:20261020T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Смирнова Н.Г. · группы: О-МИ
+ СТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6b1cab6ddf366c525802@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T192000
+DTEND;TZID=Europe/Moscow:20261020T205500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:7 пара · Смирнова Н.Г. · группы: ОЗ-М
+ ИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:08389a0e8f35ebc57790@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-И
+ ксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу
+ -242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:46b69ef7a7c3736a037b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:История России (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:be96f1c6508ac32a0592@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:История России (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:d97eb9a66cb63be5269a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:4 пара · Смирнова Н.Г. · группы: О-МК
+ И-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a1385dbe47dd3a5916@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0abfb394edf521a02fef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Смирнова Н.Г. · группы: О-МК
+ И-261
+END:VEVENT
+BEGIN:VEVENT
+UID:08cdfcd8cda6493e3103@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:a437551c70307cdc831f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:8c442e857f4d28588f86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Практика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:925f2708b3929768ac15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Смирнова Н.Г. · группы: О-МИ
+ СТ-261
+END:VEVENT
+END:VCALENDAR

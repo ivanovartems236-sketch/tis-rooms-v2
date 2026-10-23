@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Сапилкина В.И. — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:25c7c97d0533f64887ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1653f23befb08c565288@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8b9a640f8915bc11272a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Вычислительные системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1832d21eb91638f0bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Вычислительные системы (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:aab52c04635bdb2a4de3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Сапилкина В.И. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
+END:VEVENT
+BEGIN:VEVENT
+UID:8cfddb4a4b0bfeb3e9fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Вычислительные системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
+END:VEVENT
+BEGIN:VEVENT
+UID:65f68e24f9413516e3b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6b79f48f2b0ed0456a8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-502
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: З-И
+ ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
+END:VEVENT
+BEGIN:VEVENT
+UID:17d0f599d0886801db59@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0b4b7c440b054748c269@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:78a20f9fb50a1d239fab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:94bcaeab91b599fddcb7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Вычислительные системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:273c6a2e221b3ab95240@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Вычислительные системы (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1bf456d5b03c398a02@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:89cbf77fa332b74d48f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+END:VCALENDAR

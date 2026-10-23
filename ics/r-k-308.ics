@@ -1,0 +1,511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-308 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c9267c18c1fbb0cff1ff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Литература (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7a59a70bcd1f6bd91d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Обществознание (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Варавина А.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a7fdc66ed96583debaf0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8162736765ae24f77c3f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a5b8d6cf2e007e292067@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ea94886b79b51f992af6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7a0bfecf9b3b46907f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T173500
+DTEND;TZID=Europe/Moscow:20261013T191000
+SUMMARY:Рекламная деятельность (Лекция)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:384b87bde3e93185df72@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Иностранный язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Дерепасова О.В. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1f783e31031e89ed87@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T173500
+DTEND;TZID=Europe/Moscow:20261014T191000
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6a90e832a9614310ba12@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T192000
+DTEND;TZID=Europe/Moscow:20261014T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-308
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ec1f048d156250568611@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0b753f72f9a04fdff5ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b60c3df45c2e2de507@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd2fea7aa6b489b28dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T173500
+DTEND;TZID=Europe/Moscow:20261015T191000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Практи
+ ка)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b37484447cad6fb7bb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba73a9bdfbb53185386@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c3177bbc438514cdef01@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d8f0b89cdbb84957d718@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T083000
+DTEND;TZID=Europe/Moscow:20261019T100500
+SUMMARY:Иностранный язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Дерепасова О.В. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:efb1ff051eb7548e671f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T140500
+DTEND;TZID=Europe/Moscow:20261019T154000
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:19a9212c5bee12caa3b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T155000
+DTEND;TZID=Europe/Moscow:20261019T172500
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:580fa23252838408a37a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:История (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Варавина А.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e0210da2c6097c72e869@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Обществознание (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Варавина А.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:32c2141500d9f838a65f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:История России (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Варавина А.В. · группы: О-Дп-
+ 11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c9f6ba8103cc5c1769b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:55d1ce7b60cc117db881@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bbca51c9143686df2448@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:2 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:43283d9df465b0dcd5cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:00c94d49698a3dd624c6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T083000
+DTEND;TZID=Europe/Moscow:20261023T100500
+SUMMARY:Литература (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fea74f2e2273fa68dd3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7c54323920e7bbb3fb59@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3ec19acf181c4582e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T083000
+DTEND;TZID=Europe/Moscow:20261026T100500
+SUMMARY:Литература (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7ced2575f65954244d9f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Обществознание (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Варавина А.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3385a60fd8c7c98242c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e4fa8f1dbefb9bbbf4dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2772756f4981acd5ece5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f078892a284646211196@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5edcf3514c7167804495@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f474ad600da460dd24b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6b478838f02f14aff7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T173500
+DTEND;TZID=Europe/Moscow:20261027T191000
+SUMMARY:Рекламная деятельность (Лекция)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6e38f772054f5e64d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Иностранный язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Дерепасова О.В. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6132b769b4048ffecaad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:adf71695c82e07d804a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:37e1a535469ba1fd3f13@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce6c0ffe03149e80f78@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:faac3a288439df291dd1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe3be502c935bd89f87@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Практи
+ ка)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fde48e6922986684bd30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:История (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Варавина А.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:059767b0808cbd8a383b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+END:VCALENDAR

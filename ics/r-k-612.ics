@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ауд. К-612 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:028cafeffee2531e0f1f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Основы черчения и компьютерного про
+ ектирования (Практика)
+LOCATION:К-612
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 262
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1c61b7562452310a77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Планирование эксперимента (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:68429592c7b289f75402@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-612
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-261\, З-Ки-262\, З-Ти-261
+END:VEVENT
+BEGIN:VEVENT
+UID:251c5a231f73b3498c03@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Основы подготовки диссертации (Лекц
+ ия)
+LOCATION:К-612
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8076d962dec0cdb589b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b68550ed35a83a641e9f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Введение в профессиональную деятель
+ ность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2a447f603b4e5f98c64a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T101000
+DTEND;TZID=Europe/Moscow:20261017T114000
+SUMMARY:Введение в профессиональную деятель
+ ность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5be9f57c4904cc546e0c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T121000
+DTEND;TZID=Europe/Moscow:20261017T134000
+SUMMARY:Введение в профессиональную деятель
+ ность (Лекция)
+LOCATION:К-612
+DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
+ Тм-261\, З-Тм-262
+END:VEVENT
+BEGIN:VEVENT
+UID:05111273c86a444174d0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T083000
+DTEND;TZID=Europe/Moscow:20261024T100000
+SUMMARY:История отрасли и введение в специал
+ ьность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Кутин А.О. · группы: О-Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:415b043afeca3fb99fc8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T101000
+DTEND;TZID=Europe/Moscow:20261024T114000
+SUMMARY:История отрасли и введение в специал
+ ьность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Кутин А.О. · группы: О-Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e26555165fbdd559713e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Планирование эксперимента (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c110ae3cd4278a698dde@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Основы подготовки диссертации (Лекц
+ ия)
+LOCATION:К-612
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fb6c45705a9774bdee6b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8affa78eb06587415ce7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Введение в профессиональную деятель
+ ность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b07fc59d4dcc68750131@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Введение в профессиональную деятель
+ ность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+END:VCALENDAR
