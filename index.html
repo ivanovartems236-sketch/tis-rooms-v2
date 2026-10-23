@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Кабинеты ТИС</title>
+<meta name="description" content="Расписание аудиторий, групп и преподавателей ТИС (филиал ДГТУ): свободные кабинеты, изменения, календарь.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Кабинеты">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f3f5f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f141a" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="icon-180.png">
+<link rel="manifest" href="manifest.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Кабинеты ТИС</h1>
+      <p class="sub" id="updated">Загрузка расписания…</p>
+    </div>
+  </header>
+
+  <div class="install" id="install" hidden>
+    <span>Добавь на экран «Домой»: <b>Поделиться</b> → <b>На экран «Домой»</b></span>
+    <button class="ghost" id="installClose" aria-label="Скрыть подсказку">✕</button>
+  </div>
+
+  <nav class="tabs" id="tabs" aria-label="Режимы">
+    <button data-mode="room">Аудитория</button>
+    <button data-mode="group">Группа</button>
+    <button data-mode="teacher">Преподаватель</button>
+    <button data-mode="free">Свободные</button>
+    <button data-mode="grid">Шахматка</button>
+    <button data-mode="stats">Загрузка</button>
+    <button data-mode="changes">Изменения <span class="badge" id="chBadge" hidden></span></button>
+  </nav>
+
+  <section class="picker" id="picker">
+    <div class="field">
+      <label for="q" id="qLabel">Аудитория</label>
+      <div class="qrow">
+        <input id="q" list="qList" autocomplete="off" spellcheck="false" placeholder="Начни вводить…">
+        <datalist id="qList"></datalist>
+        <button id="fav" class="star" aria-label="В избранное" title="В избранное">☆</button>
+      </div>
+    </div>
+    <div class="favs" id="favs"></div>
+  </section>
+
+  <section class="days" id="days" aria-label="Дни недели">
+    <button class="ghost arrow" id="wPrev" aria-label="Предыдущая неделя">◀</button>
+    <div class="strip" id="strip"></div>
+    <button class="ghost arrow" id="wNext" aria-label="Следующая неделя">▶</button>
+    <button id="todayBtn">Сегодня</button>
+  </section>
+
+  <main id="view"></main>
+
+  <section class="cal" id="cal" hidden>
+    <div>
+      <b>Календарь на iPhone</b>
+      <p>Пары появятся в приложении «Календарь» и будут обновляться сами.</p>
+    </div>
+    <div class="calbtns">
+      <a id="calSub" class="btn primary" href="#">Подписаться</a>
+      <button id="calCopy">Скопировать ссылку</button>
+    </div>
+  </section>
+
+  <footer class="foot">
+    Данные: <a href="https://stis.su/schedule" target="_blank" rel="noopener">stis.su/schedule</a>, обновляются каждый час.
+    Неофициальный сервис — при расхождениях верь сайту института.
+  </footer>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
