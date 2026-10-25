@@ -2,7 +2,8 @@ name: Обновление расписания
 
 on:
   schedule:
-    - cron: "5 3-17 * * 1-6"   # каждый час 06:05–20:05 МСК, пн–сб
+    # расписание выкладывают раз в 1–2 недели, правки — редко: дважды в день хватает
+    - cron: "5 4,16 * * 1-6"   # 07:05 и 19:05 МСК, пн–сб (GitHub может запустить с опозданием)
     - cron: "5 15 * * 0"       # воскресенье 18:05 МСК — на случай выкладки новой недели
   workflow_dispatch:            # кнопка «Run workflow»
 
@@ -22,11 +23,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install openpyxl==3.1.5
+      - run: pip install openpyxl==3.1.5 pytest==8.4.2
+      - name: Тесты парсера
+        run: python -m pytest -q
       - name: Собрать расписание
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
+          TG_ADMIN: ${{ secrets.TG_ADMIN }}
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python scraper/build.py
       - name: Сохранить
