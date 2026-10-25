@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ауд. К-204 — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,62 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f4a759c4165a9e49db7d@tis-rooms
+UID:af6a6149f43487486b61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Автоэксплуатационные материалы (Лек
+ ция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5a860acb436af362eeea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Гидравлические и пневматические сис
+ темы автомобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e3eef34ac73e599375@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e69c1df2f3009671ac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Чимонина И.В. · группы: З-МС
+ Т-261\, З-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3bdad316d689afa32148@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T155000
+DTEND;TZID=Europe/Moscow:20261012T172500
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-МС
+ Т-261\, З-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:838d26b69da9000dc0f3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T083000
 DTEND;TZID=Europe/Moscow:20261013T100500
@@ -27,7 +82,7 @@ DESCRIPTION:1 пара · Ториков А.В. · группы: О-Ст-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:79cdd01604ed0da1318f@tis-rooms
+UID:7cbe86987544e9f5dd73@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T101500
 DTEND;TZID=Europe/Moscow:20261013T115000
@@ -38,7 +93,19 @@ DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:a0ec8c2eafc1f184e374@tis-rooms
+UID:db14bd4e306d1686ea14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:25ff877dd9715f5a2273@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T155000
 DTEND;TZID=Europe/Moscow:20261013T172500
@@ -50,7 +117,18 @@ DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:00f51384c2bb8288c589@tis-rooms
+UID:79ece2822b066ea16a98@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Менеджмент и маркетинг на предприят
+ иях легкой промышленности (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:388ff707e8588bd3557e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T122000
 DTEND;TZID=Europe/Moscow:20261014T135500
@@ -60,7 +138,40 @@ DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
  л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:88962506cc80764da19b@tis-rooms
+UID:a42944f2536598d6e898@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:6df279d82aa5884d65f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Управление многоквартирными домами 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:c19c426537d9d6ecb9dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T173500
+DTEND;TZID=Europe/Moscow:20261014T191000
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:81fc296433e9de779c44@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T083000
 DTEND;TZID=Europe/Moscow:20261015T100500
@@ -71,7 +182,96 @@ DESCRIPTION:1 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-261
 END:VEVENT
 BEGIN:VEVENT
-UID:c7a24653c4f1db1cd0d1@tis-rooms
+UID:30674ce951fa37e05c12@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Техническая диагностика систем и ус
+ тройств автомобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4c864d9b25993861f845@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bb22c29ccd1e777efa5f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:11c6f79f1fca84c5da88@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6584e2d07ca497c65dcb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:46c09028bc4eff141719@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сж-23
+ 1\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c07ebf841d16ba0acddd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:901f4ca36f1456bacf0c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Технологические процессы в сервисе (
+ Лаб.)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fa67d8a700e24d1055@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T155000
 DTEND;TZID=Europe/Moscow:20261016T172500
@@ -81,7 +281,7 @@ DESCRIPTION:5 пара · Ториков А.В. · группы: З-Сп-26
  1\, З-Ст-261\, З-Сэ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:6d2db088851e73c253f5@tis-rooms
+UID:cd7a91f90ee7d3138b48@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T173500
 DTEND;TZID=Europe/Moscow:20261016T191000
@@ -92,7 +292,7 @@ DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
  Э-261
 END:VEVENT
 BEGIN:VEVENT
-UID:2a89bbc6e710c1ddceda@tis-rooms
+UID:b7904f2e1363628817e1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T192000
 DTEND;TZID=Europe/Moscow:20261016T205500
@@ -103,7 +303,30 @@ DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:04c68b83c0652d6c7dd9@tis-rooms
+UID:f4728536a7ce6e2e4a3f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Расчет и проектирование инфраструкт
+ уры предприятий автомобильного сервиса 
+ (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:124594dffcc023582501@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T101000
+DTEND;TZID=Europe/Moscow:20261017T114000
+SUMMARY:Управление системами энергообеспеч
+ ения хозяйствующих субъектов (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Фурсов В.А. · группы: З-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ee82c110a5903bba257f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261017T101000
 DTEND;TZID=Europe/Moscow:20261017T114000
@@ -113,7 +336,18 @@ DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Т-26
  1\, З-Т-262
 END:VEVENT
 BEGIN:VEVENT
-UID:612186581b5b73fbd47d@tis-rooms
+UID:523b22d3acea381b6124@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Автоэксплуатационные материалы (Пра
+ ктика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В. 
+ · группы: О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:9829bbf24a0f1614ec43@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
 DTEND;TZID=Europe/Moscow:20261019T154000
@@ -125,7 +359,7 @@ DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСЭ-25
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:a8fc5d62d1213e65c4fa@tis-rooms
+UID:5b3c47ad82ff4164291c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T155000
 DTEND;TZID=Europe/Moscow:20261019T172500
@@ -135,7 +369,7 @@ DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:0402b3da14acd146dd76@tis-rooms
+UID:fbae661566265e6b4461@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T083000
 DTEND;TZID=Europe/Moscow:20261020T100500
@@ -145,7 +379,7 @@ DESCRIPTION:1 пара · Лазарева Н.В. · группы: О-Ст-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:cf927bc77d7d021717e7@tis-rooms
+UID:16e5fd7ddbadf3ca440c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T122000
 DTEND;TZID=Europe/Moscow:20261020T135500
@@ -155,7 +389,7 @@ DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
  л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:49db143ff351595f4689@tis-rooms
+UID:00594f481d33e1eb0a82@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T140500
 DTEND;TZID=Europe/Moscow:20261020T154000
@@ -167,7 +401,7 @@ DESCRIPTION:4 пара · Семенова Л.В. · группы: О-МС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:d45f5f1486662b5bdb6a@tis-rooms
+UID:6db5e62b1def1bd9d559@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T155000
 DTEND;TZID=Europe/Moscow:20261020T172500
@@ -178,7 +412,7 @@ DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:1b1f2cc9cdf1f27ad993@tis-rooms
+UID:f572cd9677b2ff51f3b0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T083000
 DTEND;TZID=Europe/Moscow:20261021T100500
@@ -188,7 +422,40 @@ DESCRIPTION:1 пара · Лазарева Н.В. · группы: О-Ст-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:b872c62b972a6fced977@tis-rooms
+UID:d365f12ef91647f942e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:f76acc8352f47c0717bb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Макеенко И.П. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3faee1ff827da11be8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Практика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2f734dcea4c686ddbfc5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T122000
 DTEND;TZID=Europe/Moscow:20261022T135500
@@ -198,7 +465,7 @@ DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
  л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e27b521330c9649b1df2@tis-rooms
+UID:52a097039256ece868e9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T173500
 DTEND;TZID=Europe/Moscow:20261022T191000
@@ -210,7 +477,41 @@ DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:f182926c34c241730d91@tis-rooms
+UID:5497e7dd9d82d8445cf2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:433d8fc2e1fd17b9d0f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b973454992550d4baa72@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:67a87cf328246e41aa0b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T155000
 DTEND;TZID=Europe/Moscow:20261023T172500
@@ -222,7 +523,74 @@ DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:d6c09a6957e91fb7aeaf@tis-rooms
+UID:bf10ca0933548873477e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T083000
+DTEND;TZID=Europe/Moscow:20261026T100500
+SUMMARY:Автоэксплуатационные материалы (Лек
+ ция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9a20b937fe026f8ed8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Гидравлические и пневматические сис
+ темы автомобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2619dcd4d245fec3ac29@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ed85546e772d6e5b0558@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a706b8026f846375bde8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Технология и организация услуг пита
+ ния в туризме (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Т-24
+ 1\, З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:920c7638b4a41159caa7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T192000
+DTEND;TZID=Europe/Moscow:20261026T205500
+SUMMARY:Электрооборудование и электрохозяй
+ ство предприятий (Лекция)
+LOCATION:К-204
+DESCRIPTION:7 пара · Фурсов В.А. · группы: З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a1947f9f1dae9ec059a8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T083000
 DTEND;TZID=Europe/Moscow:20261027T100500
@@ -232,7 +600,7 @@ DESCRIPTION:1 пара · Ториков А.В. · группы: О-Ст-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:0fcc84dbb1cf2e9687f2@tis-rooms
+UID:29f84266b3f2e719b6c1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T101500
 DTEND;TZID=Europe/Moscow:20261027T115000
@@ -243,7 +611,51 @@ DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-26
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:50ca741fd2f9c6ad453b@tis-rooms
+UID:e87314e7cc2c30730555@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Товароведение продовольственных то
+ варов (Лекция)
+LOCATION:К-204
+DESCRIPTION:3 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbc6dee4df0e30ceb0e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4505af895425ea5550@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Сервисное обслуживание систем элект
+ роснабжения (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:159f6a9beec5c59f4b86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Лекц
+ ия)
+LOCATION:К-204
+DESCRIPTION:5 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5a13a06dec4dabbebc56@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T155000
 DTEND;TZID=Europe/Moscow:20261027T172500
@@ -255,18 +667,18 @@ DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:9d600d83737de69618a8@tis-rooms
+UID:b7d7f159a3a5bdb71ca1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T101500
 DTEND;TZID=Europe/Moscow:20261028T115000
 SUMMARY:Менеджмент и маркетинг на предприят
  иях легкой промышленности (Лекция)
 LOCATION:К-204
-DESCRIPTION:2 пара · Семенова Л.В. · группы: ОЗ-К
- и-241
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Ки-
+ 241\, ОЗ-Ки-241
 END:VEVENT
 BEGIN:VEVENT
-UID:21f54bb1acc65b89017f@tis-rooms
+UID:9e3e049c9cb7fdb099b6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T122000
 DTEND;TZID=Europe/Moscow:20261028T135500
@@ -276,7 +688,84 @@ DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
  л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e2d4a77cc030bf5c7b4d@tis-rooms
+UID:005a9837d0cec2161ba6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Ст-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:76d3c009cc5a6e6feb73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ba6114b33fa3e1dc08@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Туристско-рекреационное проектиров
+ ание (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Ториков А.В. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:55d166db8dee005cfc79@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Управление многоквартирными домами 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:63419506afabae53909f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T173500
+DTEND;TZID=Europe/Moscow:20261028T191000
+SUMMARY:Конструкции инженерных систем\, внут
+ ридомового и внутриквартирного оборудо
+ вания (Лекция)
+LOCATION:К-204
+DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ab78449288408e6d1abf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T173500
+DTEND;TZID=Europe/Moscow:20261028T191000
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:0a10980457d4ca03f727@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T192000
+DTEND;TZID=Europe/Moscow:20261028T205500
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Лекция)
+LOCATION:К-204
+DESCRIPTION:7 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:3210ca9e62ac5f625a9f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T083000
 DTEND;TZID=Europe/Moscow:20261029T100500
@@ -287,7 +776,129 @@ DESCRIPTION:1 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-261
 END:VEVENT
 BEGIN:VEVENT
-UID:4fd64c5590b4b59709c8@tis-rooms
+UID:a7f5cc630e38c9f20641@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Техническая диагностика систем и ус
+ тройств автомобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1abc07c1f0ac1a1e3f45@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2eed4d701bbe9e0924@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Автоэксплуатационные материалы (Лек
+ ция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-24
+ 1\, З-Ст-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f81a2db4c9dbc0c8c154@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:25eb730c568e07f9ba4c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:56d078e2d6e1aa40d410@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:38ceb6b6840884c5404f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d2e6fabd05604c5846@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сж-23
+ 1\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:22ec3ed07caf4c67aca7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:88851a79538e072aa3d0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Технология и организация активных в
+ идов туризма (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Т-241\
+ , З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b22b7a163b8f5dcd30e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Технологические процессы в сервисе (
+ Лаб.)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2f28fc9e231fb589fb94@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T173500
 DTEND;TZID=Europe/Moscow:20261030T191000
@@ -298,7 +909,7 @@ DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
  Э-261
 END:VEVENT
 BEGIN:VEVENT
-UID:149aa7553a567391553a@tis-rooms
+UID:b269ef6e1ca94a021e93@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T192000
 DTEND;TZID=Europe/Moscow:20261030T205500
@@ -307,5 +918,16 @@ SUMMARY:Управление системами энергообеспеч
 LOCATION:К-204
 DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:45990832c810c50f7010@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Организация и планирование деятельн
+ ости предприятий сервиса (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Семенова Л.В. · группы: З-Сж-
+ 241\, З-Ст-241\, З-Сэ-241
 END:VEVENT
 END:VCALENDAR

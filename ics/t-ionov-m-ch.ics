@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ионов М.Ч. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:708eb82f1e6cbd3b92d4@tis-rooms
+UID:facfb5d324f398d8144d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T101500
 DTEND;TZID=Europe/Moscow:20261013T115000
@@ -25,10 +25,21 @@ SUMMARY:Комплексный экономический анализ (П
  рактика)
 LOCATION:К-107
 DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
+ уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
+ о-242
 END:VEVENT
 BEGIN:VEVENT
-UID:336cb6c5f1deb560b726@tis-rooms
+UID:7aa2e9dd8486c3b26ffe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
+END:VEVENT
+BEGIN:VEVENT
+UID:cce04df2c13964795f6c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T083000
 DTEND;TZID=Europe/Moscow:20261015T100500
@@ -36,5 +47,26 @@ SUMMARY:Налоги и налогообложение (Практика)
 LOCATION:К-107
 DESCRIPTION:1 пара · Ионов М.Ч. / Шведова Н.Н. · гр
  уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b924e0f0ac7a2a61d1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Теория экономического анализа (Прак
+ тика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
+END:VEVENT
+BEGIN:VEVENT
+UID:beb77c5f1cb383ae09b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
 END:VEVENT
 END:VCALENDAR

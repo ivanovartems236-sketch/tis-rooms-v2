@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Анкудинов К.А. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cc9ce54ab320939d78c9@tis-rooms
+UID:f84fb393f5ad6708a2d7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261012T101500
 DTEND;TZID=Europe/Moscow:20261012T115000
@@ -28,18 +28,18 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:ff0101e802c5c10bf5ca@tis-rooms
+UID:8093a646a8c3ef7e130c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T083000
 DTEND;TZID=Europe/Moscow:20261014T100500
 SUMMARY:Операционные системы и среды (Лекция
  )
 LOCATION:К-408
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:536bde3258dddc3b6cdd@tis-rooms
+UID:d6082c1e5815339e6dd1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T101500
 DTEND;TZID=Europe/Moscow:20261014T115000
@@ -49,7 +49,7 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:417ca1591f4a6bceb45a@tis-rooms
+UID:564c840f265d941cd9c3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T083000
 DTEND;TZID=Europe/Moscow:20261015T100500
@@ -60,7 +60,7 @@ DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:d5b0791b435eb708d22f@tis-rooms
+UID:7d8cefdacc113a2c06a5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T101500
 DTEND;TZID=Europe/Moscow:20261015T115000
@@ -71,29 +71,29 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:ea2d749de63d889f030f@tis-rooms
+UID:95bacf4b5f3e87dc79f4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T122000
 DTEND;TZID=Europe/Moscow:20261015T135500
 SUMMARY:Операционные системы и среды (Практи
  ка)
 LOCATION:К-502
-DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:1a679566880561451707@tis-rooms
+UID:c2b713f59c045940b7ba@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
 DTEND;TZID=Europe/Moscow:20261019T115000
 SUMMARY:Операционные системы и среды (Лекция
  )
 LOCATION:К-408
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:619667a1438c44109092@tis-rooms
+UID:69d502bb497b2c8072fd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
 DTEND;TZID=Europe/Moscow:20261019T135500
@@ -103,7 +103,7 @@ DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:7946e92bd94e560e2cd4@tis-rooms
+UID:8d11bc693b344c3ae10f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T083000
 DTEND;TZID=Europe/Moscow:20261021T100500
@@ -114,7 +114,7 @@ DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:b137dd8170e180e8c5cb@tis-rooms
+UID:e4bbe44067c77982d5e9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T083000
 DTEND;TZID=Europe/Moscow:20261022T100500
@@ -124,18 +124,18 @@ DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:508a14ca235cf96d2c5d@tis-rooms
+UID:d56acf3b968b60b90eec@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T101500
 DTEND;TZID=Europe/Moscow:20261022T115000
 SUMMARY:Операционные системы и среды (Лекция
  )
 LOCATION:К-406
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:dc7e6a4dd44515c0d9fa@tis-rooms
+UID:abc8b4662c8b7e0abb90@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T101500
 DTEND;TZID=Europe/Moscow:20261026T115000
@@ -146,18 +146,18 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:b6152978294fb1b4c928@tis-rooms
+UID:2d08613c0a42f6268a52@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T083000
 DTEND;TZID=Europe/Moscow:20261028T100500
 SUMMARY:Операционные системы и среды (Лекция
  )
 LOCATION:К-408
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:0554eeb2ab34a260edc9@tis-rooms
+UID:39e57362e91bbd2cc102@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T101500
 DTEND;TZID=Europe/Moscow:20261028T115000
@@ -167,7 +167,7 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:fbe147f74d61de351d7a@tis-rooms
+UID:111b38c68be1269242fe@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T083000
 DTEND;TZID=Europe/Moscow:20261029T100500
@@ -178,7 +178,7 @@ DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:f997d2dd4d07a0a06067@tis-rooms
+UID:2655f03ef5272a4ab84d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T101500
 DTEND;TZID=Europe/Moscow:20261029T115000
@@ -189,14 +189,14 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:1fc061c59800720ebe2b@tis-rooms
+UID:873122a1825b6aa465f2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T122000
 DTEND;TZID=Europe/Moscow:20261029T135500
 SUMMARY:Операционные системы и среды (Практи
  ка)
 LOCATION:К-502
-DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 END:VCALENDAR

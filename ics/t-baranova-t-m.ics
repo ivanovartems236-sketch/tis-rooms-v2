@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Баранова Т.М. — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cc2cd071092b0a80be50@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Разработка программных модулей (Лек
+ ция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:7adb7e75567e3a86738c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Разработка программных модулей (Лек
+ ция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7a7bb74fbb0a2678e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T155000
+DTEND;TZID=Europe/Moscow:20261012T172500
+SUMMARY:Разработка программных модулей (Пра
+ ктика)
+LOCATION:К-401
+DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:2524780133567b5bad49@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T173500
+DTEND;TZID=Europe/Moscow:20261012T191000
+SUMMARY:Разработка программных модулей (Пра
+ ктика)
+LOCATION:К-401
+DESCRIPTION:6 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:7ce7fc04908b6b0833ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Разработка программных модулей (Лек
+ ция)
+LOCATION:В-202
+DESCRIPTION:1 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:015a19bffbb61fb4d11a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Разработка программных модулей (Лек
+ ция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0bd6726bc8eae6ccdb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Разработка программных модулей (Пра
+ ктика)
+LOCATION:В-202
+DESCRIPTION:3 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:383b4270a46d741ae889@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T140500
+DTEND;TZID=Europe/Moscow:20261021T154000
+SUMMARY:Разработка программных модулей (Пра
+ ктика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c3200119c4c2fedc0efb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Разработка программных модулей (Лек
+ ция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:37000b4ea0f36a9b37a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Разработка программных модулей (Лек
+ ция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a96726fc7a76398840@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Разработка программных модулей (Пра
+ ктика)
+LOCATION:К-401
+DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ea349436194ee86b61b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Разработка программных модулей (Пра
+ ктика)
+LOCATION:К-401
+DESCRIPTION:6 пара · Баранова Т.М. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+END:VCALENDAR

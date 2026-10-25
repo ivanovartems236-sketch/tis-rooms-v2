@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Т-241 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e1b6aab1bd15835997ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Технология и организация услуг пита
+ ния в туризме (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4579870c6564c56cdd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:6 пара · Петров О.П. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc5ab4f71e8820a83e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cd94d81e1843e355b01c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Стандартизация и сертификация в тур
+ истской индустрии (Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3aa73c286cfff33a8f90@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Маркетинг в туристской индустрии (Пр
+ актика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Надеина А.Е. / Семенова Л.В. 
+ · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:12db037c4c022c409c78@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cd32919af2370280d04f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Технология и организация туроперато
+ рских и турагентских услуг (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e7c9d421207ab2a38d18@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Технология и организация туроперато
+ рских и турагентских услуг (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6ac190379afc914561@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Менеджмент в туристской индустрии (П
+ рактика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Надеина А.Е. / Семенова Л.В. 
+ · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebb1b8e650aa1801bf8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Технология и организация активных в
+ идов туризма (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:90ba7afadc386ffcbe6f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Технология продвижения и продаж тур
+ истских продуктов (Лекция)
+LOCATION:К-201
+DESCRIPTION:1 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9f16a6b003694fdd996e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Организация и планирование деятельн
+ ости туристских предприятий (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+END:VCALENDAR

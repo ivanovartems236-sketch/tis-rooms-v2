@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Озерова Д.Б. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:294b14944581605d5f16@tis-rooms
+UID:41915fae6cfc6afdd9af@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
 DTEND;TZID=Europe/Moscow:20261019T135500
@@ -28,7 +28,7 @@ DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-26
  1\, О-Тб-261\, О-Тм-261\, ОЗ-Ки-261
 END:VEVENT
 BEGIN:VEVENT
-UID:47694bcb16235fc64a98@tis-rooms
+UID:b6dcb9aba6803dcef727@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
 DTEND;TZID=Europe/Moscow:20261019T154000
@@ -38,14 +38,89 @@ DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-26
  1\, ОЗ-Ки-261
 END:VEVENT
 BEGIN:VEVENT
-UID:8f0878c170c65f8f1b0a@tis-rooms
+UID:6d1ddacc2449b56d4b28@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6579cd9d28ca973d9761@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f981ad260db0504b9262@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T101500
 DTEND;TZID=Europe/Moscow:20261021T115000
 SUMMARY:Профессиональная подготовка (Практи
  ка)
 LOCATION:К-503
-DESCRIPTION:2 пара · Озерова Д.Б. · группы: ОЗ-Ки-
- 241
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1\, О-Ки-251\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9a807cd66e95bb6046@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1\, О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:51c88776d5a5d7e3f2e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лаб.)
+LOCATION:В-202
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b03307f172a38e3edd9e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лаб.)
+LOCATION:В-202
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4223ceaf7204f705d0ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fe0e48afdea5e348820a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T155000
+DTEND;TZID=Europe/Moscow:20261023T172500
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:5 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
 END:VEVENT
 END:VCALENDAR

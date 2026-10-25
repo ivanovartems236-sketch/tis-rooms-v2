@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Герман Р.Э. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,19 +17,20 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5a8fef805035d4be6e68@tis-rooms
+UID:bfedddeb6d0546be6908@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T083000
 DTEND;TZID=Europe/Moscow:20261013T100500
 SUMMARY:Правовое обеспечение профессиональ
  ной деятельности (Практика)
 LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
- М-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242
- \, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, О-Сж-241\, О-Сп-
+ 241\, О-Ст-241\, ОЗ-ИксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\
+ , ОЗ-М-242\, ОЗ-Эбу-242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:c6e07362af2848abd33f@tis-rooms
+UID:dd2cc915166b4aff45f1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T173500
 DTEND;TZID=Europe/Moscow:20261013T191000
@@ -43,7 +44,19 @@ DESCRIPTION:6 пара · Герман Р.Э. · группы: З-ИксМ-
  \, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
 END:VEVENT
 BEGIN:VEVENT
-UID:50df74d4f9780f860ef9@tis-rooms
+UID:02f583a0ffc91717a30b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:e0588d2213a8da11f7fd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T101500
 DTEND;TZID=Europe/Moscow:20261015T115000
@@ -56,19 +69,20 @@ DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
  -М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:b0a88013579e90b62bd0@tis-rooms
+UID:79556719c8688b94da25@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T083000
 DTEND;TZID=Europe/Moscow:20261020T100500
 SUMMARY:Правовое обеспечение профессиональ
  ной деятельности (Лекция)
 LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
- М-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242
- \, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, О-Сж-241\, О-Сп-
+ 241\, О-Ст-241\, ОЗ-ИксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\
+ , ОЗ-М-242\, ОЗ-Эбу-242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:c41273ca8837717431e1@tis-rooms
+UID:5e86a0668822250cbe4b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T101500
 DTEND;TZID=Europe/Moscow:20261020T115000
@@ -81,7 +95,7 @@ DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
  -М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:9ac8c42b85ef9cf9ba78@tis-rooms
+UID:fd83bb588675fc9c6733@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T083000
 DTEND;TZID=Europe/Moscow:20261022T100500
@@ -94,19 +108,58 @@ DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
  -М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:a0989bc0a41cb8375f3d@tis-rooms
+UID:637fe702d9f8079bb658@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:39f76f97591bd26dcd67@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T083000
 DTEND;TZID=Europe/Moscow:20261027T100500
 SUMMARY:Правовое обеспечение профессиональ
  ной деятельности (Практика)
 LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
- М-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242
- \, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, О-Сж-241\, О-Сп-
+ 241\, О-Ст-241\, ОЗ-ИксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\
+ , ОЗ-М-242\, ОЗ-Эбу-242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:b21bf0f5bfbff2a52e75@tis-rooms
+UID:40a9667df961743b4bca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-241\, З-Ки-242\, З-
+ Рт-241\, З-Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст
+ -241\, З-Ст-242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, 
+ З-Тб-242\, З-Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3aae721687a7066dd1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff25352b88116ffea5e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T101500
 DTEND;TZID=Europe/Moscow:20261029T115000
@@ -117,5 +170,19 @@ DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
  261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
  261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
  -М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:a680febf6c307daf67ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-241\, З-Ки-242\, З-
+ Рт-241\, З-Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст
+ -241\, З-Ст-242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, 
+ З-Тб-242\, З-Тм-241\, З-Тм-242
 END:VEVENT
 END:VCALENDAR

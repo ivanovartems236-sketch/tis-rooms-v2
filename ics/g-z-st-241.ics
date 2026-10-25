@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Ст-241 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:45692df43d5e75712304@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Гидравлические и пневматические сис
+ темы автомобилей (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c4fcfee5125accfe01@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:5 пара · Семенова Л.В. · группы: З-Ст-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef4b6490b1c9ec2048f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:6 пара · Петров О.П. · группы: З-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:749540aa7cc7684c0b77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:608dc7a7d14bed122d03@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T192000
+DTEND;TZID=Europe/Moscow:20261028T205500
+SUMMARY:Гидравлические и пневматические сис
+ темы автомобилей (Лекция)
+LOCATION:К-201
+DESCRIPTION:7 пара · Ториков А.В. · группы: З-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5c3b48b9e323f02c1f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e1218fedbb0dd66643@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Автоэксплуатационные материалы (Лек
+ ция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7aebfddfe9bcab1f5087@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Автоэксплуатационные материалы (Пра
+ ктика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Ториков А.В. · группы: З-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6254a8805d515a3eba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ториков А.В. · группы: З-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:cf13c7bf28898837cfe4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Организация и планирование деятельн
+ ости предприятий сервиса (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Семенова Л.В. · группы: З-Ст-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b70e8dfb0fa15b0d82@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Ст-24
+ 1
+END:VEVENT
+END:VCALENDAR

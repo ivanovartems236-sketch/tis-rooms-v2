@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Лазарева Н.В. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,29 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ac5da0c58e168615c52a@tis-rooms
+UID:cae794f137992e011d53@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Основы брендинга и мерчандайзинга (Л
+ екция)
+LOCATION:К-201
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:69057558ed2789bada27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:72d889cca2f222d9f677@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T140500
 DTEND;TZID=Europe/Moscow:20261013T154000
@@ -29,7 +51,7 @@ DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:66214b8efd2047d2c275@tis-rooms
+UID:92b3eeacaed2e4b2fcfe@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T155000
 DTEND;TZID=Europe/Moscow:20261013T172500
@@ -41,7 +63,40 @@ DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:dd423dd8d507d10fe6fd@tis-rooms
+UID:55c5b0155a95b480e35e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6a23b5e1537a9788a556@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a3a09d503b3f9b38353e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bc56272ef26743721786@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T192000
 DTEND;TZID=Europe/Moscow:20261015T205500
@@ -51,7 +106,18 @@ DESCRIPTION:7 пара · Лазарева Н.В. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:9537f55c1db2e3c0fad9@tis-rooms
+UID:88f11fc17f9f43d3b347@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Энергосбережение и энергоаудит пред
+ приятий и организаций (Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0d7bd05effcf21bd1288@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T173500
 DTEND;TZID=Europe/Moscow:20261016T191000
@@ -62,7 +128,7 @@ DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
  Э-261
 END:VEVENT
 BEGIN:VEVENT
-UID:a0b62ec2b745af9c940e@tis-rooms
+UID:720e240ecba0849756ce@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261017T101000
 DTEND;TZID=Europe/Moscow:20261017T114000
@@ -72,7 +138,29 @@ DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сп-
  261\, З-Сп-262\, З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262
 END:VEVENT
 BEGIN:VEVENT
-UID:8f22d59fb8069bc77407@tis-rooms
+UID:064d2381a06d1dfe0359@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0a36169a13f48eeabd25@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b59359b5bbb7d49573@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T155000
 DTEND;TZID=Europe/Moscow:20261019T172500
@@ -82,7 +170,7 @@ DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:69cd92527807684b3b9a@tis-rooms
+UID:8e84400760c7b860c8f0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T083000
 DTEND;TZID=Europe/Moscow:20261020T100500
@@ -92,7 +180,18 @@ DESCRIPTION:1 пара · Лазарева Н.В. · группы: О-Ст-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a892e258c79fcb68f4@tis-rooms
+UID:7fd5386876ee7e1877d2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-106
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: ОЗ-С
+ п-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bc938de999ca17e6584a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T083000
 DTEND;TZID=Europe/Moscow:20261021T100500
@@ -102,7 +201,18 @@ DESCRIPTION:1 пара · Лазарева Н.В. · группы: О-Ст-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:c462f141239590bbd1fa@tis-rooms
+UID:518e1bd90d660603968d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0b53d5ca00e17e55443e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T173500
 DTEND;TZID=Europe/Moscow:20261022T191000
@@ -113,7 +223,62 @@ DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
  Э-261
 END:VEVENT
 BEGIN:VEVENT
-UID:b1754c2670594d937e06@tis-rooms
+UID:ed0a7e604c6cbc5accbf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:5169e0c58432caf2d88d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:c514c2bc07511e0f8f51@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Основы брендинга и мерчандайзинга (Л
+ екция)
+LOCATION:К-201
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ada42b8cc7c8c248dd31@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c216942caf738794ae6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Энергосбережение и энергоаудит (Пра
+ ктика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8247032976c38e9997d8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -125,7 +290,7 @@ DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:e0185e6bf93795cfc13d@tis-rooms
+UID:6c5a6f2f9cf4c9a4efba@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T155000
 DTEND;TZID=Europe/Moscow:20261027T172500
@@ -137,7 +302,51 @@ DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
-UID:2dbd7ac91948b0fc4ec4@tis-rooms
+UID:173a48770e88b22aa489@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сж-
+ 242\, З-Сп-242\, З-Ст-242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5232e141341c67d1a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:17cbdb9f71627e902992@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f679d6025bbc765e2a78@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ba23752cef50d9de311a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T192000
 DTEND;TZID=Europe/Moscow:20261029T205500
@@ -147,7 +356,18 @@ DESCRIPTION:7 пара · Лазарева Н.В. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:84221873f2615edbff5f@tis-rooms
+UID:90471a2ef38612f481a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-205
+DESCRIPTION:4 пара · Субботин А.Е. / Лазарева Н.В.
+  · группы: З-Сж-242\, З-Сп-242\, З-Ст-242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:07230946f1eb5129787c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T173500
 DTEND;TZID=Europe/Moscow:20261030T191000
@@ -156,5 +376,16 @@ SUMMARY:Энергосбережение и энергоаудит пред
 LOCATION:К-204
 DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
  Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2f5e7a1e4d939b285b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Энергосбережение и энергоаудит (Лек
+ ция)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
 END:VEVENT
 END:VCALENDAR

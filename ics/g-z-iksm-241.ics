@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-ИксМ-241 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:17cf06b23048925d808f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bf546bd59e4a1bffb0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:6 пара · Петров О.П. · группы: З-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3699b3dc17e71672fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:15ac0131b1565560a097@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Общая теория связи (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff21694555682a98c7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Сети и системы мобильной связи (Лекц
+ ия)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3a65d184214530db919f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Цифровая обработка сигналов (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e4cad11fc494a4072dd5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:85e6db1793455b09bd11@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Основы помехоустойчивой радиосвязи 
+ (Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3f753c9d604ecc1d5d3c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:abac724194edee036da8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:db97eacf3f10586ff175@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T121000
+DTEND;TZID=Europe/Moscow:20261031T134000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa3ba43c4eb28e9ee4d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T140000
+DTEND;TZID=Europe/Moscow:20261031T153000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd1c266c488da67d467@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T154000
+DTEND;TZID=Europe/Moscow:20261031T171000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лаб.)
+LOCATION:К-413
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+END:VCALENDAR

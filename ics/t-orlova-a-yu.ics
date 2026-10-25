@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Орлова А.Ю. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,40 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1941d12fc882821fe958@tis-rooms
+UID:2f9cc18374172dea58ee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:074082a03f5ccedca4d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:aedde2630d29f948b43c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:64f673c4a3ed042e844e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T140500
 DTEND;TZID=Europe/Moscow:20261014T154000
@@ -28,7 +61,7 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:7b5dd660c3da0774fd46@tis-rooms
+UID:f14d0cc82c30cb46b84f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T140500
 DTEND;TZID=Europe/Moscow:20261015T154000
@@ -40,7 +73,29 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:3a7f378ab0886e176542@tis-rooms
+UID:3104470acedb75d824f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:13136e1c1116206afbd3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d2658d616467277edd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T140500
 DTEND;TZID=Europe/Moscow:20261016T154000
@@ -52,7 +107,29 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:6287543f400e971f409e@tis-rooms
+UID:6f31bf4c50927476b501@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c361ced31111bd564827@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6319fd776c48ed0a813c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T140500
 DTEND;TZID=Europe/Moscow:20261020T154000
@@ -64,7 +141,7 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:5dbcd76e61bd5563fc66@tis-rooms
+UID:2631d45080fc425a23c9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T155000
 DTEND;TZID=Europe/Moscow:20261020T172500
@@ -76,7 +153,19 @@ DESCRIPTION:5 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:076bd700d343a82ceb5d@tis-rooms
+UID:31b1005cbadd42336ab2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8d44c3ac10a7eed8d1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T140500
 DTEND;TZID=Europe/Moscow:20261022T154000
@@ -88,7 +177,29 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:4799de8202c49c2ad881@tis-rooms
+UID:7afb2b0f1e9d80a3b0b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e75f98272f9daecd0122@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:f926d8f7ae805f7dcffd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T140500
 DTEND;TZID=Europe/Moscow:20261023T154000
@@ -100,7 +211,18 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:8b22bf4067b57901a0db@tis-rooms
+UID:600ccb0be4f526674156@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:727c069aa7e0d8606138@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -112,7 +234,7 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:83f22b9cebbd8d609ed0@tis-rooms
+UID:f30ce304bb92fd3fec22@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T155000
 DTEND;TZID=Europe/Moscow:20261027T172500
@@ -123,7 +245,29 @@ DESCRIPTION:5 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:331fc22ebacb68a91ad5@tis-rooms
+UID:5779b50ff55c6cc14064@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4e762776cf0969662f76@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:012dabf90d393d49dd94@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T140500
 DTEND;TZID=Europe/Moscow:20261029T154000
@@ -135,7 +279,18 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:b0294074dc32ee23c50b@tis-rooms
+UID:4d2d4f8917d33194c2a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-408
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:55bf31b30646d69f98fe@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T140500
 DTEND;TZID=Europe/Moscow:20261030T154000

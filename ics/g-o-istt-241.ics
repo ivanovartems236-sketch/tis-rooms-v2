@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа О-ИстТ-241 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9cecc150a6fab877a575@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T083000
+DTEND;TZID=Europe/Moscow:20261013T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:9e80ba538e0a660fa858@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d172882bfd7e42e56e81@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:323799b0ec05a9f43e62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:45f89fe5531f6cccb14a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:8e05ecd0e73cd7f09dbc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:aa1f4749325cd48a9dec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Администрирование информационных с
+ истем (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:411651c58ce6b029f648@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:af24b0a14840e9e98496@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:b619c0f0f04193e20458@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Программирование (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:17a8c56db694a6c9ce0e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Моделирование систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:248e80f4b3040d23789d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ea743d0990640b999f66@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a39efecae5e0a5c54bc4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:5077b31dfda2c3e8b56c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Программирование (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:cff69f0e5f714f3e32c0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:5676e00e2b7f9557faf7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: О-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:91d0a111b241b7e2fb97@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4430627f76f23e380132@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T083000
+DTEND;TZID=Europe/Moscow:20261022T100500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:3b569314132d82f7609f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T083000
+DTEND;TZID=Europe/Moscow:20261023T100500
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dc96b843605173d5ee9a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:688c5069d7ad2024c44a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:66f93a6672249276b797@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a2bdb4c12dcc414d92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e59a241a15c0872e7008@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd48f4c5ee05f0871ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f0092660a6f5397ed2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Администрирование информационных с
+ истем (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:33d0061b2bdcf90e2647@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:335475f43cee56cc18ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6de0376d19e904e50d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Программирование (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+END:VCALENDAR

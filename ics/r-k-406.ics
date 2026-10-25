@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ауд. К-406 — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,50 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ba9f1dff48842fdb20ef@tis-rooms
+UID:99679a865d77b8187712@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:26c4e1581b70333b5a44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f7e5988e2f22fadaa6fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Информационные технологии (Практика
+ )
+LOCATION:К-406
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Исп-
+ 9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:80932ec4143812c292a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Управление проектами (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Колосова О.Ю. / Гончаров В.Н.
+  / Черепов П.В. · группы: З-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8084cfa36a2d189afcf6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261012T140500
 DTEND;TZID=Europe/Moscow:20261012T154000
@@ -27,7 +70,40 @@ DESCRIPTION:4 пара · Шепеть И.П. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:9d458857e3d91d0a4baf@tis-rooms
+UID:0a2ee9ef177e36ea131e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T083000
+DTEND;TZID=Europe/Moscow:20261013T100500
+SUMMARY:Технология программирования (Лекция
+ )
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8679fa6b2b574e3259e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:621c81c05d31bbef5810@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:80714f5cef25c79f6111@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T155000
 DTEND;TZID=Europe/Moscow:20261013T172500
@@ -38,7 +114,71 @@ DESCRIPTION:5 пара · Черепов П.В. · группы: ОЗ-МИ
  СТ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:d9a770fff80146c5fbb0@tis-rooms
+UID:d899ce90527a9fc8dfc4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: ОЗ-И
+ стТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e43803fc96143e17d324@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:749864406de3e73b91ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ef4ffeba5ed2f6a41d4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:597b45c4e254e05a676d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Администрирование информационных с
+ истем (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:007eaa4724e0fa428c5f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6867f26c2925067035@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T173500
 DTEND;TZID=Europe/Moscow:20261014T191000
@@ -48,7 +188,147 @@ DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В.
  · группы: О-МИСТ-261\, ОЗ-МИСТ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:a97deb9f215f0f1cbf5e@tis-rooms
+UID:7554f9db16c9eff9d50f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9a93d08214a94f3c71e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e3faa75c4d9e9b5615@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Практика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:673cf003c9178fb22408@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Специальные разделы информатики (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e9558d1b9b47c12fe472@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Программирование (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:efc1363372a75ed55778@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Математическая логика и теория алго
+ ритмов (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:55f659b0cd387e5f1276@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Математическая логика и теория алго
+ ритмов (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8b43bfeddd6bd37eb861@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T083000
+DTEND;TZID=Europe/Moscow:20261019T100500
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ce79312cf70b5d2dec30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Моделирование систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f60e77e726582cf0f6ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T122000
+DTEND;TZID=Europe/Moscow:20261019T135500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:df7839f4c6309a2b8e37@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T140500
+DTEND;TZID=Europe/Moscow:20261019T154000
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4966ba2170951579b8a4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8b591f3322f98d7bbadd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:f31e2779bdf3d5f25559@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T140500
 DTEND;TZID=Europe/Moscow:20261020T154000
@@ -60,7 +340,7 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:614d6bb9976fc6957bbe@tis-rooms
+UID:2de080a08688b2b3146d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T155000
 DTEND;TZID=Europe/Moscow:20261020T172500
@@ -72,7 +352,48 @@ DESCRIPTION:5 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:5292dc0cc9b7df5844b6@tis-rooms
+UID:ad416c5b72096676b6e0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:ПП САПР (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a7ca67ce90512ea3f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Информационные технологии (Практика
+ )
+LOCATION:К-406
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
+ 9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f84c641d2108017c7f96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Специальные разделы информатики (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b798c002eaab12e05cc1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T140500
+DTEND;TZID=Europe/Moscow:20261021T154000
+SUMMARY:Технология мультимедиа (Практика)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-Исп-9-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:70210911d9c9e574198c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T155000
 DTEND;TZID=Europe/Moscow:20261021T172500
@@ -82,7 +403,7 @@ DESCRIPTION:5 пара · Шепеть И.П. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:1c4f979f34fabf3b4f97@tis-rooms
+UID:3d0034a6e36539ceb131@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T173500
 DTEND;TZID=Europe/Moscow:20261021T191000
@@ -94,7 +415,7 @@ DESCRIPTION:6 пара · Саиег Т.Х. · группы: О-МИСТ-25
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:f56b133e44fde9ffecf3@tis-rooms
+UID:2d163980657a2daa53fd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T083000
 DTEND;TZID=Europe/Moscow:20261022T100500
@@ -104,40 +425,52 @@ DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:9905506843685868f102@tis-rooms
+UID:823e0c4c59d2f376ad52@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T101500
 DTEND;TZID=Europe/Moscow:20261022T115000
 SUMMARY:Операционные системы и среды (Лекция
  )
 LOCATION:К-406
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:52a9c73d716f83c32d6d@tis-rooms
+UID:82c7691b063146ad9e6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c63d4e1b3e35792fff48@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T083000
 DTEND;TZID=Europe/Moscow:20261023T100500
 SUMMARY:Основы алгоритмизации и программиро
  вания (Лекция)
 LOCATION:К-406
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:c5f58ddca17f920b6023@tis-rooms
+UID:fe7ee90ef31372079dbc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T101500
 DTEND;TZID=Europe/Moscow:20261023T115000
 SUMMARY:Основы алгоритмизации и программиро
  вания (Практика)
 LOCATION:К-406
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:456501957f0e0c6e85ec@tis-rooms
+UID:02c06a49e02d3cd3a8ef@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T155000
 DTEND;TZID=Europe/Moscow:20261023T172500
@@ -147,7 +480,7 @@ DESCRIPTION:5 пара · Шепеть И.П. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:fb5adc29bc01abbc0bd6@tis-rooms
+UID:f73025a64d6f3624133f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T173500
 DTEND;TZID=Europe/Moscow:20261023T191000
@@ -158,7 +491,40 @@ DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:268f737bd279ac1fa8c9@tis-rooms
+UID:bdd5ffe8a1df7eaef35c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T083000
+DTEND;TZID=Europe/Moscow:20261026T100500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:67ebb9d67665c4ad918f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7569c28405e54d5e1ce4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Информационные технологии (Практика
+ )
+LOCATION:К-406
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Исп-
+ 9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:92ce3a2e405f433b463f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T140500
 DTEND;TZID=Europe/Moscow:20261026T154000
@@ -170,7 +536,50 @@ DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:d93d25cbf237bcb413ea@tis-rooms
+UID:78deac5fe85cb63d1c9f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Управление данными (Лекция)
+LOCATION:К-406
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:fa005c3adfc48238604d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Технология программирования (Лекция
+ )
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:76b6daf92bb103b93c60@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1f9c924ca3a67052d621@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7ed6546057f1088e29@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -182,7 +591,7 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:d08aae61ff66abd2abc7@tis-rooms
+UID:083f99026eb318d2a9b0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T155000
 DTEND;TZID=Europe/Moscow:20261027T172500
@@ -193,7 +602,71 @@ DESCRIPTION:5 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:18792dfd997e73640020@tis-rooms
+UID:f4438f58b0e3b5c50bc5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: ОЗ-И
+ стТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b75b4af5153eb603b58f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:c2148ef70ca78ecfe951@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:62bc19fa9d5e55f0cc71@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:168704b829778cbd96dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Администрирование информационных с
+ истем (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2\, О-ИстТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c8c0370b39c40eb271@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:92137dc49f9bf984efa2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T173500
 DTEND;TZID=Europe/Moscow:20261028T191000
@@ -201,5 +674,79 @@ SUMMARY:Управление проектами (Практика)
 LOCATION:К-406
 DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В. 
  · группы: О-МИСТ-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:cf0d5db32659a456d0cf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4202032ea59cccf5d6c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6357e20b54e522d554a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Практика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b41b9921933ab27069@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Специальные разделы информатики (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:65f7b5ed91e7c5ce2651@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Программирование (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:804957cb6fe0b0d54e31@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Математическая логика и теория алго
+ ритмов (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2d52fb77873892d3956f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Математическая логика и теория алго
+ ритмов (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-25
+ 1
 END:VEVENT
 END:VCALENDAR

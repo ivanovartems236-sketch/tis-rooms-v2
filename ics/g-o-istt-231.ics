@@ -1,0 +1,406 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа О-ИстТ-231 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:240b54978969c2ce939c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Геоинформационные системы (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:cb51c0dcf865e4064a3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лекция)
+LOCATION:В-201
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c6dcd4b954dcc97d344d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:e5200c13b5b48fc6c860@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Информационная теория управления (Л
+ екция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e06931d575a40dc2b634@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T140500
+DTEND;TZID=Europe/Moscow:20261013T154000
+SUMMARY:ПП САПР (Практика)
+LOCATION:В-201
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:40d2cdf72be799d0a794@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:754de390f7ade6d76f97@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:09f190cebe3c1c399759@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Информационная теория управления (Л
+ аб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:96f2a3862c76eddb2689@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:42f8818c714705e28bd3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:ПП САПР (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:72c9651dad5b942293fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лаб.)
+LOCATION:В-201
+DESCRIPTION:3 пара · Протасов К.А. / Саиег Т.Х. · г
+ руппы: О-ИстТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:55d7102a776b0cc7e60c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a15dc4a47ee4cd103732@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T083000
+DTEND;TZID=Europe/Moscow:20261019T100500
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1d810de2503cb35c96ec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:В-201
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:50a48900a8a4f50e3dd0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Системы поддержки принятия решений (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:67c75afb98c5c4eced8b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T155000
+DTEND;TZID=Europe/Moscow:20261020T172500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:В-201
+DESCRIPTION:5 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:459a39e15162a1d2ded4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T173500
+DTEND;TZID=Europe/Moscow:20261020T191000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:В-201
+DESCRIPTION:6 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:6020ede42a19f6ccc8eb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T192000
+DTEND;TZID=Europe/Moscow:20261020T205500
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:В-201
+DESCRIPTION:7 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:38bf732cfc8459794340@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:ПП САПР (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:158d38ed190e33404c86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-502
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:576942148a610f1c8707@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:3b922786481e9cc6ceeb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T140500
+DTEND;TZID=Europe/Moscow:20261022T154000
+SUMMARY:ПП САПР (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:fc512e506ac5b47bf54e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T083000
+DTEND;TZID=Europe/Moscow:20261023T100500
+SUMMARY:Информационная безопасность и защит
+ а информации (Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7b67da9a21dfe3efe5cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Информационная безопасность и защит
+ а информации (Практика)
+LOCATION:В-201
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0a29ca51eb45859514ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Геоинформационные системы (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6e5f18490188b4f30a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лекция)
+LOCATION:В-201
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6dadb17442378849e8ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd00be30377c5b57505@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Информационная теория управления (Л
+ екция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:750cfaaaf1c35a409736@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:ПП САПР (Практика)
+LOCATION:В-201
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:925336c93b4c53a66323@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a317ce46e6949a4bff4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1c79998be9f7ca0e3893@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Информационная теория управления (Л
+ аб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:41831822c5ff5895d561@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ce23842613e24c5692cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:ПП САПР (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:13acdfae57a7cdcb0ac4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лаб.)
+LOCATION:В-201
+DESCRIPTION:3 пара · Протасов К.А. / Саиег Т.Х. · г
+ руппы: О-ИстТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2eebde69ce906a42223f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+END:VCALENDAR

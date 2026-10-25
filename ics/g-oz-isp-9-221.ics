@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа ОЗ-Исп-9-221 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:77cd3f7b59b873bf91b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:1 пара · Черепов П.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:97908c0a4be55a774fc2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: ОЗ
+ -Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:1e304dbcd7fb97f47943@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-Исп-
+ 9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:f406232bf09ebea8a478@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Экономика отрасли (Лекция)
+LOCATION:К-217
+DESCRIPTION:1 пара · Данилов С.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:a48c1e6ba2bc8fbab777@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T101000
+DTEND;TZID=Europe/Moscow:20261017T114000
+SUMMARY:Экономика отрасли (Практика)
+LOCATION:К-217
+DESCRIPTION:2 пара · Данилов С.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:0a46fd5f8435022de1f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-202
+DESCRIPTION:1 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:c9964412e0cc58c258a6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-202
+DESCRIPTION:2 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:320a16ed7e031914f0b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T083000
+DTEND;TZID=Europe/Moscow:20261021T100500
+SUMMARY:Технология разработки программного 
+ обеспечения (Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:7112d70b8810a6a8ecd1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Технология разработки программного 
+ обеспечения (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:a29fe31346b5573b8249@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-313
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: ОЗ
+ -Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:077e5ee7c0c3cc253404@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T140500
+DTEND;TZID=Europe/Moscow:20261021T154000
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-201
+DESCRIPTION:4 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf4fb3994cfbe9bd145@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T083000
+DTEND;TZID=Europe/Moscow:20261022T100500
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:1 пара · Черепов П.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:19eb04b2b93891ecfb88@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Практика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:8b32a51913c9213d48ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: ОЗ-Исп-
+ 9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ec80bfde4bacb37e82@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-202
+DESCRIPTION:3 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:67c8cd3de7f88dacbec1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T101000
+DTEND;TZID=Europe/Moscow:20261024T114000
+SUMMARY:Экономика отрасли (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Данилов С.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:c0f8191a8d5e9de9f433@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T121000
+DTEND;TZID=Europe/Moscow:20261024T134000
+SUMMARY:Экономика отрасли (Практика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Данилов С.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:705072bbe741facd9be5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T083000
+DTEND;TZID=Europe/Moscow:20261027T100500
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-202
+DESCRIPTION:1 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:9a7905a90fb2d43a2f40@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:2ffe8574b7d89ae4b660@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:1 пара · Черепов П.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:f6f88d795cc19ccf824c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: ОЗ
+ -Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4e88b5acf573889320@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Технология разработки программного 
+ обеспечения (Практика)
+LOCATION:В-201
+DESCRIPTION:3 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:d68b0266958a008e6c7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Технология разработки программного 
+ обеспечения (Лекция)
+LOCATION:В-202
+DESCRIPTION:3 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4161b7c673e098f4b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-Исп-
+ 9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:4fade100d9585cbad726@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Технология разработки программного 
+ обеспечения (Лекция)
+LOCATION:В-202
+DESCRIPTION:1 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:f060ce9a0b9156e20e04@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-201
+DESCRIPTION:2 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8109c027f1dec5f2bc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-201
+DESCRIPTION:3 пара · Архипов В.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:2ced7eff14996a797bf1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Экономика отрасли (Лекция)
+LOCATION:К-217
+DESCRIPTION:1 пара · Данилов С.В. · группы: ОЗ-Ис
+ п-9-221
+END:VEVENT
+END:VCALENDAR

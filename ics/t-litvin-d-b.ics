@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Литвин Д.Б. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,73 +17,200 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:595b53c1aa9e09c06130@tis-rooms
+UID:b739e65c4ffeec6ee47b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Геоинформационные системы (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:fb39f72ff6b023b3cd08@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T083000
 DTEND;TZID=Europe/Moscow:20261013T100500
 SUMMARY:Основы алгоритмизации и программиро
  вания (Лекция)
 LOCATION:К-401
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:556b58d9a6a2371090ef@tis-rooms
+UID:8a0b686c52eb330bbd4a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T101500
 DTEND;TZID=Europe/Moscow:20261013T115000
 SUMMARY:Основы алгоритмизации и программиро
  вания (Практика)
 LOCATION:К-502
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:0b6f62cb7b19abe8c321@tis-rooms
+UID:03b3fa43bff3cb5b2cc0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:565387faaf690a1e86e5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T083000
+DTEND;TZID=Europe/Moscow:20261014T100500
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-401
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:07c9a74585e3336c8e87@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:4ea3a55c40034d67f4ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfaee273b17dd5ef46c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:eadf88bb26f3f28607ec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Программирование (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:6765ca62e17cc8004151@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T083000
 DTEND;TZID=Europe/Moscow:20261020T100500
 SUMMARY:Основы алгоритмизации и программиро
  вания (Лекция)
 LOCATION:К-401
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:401730a5484145726573@tis-rooms
+UID:bfda14f30e1c88bc2f80@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T101500
 DTEND;TZID=Europe/Moscow:20261020T115000
 SUMMARY:Основы алгоритмизации и программиро
  вания (Практика)
 LOCATION:К-408
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:f397e8ebc41f187f723b@tis-rooms
+UID:f0a79fff6e9bbfdf1869@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Программирование (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:c48e5ecbe3aa444f691a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:f53c1babcd6106f71e14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T155000
+DTEND;TZID=Europe/Moscow:20261020T172500
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-408
+DESCRIPTION:5 пара · Литвин Д.Б. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6764182ee55a40a6ee0a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T173500
+DTEND;TZID=Europe/Moscow:20261020T191000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:В-201
+DESCRIPTION:6 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe137271c2921617ac4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T192000
+DTEND;TZID=Europe/Moscow:20261020T205500
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:В-201
+DESCRIPTION:7 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a50e9ead9a4e01784413@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T083000
 DTEND;TZID=Europe/Moscow:20261023T100500
 SUMMARY:Основы алгоритмизации и программиро
  вания (Лекция)
 LOCATION:К-406
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:fcebd9adf20d5f036ba8@tis-rooms
+UID:d237ec9b233d3cd22eaa@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T101500
 DTEND;TZID=Europe/Moscow:20261023T115000
 SUMMARY:Основы алгоритмизации и программиро
  вания (Практика)
 LOCATION:К-406
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:c2ade48fa48dfae15527@tis-rooms
+UID:0e15f3c18cf2926ae3fd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T083000
 DTEND;TZID=Europe/Moscow:20261026T100500
@@ -93,25 +220,131 @@ DESCRIPTION:1 пара · Литвин Д.Б. · группы: ОЗ-Ист
  Т-241
 END:VEVENT
 BEGIN:VEVENT
-UID:50bb94300145573ef30b@tis-rooms
+UID:36be9df156060e53f497@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Геоинформационные системы (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:1d19206f2192a124cb46@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T083000
 DTEND;TZID=Europe/Moscow:20261027T100500
 SUMMARY:Основы алгоритмизации и программиро
  вания (Лекция)
 LOCATION:К-502
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:6c61294bbd0bdec12b06@tis-rooms
+UID:c744aceb7953386759d6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T101500
 DTEND;TZID=Europe/Moscow:20261027T115000
 SUMMARY:Основы алгоритмизации и программиро
  вания (Практика)
 LOCATION:К-502
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:85bef54ec88c2d570979@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:85bef54ec88c2d570979@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Компьютерная геометрия и графика (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:b941166f09b305ba831b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Геоинформационные системы (Лекция)
+LOCATION:К-502
+DESCRIPTION:5 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:00e65bd429493c21182f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T083000
+DTEND;TZID=Europe/Moscow:20261028T100500
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-401
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:168e5b53077c92bac23a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:2f3e689653f98ac4fdba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2fad275f2e0543b8b05b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:bce7536742f7172164cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:К-401
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:736e614086b9e5b3c7d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Программирование (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
 END:VEVENT
 END:VCALENDAR

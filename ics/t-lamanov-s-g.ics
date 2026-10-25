@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ламанов С.Г. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,18 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0e99c6c8c1072c85574f@tis-rooms
+UID:24453cd10d7a9f1c5b6b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:0df92153007f5c05f060@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T173500
 DTEND;TZID=Europe/Moscow:20261014T191000
@@ -29,7 +40,18 @@ DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:f7e410666b97f6c3221a@tis-rooms
+UID:98580e0f3b468ed10fea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0e236159bb8dcd8a01@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T173500
 DTEND;TZID=Europe/Moscow:20261019T191000
@@ -41,7 +63,40 @@ DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:57b6cd11410d3194b0d0@tis-rooms
+UID:6d8a05a61d06192601ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Технологические процессы в сервисе (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:0b62d180b0ee1d35f81f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5503eee402d5d13fc77e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:aceb55ddcdf65a3c9db7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T155000
 DTEND;TZID=Europe/Moscow:20261026T172500
@@ -53,7 +108,52 @@ DESCRIPTION:5 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:30a955a08c821e55793e@tis-rooms
+UID:8b8901527265e54555ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T192000
+DTEND;TZID=Europe/Moscow:20261026T205500
+SUMMARY:Конструкции инженерных систем\, внут
+ ридомового и внутриквартирного оборудо
+ вания (Практика)
+LOCATION:К-602
+DESCRIPTION:7 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8fffc38f9f7060a67da1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e05f6aa290005b0db69f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Энергосбережение и энергоаудит (Пра
+ ктика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7141d482c436eb037c78@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a326f44dd8361f3150a4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T173500
 DTEND;TZID=Europe/Moscow:20261028T191000
@@ -63,5 +163,16 @@ SUMMARY:Техническое диагностирование и конт
 LOCATION:К-205
 DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0bad26af0715abde3720@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
 END:VEVENT
 END:VCALENDAR

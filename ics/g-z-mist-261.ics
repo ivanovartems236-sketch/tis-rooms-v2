@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-МИСТ-261 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7da70dc09f074377afc8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Ознакомительное организационное со
+ брание в 09:00 в Подиумном зале
+LOCATION:
+DESCRIPTION:1 пара · (получение паролей от ЭИОС\
+ , знакомство с ЭБС) · группы: З-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3d700b68d424b80743@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Управление проектами (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Колосова О.Ю. / Гончаров В.Н.
+  / Черепов П.В. · группы: З-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab5ddb4bbfef9ad9bbf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Методология научных исследований (Л
+ екция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: З-МИСТ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:55ab3f82ca05d02f1e3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Модели и методы проектирования инфо
+ рмационных систем (Лекция)
+LOCATION:К-501
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:de6e216d52ddd839119c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Современные проблемы науки и произв
+ одства (информационные системы) (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Черепов П.В. · группы: З-МИС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c0bbfbf07732d5696a86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T155000
+DTEND;TZID=Europe/Moscow:20261016T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Смирнова Н.Г. · группы: З-МИ
+ СТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f68dee4d7773fa235cf4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T173500
+DTEND;TZID=Europe/Moscow:20261016T191000
+SUMMARY:Математические модели информационн
+ ых процессов (Лекция)
+LOCATION:К-401
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-МИСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6859427ddb3d28925160@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T121000
+DTEND;TZID=Europe/Moscow:20261017T134000
+SUMMARY:Специальные главы математики (Лекци
+ я)
+LOCATION:К-301
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: З-М
+ ИСТ-261
+END:VEVENT
+END:VCALENDAR

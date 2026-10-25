@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа О-Ки-251 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b06bb34a56a98cc81148@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:История костюма и моды (Лекция)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb8036880033ddbbe91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e640faf6a8c6328abd67@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Механика (Лекция)
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7af5c3f9e358840167@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:История костюма и моды (Практика)
+LOCATION:В-301
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:206716bc0bea4d9fe336@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Архитектоника объемных форм (Лекция)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e93d5bc7fb820fb5ec22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:bb18a445892ba9a02184@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:160ae0967764c30af809@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:cc921b03ddecb0bdf79a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Механика (Практика)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:249969d50dfcd703692e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Оборудование швейного производства 
+ (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e406c8a767d0d5f78e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Методы и средства исследований (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e8d87176e64eed04e5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Методы и средства исследований (Прак
+ тика)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:00e75a22bf0a082263d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T083000
+DTEND;TZID=Europe/Moscow:20261019T100500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7c87294ac80b0671ee22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261019T101500
+DTEND;TZID=Europe/Moscow:20261019T115000
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:9231a05e44ccfa58dbae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T083000
+DTEND;TZID=Europe/Moscow:20261020T100500
+SUMMARY:Оборудование швейного производства 
+ (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b6ffaf66f75cbfeeae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T101500
+DTEND;TZID=Europe/Moscow:20261020T115000
+SUMMARY:Оборудование швейного производства 
+ (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5fd1cdea8f860a631ceb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T122000
+DTEND;TZID=Europe/Moscow:20261020T135500
+SUMMARY:Механика (Лаб.)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:e7aa2e3b002be804a725@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261020T140500
+DTEND;TZID=Europe/Moscow:20261020T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6e4483de6c1c4dc3227f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6eecc7489165a74a6593@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c6be0dc51afc712e69db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e0cf77a8447d806ec352@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Практика)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:4b864de8e79db0d036fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:51347b27a4a5199a2bb8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:85e04fd52fea0965a42e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T140500
+DTEND;TZID=Europe/Moscow:20261023T154000
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d44e761c3e56ba14c8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T155000
+DTEND;TZID=Europe/Moscow:20261023T172500
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:5 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe4ce94642fbe44b9c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:История костюма и моды (Лекция)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d362002b94b06e47d0db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b5aa2bdcad1277714a6b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Механика (Лекция)
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc7bebe39880d83cb0a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:История костюма и моды (Практика)
+LOCATION:В-301
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:a70a835d6af3c0ce621e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Архитектоника объемных форм (Лекция)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4e95c5de2e15ed2978@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5f792322493b342083@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd8f26e8b195b3ec14c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b046042d18458f5c7389@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Механика (Практика)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6103e895c27b8c06a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Оборудование швейного производства 
+ (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ab4db9a7251dc8b9e643@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Методы и средства исследований (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f07aaaca42d176a7569c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Методы и средства исследований (Прак
+ тика)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+END:VCALENDAR

@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ауд. К-504 — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,28 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4620e868faed19f07886@tis-rooms
+UID:1440d2518d051f2d4742@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2e5617ccd062ae5cbf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Физические основы микроэлектроники 
+ (Практика)
+LOCATION:К-504
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:73e59b179a3b94bae42a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T122000
 DTEND;TZID=Europe/Moscow:20261013T135500
@@ -29,7 +50,7 @@ DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
   ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:54578c599148058b726b@tis-rooms
+UID:07f075cb8faaa940860a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T140500
 DTEND;TZID=Europe/Moscow:20261013T154000
@@ -40,7 +61,7 @@ DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:cf02b3f55c86dbb78d9d@tis-rooms
+UID:237ffacd17a0c7be5a9b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T173500
 DTEND;TZID=Europe/Moscow:20261013T191000
@@ -54,7 +75,7 @@ DESCRIPTION:6 пара · Герман Р.Э. · группы: З-ИксМ-
  \, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
 END:VEVENT
 BEGIN:VEVENT
-UID:ca3f10a8385626737cc6@tis-rooms
+UID:184e339e0e206fd51098@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T083000
 DTEND;TZID=Europe/Moscow:20261014T100500
@@ -66,7 +87,7 @@ DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
  1\, ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:36c8bae61366f3b27bc7@tis-rooms
+UID:b17e70485dd89ca191c3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T101500
 DTEND;TZID=Europe/Moscow:20261014T115000
@@ -77,19 +98,52 @@ DESCRIPTION:2 пара · Приходченко О.В. · группы: О
  -Ки-261\, О-Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:77e76d129ffed955419c@tis-rooms
+UID:8a39624015c763cae03d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лекция)
+LOCATION:К-504
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6e731c8a3514608cd8c3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:da3dbcebca89e4e036bc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T101500
 DTEND;TZID=Europe/Moscow:20261015T115000
 SUMMARY:Психология командной работы и лидер
  ства (Лекция)
 LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- ксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу
- -242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:d3838774b07e4f325c12@tis-rooms
+UID:c89bd317dfae026eee77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:aed11a01a26982722ae4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T122000
 DTEND;TZID=Europe/Moscow:20261016T135500
@@ -100,7 +154,7 @@ DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:4dfb4d4bf1ba3e7f6e30@tis-rooms
+UID:ddb729df75f4c2ca9939@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
 DTEND;TZID=Europe/Moscow:20261019T100500
@@ -111,7 +165,7 @@ DESCRIPTION:1 пара · Смирнова Н.Г. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:5160280892a6ff3dd362@tis-rooms
+UID:aa9a99ec8462b6d43f99@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
 DTEND;TZID=Europe/Moscow:20261019T135500
@@ -122,19 +176,32 @@ DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-26
  1\, О-Тб-261\, О-Тм-261\, ОЗ-Ки-261
 END:VEVENT
 BEGIN:VEVENT
-UID:08d669a38ddb0ff0f573@tis-rooms
+UID:f35a43b888913f02614c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T083000
 DTEND;TZID=Europe/Moscow:20261021T100500
 SUMMARY:Психология командной работы и лидер
  ства (Практика)
 LOCATION:К-504
-DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-И
- ксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу
- -242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:1 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:51ae671ef4d2b5664973@tis-rooms
+UID:7544be25b0ff08f1066f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:b1822a716341fe657f59@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T122000
 DTEND;TZID=Europe/Moscow:20261023T135500
@@ -145,7 +212,28 @@ DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:2ae6b1d5f8a8c81bb83d@tis-rooms
+UID:34ea54e874a77d97e140@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cd44266d9cdd92c351d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Физические основы микроэлектроники 
+ (Практика)
+LOCATION:К-504
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3626af360fb357e64e7f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T122000
 DTEND;TZID=Europe/Moscow:20261027T135500
@@ -157,7 +245,7 @@ DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
   ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:92e118392cc267722675@tis-rooms
+UID:df0af41564072a39e70d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -168,7 +256,18 @@ DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:1ecdca9805dbff5e71b7@tis-rooms
+UID:222b91ec99f5c1b44465@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Волоконно-оптические системы связи (
+ Лекция)
+LOCATION:К-504
+DESCRIPTION:5 пара · Гривенная Н.В. · группы: З-И
+ ксМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1ca4b78dbee93d170edd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T083000
 DTEND;TZID=Europe/Moscow:20261028T100500
@@ -180,7 +279,7 @@ DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
  1\, ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:69dde9232c8fa2e8d772@tis-rooms
+UID:d8712ae5258f8edd6fa3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T101500
 DTEND;TZID=Europe/Moscow:20261028T115000
@@ -191,19 +290,53 @@ DESCRIPTION:2 пара · Приходченко О.В. · группы: О
  -Ки-261\, О-Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:6c3d428c0026f23b95a4@tis-rooms
+UID:de8c9a1d7df682334578@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лекция)
+LOCATION:К-504
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d2140b2ea96b355346cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3c575cf5abffc241be@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T101500
 DTEND;TZID=Europe/Moscow:20261029T115000
 SUMMARY:Психология командной работы и лидер
  ства (Лекция)
 LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- ксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу
- -242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:11d209046cbd0d7d29e0@tis-rooms
+UID:5d540deb400f4a478767@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Конструирование и технология произв
+ одства радиоэлектронных средств (Лекция
+ )
+LOCATION:К-504
+DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:950787c29f7af92cf708@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T083000
 DTEND;TZID=Europe/Moscow:20261030T100500
@@ -214,7 +347,17 @@ DESCRIPTION:1 пара · Приходченко О.В. · группы: О
  З-Ки-261
 END:VEVENT
 BEGIN:VEVENT
-UID:62ac1fe19f168784ce75@tis-rooms
+UID:7c6f91294ee93dd22061@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:327573e2a012c9fa7069@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T122000
 DTEND;TZID=Europe/Moscow:20261030T135500
