@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:05e3f9fec24f506ececc@tis-rooms
+UID:4cb44831153b89a740f8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T140500
 DTEND;TZID=Europe/Moscow:20261013T154000
@@ -28,7 +28,7 @@ DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:b53d881e3a9845b84721@tis-rooms
+UID:5d9a23b7b70b1ed84926@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T101500
 DTEND;TZID=Europe/Moscow:20261014T115000
@@ -39,7 +39,7 @@ DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:27aa065bc650740ba47f@tis-rooms
+UID:af3dabacb9ff9a8e328c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T122000
 DTEND;TZID=Europe/Moscow:20261014T135500
@@ -50,7 +50,7 @@ DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:7b2a1b38be627b4fb2b1@tis-rooms
+UID:6d917558fa430c9e1858@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T083000
 DTEND;TZID=Europe/Moscow:20261015T100500
@@ -61,7 +61,7 @@ DESCRIPTION:1 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-261
 END:VEVENT
 BEGIN:VEVENT
-UID:45c8da365cdf96c31dbd@tis-rooms
+UID:4658af503960e1bafdf9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T122000
 DTEND;TZID=Europe/Moscow:20261015T135500
@@ -72,7 +72,7 @@ DESCRIPTION:3 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:751a547f4c517bdb32dc@tis-rooms
+UID:76490c493a043387a04c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
 DTEND;TZID=Europe/Moscow:20261019T115000
@@ -83,7 +83,7 @@ DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:3814ad183a7eb406e457@tis-rooms
+UID:bdbd9756c857d552348b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T122000
 DTEND;TZID=Europe/Moscow:20261022T135500
@@ -94,7 +94,7 @@ DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:a79de8e97faecf5a2feb@tis-rooms
+UID:f71289dab755d059d423@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T173500
 DTEND;TZID=Europe/Moscow:20261022T191000
@@ -104,7 +104,7 @@ DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСЭ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:69a9a8dc570d8a3b9cbd@tis-rooms
+UID:27ce416ce80ded4664e6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T122000
 DTEND;TZID=Europe/Moscow:20261027T135500
@@ -115,7 +115,7 @@ DESCRIPTION:3 пара · Субботин А.Е. / Фурсов В.А. ·
  группы: З-Сэ-241\, З-Сэ-242
 END:VEVENT
 BEGIN:VEVENT
-UID:f2cf9aac98e65c1a83e9@tis-rooms
+UID:105c6030289d2b0ea445@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -126,7 +126,7 @@ DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:3503a58f23e314199f5d@tis-rooms
+UID:ee749c8187f16ab8e4cb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T101500
 DTEND;TZID=Europe/Moscow:20261028T115000
@@ -137,7 +137,7 @@ DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:823737c4cfca5a096bd5@tis-rooms
+UID:1b12ecaced6a6a7371f3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T122000
 DTEND;TZID=Europe/Moscow:20261028T135500
@@ -148,7 +148,7 @@ DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:b2b2ea79f1e881517bf8@tis-rooms
+UID:d6b79178605ebdbe8fd3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T083000
 DTEND;TZID=Europe/Moscow:20261029T100500
@@ -159,7 +159,7 @@ DESCRIPTION:1 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e6df6e52c85e4b312aa4@tis-rooms
+UID:341d5b58dbea911eeeec@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T122000
 DTEND;TZID=Europe/Moscow:20261029T135500
@@ -170,7 +170,7 @@ DESCRIPTION:3 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
-UID:8d481198ba0a9fee2f99@tis-rooms
+UID:a059d892592ab978295e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T140500
 DTEND;TZID=Europe/Moscow:20261030T154000
@@ -181,7 +181,7 @@ DESCRIPTION:4 пара · Субботин А.Е. / Лазарева Н.В.
   · группы: З-Сж-242\, З-Сп-242\, З-Ст-242\, З-Сэ-242
 END:VEVENT
 BEGIN:VEVENT
-UID:02cdb9523cab75033bb6@tis-rooms
+UID:b1c176d890328472bab4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T155000
 DTEND;TZID=Europe/Moscow:20261030T172500
