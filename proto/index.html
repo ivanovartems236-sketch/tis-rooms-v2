@@ -136,6 +136,7 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 
 /* онбординг */
 .onb{min-height:calc(100vh - 40px);display:flex;flex-direction:column;justify-content:center;padding-bottom:40px}
+.brand{font-weight:700;color:var(--accent);font-size:.9rem;letter-spacing:.04em;text-transform:uppercase;margin-bottom:4px}
 .onb h1{font-size:1.7rem;line-height:1.15;margin:0 0 6px}
 .onb p{color:var(--muted);margin:0 0 22px}
 
@@ -146,12 +147,17 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 .tabbar button .i{font-size:1.25rem;line-height:1}
 .tabbar button[aria-current="page"]{color:var(--accent);font-weight:600}
 .tabbar .dot{position:absolute;top:4px;left:calc(50% + 8px);background:var(--now);color:#fff;border-radius:99px;font-size:.62rem;padding:0 5px;font-weight:700}
+.hrow{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.hrow h2{margin:4px 0 10px}
+.btn.share{color:var(--accent)}
+.toast{position:fixed;left:50%;bottom:calc(76px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:8px 14px;border-radius:12px;font-size:.88rem;z-index:5;max-width:calc(100% - 32px)}
 .foot{font-size:.78rem;color:var(--muted);margin-top:20px}
 .demo{font-size:.75rem;color:var(--muted);text-align:center;margin:-4px 0 10px}
 </style>
 </head>
 <body>
 <div class="app" id="app"></div>
+<div class="toast" id="toast" role="status" hidden></div>
 <nav class="tabbar" id="tabbar" hidden><div id="tabs"></div></nav>
 <script>
 "use strict";
@@ -249,8 +255,9 @@ const go = (tab, extra) => { Object.assign(st, { tab }, extra || {}); render(); 
 /* ---------- онбординг ---------- */
 function viewOnboarding() {
   if (!st.onb) return [h("div", { class: "onb" },
-    h("h1", {}, "Кабинеты ТИС"),
-    h("p", {}, "Расписание за 2 тапа. Без регистрации — выбор хранится только на этом телефоне."),
+    h("div", { class: "brand" }, "Кабинеты ТИС"),
+    h("h1", {}, "Куда идти?"),
+    h("p", {}, "Твоя пара, кабинет и замены — за 2 тапа. Без регистрации, выбор хранится только на этом телефоне."),
     h("button", { class: "big primary", onclick: () => { st.onb = "group"; render(); } }, h("span", { class: "ic" }, "🎓"), h("div", {}, h("b", {}, "Я студент"), h("span", {}, "Расписание моей группы"))),
     h("button", { class: "big", onclick: () => { st.onb = "teacher"; render(); } }, h("span", { class: "ic" }, "👩‍🏫"), h("div", {}, h("b", {}, "Я преподаватель"), h("span", {}, "Мои пары и окна"))),
     h("button", { class: "big", onclick: () => { st.onb = "skip"; ls("proto-skip", 1); go("find"); } }, h("span", { class: "ic" }, "🔍"), h("div", {}, h("b", {}, "Просто посмотреть"), h("span", {}, "Аудитории, свободные кабинеты, любая группа"))),
@@ -294,23 +301,23 @@ function hero(e) {
   const sub = i => [i.s, e.type === "teacher" ? i.gs.join(", ") : e.type === "group" ? i.te : i.te].filter(Boolean).join(" · ");
   if (cur) {
     const left = cur.m[1] - m, pct = 100 * (m - cur.m[0]) / (cur.m[1] - cur.m[0]);
-    return h("div", { class: "hero now" }, h("div", { class: "lbl" }, `Идёт ${cur.p} пара · ещё ${dur(left)}`),
+    return h("div", { class: "hero now" }, h("div", { class: "lbl" }, `Ты на ${cur.p} паре · ещё ${dur(left)}`),
       h("div", { class: "room" }, place(cur)), h("div", { class: "subj" }, cur.s),
-      h("div", { class: "meta" }, (e.type === "group" ? cur.te : cur.gs.join(", ")) + (next ? ` · дальше ${next.p} пара в ${hm(next.m[0])}, ${place(next)}` : " · последняя на сегодня")),
+      h("div", { class: "meta" }, (e.type === "group" ? cur.te : cur.gs.join(", ")) + (next ? ` · потом ${place(next)} в ${hm(next.m[0])}` : " · последняя, потом свобода")),
       h("div", { class: "bar" }, h("i", { style: `width:${pct.toFixed(0)}%` })));
   }
   if (next) {
     const left = next.m[0] - m;
-    return h("div", { class: "hero" }, h("div", { class: "lbl" }, `${items[0] === next ? "Первая пара" : "Следующая"} · ${next.p} пара через ${dur(left)}`),
+    return h("div", { class: "hero" }, h("div", { class: "lbl" }, `Куда идти · ${next.p} пара ${left <= 15 ? "уже через " + dur(left) + " 🏃" : "через " + dur(left)}`),
       h("div", { class: "room" }, place(next)), h("div", { class: "subj" }, next.s),
       h("div", { class: "meta" }, `${hm(next.m[0])}–${hm(next.m[1])} · ${e.type === "group" ? next.te : next.gs.join(", ")}`));
   }
   const [nd, nit] = nextSchoolDay(today(), e);
-  const head = items.length ? "Пары на сегодня закончились" : wdi(today()) === 6 ? "Сегодня выходной" : "Сегодня пар нет";
-  if (!nd) return h("div", { class: "hero calm" }, h("div", { class: "lbl" }, head), h("div", { class: "subj", style: "margin-top:6px" }, "Следующих пар в выложенном расписании нет."));
+  const head = items.length ? "Всё, на сегодня свобода 🎉" : wdi(today()) === 6 ? "Сегодня выходной 😴" : "Сегодня пар нет 🙌";
+  if (!nd) return h("div", { class: "hero calm" }, h("div", { class: "lbl" }, head), h("div", { class: "subj", style: "margin-top:6px" }, "Дальше пар в расписании пока нет — следи за stis.su."));
   const f = nit[0], when = iso(nd) === iso(addDays(today(), 1)) ? "Завтра" : `${WDL[wdi(nd)]}, ${dm(nd)}`;
   return h("div", { class: "hero calm" }, h("div", { class: "lbl muted" }, head),
-    h("div", { class: "subj", style: "margin-top:8px" }, `${when}: к ${f.p} паре, ${f.m ? hm(f.m[0]) : ""}`),
+    h("div", { class: "subj", style: "margin-top:8px" }, `${when} к ${f.m ? hm(f.m[0]) : f.p + " паре"} — сюда:`),
     h("div", { class: "room", style: "font-size:2rem" }, place(f)),
     h("div", { class: "meta muted" }, sub(f) + ` · всего ${nit.length} ${nit.length === 1 ? "пара" : nit.length < 5 ? "пары" : "пар"}`));
 }
@@ -356,7 +363,7 @@ function viewToday() {
   return [profileBar(), viewingBar(),
     isToday ? hero(e) : null,
     dayStrip(),
-    h("h2", {}, isToday ? "Сегодня" : `${WDL[wdi(st.date)]}, ${dm(st.date)}`),
+    h("div", { class: "hrow" }, h("h2", {}, isToday ? "Сегодня" : `${WDL[wdi(st.date)]}, ${dm(st.date)}`), dayItems(sel, e).length ? shareBtn("day") : null),
     lessonList(sel, e)];
 }
 
@@ -369,6 +376,7 @@ function viewWeek() {
       h("button", { class: "arr", onclick: () => { st.date = addDays(st.date, -7); render(); } }, "‹"),
       h("b", { style: "text-align:center" }, `Неделя ${dm(mon)} – ${dm(addDays(mon, 5))}`),
       h("button", { class: "arr", onclick: () => { st.date = addDays(st.date, 7); render(); } }, "›")),
+    h("div", { class: "hrow", style: "justify-content:flex-end;margin-bottom:8px" }, shareBtn("week")),
     Array.from({ length: 6 }, (_, i) => {
       const d = addDays(mon, i), k = iso(d), items = dayItems(k, e);
       return h("div", { class: "wday" + (k === t ? " today" : "") },
@@ -447,6 +455,93 @@ function viewMore() {
   return view;
 }
 
+/* ---------- поделиться картинкой ----------
+   Рисуем на canvas прямо в браузере. На картинке всегда время обновления и ссылка на живое расписание:
+   отфотошопленную «замену» легко проверить. */
+const SITE = "https://ivanovartems236-sketch.github.io/tis-rooms-v2/";
+const linkFor = e => SITE + "#" + e.type + "/" + encodeURIComponent(e.v);
+function fitText(ctx, text, w) {
+  if (ctx.measureText(text).width <= w) return text;
+  while (text.length > 1 && ctx.measureText(text + "…").width > w) text = text.slice(0, -1);
+  return text.trimEnd() + "…";
+}
+function wrap(ctx, text, w, maxLines) {
+  const words = text.split(" "), lines = [];
+  let cur = "";
+  for (const wd of words) {
+    const t = cur ? cur + " " + wd : wd;
+    if (ctx.measureText(t).width <= w || !cur) cur = t; else { lines.push(cur); cur = wd; }
+  }
+  if (cur) lines.push(cur);
+  if (lines.length > maxLines) { lines.length = maxLines; lines[maxLines - 1] = fitText(ctx, lines[maxLines - 1] + " …", w); }
+  return lines;
+}
+function drawShare(ctx, e, days, draw) {
+  const W = 1080, P = 60, F = "Golos Text, system-ui, sans-serif", M = "IBM Plex Mono, ui-monospace, monospace";
+  const C = { bg: "#f3f5f7", card: "#ffffff", fg: "#17202b", mu: "#5f6b78", ac: "#1d5fa8", line: "#dde3ea", chg: "#a16207" };
+  const week = days.length > 1;
+  let y = P;
+  const text = (t, x, yy, font, color, align) => { if (!draw) return; ctx.font = font; ctx.fillStyle = color; ctx.textAlign = align || "left"; ctx.fillText(t, x, yy); };
+  if (draw) { ctx.fillStyle = C.bg; ctx.fillRect(0, 0, W, ctx.canvas.height); }
+  text("КАБИНЕТЫ ТИС · КУДА ИДТИ?", P, y + 26, `700 26px ${F}`, C.ac); y += 64;
+  text(e.type === "room" ? roomName(e.v) : e.v, P, y + 52, `700 60px ${F}`, C.fg); y += 78;
+  const span = week ? `Неделя ${dm(days[0])} – ${dm(days[days.length - 1])}` : `${WDL[wdi(days[0])]}, ${dm(days[0])}`;
+  text(span, P, y + 34, `500 34px ${F}`, C.mu); y += 70;
+  for (const d of days) {
+    const k = iso(d), items = dayItems(k, e), chs = changesFor(k, e);
+    if (week) { text(`${WDL[wdi(d)]}, ${dm(d)}`, P, y + 34, `700 32px ${F}`, C.fg); y += 52; }
+    if (!items.length) {
+      text(k > MAXD ? "расписание ещё не выложено" : "пар нет", P + 4, y + 30, `400 28px ${F}`, C.mu); y += 56; continue;
+    }
+    for (const i of items) {
+      const right = e.type === "room" ? (i.gs.length > 1 ? i.gs.length + " гр." : i.gs[0]) : roomName(i.r || "—");
+      const who = e.type === "group" ? i.te : e.type === "teacher" ? i.gs.join(", ") : i.te;
+      const changed = chs.some(c => c.p === i.p && c.after && c.after.s === i.s);
+      ctx.font = `600 ${week ? 30 : 34}px ${F}`;
+      const sw = W - 2 * P - 150 - 220;
+      const lines = week ? [fitText(ctx, i.s, sw)] : wrap(ctx, i.s, sw, 2);
+      const lh = week ? 38 : 42, hgt = 28 + lines.length * lh + (week ? 0 : 38) + 18;
+      if (draw) {
+        ctx.fillStyle = C.card; ctx.strokeStyle = changed ? C.chg : C.line; ctx.lineWidth = changed ? 4 : 2;
+        ctx.beginPath(); ctx.roundRect(P, y, W - 2 * P, hgt, 22); ctx.fill(); ctx.stroke();
+      }
+      text(i.m ? hm(i.m[0]) : i.p + " п.", P + 26, y + 26 + lh - 8, `600 32px ${M}`, C.fg);
+      if (!week && i.m) text(hm(i.m[1]), P + 26, y + 26 + lh + 30, `400 26px ${M}`, C.mu);
+      lines.forEach((ln, n) => text(ln, P + 150, y + 26 + lh * (n + 1) - 8, `600 ${week ? 30 : 34}px ${F}`, C.fg));
+      if (!week) { ctx.font = `400 26px ${F}`; text(fitText(ctx, (changed ? "⚠ изменено · " : "") + (KN[i.k] ? KN[i.k] + " · " : "") + who, sw), P + 150, y + 26 + lh * lines.length + 26, `400 26px ${F}`, changed ? C.chg : C.mu); }
+      text(right, W - P - 26, y + 26 + lh - 8, `600 ${week ? 34 : 44}px ${M}`, C.ac, "right");
+      y += hgt + 12;
+    }
+    y += week ? 18 : 0;
+  }
+  y += 20;
+  ctx.font = `400 24px ${F}`;
+  for (const ln of wrap(ctx, `Обновлено ${UPDATED} по stis.su/schedule. Неофициальный сервис — актуальное расписание по ссылке:`, W - 2 * P, 3)) { text(ln, P, y + 26, `400 24px ${F}`, C.mu); y += 34; }
+  ctx.font = `500 22px ${M}`;
+  text(fitText(ctx, (SITE + "#" + e.type + "/" + e.v).replace("https://", ""), W - 2 * P), P, y + 30, `500 22px ${M}`, C.ac); y += 44;
+  return y + P - 20;
+}
+async function share(kind) {
+  const e = me(); if (!e) return;
+  const mon = addDays(st.date, -wdi(st.date));
+  const days = kind === "week" ? Array.from({ length: 6 }, (_, i) => addDays(mon, i)) : [st.date];
+  try { await document.fonts.ready; } catch (err) {}
+  const c = document.createElement("canvas"); c.width = 1080; c.height = 100;
+  c.height = drawShare(c.getContext("2d"), e, days, false);
+  drawShare(c.getContext("2d"), e, days, true);
+  const blob = await new Promise(r => c.toBlob(r, "image/png"));
+  const name = `${e.v}-${kind === "week" ? "nedelya-" + dm(mon) : dm(st.date)}.png`.replace(/[^\wА-Яа-яЁё.-]+/g, "_");
+  const file = new File([blob], name, { type: "image/png" });
+  const text = `${e.type === "room" ? roomName(e.v) : e.v} — ${kind === "week" ? "расписание на неделю" : "пары на " + dm(st.date)}\n${linkFor(e)}`;
+  try {
+    if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file], text }); return; }
+  } catch (err) { if (err.name === "AbortError") return; }
+  const a = h("a", { href: URL.createObjectURL(blob), download: name }); a.click();
+  try { await navigator.clipboard.writeText(text); toast("Картинка сохранена, ссылка скопирована"); } catch (err) { toast("Картинка сохранена"); }
+}
+function toast(msg) { const t = $toast; t.textContent = msg; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => t.hidden = true, 2400); }
+const shareBtn = kind => h("button", { class: "btn share", onclick: () => share(kind) }, "Поделиться ↗");
+
 /* ---------- отрисовка ---------- */
 const TABS = [["today", "◉", "Сегодня"], ["week", "☷", "Неделя"], ["find", "⌕", "Найти"], ["more", "≡", "Ещё"]];
 function render() {
@@ -464,7 +559,7 @@ function renderKeepFocus() {
   const pos = document.activeElement?.selectionStart; render();
   const inp = $app.querySelector("input"); if (inp) { inp.focus(); if (pos != null) inp.setSelectionRange(pos, pos); }
 }
-const $app = document.getElementById("app"), $bar = document.getElementById("tabbar"), $tabs = document.getElementById("tabs");
+const $toast = document.getElementById("toast"), $app = document.getElementById("app"), $bar = document.getElementById("tabbar"), $tabs = document.getElementById("tabs");
 Promise.all([fetch("../data.json", { cache: "no-store" }).then(r => r.json()), fetch("../changes.json", { cache: "no-store" }).then(r => r.ok ? r.json() : []).catch(() => [])])
   .then(([d, c]) => { ingest(d); CH = Array.isArray(c) ? c : []; render(); })
   .catch(() => { $app.replaceChildren(h("div", { class: "empty" }, "Не удалось загрузить расписание.")); });
