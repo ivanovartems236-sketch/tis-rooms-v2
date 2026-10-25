@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ауд. К-506 — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,150 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:64b3d2b23b59b7a44b68@tis-rooms
+UID:6426c7999bca0c82ef67@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Теория электрических цепей (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2a533ff88702b267ea50@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T101500
+DTEND;TZID=Europe/Moscow:20261012T115000
+SUMMARY:Электроника (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:599372e7848362a5fe70@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Оборудование систем мобильной связи
+  (Практика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1b289153bdd9f35bdc3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T101500
+DTEND;TZID=Europe/Moscow:20261013T115000
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8c52c36bf1cbe72990@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c47517b48a7d8503ae19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T101500
+DTEND;TZID=Europe/Moscow:20261014T115000
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf027ca98b7d52c6672@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Общая теория связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3fb25b487572d0aec5fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:8b77952c3f234fcc0a40@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T083000
+DTEND;TZID=Europe/Moscow:20261015T100500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: О-Рт-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b184158bc406faabc5b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:95d18a3237435e4d7a53@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T083000
+DTEND;TZID=Europe/Moscow:20261016T100500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Лекц
+ ия)
+LOCATION:К-506
+DESCRIPTION:1 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb03b2d4b10795fa8fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T101500
+DTEND;TZID=Europe/Moscow:20261016T115000
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:872167453a191a2cbfa8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T122000
+DTEND;TZID=Europe/Moscow:20261016T135500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Прак
+ тика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:289c327dd401bab8bbb5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
 DTEND;TZID=Europe/Moscow:20261019T100500
@@ -27,7 +170,7 @@ DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
  сМ-241
 END:VEVENT
 BEGIN:VEVENT
-UID:724e69d9305033916339@tis-rooms
+UID:03af41ca6f9d36a698b0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
 DTEND;TZID=Europe/Moscow:20261019T115000
@@ -36,5 +179,335 @@ SUMMARY:Цифровая схемотехника телекоммуник
 LOCATION:К-506
 DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
  сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:68ef133cbac6fb276c4d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Оборудование систем мобильной связи
+  (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e3262af0678935c1293a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T083000
+DTEND;TZID=Europe/Moscow:20261022T100500
+SUMMARY:Радиопередающие устройства (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6627ed14a7671faf8a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T101500
+DTEND;TZID=Europe/Moscow:20261022T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3559fb4528a04a6c7d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T122000
+DTEND;TZID=Europe/Moscow:20261022T135500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a67945859bc3411c9f43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Стандартизация\, сертификация и упра
+ вление качеством радиотехнических сист
+ ем (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:59819e307e2aad68c51a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Стандартизация\, сертификация и упра
+ вление качеством радиотехнических сист
+ ем (Практика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:39ebbaff4766b0453599@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T083000
+DTEND;TZID=Europe/Moscow:20261026T100500
+SUMMARY:Теория электрических цепей (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:7870659557ff84054444@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T101500
+DTEND;TZID=Europe/Moscow:20261026T115000
+SUMMARY:Электроника (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:29c056334dfbd6065635@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T122000
+DTEND;TZID=Europe/Moscow:20261026T135500
+SUMMARY:Оборудование систем мобильной связи
+  (Практика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c481665b367ee6e7213b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9f4b0f03fb4fb3a283@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Мониторинг и тестирование в система
+ х мобильной связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:445b348657d0a0061f96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3c61a2e796ec33b1ff42@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Основы научного эксперимента (Практ
+ ика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8f7cb344435ade2771@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:55592872bfd78d688188@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Стандартизация\, сертификация и упра
+ вление качеством радиотехнических сист
+ ем (Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1c82200d4ac03b984f2e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:da11198c3df2f82b377b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T101500
+DTEND;TZID=Europe/Moscow:20261028T115000
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ea48cf36a9069cf1db4a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Общая теория связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:513bafe659f3c9f4fc7a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Основы телевидения и видеотехники (Л
+ екция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сапилкина В.И . · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1edaec04b0debecb8a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0327ffa3e86908959b06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T173500
+DTEND;TZID=Europe/Moscow:20261028T191000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Лекция)
+LOCATION:К-506
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7dcf4c7f5e7fdee344@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: О-Рт-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a0007fcbcf873ddb9f6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e5d1702b794fa5c8841a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Основы помехоустойчивой радиосвязи 
+ (Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-241\, З-ИксМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d070ea179bc54e84d951@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:21de6602e40b2e99bd36@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Техническая эксплуатация систем моб
+ ильной связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:89cd5e07cc17625da892@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T083000
+DTEND;TZID=Europe/Moscow:20261030T100500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Лекц
+ ия)
+LOCATION:К-506
+DESCRIPTION:1 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cc666eb9bf12e2e7138f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T101500
+DTEND;TZID=Europe/Moscow:20261030T115000
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:75a6cc1ba24cda7c26aa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T122000
+DTEND;TZID=Europe/Moscow:20261030T135500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Прак
+ тика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e65c9fc905708e2c8e19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Системы подвижной радиосвязи (Лекци
+ я)
+LOCATION:К-506
+DESCRIPTION:5 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-242
 END:VEVENT
 END:VCALENDAR

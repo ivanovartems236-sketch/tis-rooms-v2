@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-МСТ-261 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:994f7910b46b8032419e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T083000
+DTEND;TZID=Europe/Moscow:20261012T100500
+SUMMARY:Ознакомительное организационное со
+ брание в 09:00 в Подиумном зале
+LOCATION:
+DESCRIPTION:1 пара · (получение паролей от ЭИОС\
+ , знакомство с ЭБС) · группы: З-МСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:83524ae1e7fc8184ccfc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Чимонина И.В. · группы: З-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:405a828b97fb6eac4114@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T155000
+DTEND;TZID=Europe/Moscow:20261012T172500
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e03f83501fa48e7be7b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T155000
+DTEND;TZID=Europe/Moscow:20261013T172500
+SUMMARY:Методология научных исследований (Л
+ екция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: З-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4de1cd3533888e24c4df@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T173500
+DTEND;TZID=Europe/Moscow:20261013T191000
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d25884abdedf1649342e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-308
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: З-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:449a63742e88a4705b24@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Современные проблемы и направления 
+ развития технической эксплуатации авто
+ мобилей (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:12c169a7bbb9f6101594@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T140500
+DTEND;TZID=Europe/Moscow:20261015T154000
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:feda28494f9467640571@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T155000
+DTEND;TZID=Europe/Moscow:20261015T172500
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Практик
+ а)
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1956db9c5a96b57b25a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261016T140500
+DTEND;TZID=Europe/Moscow:20261016T154000
+SUMMARY:Современные проблемы и направления 
+ развития технической эксплуатации авто
+ мобилей (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1b4368e40e4a27dcb8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Расчет и проектирование инфраструкт
+ уры предприятий автомобильного сервиса 
+ (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-МСТ-26
+ 1
+END:VEVENT
+END:VCALENDAR

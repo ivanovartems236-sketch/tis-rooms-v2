@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Торикова Е.Ф. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:901a1905c0801a9323f9@tis-rooms
+UID:1c2dbefd37d8e7707876@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T155000
 DTEND;TZID=Europe/Moscow:20261015T172500
@@ -25,5 +25,93 @@ SUMMARY:Основы туризма (Лекция)
 LOCATION:К-205
 DESCRIPTION:5 пара · Торикова Е.Ф. · группы: З-Т-26
  1\, З-Т-262
+END:VEVENT
+BEGIN:VEVENT
+UID:d4874bbdb3d1786841e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Технология и организация экскурсион
+ ных услуг (Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:697745c41d250a128d9e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Технология организации международн
+ ого туризма (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0d01374cae9856f6fc6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Технология организации международн
+ ого туризма (Лекция)
+LOCATION:К-201
+DESCRIPTION:3 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd8d6c25b3e6ef9ba3d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Технология и организация туроперато
+ рских и турагентских услуг (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1\, З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:76b3289ab7e7f6e215aa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Технология и организация туроперато
+ рских и турагентских услуг (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-241\, З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c77b8706b1a0098582fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Технология продвижения и продаж тур
+ истских продуктов (Лекция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:52d34af236458683ecb4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Технология продвижения и продаж тур
+ истских продуктов (Лекция)
+LOCATION:К-201
+DESCRIPTION:1 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8a80a97478f6cb2c81b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Организация и планирование деятельн
+ ости туристских предприятий (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
 END:VEVENT
 END:VCALENDAR

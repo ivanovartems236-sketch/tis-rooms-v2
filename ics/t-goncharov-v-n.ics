@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Гончаров В.Н. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,39 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0d2b6a09656980fcc86e@tis-rooms
+UID:07b9258fecac60902a80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T140500
+DTEND;TZID=Europe/Moscow:20261012T154000
+SUMMARY:Управление проектами (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Колосова О.Ю. / Гончаров В.Н.
+  / Черепов П.В. · группы: З-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6abcfdd0f01dbfd8a719@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T140500
+DTEND;TZID=Europe/Moscow:20261014T154000
+SUMMARY:Актуальные проблемы менеджмента (Ле
+ кция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Гончаров В.Н. / Семенова Н.В.
+  · группы: З-ММ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:37f8805161273615846a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed9482498696972a827@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T173500
 DTEND;TZID=Europe/Moscow:20261014T191000
@@ -27,7 +59,18 @@ DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В.
  · группы: О-МИСТ-261\, ОЗ-МИСТ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e362b8916bf1f3a65956@tis-rooms
+UID:9e09d5fe735887644120@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T101500
+DTEND;TZID=Europe/Moscow:20261015T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:63f24a3603bcf4fe96c6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
 DTEND;TZID=Europe/Moscow:20261019T154000
@@ -38,7 +81,7 @@ DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
  руппы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:39ce9574269e50767d2b@tis-rooms
+UID:a272b2d716c1c79da69c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T155000
 DTEND;TZID=Europe/Moscow:20261019T172500
@@ -49,7 +92,17 @@ DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
  руппы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:224904e9965e340b5bfd@tis-rooms
+UID:af72fdabee43db6a54de@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261022T155000
+DTEND;TZID=Europe/Moscow:20261022T172500
+SUMMARY:Логистика (Лекция)
+LOCATION:К-107
+DESCRIPTION:5 пара · Гончаров В.Н. / Семенова Н.В.
+  · группы: ОЗ-М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2099dd9bc487a0921fde@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T140500
 DTEND;TZID=Europe/Moscow:20261026T154000
@@ -59,7 +112,18 @@ DESCRIPTION:4 пара · Гончаров В.Н. / Ионова А.Ч. ·
  группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:52b17181a3be9482e73d@tis-rooms
+UID:5bcdded12573bc6b730d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4a186671dd6eb9662941@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T173500
 DTEND;TZID=Europe/Moscow:20261028T191000
@@ -67,5 +131,16 @@ SUMMARY:Управление проектами (Практика)
 LOCATION:К-406
 DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В. 
  · группы: О-МИСТ-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc7b183925c19f3403b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
 END:VEVENT
 END:VCALENDAR

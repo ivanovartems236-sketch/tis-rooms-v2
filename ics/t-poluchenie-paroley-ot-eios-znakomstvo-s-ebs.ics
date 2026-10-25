@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:(получение паролей от ЭИОС\, знакомство с ЭБС) — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f0fec292a578cec2cf6a@tis-rooms
+UID:7c5fee07069522d55649@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261012T083000
 DTEND;TZID=Europe/Moscow:20261012T100500
@@ -27,8 +27,10 @@ LOCATION:
 DESCRIPTION:1 пара · (получение паролей от ЭИОС\
  , знакомство с ЭБС) · группы: З-ИксМ-261\, З-И
  ксМ-262\, З-ИстТ-261\, З-ИстТ-262\, З-Ки-261\, З-Ки-262
- \, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-262\, З-Ст-261\, 
- З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, З-Т-262\, З-Тб-
- 261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
+ \, З-МИСТ-261\, З-МКИ-261\, З-ММ-261\, З-МСТ-261\, З-МС
+ Э-261\, З-МЭ-261\, З-Рт-261\, З-Рт-262\, З-Сп-261\, З-Сп-2
+ 62\, З-Ст-261\, З-Ст-262\, З-Сэ-261\, З-Сэ-262\, З-Т-261\, 
+ З-Т-262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Т
+ м-262
 END:VEVENT
 END:VCALENDAR

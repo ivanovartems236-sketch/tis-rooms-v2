@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ауд. К-602 — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c9e6b9d1a5f8aad0352f@tis-rooms
+UID:25a2440746763f1a3264@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T140500
 DTEND;TZID=Europe/Moscow:20261013T154000
@@ -28,7 +28,64 @@ DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:eb3b454e6c6bf0227a21@tis-rooms
+UID:69e031bf31f7d8019f1c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T101500
+DTEND;TZID=Europe/Moscow:20261023T115000
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:58a050f09d8b91b06fa5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261023T122000
+DTEND;TZID=Europe/Moscow:20261023T135500
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:db6eb1461a2a4e9441d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T140500
+DTEND;TZID=Europe/Moscow:20261026T154000
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9fae13bfed9b1a3e12ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T192000
+DTEND;TZID=Europe/Moscow:20261026T205500
+SUMMARY:Конструкции инженерных систем\, внут
+ ридомового и внутриквартирного оборудо
+ вания (Практика)
+LOCATION:К-602
+DESCRIPTION:7 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:dda2de048b9d548715f9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Электрооборудование и электрохозяй
+ ство предприятий (Практика)
+LOCATION:К-602
+DESCRIPTION:3 пара · Субботин А.Е. / Фурсов В.А. · 
+ группы: З-Сэ-241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:222abcc4968d7de08520@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -37,5 +94,60 @@ SUMMARY:Менеджмент автотранспортных и серви
 LOCATION:К-602
 DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc1b63c5e4b7bf7a68f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:70c97be57282ed82d8e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Теория механизмов и основы проектир
+ ования (Лекция)
+LOCATION:К-602
+DESCRIPTION:3 пара · Калинина А.С. · группы: З-Тм-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa43d063473df52032c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Технология и организация туроперато
+ рских и турагентских услуг (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1\, З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1bbed069388bca27a55e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Автоэксплуатационные материалы (Пра
+ ктика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Ториков А.В. · группы: З-Ст-24
+ 1\, З-Ст-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7d514498e059a122ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Энергосбережение и энергоаудит (Лек
+ ция)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
 END:VEVENT
 END:VCALENDAR

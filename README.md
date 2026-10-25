@@ -15,7 +15,12 @@
 **Устройство**
 - `scraper/rasp.py` — скачивание и разбор xls
 - `scraper/build.py` — пишет `data.json`, `changes.json`, `ics/`, шлёт изменения в Telegram
-- `.github/workflows/update.yml` — запуск каждый час (06–20 МСК, пн–сб)
+- `.github/workflows/update.yml` — тесты, затем сборка: 07:05 и 19:05 МСК пн–сб + вс 18:05
+- `tests/` — тесты парсера на реальных файлах stis.su (`tests/fixtures/`)
+
+**Защита данных.** Сборка останавливается и не трогает сайт, если не скачался хоть один файл,
+не разобрано ни одного занятия или будущих занятий стало меньше на 40%+ (обойти: `--force`).
+Выкладка нового расписания пишется в ленту одной строкой, а не сотней «добавлено».
 - `index.html`, `app.js`, `style.css`, `sw.js` — сайт (GitHub Pages)
 
 **Настройка**
@@ -23,11 +28,13 @@
 2. Actions → «Обновление расписания» → Run workflow.
 3. Telegram (необязательно): создай бота у @BotFather, добавь его в канал/чат, затем
    Settings → Secrets and variables → Actions → New repository secret:
-   `TG_TOKEN` — токен бота, `TG_CHAT` — id чата или `@имя_канала`.
+   `TG_TOKEN` — токен бота, `TG_CHAT` — id чата или `@имя_канала`,
+   `TG_ADMIN` — твой личный chat id для алертов о сбоях сборки (необязательно).
 
 **Локально**
 ```
-pip install openpyxl
+pip install openpyxl pytest
+python -m pytest -q                   # тесты
 python scraper/build.py               # скачать и собрать
 python scraper/build.py --from DIR    # собрать из скачанных файлов
 python -m http.server                 # открыть http://localhost:8000

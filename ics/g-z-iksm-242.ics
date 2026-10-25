@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-ИксМ-242 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a749a23ee7ded879cd97@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Мониторинг и тестирование в система
+ х мобильной связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d12dd9a6913e7b1d1a22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:6 пара · Петров О.П. · группы: З-ИксМ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:08aa4e909278147cfec3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-ИксМ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:35ebe66d716f9bcd2807@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Сети и системы широкополосного дост
+ упа и Интернета вещей (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ef935b1affb25f73d6cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Сети и системы мобильной связи (Лекц
+ ия)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e2fbe88c9e3d30d0ab79@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Волоконно-оптические системы связи (
+ Лекция)
+LOCATION:К-504
+DESCRIPTION:5 пара · Гривенная Н.В. · группы: З-И
+ ксМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:96e7e11538934e46dd4b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Радиоприемные устройства (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:17a11a0d2897a0e25679@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f62a0c0ad74419a74137@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-ИксМ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:4703bcd472dfac688f3e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Основы помехоустойчивой радиосвязи 
+ (Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:41feb97652efe0c2dde3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Сети и системы мобильной связи (Прак
+ тика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e8799028bf14f1c4a735@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Техническая эксплуатация систем моб
+ ильной связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d25812902b3155050ed7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a159768c597dcdf096da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Системы подвижной радиосвязи (Лекци
+ я)
+LOCATION:К-506
+DESCRIPTION:5 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca74e854c8e5d4014d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:1 пара · Черепов П.В. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd8feabe185582c247f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-401
+DESCRIPTION:2 пара · Черепов П.В. · группы: З-Икс
+ М-242
+END:VEVENT
+END:VCALENDAR

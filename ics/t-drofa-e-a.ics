@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Дрофа Е.А. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,26 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:555211d80da32aaf3cc4@tis-rooms
+UID:ae82d9c527b3fd57b7f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T122000
+DTEND;TZID=Europe/Moscow:20261012T135500
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f3682f6e63c647116eb9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261013T122000
+DTEND;TZID=Europe/Moscow:20261013T135500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-501
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd1bfaa1b7e07a69b5b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T140500
 DTEND;TZID=Europe/Moscow:20261013T154000
@@ -27,7 +46,7 @@ LOCATION:К-301
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:4b045609a490d132fb29@tis-rooms
+UID:6965eb6bd75154a0818b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T155000
 DTEND;TZID=Europe/Moscow:20261013T172500
@@ -36,7 +55,17 @@ LOCATION:К-503
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:39f3ba3f7e7a327d7b06@tis-rooms
+UID:7760eff251b809fc66a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef2da2394a54210a5f1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T140500
 DTEND;TZID=Europe/Moscow:20261014T154000
@@ -46,7 +75,17 @@ LOCATION:К-301
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:ac142984086b7dea850e@tis-rooms
+UID:592c3a86a18df61d8a5a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:819b57fb58b2a5178f2a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T173500
 DTEND;TZID=Europe/Moscow:20261014T191000
@@ -57,7 +96,7 @@ LOCATION:К-308
 DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:ec6494e327a4810903e8@tis-rooms
+UID:d9b169b6354fd141bb11@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T192000
 DTEND;TZID=Europe/Moscow:20261014T205500
@@ -68,7 +107,17 @@ LOCATION:К-308
 DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:6da86fd09a752a1ddae7@tis-rooms
+UID:406009e69e2f9bbb481a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261015T122000
+DTEND;TZID=Europe/Moscow:20261015T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7047e38af19f6b707ddb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T140500
 DTEND;TZID=Europe/Moscow:20261015T154000
@@ -79,7 +128,7 @@ LOCATION:К-609
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:c2341584cabce7f9d7ed@tis-rooms
+UID:7f6767032ce05820eb8c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T155000
 DTEND;TZID=Europe/Moscow:20261015T172500
@@ -89,7 +138,7 @@ LOCATION:К-308
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:88c386c00ec8e660136d@tis-rooms
+UID:90292929c824c575a59d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T173500
 DTEND;TZID=Europe/Moscow:20261015T191000
@@ -100,27 +149,29 @@ LOCATION:К-308
 DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:3c876741ef53ea3abe56@tis-rooms
+UID:107ad7fca3a922c3eede@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T101500
 DTEND;TZID=Europe/Moscow:20261016T115000
 SUMMARY:Конструирование изделий легкой пром
  ышленности (Лекция)
 LOCATION:К-503
-DESCRIPTION:2 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: О-Ки-241\, 
+ ОЗ-Ки-241
 END:VEVENT
 BEGIN:VEVENT
-UID:e6f96c8e797e20574510@tis-rooms
+UID:5582cbd16d4e3ca08a85@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T122000
 DTEND;TZID=Europe/Moscow:20261016T135500
 SUMMARY:Конструктивное моделирование одежд
  ы (Лекция)
 LOCATION:К-503
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-241\, 
+ ОЗ-Ки-241
 END:VEVENT
 BEGIN:VEVENT
-UID:542cc0ccf62c53e75f3e@tis-rooms
+UID:5eca6beadacb490c1c0b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T140500
 DTEND;TZID=Europe/Moscow:20261016T154000
@@ -131,7 +182,7 @@ DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
  руппы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:4f46c325b692eff61bbb@tis-rooms
+UID:d5bfb1ca8d954a968211@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T140500
 DTEND;TZID=Europe/Moscow:20261016T154000
@@ -141,7 +192,7 @@ LOCATION:К-612
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:80474ab452a18bf94352@tis-rooms
+UID:a859f55564fbce225818@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T155000
 DTEND;TZID=Europe/Moscow:20261016T172500
@@ -152,7 +203,7 @@ DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
  руппы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:482aeb9c19305157727d@tis-rooms
+UID:5c8ed0c80dff9155746d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T155000
 DTEND;TZID=Europe/Moscow:20261016T172500
@@ -161,7 +212,7 @@ LOCATION:К-612
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:f4873643cbb9931b910a@tis-rooms
+UID:9c2f9fbecb2e0bf85a88@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
 DTEND;TZID=Europe/Moscow:20261019T154000
@@ -172,7 +223,7 @@ DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
  руппы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:b0d17dbbbf612f759783@tis-rooms
+UID:b646327d4af10595fa1e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T155000
 DTEND;TZID=Europe/Moscow:20261019T172500
@@ -183,7 +234,7 @@ DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
  руппы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:afa3f9e59f5ea234b7bc@tis-rooms
+UID:8e4193cc15a12406dd92@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T140500
 DTEND;TZID=Europe/Moscow:20261020T154000
@@ -194,7 +245,7 @@ DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
  руппы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:67f527bd1e3cbbdb19af@tis-rooms
+UID:46e71cf6b6f7d76165ad@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T155000
 DTEND;TZID=Europe/Moscow:20261020T172500
@@ -205,7 +256,29 @@ DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
  руппы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:54b64863e3ddaec1547c@tis-rooms
+UID:cbfd115e2b459f283bc2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T101500
+DTEND;TZID=Europe/Moscow:20261021T115000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1d9bd652b36b5355c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261021T122000
+DTEND;TZID=Europe/Moscow:20261021T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:45d9911fbf480c252cc5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T140500
 DTEND;TZID=Europe/Moscow:20261021T154000
@@ -216,7 +289,7 @@ LOCATION:К-301
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:878153611ee8082a209d@tis-rooms
+UID:d82db30a5cb1221fc6ed@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T155000
 DTEND;TZID=Europe/Moscow:20261021T172500
@@ -227,7 +300,7 @@ LOCATION:К-301
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:3a77e2a76c6809de5d67@tis-rooms
+UID:016e71727f368c451ba4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T140500
 DTEND;TZID=Europe/Moscow:20261023T154000
@@ -237,7 +310,7 @@ LOCATION:К-503
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:a0e42e03ed06337f2d4c@tis-rooms
+UID:ca2a51c0a8eccba0bf17@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T155000
 DTEND;TZID=Europe/Moscow:20261023T172500
@@ -248,7 +321,7 @@ LOCATION:К-503
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:616d68891d0b0cea45eb@tis-rooms
+UID:e54c37a513ed5f7b8360@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T173500
 DTEND;TZID=Europe/Moscow:20261023T191000
@@ -259,7 +332,7 @@ LOCATION:К-301
 DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:6681ad80952a08e0061b@tis-rooms
+UID:1ec42b82d3a25145558a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T192000
 DTEND;TZID=Europe/Moscow:20261023T205500
@@ -270,7 +343,29 @@ LOCATION:К-301
 DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:28daca15b47f2be86303@tis-rooms
+UID:492bcfced51f29af5582@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Ки-241\, 
+ З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:79d280c4eb1a918676d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Устойчивость функционирования пред
+ приятий в чрезвычайных ситуациях (Лекци
+ я)
+LOCATION:К-609
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:4167526d3ffe5779d80c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -280,7 +375,7 @@ LOCATION:К-301
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:9a70d10af20e2fd8e190@tis-rooms
+UID:286c9cb6737a39dd32f5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T155000
 DTEND;TZID=Europe/Moscow:20261027T172500
@@ -289,7 +384,27 @@ LOCATION:К-503
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:250e0d7cff6609f47324@tis-rooms
+UID:1e473648e07c9f5fbd09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:634bbb5a4b9dd08944e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d43a38a28d97ec2ebd6b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T140500
 DTEND;TZID=Europe/Moscow:20261028T154000
@@ -299,7 +414,48 @@ LOCATION:К-301
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:aa13becc05de1050d613@tis-rooms
+UID:fe27377a207f69a6392d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Надежность технических систем и тех
+ ногенный риск (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:629ebc00526bd9d80a39@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ca167c0d5b9997ebd275@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f1aec3c97ea350ac1e96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Управление техносферной безопаснос
+ тью (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Погребной М.Н. / Дрофа Е.А. · 
+ группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3bbd8ba813adfcff0e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T140500
 DTEND;TZID=Europe/Moscow:20261029T154000
@@ -310,7 +466,7 @@ LOCATION:К-609
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:41f957fb92dda30fa04f@tis-rooms
+UID:d8426dbe1ac5b076ad74@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T155000
 DTEND;TZID=Europe/Moscow:20261029T172500
@@ -320,7 +476,7 @@ LOCATION:К-308
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:8bed3e64ea71f6afaf16@tis-rooms
+UID:f16be8aa4d883cb49207@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T173500
 DTEND;TZID=Europe/Moscow:20261029T191000
@@ -331,27 +487,29 @@ LOCATION:К-308
 DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:bc7e2fa0456dd5a0b69e@tis-rooms
+UID:0de18ecdebc392909371@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T101500
 DTEND;TZID=Europe/Moscow:20261030T115000
 SUMMARY:Конструирование изделий легкой пром
  ышленности (Лекция)
 LOCATION:К-503
-DESCRIPTION:2 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: О-Ки-241\, 
+ ОЗ-Ки-241
 END:VEVENT
 BEGIN:VEVENT
-UID:7befd9a6dcf42f07c513@tis-rooms
+UID:ed4799ea121d906ee0ce@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T122000
 DTEND;TZID=Europe/Moscow:20261030T135500
 SUMMARY:Конструктивное моделирование одежд
  ы (Лекция)
 LOCATION:К-503
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-241\, 
+ ОЗ-Ки-241
 END:VEVENT
 BEGIN:VEVENT
-UID:f9c6f2b6f11b058c469c@tis-rooms
+UID:463baec140f999d0798b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T140500
 DTEND;TZID=Europe/Moscow:20261030T154000
@@ -361,12 +519,44 @@ LOCATION:К-612
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:ae1785c3ccbde21d7b4e@tis-rooms
+UID:6a34ca024faca0748224@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Управление техносферной безопаснос
+ тью (Практика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Погребной М.Н. / Дрофа Е.А. · 
+ группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:83740a2102ba3ea83486@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T155000
 DTEND;TZID=Europe/Moscow:20261030T172500
 SUMMARY:Управление проектами (Лекция)
 LOCATION:К-612
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:44ed55e9c24ff997291f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T173500
+DTEND;TZID=Europe/Moscow:20261030T191000
+SUMMARY:Устойчивость функционирования пред
+ приятий в чрезвычайных ситуациях (Лаб.)
+LOCATION:К-609
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:db066665be9d3910537b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства Целиковская О.С./ (Л
+ аб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Ки-242
 END:VEVENT
 END:VCALENDAR

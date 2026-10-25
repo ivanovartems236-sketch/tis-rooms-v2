@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Сэ-242 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8ea8d9c94f27d8c853c8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T155000
+DTEND;TZID=Europe/Moscow:20261026T172500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:5 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:d7d49120518abf51e652@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:6 пара · Петров О.П. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b441484dddc5411c1cff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T192000
+DTEND;TZID=Europe/Moscow:20261026T205500
+SUMMARY:Электрооборудование и электрохозяй
+ ство предприятий (Лекция)
+LOCATION:К-204
+DESCRIPTION:7 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:41608b694ce9147e1c85@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5e49569a176eca174f77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Электрооборудование и электрохозяй
+ ство предприятий (Практика)
+LOCATION:К-602
+DESCRIPTION:3 пара · Субботин А.Е. / Фурсов В.А. · 
+ группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:2609f3748c2a22fe7d09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Энергосбережение и энергоаудит (Пра
+ ктика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b57ccee4a430bd9746c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T155000
+DTEND;TZID=Europe/Moscow:20261027T172500
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Лекц
+ ия)
+LOCATION:К-204
+DESCRIPTION:5 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5cd69631531b0cd9e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T122000
+DTEND;TZID=Europe/Moscow:20261028T135500
+SUMMARY:Электробезопасность (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Макеенко И.П. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:fea113abd0a542dad8fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Лекция)
+LOCATION:К-607
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7b3c71b9504a16f611@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:4cbefb97ed4dad59ae9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fc98fbbcf5b0bbca93d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Технологии продвижения и продаж в се
+ рвисе (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Чимонина И.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:3249ab88cdd071f762ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-205
+DESCRIPTION:4 пара · Субботин А.Е. / Лазарева Н.В.
+  · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6dd10d8f864e4ecf22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Сервисное обслуживание систем элект
+ роснабжения (Практика)
+LOCATION:К-604
+DESCRIPTION:5 пара · Субботин А.Е. / Фурсов В.А. · 
+ группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd8ee4ec4ff22dba170@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Инновации в сервисе (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Фурмов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9285957efd7ba88c395c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Энергосбережение и энергоаудит (Лек
+ ция)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+END:VCALENDAR

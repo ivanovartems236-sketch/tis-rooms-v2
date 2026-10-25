@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Горяинов М.Ф. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,53 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:703174e80a73e89578d8@tis-rooms
+UID:638c94ba12065da22abd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T083000
+DTEND;TZID=Europe/Moscow:20261017T100000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e25a338d9c34eb87e9ff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T101000
+DTEND;TZID=Europe/Moscow:20261017T114000
+SUMMARY:Основы автомобильной электроники (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb54bd855d951b6de4d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T121000
+DTEND;TZID=Europe/Moscow:20261017T134000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:74054c1138eaf0b891fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261017T140000
+DTEND;TZID=Europe/Moscow:20261017T153000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e3d1b58f55eff9938ce1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261017T154000
 DTEND;TZID=Europe/Moscow:20261017T171000
@@ -28,7 +74,38 @@ DESCRIPTION:5 пара · Горяинов М.Ф. · группы: ОЗ-И
  ксМ-241
 END:VEVENT
 BEGIN:VEVENT
-UID:464ecc637302d4362cdc@tis-rooms
+UID:ccf13d59bce14f727b0d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T083000
+DTEND;TZID=Europe/Moscow:20261024T100000
+SUMMARY:Метрология и радиоизмерения (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:02080088d64ebaab84d2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T101000
+DTEND;TZID=Europe/Moscow:20261024T114000
+SUMMARY:Метрология и радиоизмерения (Практи
+ ка)
+LOCATION:К-413
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:620440128845646808f3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T121000
+DTEND;TZID=Europe/Moscow:20261024T134000
+SUMMARY:Метрология и радиоизмерения (Лаб.)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: О-Рт-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:22d328bac1b745e717db@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261024T140000
 DTEND;TZID=Europe/Moscow:20261024T153000
@@ -37,5 +114,130 @@ SUMMARY:Метрология\, стандартизация и сертиф
 LOCATION:К-413
 DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-И
  ксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e59d043daddd7c6dd67f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T154000
+DTEND;TZID=Europe/Moscow:20261024T171000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6ca0ee9bff69fe4305@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261024T173500
+DTEND;TZID=Europe/Moscow:20261024T191000
+SUMMARY:Основы автомобильной электроники (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd87e60bb8ed5a6979@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:4c543cee1713189859f7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T173500
+DTEND;TZID=Europe/Moscow:20261030T191000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:e972607038e069c898da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:404d719f8025a2356686@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Основы автомобильной электроники (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:157f7a0d5c742f1cc522@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T121000
+DTEND;TZID=Europe/Moscow:20261031T134000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd373555481a6fb4481@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T121000
+DTEND;TZID=Europe/Moscow:20261031T134000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bb67b6f5e67c3addc28e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T140000
+DTEND;TZID=Europe/Moscow:20261031T153000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:262ba7bd6ba58ce7e7f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T140000
+DTEND;TZID=Europe/Moscow:20261031T153000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d292fd7787d364ab80ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T154000
+DTEND;TZID=Europe/Moscow:20261031T171000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лаб.)
+LOCATION:К-413
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
 END:VEVENT
 END:VCALENDAR

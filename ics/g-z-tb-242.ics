@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Тб-242 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:777f14242bed30f79581@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261026T173500
+DTEND;TZID=Europe/Moscow:20261026T191000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:6 пара · Петров О.П. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:2cdb22142cc4cdbcef81@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T101500
+DTEND;TZID=Europe/Moscow:20261027T115000
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fbeced9806e03ead833d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Устойчивость функционирования пред
+ приятий в чрезвычайных ситуациях (Лекци
+ я)
+LOCATION:К-609
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:38cf6f463aaa98c3fb62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T140500
+DTEND;TZID=Europe/Moscow:20261027T154000
+SUMMARY:Производственная санитария и гигиен
+ а труда (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e8ad20b99dfb4759ac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T140500
+DTEND;TZID=Europe/Moscow:20261028T154000
+SUMMARY:Основы экономической деятельности п
+ редприятий (Лекция)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Тб-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe11961d2772f47061c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Надежность технических систем и тех
+ ногенный риск (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:03ebf9ab1ba7a96c42f7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T122000
+DTEND;TZID=Europe/Moscow:20261029T135500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:52944c6d4dd81884e188@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T140500
+DTEND;TZID=Europe/Moscow:20261029T154000
+SUMMARY:Управление техносферной безопаснос
+ тью (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Погребной М.Н. / Дрофа Е.А. · 
+ группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f786483fa3d3e7ce5afa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Культурология (Лекция)
+LOCATION:К-301
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:9f30b06918524590288e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8cfe60dfcee9eb13c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T155000
+DTEND;TZID=Europe/Moscow:20261030T172500
+SUMMARY:Управление техносферной безопаснос
+ тью (Практика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Погребной М.Н. / Дрофа Е.А. · 
+ группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:23026e85361f7858b656@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T173500
+DTEND;TZID=Europe/Moscow:20261030T191000
+SUMMARY:Устойчивость функционирования пред
+ приятий в чрезвычайных ситуациях (Лаб.)
+LOCATION:К-609
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:01d01023fbe3a73d9f92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Производственная санитария и гигиен
+ а труда (Практика)
+LOCATION:К-609
+DESCRIPTION:1 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0b93320731729a69df38@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Специальная оценка условий труда (Ле
+ кция)
+LOCATION:К-609
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fc51e2448b69644c63cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T121000
+DTEND;TZID=Europe/Moscow:20261031T134000
+SUMMARY:Безопасность в чрезвычайных ситуаци
+ ях (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Кутин А.О. · группы: З-Тб-242
+END:VEVENT
+END:VCALENDAR

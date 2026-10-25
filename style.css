@@ -37,6 +37,7 @@ h2{font-size:1.9rem;margin:0;letter-spacing:-.02em;line-height:1.1;text-wrap:bal
 h3{font-size:1rem;margin:0}
 .sub{color:var(--muted);font-size:.84rem;margin:2px 0 0}
 
+.stale{background:var(--warn-soft);color:var(--fg);border-left:3px solid var(--warn);border-radius:10px;padding:8px 12px;font-size:.88rem}
 .install{display:flex;justify-content:space-between;align-items:center;gap:8px;background:var(--accent-soft);color:var(--fg);border-radius:10px;padding:8px 8px 8px 12px;font-size:.88rem}
 
 .tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;margin-inline:-4px;padding:2px 4px}

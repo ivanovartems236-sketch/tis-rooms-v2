@@ -5,8 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Кудашина В.Л. — ТИС
 X-WR-TIMEZONE:Europe/Moscow
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
 BEGIN:VTIMEZONE
 TZID:Europe/Moscow
 BEGIN:STANDARD
@@ -17,7 +17,7 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1190032643c354d95da7@tis-rooms
+UID:2d8f927ccc1e9ba40729@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261012T101500
 DTEND;TZID=Europe/Moscow:20261012T115000
@@ -27,7 +27,18 @@ DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
  стТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:09ab9d06ec2c8a323f37@tis-rooms
+UID:a64fb169c763227b0f66@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261012T173500
+DTEND;TZID=Europe/Moscow:20261012T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: З-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:811d5d58100ea1b8ad3f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T140500
 DTEND;TZID=Europe/Moscow:20261013T154000
@@ -38,7 +49,7 @@ DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e7484fdc2913014096b6@tis-rooms
+UID:42ef60383bde929b23e9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T155000
 DTEND;TZID=Europe/Moscow:20261013T172500
@@ -51,7 +62,7 @@ DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Ик
  -262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Тм-261\, З-Тм-262
 END:VEVENT
 BEGIN:VEVENT
-UID:de31feecbb88f4ec3c3e@tis-rooms
+UID:603eccbff6465da5fee9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261013T173500
 DTEND;TZID=Europe/Moscow:20261013T191000
@@ -62,7 +73,29 @@ DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:15e6731f48a1ae400ff1@tis-rooms
+UID:7750cb3ca6c63c35da2d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T122000
+DTEND;TZID=Europe/Moscow:20261014T135500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-308
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: З-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:204c07b14597dc9e34de@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261014T155000
+DTEND;TZID=Europe/Moscow:20261014T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-ММ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:4beb8821753a7be69ccf@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261014T173500
 DTEND;TZID=Europe/Moscow:20261014T191000
@@ -73,19 +106,20 @@ DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МЭ-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:e4c4040062b973e6df82@tis-rooms
+UID:12db2a24ccb07ec03ef9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261015T101500
 DTEND;TZID=Europe/Moscow:20261015T115000
 SUMMARY:Психология командной работы и лидер
  ства (Лекция)
 LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- ксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу
- -242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:c50710e04a31e1615ed5@tis-rooms
+UID:48d9050c93f1efacbbee@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261016T122000
 DTEND;TZID=Europe/Moscow:20261016T135500
@@ -96,7 +130,7 @@ DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e37a9bce6ef18caecb43@tis-rooms
+UID:72ff5163e8e8618ac50e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T155000
 DTEND;TZID=Europe/Moscow:20261020T172500
@@ -107,7 +141,7 @@ DESCRIPTION:5 пара · Кудашина В.Л. · группы: О-МЭ-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:4b5a955c91745350e144@tis-rooms
+UID:aa7c2d483cfc9e2a1450@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T173500
 DTEND;TZID=Europe/Moscow:20261020T191000
@@ -118,7 +152,7 @@ DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:b090ad818df66cd87594@tis-rooms
+UID:e778b9aeaf8901c5cd3f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T101500
 DTEND;TZID=Europe/Moscow:20261026T115000
@@ -128,7 +162,7 @@ DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
  стТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
-UID:fa1003ab908b51bb7bf7@tis-rooms
+UID:e505f0cda2685f0581ce@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500
 DTEND;TZID=Europe/Moscow:20261027T154000
@@ -139,7 +173,7 @@ DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
  Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
-UID:9bd6e2cafb340ef9a56c@tis-rooms
+UID:7f7ec01ee70b636fa3cd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T173500
 DTEND;TZID=Europe/Moscow:20261027T191000
@@ -150,7 +184,7 @@ DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:0dd3c29f722cc474239b@tis-rooms
+UID:939d27b9dd2869a39bba@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261028T173500
 DTEND;TZID=Europe/Moscow:20261028T191000
@@ -161,19 +195,30 @@ DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МЭ-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:15c3dad40ca78b668d0a@tis-rooms
+UID:3fb37e851c0d8202ed4f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T101500
 DTEND;TZID=Europe/Moscow:20261029T115000
 SUMMARY:Психология командной работы и лидер
  ства (Лекция)
 LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- ксМ-241\, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу
- -242\, ОЗ-Эпо-241\, ОЗ-Эпо-242
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
-UID:cff6287afad943467757@tis-rooms
+UID:f0afc956c68c4912db7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Культурология (Лекция)
+LOCATION:К-301
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:f752a7f63dd731416efa@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261030T122000
 DTEND;TZID=Europe/Moscow:20261030T135500
@@ -182,5 +227,17 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
  сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
  Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7e77fe578e9ae19d9111@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261030T140500
+DTEND;TZID=Europe/Moscow:20261030T154000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-241\, З-Ки-242\,
+  З-Рт-241\, З-Рт-242\, З-Тб-242\, З-Тм-241\, З-Тм-242
 END:VEVENT
 END:VCALENDAR

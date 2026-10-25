@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Надеина А.Е. — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4ac5be536ef4e9239d0e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261027T122000
+DTEND;TZID=Europe/Moscow:20261027T135500
+SUMMARY:Технология организации международн
+ ого туризма (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:97c202a8160d4c0bec07@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T155000
+DTEND;TZID=Europe/Moscow:20261028T172500
+SUMMARY:Маркетинг в туристской индустрии (Пр
+ актика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Надеина А.Е. / Семенова Л.В. 
+ · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:1ffdd811352e2e1cd0b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261028T173500
+DTEND;TZID=Europe/Moscow:20261028T191000
+SUMMARY:Страхование в туризме (Практика)
+LOCATION:К-205
+DESCRIPTION:6 пара · Надеина А.Е. / Чимонина И.В. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9825cece40551cad6da3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T155000
+DTEND;TZID=Europe/Moscow:20261029T172500
+SUMMARY:Технология и организация туроперато
+ рских и турагентских услуг (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-241\, З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b48abfb0a8de20cbe43f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T173500
+DTEND;TZID=Europe/Moscow:20261029T191000
+SUMMARY:Менеджмент в туристской индустрии (П
+ рактика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Надеина А.Е. / Семенова Л.В. 
+ · группы: З-Т-241
+END:VEVENT
+END:VCALENDAR

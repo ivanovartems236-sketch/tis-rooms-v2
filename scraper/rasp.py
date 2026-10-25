@@ -3,6 +3,7 @@ import datetime as dt
 import io
 import os
 import re
+import urllib.error
 import urllib.parse
 import urllib.request
 import warnings
@@ -15,12 +16,15 @@ SKIP = ("rasp_exam", "zaschita")  # экзамены и ВКР — другой 
 DAYS = ["ПОНЕДЕЛЬНИК", "ВТОРНИК", "СРЕДА", "ЧЕТВЕРГ", "ПЯТНИЦА", "СУББОТА", "ВОСКРЕСЕНЬЕ"]
 KINDS = {"л": 1, "пр": 2, "лаб": 3}  # 0 — не указано
 ROOM_RE = re.compile(r"^[А-ЯЁA-Z]{1,3}(-\d+[А-Яа-яA-Za-z]?)?$")
-SHEET_RE = re.compile(r"(\d{1,2})\.(\d{1,2})\s*-\s*(\d{1,2})\.(\d{1,2})")
+_FIO = r"[А-ЯЁ][а-яё]+(?:-[А-ЯЁ][а-яё]+)?\s+[А-ЯЁ]\.\s?[А-ЯЁ]\."
+ONE_LINE_RE = re.compile(rf"^(.+?)\s+({_FIO}(?:\s*/\s*{_FIO})*)(?:\s+({ROOM_RE.pattern[1:-1]}))?$")
+SHEET_RE =re.compile(r"(\d{1,2})\.(\d{1,2})\s*-\s*(\d{1,2})\.(\d{1,2})")
 UA = {"User-Agent": "Mozilla/5.0 (tis-rooms schedule bot)"}
 
 
 def http_get(url):
-    req = urllib.request.Request(url, headers=UA)
+    # в именах файлов на stis.su бывают пробелы и кириллица — без кодирования urllib их не скачивает
+    req = urllib.request.Request(urllib.parse.quote(url, safe=":/?&=%#,"), headers=UA)
     with urllib.request.urlopen(req, timeout=40) as r:  # проверка HTTPS включена
         return r.read()
 
@@ -36,19 +40,25 @@ def schedule_links():
 
 
 def download_all(folder, log=print):
+    """Возвращает (скачано, не скачано). Ссылки с 404 — мёртвые на самом сайте, их не считаем ошибкой."""
     os.makedirs(folder, exist_ok=True)
     links = schedule_links()
-    ok = 0
+    ok, failed = 0, 0
     for i, url in enumerate(links):
         name = f"{i:02d}_" + re.sub(r'[\\/:*?"<>|,\s]+', "_", urllib.parse.unquote(url.split("/")[-1]))
         try:
+            data = http_get(url)
             with open(os.path.join(folder, name), "wb") as fh:
-                fh.write(http_get(url))
+                fh.write(data)
             ok += 1
+        except urllib.error.HTTPError as e:
+            log(f"ошибка {url}: {e}")
+            failed += e.code != 404
         except Exception as e:
             log(f"ошибка {url}: {e}")
+            failed += 1
     log(f"скачано {ok} из {len(links)}")
-    return ok
+    return ok, failed
 
 
 def sheet_dates(title, ref):
@@ -74,6 +84,11 @@ def parse_cell(v):
     lines = [l.strip() for l in str(v).split("\n") if l.strip()]
     m = re.match(r"^(лаб|пр|л)\.\s*(.*)$", lines[0])
     kind, subj = (KINDS[m.group(1)], m.group(2)) if m else (0, lines[0])
+    if len(lines) == 1:
+        # заочка: «Предмет Фамилия И.О. К-204» одной строкой
+        m = ONE_LINE_RE.match(subj)
+        if m:
+            return kind, m.group(1).strip(), re.sub(r"\s+", " ", m.group(2)).strip(), m.group(3) or ""
     toks = (lines[-1] if len(lines) > 1 else "").split()
     room = toks.pop() if toks and ROOM_RE.match(toks[-1]) else ""
     if len(lines) > 2:
@@ -92,9 +107,10 @@ def parse_sheet(ws):
               for mr in ws.merged_cells.ranges if mr.min_row > hdr and mr.max_col > mr.min_col}
     out, day = [], None
     for r in range(hdr + 1, ws.max_row + 1):
-        a = str(ws.cell(r, 1).value or "").strip().upper()
-        if a in DAYS:
-            day = DAYS.index(a)
+        a = str(ws.cell(r, 1).value or "").upper().split()  # бывает «05 октября\nПОНЕДЕЛЬНИК»
+        found = [w for w in a if w in DAYS]
+        if found:
+            day = DAYS.index(found[-1])
         try:
             pair = int(str(ws.cell(r, 2).value).strip())
         except (TypeError, ValueError):
