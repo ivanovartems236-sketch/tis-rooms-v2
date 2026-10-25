@@ -1,11 +1,10 @@
 // Виджет «Кабинеты ТИС» v2 для приложения Scriptable (iPhone).
-// 1) Впиши адрес своего сайта в SITE.
-// 2) Добавь виджет Scriptable → выбери этот скрипт → в Parameter впиши, что показывать:
+// Добавь виджет Scriptable → выбери этот скрипт → в Parameter впиши, что показывать:
 //      К-121            — аудитория (СЗ — спортзал)
 //      г:О-Исп-9-241    — группа
 //      п:Петров         — преподаватель (можно часть фамилии)
 //    Работает и на экране блокировки (покажет текущую/следующую пару).
-const SITE = "https://ИМЯ.github.io/РЕПОЗИТОРИЙ/";
+const SITE = "https://ivanovartems236-sketch.github.io/tis-rooms-v2/";
 
 const param = (args.widgetParameter || "СЗ").trim();
 let mode = "room", sel = param;

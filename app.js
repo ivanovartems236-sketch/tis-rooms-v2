@@ -226,7 +226,7 @@ function viewEntity() {
         h("div", { class: "body" },
           h("div", { class: "subj" }, p === ns.cur ? h("span", { class: "chip now" }, "сейчас") : null,
             i.k ? h("span", { class: "chip k" + i.k }, KN[i.k]) : null, i.s),
-          who.length ? h("div", { class: "who" }, joinNodes(who.map(w => typeof w === "string" ? w : w), " · ")) : null,
+          who.length ? h("div", { class: "who" }, joinNodes(who, " · ")) : null,
           groups ? h("div", { class: "who mono" }, groups) : null)));
     }
   }
@@ -333,7 +333,7 @@ function viewStats() {
 
 /* ---------- режим: изменения ---------- */
 function viewChanges() {
-  const view = [h("div", { class: "head" }, h("h2", {}, "Изменения"), h("span", { class: "meta" }, "сравнение с прошлой проверкой, каждый час"))];
+  const view = [h("div", { class: "head" }, h("h2", {}, "Изменения"), h("span", { class: "meta" }, "сравнение с прошлой проверкой, дважды в день"))];
   if (!CHANGES.length) { view.push(h("div", { class: "empty" }, "Пока изменений не было. Как только в расписании что-то поменяют, это появится здесь.")); return view; }
   const favSet = new Set(st.favs.map(f => f.v));
   let lastAt = "";
@@ -375,6 +375,17 @@ function render() {
   $("chBadge").textContent = fresh;
   if (st.mode === "changes" && CHANGES[0]) ls("tis2-seenChanges", CHANGES[0].at);
   $("updated").textContent = UPDATED ? `Обновлено ${UPDATED} · расписание до ${MAXD ? dm(fromIso(MAXD)) : "—"}` : "Нет данных";
+  renderStale();
+}
+
+/* сторож: робот давно не обновлял данные или сегодня позже последнего дня в расписании */
+function renderStale() {
+  const m = /^(\d{2})\.(\d{2})\.(\d{4}) (\d{2}):(\d{2})$/.exec(UPDATED), el = $("stale");
+  let msg = "";
+  if (m && Date.now() - new Date(+m[3], m[2] - 1, +m[1], +m[4], +m[5]) > 2 * 864e5) msg = `Данные не обновлялись с ${m[1]}.${m[2]} — расписание могло устареть.`;
+  else if (MAXD && iso(new Date()) > MAXD && wdi(new Date()) < 6) msg = "Расписания на эту неделю здесь ещё нет.";
+  el.hidden = !msg;
+  if (msg) el.replaceChildren(msg + " Проверь ", h("a", { href: "https://stis.su/schedule", target: "_blank", rel: "noopener" }, "stis.su/schedule"), ".");
 }
 
 /* ---------- события ---------- */
@@ -436,7 +447,6 @@ load();
 setInterval(() => { if (!document.hidden) render(); }, 60000);
 document.addEventListener("visibilitychange", () => {
   if (document.hidden) return;
-  if (st.date < today0() && iso(st.date) !== iso(new Date())) { /* оставляем выбранный день */ }
   if (Date.now() - lastLoad > 5 * 60000) load(); else render();
 });
 if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
