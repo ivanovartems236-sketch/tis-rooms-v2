@@ -6,6 +6,7 @@
 
 python scraper/build.py               — скачать с stis.su и собрать
 python scraper/build.py --from DIR    — собрать из уже скачанных файлов
+python scraper/build.py --force       — пропустить проверку на обвал числа занятий
 """
 import datetime as dt
 import hashlib
@@ -25,6 +26,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MSK = dt.timezone(dt.timedelta(hours=3))
 KIND_NAMES = ["", "Лекция", "Практика", "Лаб."]
 MAX_CHANGES = 300
+PUBLISH_MIN = 10   # столько новых «группа-день» за прогон считаем выкладкой расписания
+DROP_LIMIT = 0.4   # будущих занятий стало меньше на 40% — источник, скорее всего, сломан
 
 
 def teachers_of(s):
@@ -70,12 +73,16 @@ def describe(vals):
 def diff(old, new, today, now_str):
     if not old:
         return []
-    old_max = max(l[0] for l in old)
     om, nm = slot_map(old), slot_map(new)
+    # Дни групп, которых раньше не было вовсе. Если их много — выложили новый файл/неделю,
+    # это одна запись «выложено расписание», а не сотни «добавлено».
+    old_days = {(d, g) for d, p, g in om}
+    fresh = {(d, g) for d, p, g in nm if d >= today and (d, g) not in old_days}
+    published = len(fresh) >= PUBLISH_MIN
     raw = {}
     for key in set(om) | set(nm):
         d, p, g = key
-        if d < today or d > old_max:
+        if d < today or (published and (d, g) in fresh):
             continue
         a, b = om.get(key, set()), nm.get(key, set())
         if a != b:
@@ -85,9 +92,9 @@ def diff(old, new, today, now_str):
     for (d, p, a, b), gs in sorted(raw.items()):
         out.append({"at": now_str, "type": "lesson", "d": d, "p": p, "g": sorted(gs),
                     "before": json.loads(a), "after": json.loads(b)})
-    new_dates = sorted({l[0] for l in new if l[0] > old_max})
-    if new_dates:
-        out.append({"at": now_str, "type": "week", "d": new_dates[0], "to": new_dates[-1]})
+    if published:
+        dates = sorted({d for d, g in fresh})
+        out.append({"at": now_str, "type": "week", "d": dates[0], "to": dates[-1]})
     return out
 
 
@@ -119,8 +126,7 @@ def change_text(c):
 
 
 def telegram(changes):
-    token, chat = os.environ.get("TG_TOKEN"), os.environ.get("TG_CHAT")
-    if not (token and chat and changes):
+    if not changes:
         return
     lines = [change_text(c) for c in changes]
     text = "Изменения в расписании ТИС:\n\n" + "\n".join(lines[:30])
@@ -129,6 +135,19 @@ def telegram(changes):
     site = os.environ.get("SITE_URL")
     if site:
         text += f"\n\n{site}#changes"
+    tg_send(os.environ.get("TG_CHAT"), text)
+
+
+def fail(msg):
+    """Старые данные не трогаем, пишем владельцу в личку (TG_ADMIN, не в канал) и падаем — GitHub пришлёт письмо."""
+    tg_send(os.environ.get("TG_ADMIN"), "⚠️ Сборка расписания остановлена: " + msg)
+    sys.exit(msg)
+
+
+def tg_send(chat, text):
+    token = os.environ.get("TG_TOKEN")
+    if not (token and chat):
+        return
     body = urllib.parse.urlencode({"chat_id": chat, "text": text[:4000], "disable_web_page_preview": "true"}).encode()
     try:
         urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", body, timeout=20).read()
@@ -178,7 +197,7 @@ def ics_time(d, t, end=False):
 def write_calendar(path, title, events, stamp):
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//tis-rooms//RU", "CALSCALE:GREGORIAN",
              "METHOD:PUBLISH", f"X-WR-CALNAME:{ics_escape(title)}", "X-WR-TIMEZONE:Europe/Moscow",
-             "REFRESH-INTERVAL;VALUE=DURATION:PT1H", "X-PUBLISHED-TTL:PT1H",
+             "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H",
              "BEGIN:VTIMEZONE", "TZID:Europe/Moscow", "BEGIN:STANDARD", "DTSTART:19700101T000000",
              "TZOFFSETFROM:+0300", "TZOFFSETTO:+0300", "TZNAME:MSK", "END:STANDARD", "END:VTIMEZONE"]
     for ev in events:
@@ -245,18 +264,27 @@ def write_json(path, obj):
 def main():
     now = dt.datetime.now(MSK)
     today = now.date()
-    if len(sys.argv) > 2 and sys.argv[1] == "--from":
-        folder = sys.argv[2]
+    args = sys.argv[1:]
+    force = "--force" in args  # пропустить проверку на обвал, если уверен, что расписание правда сократилось
+    if "--from" in args:
+        folder = args[args.index("--from") + 1]
     else:
         folder = tempfile.mkdtemp()
-        if not rasp.download_all(folder):
-            sys.exit("Не удалось скачать ни одного файла — данные не трогаю")
+        ok, failed = rasp.download_all(folder)
+        if not ok:
+            fail("не удалось скачать ни одного файла")
+        if failed:
+            fail(f"не скачалось файлов: {failed} — частичные данные дали бы ложные изменения")
     lessons = rasp.lessons_from_folder(folder, today)
     if not lessons:
-        sys.exit("Нет данных — данные не трогаю")
+        fail("из файлов не разобрано ни одного занятия")
 
     data_path, changes_path = os.path.join(ROOT, "data.json"), os.path.join(ROOT, "changes.json")
     old = decode(read_json(data_path, None))
+    fut_old = sum(1 for l in old if l[0] >= today.isoformat())
+    fut_new = sum(1 for l in lessons if l[0] >= today.isoformat())
+    if not force and fut_old >= 50 and fut_new < fut_old * (1 - DROP_LIMIT):
+        fail(f"будущих занятий стало {fut_new} вместо {fut_old} (−{100 - 100 * fut_new // fut_old}%)")
     now_str = now.strftime("%Y-%m-%d %H:%M")
     new_changes = diff(old, lessons, today.isoformat(), now_str)
     changes = read_json(changes_path, [])
