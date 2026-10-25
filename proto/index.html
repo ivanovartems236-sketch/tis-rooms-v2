@@ -65,6 +65,8 @@ input{font:inherit}
 .days button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
 .days button[aria-pressed="true"] .w,.days button[aria-pressed="true"] .n{color:inherit}
 .days button.has::after{content:"";width:4px;height:4px;border-radius:50%;background:currentColor;opacity:.5;margin-top:3px}
+.days.sticky{position:sticky;top:0;z-index:3;background:var(--bg);margin:0 -16px 12px;padding:6px 16px}
+.back{flex:none;border:0;background:none;color:var(--accent);font-weight:600;padding:6px 4px 6px 0;font-size:.95rem}
 .days .arr{color:var(--muted);font-size:1.1rem}
 
 h2{font-size:1.15rem;margin:4px 0 10px}
@@ -240,7 +242,7 @@ function pairTimes(date) {
 const st = {
   profiles: ls("proto-profiles") || [],
   cur: ls("proto-cur") || 0,
-  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null,
+  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [],
 };
 const me = () => st.view || st.profiles[st.cur] || null;
 function saveProfiles() { ls("proto-profiles", st.profiles); ls("proto-cur", st.cur); }
@@ -250,7 +252,21 @@ function addProfile(e, makeCur = true) {
   if (makeCur) st.cur = i;
   st.view = null; saveProfiles();
 }
-const go = (tab, extra) => { Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0); };
+const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0); };
+const TAB_NAME = { today: "Сегодня", week: "Неделя", find: "Найти", more: "Ещё" };
+function drill(tab, extra) {
+  st.stack.push({ tab: st.tab, date: st.date, view: st.view, q: st.q, y: scrollY });
+  history.pushState({ proto: st.stack.length }, "");
+  Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0);
+}
+addEventListener("popstate", () => {
+  const prev = st.stack.pop(); if (!prev) return;
+  const y = prev.y; delete prev.y;
+  Object.assign(st, prev); render(); scrollTo(0, y);
+});
+const backBtn = () => st.stack.length ? h("button", { class: "back", onclick: () => history.back() }, "‹ " + TAB_NAME[st.stack[st.stack.length - 1].tab]) : null;
+/* свободные аудитории и аналитика — для преподавателей и «просто посмотреть», студенту не нужны */
+const forStaff = () => { const p = st.profiles[st.cur]; return !p || p.type !== "group"; };
 
 /* ---------- онбординг ---------- */
 function viewOnboarding() {
@@ -276,7 +292,7 @@ function viewOnboarding() {
 
 /* ---------- шапка профилей ---------- */
 function profileBar() {
-  return h("div", { class: "top" }, h("div", { class: "profiles" },
+  return h("div", { class: "top" }, backBtn(), h("div", { class: "profiles" },
     st.profiles.map((p, i) => h("button", { class: "prof", "aria-pressed": !st.view && i === st.cur ? "true" : "false",
       onclick: () => { st.cur = i; st.view = null; saveProfiles(); render(); } }, p.type === "room" ? roomName(p.v) : p.v, h("small", {}, TYPE[p.type]))),
     h("button", { class: "prof add", onclick: () => go("find") }, "+ добавить")));
@@ -323,7 +339,7 @@ function hero(e) {
 }
 function dayStrip(onPick) {
   const mon = addDays(st.date, -wdi(st.date)), e = me(), t = iso(today());
-  return h("div", { class: "days" },
+  return h("div", { class: "days sticky" },
     h("button", { class: "arr", "aria-label": "Прошлая неделя", onclick: () => { st.date = addDays(st.date, -7); render(); } }, "‹"),
     Array.from({ length: 6 }, (_, i) => { const d = addDays(mon, i), k = iso(d);
       return h("button", { class: (k === t ? "today " : "") + (e && dayItems(k, e).length ? "has" : ""), "aria-pressed": k === iso(st.date) ? "true" : "false",
@@ -361,8 +377,8 @@ function viewToday() {
   if (!e) return [h("div", { class: "empty", style: "margin-top:40px" }, "Профиль не выбран. ", h("button", { class: "link", onclick: () => { st.onb = null; ls("proto-skip", null); render(); } }, "Выбрать группу"))];
   const sel = iso(st.date), isToday = sel === iso(today());
   return [profileBar(), viewingBar(),
-    isToday ? hero(e) : null,
     dayStrip(),
+    isToday ? hero(e) : null,
     h("div", { class: "hrow" }, h("h2", {}, isToday ? "Сегодня" : `${WDL[wdi(st.date)]}, ${dm(st.date)}`), dayItems(sel, e).length ? shareBtn("day") : null),
     lessonList(sel, e)];
 }
@@ -380,7 +396,7 @@ function viewWeek() {
     Array.from({ length: 6 }, (_, i) => {
       const d = addDays(mon, i), k = iso(d), items = dayItems(k, e);
       return h("div", { class: "wday" + (k === t ? " today" : "") },
-        h("button", { class: "hd", onclick: () => go("today", { date: d }) }, WDL[i], h("span", {}, dm(d) + (items.length ? ` · ${items.length} ${items.length === 1 ? "пара" : items.length < 5 ? "пары" : "пар"}` : ""))),
+        h("button", { class: "hd", onclick: () => drill("today", { date: d }) }, WDL[i], h("span", {}, dm(d) + (items.length ? ` · ${items.length} ${items.length === 1 ? "пара" : items.length < 5 ? "пары" : "пар"}` : ""))),
         items.length ? items.map(x => h("div", { class: "wrow" }, h("span", { class: "p" }, x.p), h("span", { class: "tm" }, x.m ? hm(x.m[0]) : ""),
           h("span", { class: "sj" }, x.s), h("span", { class: "rm" }, e.type === "room" ? (x.gs.length > 1 ? x.gs.length + " гр." : x.gs[0]) : roomName(x.r || "—"))))
           : h("div", { class: "muted", style: "font-size:.85rem" }, k > MAXD ? "ещё не выложено" : "нет пар"));
@@ -396,8 +412,12 @@ function viewFind() {
   if (q) {
     const res = [];
     for (const type of ["group", "room", "teacher"]) for (const v of lists[type]) if (v.toLowerCase().includes(q) || (type === "room" && v === "СЗ" && "спортзал".includes(q))) res.push({ type, v });
-    view.push(h("div", { class: "res" }, res.slice(0, 30).map(e => h("button", { onclick: () => { st.q = ""; go("today", { view: e, date: today() }); } }, h("b", {}, roomName(e.v)), h("small", {}, TYPE[e.type])))),
+    view.push(h("div", { class: "res" }, res.slice(0, 30).map(e => h("button", { onclick: () => drill("today", { view: e, date: today() }) }, h("b", {}, roomName(e.v)), h("small", {}, TYPE[e.type])))),
       res.length ? null : h("div", { class: "empty" }, "Ничего не нашлось"));
+    return view;
+  }
+  if (!forStaff()) {
+    view.push(h("p", { class: "muted", style: "font-size:.9rem" }, "Найди любую группу, аудиторию или преподавателя — и сохрани ★, чтобы переключаться в один тап."));
     return view;
   }
   view.push(h("h3", {}, "Свободные аудитории"));
@@ -419,7 +439,7 @@ function viewFind() {
   for (const b of Object.keys(byB).sort((a, c) => a.localeCompare(c, "ru"))) {
     view.push(h("h3", { style: "margin-top:12px" }, b === "К" ? "Корпус К" : b === "В" ? "Корпус В" : b === "СЗ" ? "Спортзал" : b),
       h("div", { class: "rooms" }, byB[b].map(r => { const n = streak(r);
-        return h("button", { onclick: () => go("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, h("b", {}, r), h("small", {}, n >= ps.length - ps.indexOf(st.freePair) ? "до конца дня" : `свободна ${n} ${n === 1 ? "пару" : n < 5 ? "пары" : "пар"}`)); })));
+        return h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, h("b", {}, r), h("small", {}, n >= ps.length - ps.indexOf(st.freePair) ? "до конца дня" : `свободна ${n} ${n === 1 ? "пару" : n < 5 ? "пары" : "пар"}`)); })));
   }
   return view;
 }
@@ -445,7 +465,7 @@ function viewMore() {
     view.push(h("a", { class: "big", href: "webcal://" + url.host + url.pathname, style: "text-decoration:none;color:inherit" }, h("span", { class: "ic" }, "📆"),
       h("div", {}, h("b", {}, "Подписаться в «Календаре»"), h("span", {}, `${e.v} — пары появятся в телефоне и будут обновляться`))));
   } else view.push(h("div", { class: "empty" }, "Выбери профиль, чтобы подписаться."));
-  view.push(h("h3", {}, "Для учебной части"),
+  if (forStaff()) view.push(h("h3", {}, "Для преподавателей"),
     h("a", { class: "big", href: "../#grid", style: "text-decoration:none;color:inherit" }, h("span", { class: "ic" }, "▦"), h("div", {}, h("b", {}, "Шахматка"), h("span", {}, "Все аудитории × пары за день"))),
     h("a", { class: "big", href: "../#stats", style: "text-decoration:none;color:inherit" }, h("span", { class: "ic" }, "📊"), h("div", {}, h("b", {}, "Загрузка аудиторий"), h("span", {}, "Аналитика за неделю"))));
   view.push(h("h3", {}, "Профили"),
