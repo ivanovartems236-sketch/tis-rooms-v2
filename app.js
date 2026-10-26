@@ -298,13 +298,13 @@ function viewFind() {
   const isToday = dday === iso(today());
   const times = pairTimes(dday), ps = Object.keys(times).map(Number).sort((a, b) => a - b), m = nowMin();
   const tm = p => mins(times[p]);
-  view.push(h("h2", { style: "margin:18px 0 2px" }, "Свободные аудитории"),
-    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Какие аудитории пустые на выбранной паре и сколько ещё будут пустыми. Нажми на аудиторию — откроется её день."));
+  view.push(h("h2", { style: "margin:18px 0 2px" }, "Пустые аудитории"),
+    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Выбери пару — покажу, где в это время нет занятий и до скольки там можно остаться."));
   if (!ps.length) { view.push(h("div", { class: "empty" }, "Нет данных на ближайшие дни.")); return view; }
   const curP = isToday ? (ps.find(p => tm(p) && m < tm(p)[1]) || ps[ps.length - 1]) : ps[0];
   if (st.freePair == null || !ps.includes(st.freePair)) st.freePair = curP;
   if (!isToday) view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Сегодня занятий нет — показываю ${WDL[wdi(fromIso(dday))].toLowerCase()}, ${dm(fromIso(dday))}.`));
-  view.push(h("div", { class: "lbl-sm" }, "На какую пару"),
+  view.push(h("div", { class: "lbl-sm" }, "Когда нужна аудитория"),
     h("div", { class: "pairs" }, ps.map(p => h("button", { class: isToday && tm(p) && m >= tm(p)[1] ? "past" : null, "aria-pressed": p === st.freePair ? "true" : "false", onclick: () => { st.freePair = p; render(); } },
       p === curP && isToday ? `Сейчас · ${p} пара` : `${p} пара`, h("small", {}, times[p].replace(/\./g, ":").replace("-", "–"))))));
   const busy = p => new Set((byDate.get(dday) || []).filter(l => l.p === p && l.r).map(l => l.r));
@@ -315,18 +315,18 @@ function viewFind() {
   const byUntil = new Map();
   for (const r of free) { const bp = rest.find(p => busyBy[p].has(r)) ?? null; (byUntil.get(bp) || byUntil.set(bp, []).get(bp)).push(r); }
   const pairs = n => `${n} ${n === 1 ? "пара" : n < 5 ? "пары" : "пар"}`;
-  view.push(h("p", { class: "muted", style: "margin:2px 0 4px;font-size:.85rem" }, free.length ? `Свободно ${free.length} из ${lists.room.length}` : "На эту пару всё занято."));
-  const keys = [...byUntil.keys()].sort((a, b) => a == null ? -1 : b == null ? 1 : b - a);
-  for (const bp of keys) {
-    const n = bp == null ? rest.length : rest.indexOf(bp);
+  view.push(h("p", { class: "muted", style: "margin:2px 0 8px;font-size:.85rem" }, free.length ? `Пусто ${free.length} из ${lists.room.length}` : "На эту пару всё занято."));
+  if (free.length) view.push(h("div", { class: "legend" }, "Полоска — пары дня:", h("i", { class: "f" }), "пусто", h("i", { class: "b" }), "занято"));
+  // дольше всех свободные — сверху
+  const rows = free.map(r => { const bp = rest.find(p => busyBy[p].has(r)) ?? null; return { r, bp, n: bp == null ? 99 : rest.indexOf(bp) }; })
+    .sort((x, y) => y.n - x.n || roomSort(x.r, y.r));
+  view.push(h("div", { class: "frows" }, rows.map(({ r, bp, n }) => {
     const at = bp == null ? "" : tm(bp) ? hm(tm(bp)[0]) : bp + " пары";
-    const title = bp == null ? "Свободны до конца дня" : n === 1 ? "Свободны только на эту пару" : `Свободны до ${at}`;
-    const note = bp == null ? "занятий в них больше нет" : n === 1 ? `с ${at} там занятие` : `${pairs(n)} подряд, с ${at} занятие`;
-    view.push(h("div", { class: "fgroup" + (bp == null ? " best" : n === 1 ? " short" : "") },
-      h("div", { class: "fh" }, h("b", {}, title), h("small", {}, note)),
-      h("div", { class: "rooms" }, byUntil.get(bp).sort(roomSort).map(r =>
-        h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, roomName(r))))));
-  }
+    const [cls, text] = bp == null ? ["ok", "свободна до конца дня"] : n === 1 ? ["warn", `только эта пара · в ${at} занятие`] : ["", `свободна до ${at} · ${pairs(n)}`];
+    return h("button", { class: "frow", onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) },
+      h("b", {}, roomName(r)), h("span", { class: "st " + cls }, text),
+      h("span", { class: "strip", "aria-hidden": "true" }, ps.map(p => h("i", { class: (busyBy[p].has(r) ? "b" : "f") + (p === st.freePair ? " sel" : p < st.freePair ? " old" : "") }, p))));
+  })));
   return view;
 }
 

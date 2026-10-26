@@ -142,12 +142,20 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 .pairs button.past{opacity:.5}
 .lbl-sm{font-size:.78rem;font-weight:600;color:var(--muted);margin:0 0 6px}
 /* свободные аудитории: группа «до скольки» + метки аудиторий */
-.fgroup{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px 12px 12px;margin-top:10px}
-.fgroup .fh{display:flex;flex-direction:column;gap:1px;margin-bottom:8px}
-.fgroup .fh small{color:var(--muted);font-size:.8rem}
-.fgroup.best{border-color:var(--lab);box-shadow:inset 3px 0 0 var(--lab)}
-.fgroup.best .fh b{color:var(--lab)}
-.fgroup.short .rooms button{background:var(--bg)}
+.legend{display:flex;align-items:center;gap:5px;font-size:.78rem;color:var(--muted);margin:0 0 8px}
+.legend i{width:12px;height:12px;border-radius:3px;margin-left:4px}
+.legend i.f,.strip i.f{background:var(--lab);color:var(--surface)}
+.legend i.b,.strip i.b{background:var(--line);color:var(--muted)}
+.frows{display:flex;flex-direction:column;gap:6px}
+.frow{display:grid;grid-template-columns:auto 1fr;grid-template-areas:"n strip" "st st";gap:4px 10px;align-items:center;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:9px 12px}
+.frow b{grid-area:n;font-family:var(--f-mono);font-size:1.02rem}
+.frow .st{grid-area:st;font-size:.84rem;color:var(--fg)}
+.frow .st.ok{color:var(--lab);font-weight:600}
+.frow .st.warn{color:var(--warn)}
+.strip{grid-area:strip;justify-self:end;display:flex;gap:3px}
+.strip i{width:20px;height:20px;border-radius:5px;font-style:normal;font-size:.68rem;font-weight:700;font-family:var(--f-mono);display:grid;place-items:center}
+.strip i.old{opacity:.35}
+.strip i.sel{outline:2px solid var(--fg);outline-offset:1px}
 .rooms{display:flex;flex-wrap:wrap;gap:6px}
 .rooms button{background:var(--lab-soft);color:var(--fg);border:1px solid transparent;border-radius:10px;padding:6px 10px;font-family:var(--f-mono);font-weight:600;font-size:.92rem}
 .btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:6px 12px;font-weight:600;font-size:.85rem}
