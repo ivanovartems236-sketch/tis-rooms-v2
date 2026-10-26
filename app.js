@@ -522,9 +522,12 @@ function render() {
   if (!L.length) return;
   const onb = onboarding();
   const v = onb ? viewOnboarding() : { today: viewToday, week: viewWeek, find: viewFind, more: viewMore, grid: viewGrid }[st.tab]();
+  // горизонтальная лента пар не должна прыгать в начало после перерисовки
+  const sx = $app.querySelector(".pairs")?.scrollLeft;
   $app.replaceChildren(...[NOWP ? h("div", { class: "demo" }, `демо-время: ${NOWP.replace("T", " ")}`) : null, v,
     onb ? null : h("p", { class: "foot" }, "Неофициальный сервис — при расхождениях верь ", h("a", { href: "https://stis.su/schedule", target: "_blank", rel: "noopener" }, "stis.su/schedule"), ".", h("br"), "© 2026 Артём Иванов")]
     .flat(Infinity).filter(x => x != null && x !== false));
+  const px = $app.querySelector(".pairs"); if (px && sx) px.scrollLeft = sx;
   $bar.hidden = onb;
   if (onb && st.onb && document.activeElement === document.body) $app.querySelector("input")?.focus();
   if (!onb) writeHash();
