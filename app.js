@@ -299,7 +299,7 @@ function viewFind() {
   const times = pairTimes(dday), ps = Object.keys(times).map(Number).sort((a, b) => a - b), m = nowMin();
   const tm = p => mins(times[p]);
   view.push(h("h2", { style: "margin:18px 0 2px" }, "Свободные аудитории"),
-    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Где провести занятие, отработку или консультацию. Нажми на аудиторию — откроется её день."));
+    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Какие аудитории пустые на выбранной паре и сколько ещё будут пустыми. Нажми на аудиторию — откроется её день."));
   if (!ps.length) { view.push(h("div", { class: "empty" }, "Нет данных на ближайшие дни.")); return view; }
   const curP = isToday ? (ps.find(p => tm(p) && m < tm(p)[1]) || ps[ps.length - 1]) : ps[0];
   if (st.freePair == null || !ps.includes(st.freePair)) st.freePair = curP;
@@ -319,9 +319,11 @@ function viewFind() {
   const keys = [...byUntil.keys()].sort((a, b) => a == null ? -1 : b == null ? 1 : b - a);
   for (const bp of keys) {
     const n = bp == null ? rest.length : rest.indexOf(bp);
-    const title = bp == null ? "До конца дня" : n === 1 ? `Только эту пару — до ${tm(bp) ? hm(tm(bp)[0]) : bp + " пары"}` : `До ${tm(bp) ? hm(tm(bp)[0]) : bp + " пары"}`;
+    const at = bp == null ? "" : tm(bp) ? hm(tm(bp)[0]) : bp + " пары";
+    const title = bp == null ? "Свободны до конца дня" : n === 1 ? "Свободны только на эту пару" : `Свободны до ${at}`;
+    const note = bp == null ? "занятий в них больше нет" : n === 1 ? `с ${at} там занятие` : `${pairs(n)} подряд, с ${at} занятие`;
     view.push(h("div", { class: "fgroup" + (bp == null ? " best" : n === 1 ? " short" : "") },
-      h("div", { class: "fh" }, h("b", {}, title), h("small", {}, bp == null ? (n > 1 ? pairs(n) + " подряд" : "") : n > 1 ? pairs(n) + " подряд" : "потом занята")),
+      h("div", { class: "fh" }, h("b", {}, title), h("small", {}, note)),
       h("div", { class: "rooms" }, byUntil.get(bp).sort(roomSort).map(r =>
         h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, roomName(r))))));
   }

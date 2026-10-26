@@ -143,7 +143,7 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 .lbl-sm{font-size:.78rem;font-weight:600;color:var(--muted);margin:0 0 6px}
 /* свободные аудитории: группа «до скольки» + метки аудиторий */
 .fgroup{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px 12px 12px;margin-top:10px}
-.fgroup .fh{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:8px}
+.fgroup .fh{display:flex;flex-direction:column;gap:1px;margin-bottom:8px}
 .fgroup .fh small{color:var(--muted);font-size:.8rem}
 .fgroup.best{border-color:var(--lab);box-shadow:inset 3px 0 0 var(--lab)}
 .fgroup.best .fh b{color:var(--lab)}
