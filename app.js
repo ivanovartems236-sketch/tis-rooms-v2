@@ -1,4 +1,6 @@
 "use strict";
+/* © 2026 Артём Иванов. Все права защищены.
+   Копирование, изменение и распространение без письменного разрешения автора запрещены (см. LICENSE). */
 /* Кабинеты ТИС v3 — «Куда идти?». Всё, что приходит из расписания, выводится только через textContent (helper h) */
 const KN = ["", "Лекция", "Практика", "Лаб."];
 const WD = ["пн", "вт", "ср", "чт", "пт", "сб", "вс"];
@@ -83,7 +85,7 @@ function migrate() {  // избранное со старого интерфей
 const st = {
   profiles: ls("tis3-profiles") || migrate(),
   cur: ls("tis3-cur") || 0,
-  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false,
+  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false, menu: false,
 };
 const me = () => st.view || st.profiles[st.cur] || null;
 function saveProfiles() { ls("tis3-profiles", st.profiles); ls("tis3-cur", st.cur); }
@@ -93,17 +95,17 @@ function addProfile(e, makeCur = true) {
   if (makeCur) st.cur = i;
   st.view = null; saveProfiles();
 }
-const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0); };
+const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab, menu: false, freePair: null }, extra || {}); render(); scrollTo(0, 0); };
 const TAB_NAME = { today: "Сегодня", week: "Неделя", find: "Найти", more: "Ещё", grid: "Шахматка" };
 function drill(tab, extra) {
   st.stack.push({ tab: st.tab, date: st.date, view: st.view, q: st.q, y: scrollY });
   history.pushState({ proto: st.stack.length }, "");
-  Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0);
+  Object.assign(st, { tab, menu: false }, extra || {}); render(); scrollTo(0, 0);
 }
 addEventListener("popstate", () => {
   const prev = st.stack.pop(); if (!prev) return;
   const y = prev.y; delete prev.y;
-  Object.assign(st, prev); render(); scrollTo(0, y);
+  Object.assign(st, prev, { menu: false }); render(); scrollTo(0, y);
 });
 const backBtn = () => st.stack.length ? h("button", { class: "back", onclick: () => history.back() }, "‹ " + TAB_NAME[st.stack[st.stack.length - 1].tab]) : null;
 /* свободные аудитории и аналитика — для преподавателей и «просто посмотреть», студенту не нужны */
@@ -118,7 +120,7 @@ function viewOnboarding() {
     h("button", { class: "big primary", onclick: () => { st.onb = "group"; render(); } }, h("span", { class: "ic" }, "🎓"), h("div", {}, h("b", {}, "Я студент"), h("span", {}, "Расписание моей группы"))),
     h("button", { class: "big", onclick: () => { st.onb = "teacher"; render(); } }, h("span", { class: "ic" }, "👩‍🏫"), h("div", {}, h("b", {}, "Я преподаватель"), h("span", {}, "Мои пары и окна"))),
     h("button", { class: "big", onclick: () => { st.onb = "skip"; ls("tis3-skip", 1); go("find"); } }, h("span", { class: "ic" }, "🔍"), h("div", {}, h("b", {}, "Просто посмотреть"), h("span", {}, "Аудитории, свободные кабинеты, любая группа"))),
-    h("p", { class: "foot" }, "Неофициальный сервис. Данные — stis.su/schedule."))];
+    h("p", { class: "foot" }, "Неофициальный сервис. Данные — stis.su/schedule. © 2026 Артём Иванов."))];
   const type = st.onb, q = st.q.toLowerCase();
   const found = lists[type].filter(v => v.toLowerCase().includes(q)).slice(0, 40);
   const input = h("input", { placeholder: type === "group" ? "Например, Исп-9-251" : "Фамилия", value: st.q, autocomplete: "off", spellcheck: "false",
@@ -131,18 +133,28 @@ function viewOnboarding() {
     found.length ? null : h("div", { class: "empty" }, "Ничего не нашлось"))];
 }
 
-/* ---------- шапка профилей ---------- */
+/* ---------- шапка: текущий профиль со стрелкой, по тапу — меню профилей ---------- */
+const TYPE_FULL = { group: "группа", teacher: "преподаватель", room: "аудитория" };
 function profileBar() {
-  return h("div", { class: "top" }, backBtn(), h("div", { class: "profiles" },
-    st.profiles.map((p, i) => h("button", { class: "prof", "aria-pressed": !st.view && i === st.cur ? "true" : "false",
-      onclick: () => { st.cur = i; st.view = null; saveProfiles(); render(); } }, p.type === "room" ? roomName(p.v) : p.v, h("small", {}, TYPE[p.type]))),
-    h("button", { class: "prof add", onclick: () => go("find") }, "+ добавить")));
+  const e = me();
+  const toggle = () => { st.menu = !st.menu; render(); };
+  return h("div", { class: "top" }, backBtn(),
+    h("button", { class: "who-btn", "aria-haspopup": "menu", "aria-expanded": st.menu ? "true" : "false", onclick: toggle },
+      h("span", { class: "nm" }, h("b", {}, e ? roomName(e.v) : "Выбери профиль"), h("span", { class: "caret", "aria-hidden": "true" }, "▾")),
+      h("small", {}, st.view ? "смотришь · не сохранено" : e ? TYPE_FULL[e.type] : "группа, аудитория или преподаватель")),
+    st.view ? [
+      h("button", { class: "btn primary", onclick: () => { addProfile(st.view); toast("Сохранено — переключайся по стрелке ▾"); render(); } }, "★ Сохранить"),
+      h("button", { class: "btn", "aria-label": "Закрыть", onclick: () => { st.view = null; render(); } }, "✕")] : null,
+    st.menu ? profileMenu() : null);
 }
-function viewingBar() {
-  if (!st.view) return null;
-  return h("div", { class: "viewing" }, h("b", {}, "Смотришь: " + (st.view.type === "room" ? roomName(st.view.v) : st.view.v)),
-    h("button", { class: "btn primary", onclick: () => { addProfile(st.view); toast("Сохранено — переключайся вверху"); render(); } }, "★ Сохранить"),
-    h("button", { class: "btn", "aria-label": "Закрыть", onclick: () => { st.view = null; render(); } }, "✕"));
+function profileMenu() {
+  const pick = fn => () => { st.menu = false; fn(); };
+  return [h("div", { class: "scrim", onclick: pick(render) }),
+    h("div", { class: "menu", role: "menu" },
+      st.profiles.map((p, i) => h("button", { role: "menuitemradio", "aria-checked": !st.view && i === st.cur ? "true" : "false",
+        onclick: pick(() => { st.cur = i; st.view = null; saveProfiles(); render(); }) }, h("b", {}, roomName(p.v)), h("small", {}, TYPE[p.type]))),
+      h("button", { class: "add", onclick: pick(() => go("find")) }, "+ добавить группу, аудиторию, преподавателя"),
+      st.profiles.length ? h("button", { class: "add", onclick: pick(() => go("more")) }, "Изменить список") : null)];
 }
 
 /* ---------- Сегодня ---------- */
@@ -199,29 +211,46 @@ function lessonList(date, e) {
     const d = fromIso(date);
     return [h("div", { class: "empty" }, wdi(d) === 6 ? "Воскресенье — отдыхаем." : date > MAXD ? `Расписание на эти дни ещё не выложено (есть до ${dm(fromIso(MAXD))}).` : e.type === "room" ? "Аудитория свободна весь день." : "Пар нет.")];
   }
+  /* студенту — таймлайн: линия слева заполняется по времени, видно, скоро ли конец пары.
+     Преподавателю и аудитории — просто список. Справа у всех колонка «куда»: кабинет (у аудитории — группы) */
+  const tl = e.type === "group", live = tl && isToday;
+  const real = all.filter(i => !i.cancel && i.m);
   const out = []; let prevEnd = null;
   for (const i of all) {
-    if (prevEnd != null && i.m && !i.cancel && i.m[0] - prevEnd >= 60) out.push(h("div", { class: "gap" }, (e.type === "room" ? "свободно " : "окно ") + dur(i.m[0] - prevEnd)));
+    const gapMin = prevEnd != null && i.m && !i.cancel ? i.m[0] - prevEnd : 0;
+    if (gapMin >= 60) out.push(h("div", { class: "gap" + (live && m >= i.m[0] ? " done" : "") }, (e.type === "room" ? "свободно " : "окно ") + dur(gapMin)));
     const changed = !i.cancel && chs.some(c => c.p === i.p && c.after && c.after.s === i.s);
-    const cls = "lesson" + (i.cancel ? " cancel" : "") + (isToday && i.m && m >= i.m[0] && m < i.m[1] ? " cur" : "") + (isToday && i.m && m >= i.m[1] ? " past" : "");
-    const who = e.type === "group" ? [i.r ? h("span", { class: "r" }, roomName(i.r)) : "без аудитории", " · ", i.te]
-      : e.type === "teacher" ? [i.r ? h("span", { class: "r" }, roomName(i.r)) : "без аудитории", " · ", i.gs.join(", ")]
-      : [i.te, " · ", i.gs.join(", ")];
+    const isCur = isToday && i.m && !i.cancel && m >= i.m[0] && m < i.m[1], isPast = isToday && i.m && m >= i.m[1];
+    const cls = "lesson" + (i.cancel ? " cancel" : "") + (isCur ? " cur" : "") + (isPast ? " past" : "");
+    const right = e.type === "room" ? (i.gs.length > 1 ? null : i.gs[0]) : i.r ? roomName(i.r) : "—";
+    const groups = e.type !== "group" && (e.type === "teacher" || i.gs.length > 1) ? h("div", { class: "gs" }, i.gs.map(g => h("span", {}, g))) : null;
+    const who = e.type === "group" ? `${i.p} пара · ${i.te}` : e.type === "teacher" ? `${i.p} пара` : `${i.p} пара · ${i.te}`;
+    let rail = null;
+    if (tl) {
+      // заполнение — от начала пары до начала следующей (последняя — до звонка)
+      const nx = i.m && real.find(x => x.m[0] > i.m[0]), end = i.m ? (nx ? nx.m[0] : i.m[1]) : 0;
+      const pct = live && i.m && !i.cancel ? Math.max(0, Math.min(100, 100 * (m - i.m[0]) / (end - i.m[0]))) : 0;
+      rail = h("div", { class: "rail" + (pct > 0 ? " on" : "") + (isCur ? " now" : "") }, h("i", { style: `height:${pct.toFixed(1)}%` }));
+    }
     out.push(h("div", { class: cls },
-      h("div", { class: "t" }, h("b", {}, i.m ? hm(i.m[0]) : i.p + " п."), i.m ? hm(i.m[1]) : ""),
+      h("div", { class: "t" }, h("b", {}, i.m ? hm(i.m[0]) : i.p + " п."), i.m ? hm(i.m[1]) : "",
+        live && isCur ? h("span", { class: "left" }, "ещё " + dur(i.m[1] - m)) : null),
+      rail,
       h("div", { class: "card" },
-        h("div", { class: "s" }, i.cancel ? h("span", { class: "chip nw" }, "отменено") : changed ? h("span", { class: "chip chg" }, "изменено") : null,
-          !i.cancel && i.k ? h("span", { class: "chip k" + i.k }, KN[i.k]) : null, i.s),
-        h("div", { class: "who" }, `${i.p} пара · `, who))));
+        h("div", { class: "main" },
+          h("div", { class: "s" }, i.cancel ? h("span", { class: "chip nw" }, "отменено") : changed ? h("span", { class: "chip chg" }, "изменено") : null,
+            !i.cancel && i.k ? h("span", { class: "chip k" + i.k }, KN[i.k]) : null, i.s),
+          h("div", { class: "who" }, who), groups),
+        right ? h("div", { class: "rt" + (e.type === "room" ? " sm" : "") }, right) : null)));
     if (!i.cancel && i.m) prevEnd = i.m[1];
   }
-  return out;
+  return tl ? [h("div", { class: "tl" }, out)] : out;
 }
 function viewToday() {
   const e = me();
   if (!e) return [staleBanner(), h("div", { class: "empty", style: "margin-top:40px" }, "Профиль не выбран. ", h("button", { class: "link", onclick: () => { st.onb = null; ls("tis3-skip", null); render(); } }, "Выбрать группу"))];
   const sel = iso(st.date), isToday = sel === iso(today());
-  return [staleBanner(), installHint(), profileBar(), viewingBar(),
+  return [staleBanner(), installHint(), profileBar(),
     dayStrip(),
     isToday ? hero(e) : null,
     h("div", { class: "hrow" }, h("h2", {}, isToday ? "Сегодня" : `${WDL[wdi(st.date)]}, ${dm(st.date)}`), dayItems(sel, e).length ? shareBtn("day") : null),
@@ -232,7 +261,7 @@ function viewToday() {
 function viewWeek() {
   const e = me(); if (!e) return viewToday();
   const mon = addDays(st.date, -wdi(st.date)), t = iso(today());
-  return [profileBar(), viewingBar(),
+  return [profileBar(),
     h("div", { class: "days", style: "grid-template-columns:28px 1fr 28px" },
       h("button", { class: "arr", onclick: () => { st.date = addDays(st.date, -7); render(); } }, "‹"),
       h("b", { style: "text-align:center" }, `Неделя ${dm(mon)} – ${dm(addDays(mon, 5))}`),
@@ -253,7 +282,8 @@ function viewFind() {
   const q = st.q.trim().toLowerCase(), view = [];
   const input = h("input", { placeholder: "Группа, аудитория или фамилия", value: st.q, autocomplete: "off", spellcheck: "false",
     oninput: ev => { st.q = ev.target.value; renderKeepFocus(); } });
-  view.push(st.profiles.length ? profileBar() : null, h("div", { class: "search" }, input));
+  view.push(st.profiles.length ? profileBar() : null, h("h2", { style: "margin:8px 0 2px" }, "Чьё расписание открыть"),
+    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Любая группа, аудитория или преподаватель."), h("div", { class: "search" }, input));
   if (q) {
     const res = [];
     for (const type of ["group", "room", "teacher"]) for (const v of lists[type]) if (v.toLowerCase().includes(q) || (type === "room" && v === "СЗ" && "спортзал".includes(q))) res.push({ type, v });
@@ -265,27 +295,40 @@ function viewFind() {
     view.push(h("p", { class: "muted", style: "font-size:.9rem" }, "Найди любую группу, аудиторию или преподавателя — и сохрани ★, чтобы переключаться в один тап."));
     return view;
   }
-  view.push(h("h3", {}, "Свободные аудитории"));
+  /* свободные аудитории: отвечаем на «куда пойти и до скольки» — группы по времени, когда аудиторию займут */
   const dday = byDate.has(iso(today())) ? iso(today()) : [...byDate.keys()].sort().find(k => k > iso(today())) || iso(today());
+  const isToday = dday === iso(today());
   const times = pairTimes(dday), ps = Object.keys(times).map(Number).sort((a, b) => a - b), m = nowMin();
+  const tm = p => mins(times[p]);
+  view.push(h("h2", { style: "margin:18px 0 2px" }, "Пустые аудитории"),
+    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Выбери пару — покажу, где в это время нет занятий и до скольки там можно остаться."));
   if (!ps.length) { view.push(h("div", { class: "empty" }, "Нет данных на ближайшие дни.")); return view; }
-  const curP = dday === iso(today()) ? (ps.find(p => { const t = mins(times[p]); return t && m < t[1]; }) || ps[ps.length - 1]) : ps[0];
+  const curP = isToday ? (ps.find(p => tm(p) && m < tm(p)[1]) || ps[ps.length - 1]) : ps[0];
   if (st.freePair == null || !ps.includes(st.freePair)) st.freePair = curP;
-  if (dday !== iso(today())) view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Сегодня занятий нет — показываю ${WDL[wdi(fromIso(dday))].toLowerCase()}, ${dm(fromIso(dday))}.`));
-  view.push(h("div", { class: "pairs" }, ps.map(p => h("button", { "aria-pressed": p === st.freePair ? "true" : "false", onclick: () => { st.freePair = p; render(); } },
-    `${p} пара` + (p === curP && dday === iso(today()) ? " · сейчас" : ""), h("small", {}, times[p].replace(/\./g, ":").replace("-", "–"))))));
+  if (!isToday) view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Сегодня занятий нет — показываю ${WDL[wdi(fromIso(dday))].toLowerCase()}, ${dm(fromIso(dday))}.`));
+  view.push(h("div", { class: "lbl-sm" }, "Когда нужна аудитория"),
+    h("div", { class: "pairs" }, ps.map(p => h("button", { class: isToday && tm(p) && m >= tm(p)[1] ? "past" : null, "aria-pressed": p === st.freePair ? "true" : "false", onclick: () => { st.freePair = p; render(); } },
+      p === curP && isToday ? `Сейчас · ${p} пара` : `${p} пара`, h("small", {}, times[p].replace(/\./g, ":").replace("-", "–"))))));
   const busy = p => new Set((byDate.get(dday) || []).filter(l => l.p === p && l.r).map(l => l.r));
   const busyBy = Object.fromEntries(ps.map(p => [p, busy(p)]));
+  const rest = ps.filter(p => p >= st.freePair);
   const free = lists.room.filter(r => !busyBy[st.freePair].has(r));
-  const streak = r => { let n = 0; for (const p of ps.filter(p => p >= st.freePair)) { if (busyBy[p].has(r)) break; n++; } return n; };
-  const byB = {};
-  free.forEach(r => (byB[/^([^\d-]+)-/.exec(r)?.[1] || r] ||= []).push(r));
-  view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Свободно ${free.length} из ${lists.room.length}. Цифра — сколько пар подряд свободна.`));
-  for (const b of Object.keys(byB).sort((a, c) => a.localeCompare(c, "ru"))) {
-    view.push(h("h3", { style: "margin-top:12px" }, b === "К" ? "Корпус К" : b === "В" ? "Корпус В" : b === "СЗ" ? "Спортзал" : b),
-      h("div", { class: "rooms" }, byB[b].map(r => { const n = streak(r);
-        return h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, h("b", {}, r), h("small", {}, n >= ps.length - ps.indexOf(st.freePair) ? "до конца дня" : `свободна на ${n} ${n === 1 ? "пару" : n < 5 ? "пары" : "пар"}`)); })));
-  }
+  // для каждой свободной — первая пара, на которой её займут (или null — до конца дня)
+  const byUntil = new Map();
+  for (const r of free) { const bp = rest.find(p => busyBy[p].has(r)) ?? null; (byUntil.get(bp) || byUntil.set(bp, []).get(bp)).push(r); }
+  const pairs = n => `${n} ${n === 1 ? "пара" : n < 5 ? "пары" : "пар"}`;
+  view.push(h("p", { class: "muted", style: "margin:2px 0 8px;font-size:.85rem" }, free.length ? `Пусто ${free.length} из ${lists.room.length}` : "На эту пару всё занято."));
+  if (free.length) view.push(h("div", { class: "legend" }, "Полоска — пары дня:", h("i", { class: "f" }), "пусто", h("i", { class: "b" }), "занято"));
+  // дольше всех свободные — сверху
+  const rows = free.map(r => { const bp = rest.find(p => busyBy[p].has(r)) ?? null; return { r, bp, n: bp == null ? 99 : rest.indexOf(bp) }; })
+    .sort((x, y) => y.n - x.n || roomSort(x.r, y.r));
+  view.push(h("div", { class: "frows" }, rows.map(({ r, bp, n }) => {
+    const at = bp == null ? "" : tm(bp) ? hm(tm(bp)[0]) : bp + " пары";
+    const [cls, text] = bp == null ? ["ok", "свободна до конца дня"] : n === 1 ? ["warn", `только эта пара · в ${at} занятие`] : ["", `свободна до ${at} · ${pairs(n)}`];
+    return h("button", { class: "frow", onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) },
+      h("b", {}, roomName(r)), h("span", { class: "st " + cls }, text),
+      h("span", { class: "strip", "aria-hidden": "true" }, ps.map(p => h("i", { class: (busyBy[p].has(r) ? "b" : "f") + (p === st.freePair ? " sel" : p < st.freePair ? " old" : "") }, p))));
+  })));
   return view;
 }
 
@@ -480,7 +523,7 @@ function render() {
   const onb = onboarding();
   const v = onb ? viewOnboarding() : { today: viewToday, week: viewWeek, find: viewFind, more: viewMore, grid: viewGrid }[st.tab]();
   $app.replaceChildren(...[NOWP ? h("div", { class: "demo" }, `демо-время: ${NOWP.replace("T", " ")}`) : null, v,
-    onb ? null : h("p", { class: "foot" }, "Неофициальный сервис — при расхождениях верь ", h("a", { href: "https://stis.su/schedule", target: "_blank", rel: "noopener" }, "stis.su/schedule"), ".")]
+    onb ? null : h("p", { class: "foot" }, "Неофициальный сервис — при расхождениях верь ", h("a", { href: "https://stis.su/schedule", target: "_blank", rel: "noopener" }, "stis.su/schedule"), ".", h("br"), "© 2026 Артём Иванов")]
     .flat(Infinity).filter(x => x != null && x !== false));
   $bar.hidden = onb;
   if (onb && st.onb && document.activeElement === document.body) $app.querySelector("input")?.focus();
