@@ -1,4 +1,6 @@
 "use strict";
+/* © 2026 Артём Иванов. Все права защищены.
+   Копирование, изменение и распространение без письменного разрешения автора запрещены (см. LICENSE). */
 /* Кабинеты ТИС v3 — «Куда идти?». Всё, что приходит из расписания, выводится только через textContent (helper h) */
 const KN = ["", "Лекция", "Практика", "Лаб."];
 const WD = ["пн", "вт", "ср", "чт", "пт", "сб", "вс"];
@@ -118,7 +120,7 @@ function viewOnboarding() {
     h("button", { class: "big primary", onclick: () => { st.onb = "group"; render(); } }, h("span", { class: "ic" }, "🎓"), h("div", {}, h("b", {}, "Я студент"), h("span", {}, "Расписание моей группы"))),
     h("button", { class: "big", onclick: () => { st.onb = "teacher"; render(); } }, h("span", { class: "ic" }, "👩‍🏫"), h("div", {}, h("b", {}, "Я преподаватель"), h("span", {}, "Мои пары и окна"))),
     h("button", { class: "big", onclick: () => { st.onb = "skip"; ls("tis3-skip", 1); go("find"); } }, h("span", { class: "ic" }, "🔍"), h("div", {}, h("b", {}, "Просто посмотреть"), h("span", {}, "Аудитории, свободные кабинеты, любая группа"))),
-    h("p", { class: "foot" }, "Неофициальный сервис. Данные — stis.su/schedule."))];
+    h("p", { class: "foot" }, "Неофициальный сервис. Данные — stis.su/schedule. © 2026 Артём Иванов."))];
   const type = st.onb, q = st.q.toLowerCase();
   const found = lists[type].filter(v => v.toLowerCase().includes(q)).slice(0, 40);
   const input = h("input", { placeholder: type === "group" ? "Например, Исп-9-251" : "Фамилия", value: st.q, autocomplete: "off", spellcheck: "false",
@@ -521,7 +523,7 @@ function render() {
   const onb = onboarding();
   const v = onb ? viewOnboarding() : { today: viewToday, week: viewWeek, find: viewFind, more: viewMore, grid: viewGrid }[st.tab]();
   $app.replaceChildren(...[NOWP ? h("div", { class: "demo" }, `демо-время: ${NOWP.replace("T", " ")}`) : null, v,
-    onb ? null : h("p", { class: "foot" }, "Неофициальный сервис — при расхождениях верь ", h("a", { href: "https://stis.su/schedule", target: "_blank", rel: "noopener" }, "stis.su/schedule"), ".")]
+    onb ? null : h("p", { class: "foot" }, "Неофициальный сервис — при расхождениях верь ", h("a", { href: "https://stis.su/schedule", target: "_blank", rel: "noopener" }, "stis.su/schedule"), ".", h("br"), "© 2026 Артём Иванов")]
     .flat(Infinity).filter(x => x != null && x !== false));
   $bar.hidden = onb;
   if (onb && st.onb && document.activeElement === document.body) $app.querySelector("input")?.focus();
