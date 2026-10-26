@@ -16,6 +16,7 @@ import re
 import shutil
 import sys
 import tempfile
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -144,6 +145,14 @@ def fail(msg):
     sys.exit(msg)
 
 
+def net_reason(e):
+    """Короткая причина сетевой ошибки без traceback: «HTTP 503», «gaierror: No address…», «TimeoutError»."""
+    if isinstance(e, urllib.error.HTTPError):
+        return f"HTTP {e.code}"
+    r = getattr(e, "reason", None) or e
+    return f"{type(r).__name__}: {r}" if str(r) else type(r).__name__
+
+
 def tg_send(chat, text):
     token = os.environ.get("TG_TOKEN")
     if not (token and chat):
@@ -270,7 +279,10 @@ def main():
         folder = args[args.index("--from") + 1]
     else:
         folder = tempfile.mkdtemp()
-        ok, failed = rasp.download_all(folder)
+        try:
+            ok, failed = rasp.download_all(folder)
+        except OSError as e:  # страница расписания недоступна даже после повтора
+            fail(f"stis.su недоступен: {net_reason(e)}")
         if not ok:
             fail("не удалось скачать ни одного файла")
         if failed:

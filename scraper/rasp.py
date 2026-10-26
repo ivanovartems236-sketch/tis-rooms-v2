@@ -3,6 +3,7 @@ import datetime as dt
 import io
 import os
 import re
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -22,11 +23,23 @@ SHEET_RE =re.compile(r"(\d{1,2})\.(\d{1,2})\s*-\s*(\d{1,2})\.(\d{1,2})")
 UA = {"User-Agent": "Mozilla/5.0 (tis-rooms schedule bot)"}
 
 
+RETRY_DELAY = 45  # с; один повтор при сбое сети (разовый DNS-сбой 26.10)
+
+
 def http_get(url):
     # в именах файлов на stis.su бывают пробелы и кириллица — без кодирования urllib их не скачивает
     req = urllib.request.Request(urllib.parse.quote(url, safe=":/?&=%#,"), headers=UA)
-    with urllib.request.urlopen(req, timeout=40) as r:  # проверка HTTPS включена
-        return r.read()
+    for attempt in (1, 2):
+        try:
+            with urllib.request.urlopen(req, timeout=40) as r:  # проверка HTTPS включена
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code < 500 or attempt == 2:  # 404 и прочие 4xx повтором не лечатся
+                raise
+        except OSError:  # DNS, таймаут, обрыв соединения (URLError — тоже OSError)
+            if attempt == 2:
+                raise
+        time.sleep(RETRY_DELAY)
 
 
 def schedule_links():
@@ -40,7 +53,8 @@ def schedule_links():
 
 
 def download_all(folder, log=print):
-    """Возвращает (скачано, не скачано). Ссылки с 404 — мёртвые на самом сайте, их не считаем ошибкой."""
+    """Возвращает (скачано, не скачано). Ссылки с 404 — мёртвые на самом сайте, их не считаем ошибкой.
+    На первой настоящей ошибке останавливаемся: сборка всё равно не пойдёт, а повторы съели бы timeout workflow."""
     os.makedirs(folder, exist_ok=True)
     links = schedule_links()
     ok, failed = 0, 0
@@ -53,10 +67,13 @@ def download_all(folder, log=print):
             ok += 1
         except urllib.error.HTTPError as e:
             log(f"ошибка {url}: {e}")
-            failed += e.code != 404
+            if e.code != 404:
+                failed += 1
+                break
         except Exception as e:
             log(f"ошибка {url}: {e}")
             failed += 1
+            break
     log(f"скачано {ok} из {len(links)}")
     return ok, failed
 
