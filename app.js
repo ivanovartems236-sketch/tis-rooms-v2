@@ -83,7 +83,7 @@ function migrate() {  // избранное со старого интерфей
 const st = {
   profiles: ls("tis3-profiles") || migrate(),
   cur: ls("tis3-cur") || 0,
-  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false,
+  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false, menu: false,
 };
 const me = () => st.view || st.profiles[st.cur] || null;
 function saveProfiles() { ls("tis3-profiles", st.profiles); ls("tis3-cur", st.cur); }
@@ -93,17 +93,17 @@ function addProfile(e, makeCur = true) {
   if (makeCur) st.cur = i;
   st.view = null; saveProfiles();
 }
-const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0); };
+const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab, menu: false }, extra || {}); render(); scrollTo(0, 0); };
 const TAB_NAME = { today: "Сегодня", week: "Неделя", find: "Найти", more: "Ещё", grid: "Шахматка" };
 function drill(tab, extra) {
   st.stack.push({ tab: st.tab, date: st.date, view: st.view, q: st.q, y: scrollY });
   history.pushState({ proto: st.stack.length }, "");
-  Object.assign(st, { tab }, extra || {}); render(); scrollTo(0, 0);
+  Object.assign(st, { tab, menu: false }, extra || {}); render(); scrollTo(0, 0);
 }
 addEventListener("popstate", () => {
   const prev = st.stack.pop(); if (!prev) return;
   const y = prev.y; delete prev.y;
-  Object.assign(st, prev); render(); scrollTo(0, y);
+  Object.assign(st, prev, { menu: false }); render(); scrollTo(0, y);
 });
 const backBtn = () => st.stack.length ? h("button", { class: "back", onclick: () => history.back() }, "‹ " + TAB_NAME[st.stack[st.stack.length - 1].tab]) : null;
 /* свободные аудитории и аналитика — для преподавателей и «просто посмотреть», студенту не нужны */
@@ -131,18 +131,28 @@ function viewOnboarding() {
     found.length ? null : h("div", { class: "empty" }, "Ничего не нашлось"))];
 }
 
-/* ---------- шапка профилей ---------- */
+/* ---------- шапка: текущий профиль со стрелкой, по тапу — меню профилей ---------- */
+const TYPE_FULL = { group: "группа", teacher: "преподаватель", room: "аудитория" };
 function profileBar() {
-  return h("div", { class: "top" }, backBtn(), h("div", { class: "profiles" },
-    st.profiles.map((p, i) => h("button", { class: "prof", "aria-pressed": !st.view && i === st.cur ? "true" : "false",
-      onclick: () => { st.cur = i; st.view = null; saveProfiles(); render(); } }, p.type === "room" ? roomName(p.v) : p.v, h("small", {}, TYPE[p.type]))),
-    h("button", { class: "prof add", onclick: () => go("find") }, "+ добавить")));
+  const e = me();
+  const toggle = () => { st.menu = !st.menu; render(); };
+  return h("div", { class: "top" }, backBtn(),
+    h("button", { class: "who-btn", "aria-haspopup": "menu", "aria-expanded": st.menu ? "true" : "false", onclick: toggle },
+      h("span", { class: "nm" }, h("b", {}, e ? roomName(e.v) : "Выбери профиль"), h("span", { class: "caret", "aria-hidden": "true" }, "▾")),
+      h("small", {}, st.view ? "смотришь · не сохранено" : e ? TYPE_FULL[e.type] : "группа, аудитория или преподаватель")),
+    st.view ? [
+      h("button", { class: "btn primary", onclick: () => { addProfile(st.view); toast("Сохранено — переключайся по стрелке ▾"); render(); } }, "★ Сохранить"),
+      h("button", { class: "btn", "aria-label": "Закрыть", onclick: () => { st.view = null; render(); } }, "✕")] : null,
+    st.menu ? profileMenu() : null);
 }
-function viewingBar() {
-  if (!st.view) return null;
-  return h("div", { class: "viewing" }, h("b", {}, "Смотришь: " + (st.view.type === "room" ? roomName(st.view.v) : st.view.v)),
-    h("button", { class: "btn primary", onclick: () => { addProfile(st.view); toast("Сохранено — переключайся вверху"); render(); } }, "★ Сохранить"),
-    h("button", { class: "btn", "aria-label": "Закрыть", onclick: () => { st.view = null; render(); } }, "✕"));
+function profileMenu() {
+  const pick = fn => () => { st.menu = false; fn(); };
+  return [h("div", { class: "scrim", onclick: pick(render) }),
+    h("div", { class: "menu", role: "menu" },
+      st.profiles.map((p, i) => h("button", { role: "menuitemradio", "aria-checked": !st.view && i === st.cur ? "true" : "false",
+        onclick: pick(() => { st.cur = i; st.view = null; saveProfiles(); render(); }) }, h("b", {}, roomName(p.v)), h("small", {}, TYPE[p.type]))),
+      h("button", { class: "add", onclick: pick(() => go("find")) }, "+ добавить группу, аудиторию, преподавателя"),
+      st.profiles.length ? h("button", { class: "add", onclick: pick(() => go("more")) }, "Изменить список") : null)];
 }
 
 /* ---------- Сегодня ---------- */
@@ -199,29 +209,46 @@ function lessonList(date, e) {
     const d = fromIso(date);
     return [h("div", { class: "empty" }, wdi(d) === 6 ? "Воскресенье — отдыхаем." : date > MAXD ? `Расписание на эти дни ещё не выложено (есть до ${dm(fromIso(MAXD))}).` : e.type === "room" ? "Аудитория свободна весь день." : "Пар нет.")];
   }
+  /* студенту — таймлайн: линия слева заполняется по времени, видно, скоро ли конец пары.
+     Преподавателю и аудитории — просто список. Справа у всех колонка «куда»: кабинет (у аудитории — группы) */
+  const tl = e.type === "group", live = tl && isToday;
+  const real = all.filter(i => !i.cancel && i.m);
   const out = []; let prevEnd = null;
   for (const i of all) {
-    if (prevEnd != null && i.m && !i.cancel && i.m[0] - prevEnd >= 60) out.push(h("div", { class: "gap" }, (e.type === "room" ? "свободно " : "окно ") + dur(i.m[0] - prevEnd)));
+    const gapMin = prevEnd != null && i.m && !i.cancel ? i.m[0] - prevEnd : 0;
+    if (gapMin >= 60) out.push(h("div", { class: "gap" + (live && m >= i.m[0] ? " done" : "") }, (e.type === "room" ? "свободно " : "окно ") + dur(gapMin)));
     const changed = !i.cancel && chs.some(c => c.p === i.p && c.after && c.after.s === i.s);
-    const cls = "lesson" + (i.cancel ? " cancel" : "") + (isToday && i.m && m >= i.m[0] && m < i.m[1] ? " cur" : "") + (isToday && i.m && m >= i.m[1] ? " past" : "");
-    const who = e.type === "group" ? [i.r ? h("span", { class: "r" }, roomName(i.r)) : "без аудитории", " · ", i.te]
-      : e.type === "teacher" ? [i.r ? h("span", { class: "r" }, roomName(i.r)) : "без аудитории", " · ", i.gs.join(", ")]
-      : [i.te, " · ", i.gs.join(", ")];
+    const isCur = isToday && i.m && !i.cancel && m >= i.m[0] && m < i.m[1], isPast = isToday && i.m && m >= i.m[1];
+    const cls = "lesson" + (i.cancel ? " cancel" : "") + (isCur ? " cur" : "") + (isPast ? " past" : "");
+    const right = e.type === "room" ? (i.gs.length > 1 ? null : i.gs[0]) : i.r ? roomName(i.r) : "—";
+    const groups = e.type !== "group" && (e.type === "teacher" || i.gs.length > 1) ? h("div", { class: "gs" }, i.gs.map(g => h("span", {}, g))) : null;
+    const who = e.type === "group" ? `${i.p} пара · ${i.te}` : e.type === "teacher" ? `${i.p} пара` : `${i.p} пара · ${i.te}`;
+    let rail = null;
+    if (tl) {
+      // заполнение — от начала пары до начала следующей (последняя — до звонка)
+      const nx = i.m && real.find(x => x.m[0] > i.m[0]), end = i.m ? (nx ? nx.m[0] : i.m[1]) : 0;
+      const pct = live && i.m && !i.cancel ? Math.max(0, Math.min(100, 100 * (m - i.m[0]) / (end - i.m[0]))) : 0;
+      rail = h("div", { class: "rail" + (pct > 0 ? " on" : "") + (isCur ? " now" : "") }, h("i", { style: `height:${pct.toFixed(1)}%` }));
+    }
     out.push(h("div", { class: cls },
-      h("div", { class: "t" }, h("b", {}, i.m ? hm(i.m[0]) : i.p + " п."), i.m ? hm(i.m[1]) : ""),
+      h("div", { class: "t" }, h("b", {}, i.m ? hm(i.m[0]) : i.p + " п."), i.m ? hm(i.m[1]) : "",
+        live && isCur ? h("span", { class: "left" }, "ещё " + dur(i.m[1] - m)) : null),
+      rail,
       h("div", { class: "card" },
-        h("div", { class: "s" }, i.cancel ? h("span", { class: "chip nw" }, "отменено") : changed ? h("span", { class: "chip chg" }, "изменено") : null,
-          !i.cancel && i.k ? h("span", { class: "chip k" + i.k }, KN[i.k]) : null, i.s),
-        h("div", { class: "who" }, `${i.p} пара · `, who))));
+        h("div", { class: "main" },
+          h("div", { class: "s" }, i.cancel ? h("span", { class: "chip nw" }, "отменено") : changed ? h("span", { class: "chip chg" }, "изменено") : null,
+            !i.cancel && i.k ? h("span", { class: "chip k" + i.k }, KN[i.k]) : null, i.s),
+          h("div", { class: "who" }, who), groups),
+        right ? h("div", { class: "rt" + (e.type === "room" ? " sm" : "") }, right) : null)));
     if (!i.cancel && i.m) prevEnd = i.m[1];
   }
-  return out;
+  return tl ? [h("div", { class: "tl" }, out)] : out;
 }
 function viewToday() {
   const e = me();
   if (!e) return [staleBanner(), h("div", { class: "empty", style: "margin-top:40px" }, "Профиль не выбран. ", h("button", { class: "link", onclick: () => { st.onb = null; ls("tis3-skip", null); render(); } }, "Выбрать группу"))];
   const sel = iso(st.date), isToday = sel === iso(today());
-  return [staleBanner(), installHint(), profileBar(), viewingBar(),
+  return [staleBanner(), installHint(), profileBar(),
     dayStrip(),
     isToday ? hero(e) : null,
     h("div", { class: "hrow" }, h("h2", {}, isToday ? "Сегодня" : `${WDL[wdi(st.date)]}, ${dm(st.date)}`), dayItems(sel, e).length ? shareBtn("day") : null),
@@ -232,7 +259,7 @@ function viewToday() {
 function viewWeek() {
   const e = me(); if (!e) return viewToday();
   const mon = addDays(st.date, -wdi(st.date)), t = iso(today());
-  return [profileBar(), viewingBar(),
+  return [profileBar(),
     h("div", { class: "days", style: "grid-template-columns:28px 1fr 28px" },
       h("button", { class: "arr", onclick: () => { st.date = addDays(st.date, -7); render(); } }, "‹"),
       h("b", { style: "text-align:center" }, `Неделя ${dm(mon)} – ${dm(addDays(mon, 5))}`),
