@@ -62,8 +62,14 @@ const title = mode === "room" ? (sel === "СЗ" ? "Спортзал" : sel) : se
 const line = i => mode === "room" ? i.gs.join(", ") : mode === "group" ? `${i.r || "—"} · ${i.te}` : `${i.r || "—"} · ${i.gs.join(", ")}`;
 
 const fam = config.widgetFamily || "large";
+// по части фамилии сайт преподавателя не найдёт: в ссылку — полное «Фамилия И.О.» из расписания
+let linkSel = sel;
+if (mode === "teacher" && data) {
+  const low = sel.toLowerCase();
+  for (const r of data.l) { const full = data.dict[r[6]].split("/").map(x => x.trim()).find(x => x.toLowerCase().includes(low)); if (full) { linkSel = full; break; } }
+}
 const w = new ListWidget();
-w.url = SITE + "#" + mode + "/" + encodeURIComponent(sel);
+w.url = SITE + "#" + mode + "/" + encodeURIComponent(linkSel);
 w.refreshAfterDate = new Date(Date.now() + 10 * 60 * 1000);
 
 if (fam.startsWith("accessory")) {

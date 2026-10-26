@@ -141,7 +141,7 @@ function profileBar() {
 function viewingBar() {
   if (!st.view) return null;
   return h("div", { class: "viewing" }, h("b", {}, "Смотришь: " + (st.view.type === "room" ? roomName(st.view.v) : st.view.v)),
-    h("button", { class: "btn primary", onclick: () => addProfile(st.view, false) || render() }, "★ Сохранить"),
+    h("button", { class: "btn primary", onclick: () => { addProfile(st.view); toast("Сохранено — переключайся вверху"); render(); } }, "★ Сохранить"),
     h("button", { class: "btn", "aria-label": "Закрыть", onclick: () => { st.view = null; render(); } }, "✕"));
 }
 
@@ -154,28 +154,32 @@ function hero(e) {
   const t = iso(today()), items = dayItems(t, e), m = nowMin();
   const cur = items.find(i => i.m && m >= i.m[0] && m < i.m[1]);
   const next = items.find(i => i.m && i.m[0] > m);
-  const place = i => e.type === "room" ? (i.gs.length > 2 ? i.gs.length + " групп" : i.gs.join(", ")) : roomName(i.r || "без ауд.");
-  const sub = i => [i.s, e.type === "teacher" ? i.gs.join(", ") : e.type === "group" ? i.te : i.te].filter(Boolean).join(" · ");
+  /* у аудитории в карточке крупно группы (их может быть несколько — шрифт меньше), у группы и преподавателя — кабинет */
+  const isRoom = e.type === "room", roomCls = isRoom ? "room sm" : "room";
+  const place = i => isRoom ? (i.gs.length > 2 ? i.gs.length + " групп" : i.gs.join(", ").replace(/-/g, "‑")) : roomName(i.r || "без ауд.");
+  const who = i => e.type === "teacher" ? i.gs.join(", ") : i.te;
+  const sub = i => [i.s, who(i)].filter(Boolean).join(" · ");
   if (cur) {
     const left = cur.m[1] - m, pct = 100 * (m - cur.m[0]) / (cur.m[1] - cur.m[0]);
-    return h("div", { class: "hero now" }, h("div", { class: "lbl" }, `Ты на ${cur.p} паре · ещё ${dur(left)}`),
-      h("div", { class: "room" }, place(cur)), h("div", { class: "subj" }, cur.s),
-      h("div", { class: "meta" }, (e.type === "group" ? cur.te : cur.gs.join(", ")) + (next ? ` · потом ${place(next)} в ${hm(next.m[0])}` : " · последняя, потом свобода")),
+    return h("div", { class: "hero now" }, h("div", { class: "lbl" }, `${isRoom ? "Идёт" : "Ты на"} ${cur.p} ${isRoom ? "пара" : "паре"} · ещё ${dur(left)}`),
+      h("div", { class: roomCls }, place(cur)), h("div", { class: "subj" }, cur.s),
+      h("div", { class: "meta" }, who(cur) + (next ? ` · потом ${place(next)} в ${hm(next.m[0])}` : isRoom ? " · последняя, потом свободна" : " · последняя, потом свобода")),
       h("div", { class: "bar" }, h("i", { style: `width:${pct.toFixed(0)}%` })));
   }
   if (next) {
     const left = next.m[0] - m;
-    return h("div", { class: "hero" }, h("div", { class: "lbl" }, `Куда идти · ${next.p} пара ${left <= 15 ? "уже через " + dur(left) + " 🏃" : "через " + dur(left)}`),
-      h("div", { class: "room" }, place(next)), h("div", { class: "subj" }, next.s),
-      h("div", { class: "meta" }, `${hm(next.m[0])}–${hm(next.m[1])} · ${e.type === "group" ? next.te : next.gs.join(", ")}`));
+    return h("div", { class: "hero" }, h("div", { class: "lbl" }, `${isRoom ? "Следующая" : "Куда идти"} · ${next.p} пара ${left <= 15 ? "уже через " + dur(left) + (isRoom ? "" : " 🏃") : "через " + dur(left)}`),
+      h("div", { class: roomCls }, place(next)), h("div", { class: "subj" }, next.s),
+      h("div", { class: "meta" }, `${hm(next.m[0])}–${hm(next.m[1])} · ${who(next)}`));
   }
   const [nd, nit] = nextSchoolDay(today(), e);
-  const head = items.length ? "Всё, на сегодня свобода 🎉" : wdi(today()) === 6 ? "Сегодня выходной 😴" : "Сегодня пар нет 🙌";
+  const head = isRoom ? (items.length ? "На сегодня занятия закончились" : "Сегодня свободна весь день")
+    : items.length ? "Всё, на сегодня свобода 🎉" : wdi(today()) === 6 ? "Сегодня выходной 😴" : "Сегодня пар нет 🙌";
   if (!nd) return h("div", { class: "hero calm" }, h("div", { class: "lbl" }, head), h("div", { class: "subj", style: "margin-top:6px" }, "Дальше пар в расписании пока нет — следи за stis.su."));
   const f = nit[0], when = iso(nd) === iso(addDays(today(), 1)) ? "Завтра" : `${WDL[wdi(nd)]}, ${dm(nd)}`;
   return h("div", { class: "hero calm" }, h("div", { class: "lbl muted" }, head),
-    h("div", { class: "subj", style: "margin-top:8px" }, `${when} к ${f.m ? hm(f.m[0]) : f.p + " паре"} — сюда:`),
-    h("div", { class: "room", style: "font-size:2rem" }, place(f)),
+    h("div", { class: "subj", style: "margin-top:8px" }, `${when} к ${f.m ? hm(f.m[0]) : f.p + " паре"} — ${isRoom ? "первые придут" : "сюда"}:`),
+    h("div", { class: roomCls, style: isRoom ? null : "font-size:2rem" }, place(f)),
     h("div", { class: "meta muted" }, sub(f) + ` · всего ${nit.length} ${nit.length === 1 ? "пара" : nit.length < 5 ? "пары" : "пар"}`));
 }
 function dayStrip(onPick) {
@@ -280,7 +284,7 @@ function viewFind() {
   for (const b of Object.keys(byB).sort((a, c) => a.localeCompare(c, "ru"))) {
     view.push(h("h3", { style: "margin-top:12px" }, b === "К" ? "Корпус К" : b === "В" ? "Корпус В" : b === "СЗ" ? "Спортзал" : b),
       h("div", { class: "rooms" }, byB[b].map(r => { const n = streak(r);
-        return h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, h("b", {}, r), h("small", {}, n >= ps.length - ps.indexOf(st.freePair) ? "до конца дня" : `свободна ${n} ${n === 1 ? "пару" : n < 5 ? "пары" : "пар"}`)); })));
+        return h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, h("b", {}, r), h("small", {}, n >= ps.length - ps.indexOf(st.freePair) ? "до конца дня" : `свободна на ${n} ${n === 1 ? "пару" : n < 5 ? "пары" : "пар"}`)); })));
   }
   return view;
 }
@@ -312,7 +316,7 @@ function viewMore() {
   if (forStaff()) view.push(h("h3", {}, "Для преподавателей"),
     h("button", { class: "big", onclick: () => drill("grid", { date: today() }) }, h("span", { class: "ic" }, "▦"), h("div", {}, h("b", {}, "Шахматка"), h("span", {}, "Все аудитории × пары за день"))));
   view.push(h("h3", {}, "Профили"),
-    st.profiles.length ? h("div", { class: "res" }, st.profiles.map((p, i) => h("button", { onclick: () => { if (confirm(`Убрать «${p.v}»?`)) { st.profiles.splice(i, 1); st.cur = 0; saveProfiles(); render(); } } }, h("b", {}, roomName(p.v)), h("small", {}, TYPE[p.type] + " · убрать ✕")))) : null,
+    st.profiles.length ? h("div", { class: "res" }, st.profiles.map((p, i) => h("button", { onclick: () => { if (confirm(`Убрать «${p.v}»?`)) { st.profiles.splice(i, 1); if (st.cur > i || st.cur >= st.profiles.length) st.cur = Math.max(0, st.cur - 1); saveProfiles(); render(); } } }, h("b", {}, roomName(p.v)), h("small", {}, TYPE[p.type] + " · убрать ✕")))) : null,
     h("button", { class: "btn", style: "margin-top:8px", onclick: () => { st.profiles = []; st.cur = 0; saveProfiles(); ls("tis3-skip", null); st.onb = null; render(); } }, "Начать заново (показать первый экран)"));
   view.push(h("p", { class: "foot" }, `Обновлено ${UPDATED}, данные — только с публичной страницы stis.su/schedule. Профиль хранится только на этом устройстве, без регистрации и cookie.`));
   return view;
