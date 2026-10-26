@@ -139,10 +139,17 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 .pairs button small{display:block;color:var(--muted);font-family:var(--f-mono);font-size:.72rem}
 .pairs button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
 .pairs button[aria-pressed="true"] small{color:inherit}
-.rooms{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:6px}
-.rooms button{background:var(--lab-soft);color:var(--fg);border:1px solid transparent;border-radius:12px;padding:8px 10px;text-align:left}
-.rooms button b{font-family:var(--f-mono);display:block}
-.rooms button small{color:var(--muted);font-size:.75rem}
+.pairs button.past{opacity:.5}
+.lbl-sm{font-size:.78rem;font-weight:600;color:var(--muted);margin:0 0 6px}
+/* свободные аудитории: группа «до скольки» + метки аудиторий */
+.fgroup{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px 12px 12px;margin-top:10px}
+.fgroup .fh{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:8px}
+.fgroup .fh small{color:var(--muted);font-size:.8rem}
+.fgroup.best{border-color:var(--lab);box-shadow:inset 3px 0 0 var(--lab)}
+.fgroup.best .fh b{color:var(--lab)}
+.fgroup.short .rooms button{background:var(--bg)}
+.rooms{display:flex;flex-wrap:wrap;gap:6px}
+.rooms button{background:var(--lab-soft);color:var(--fg);border:1px solid transparent;border-radius:10px;padding:6px 10px;font-family:var(--f-mono);font-weight:600;font-size:.92rem}
 .btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:6px 12px;font-weight:600;font-size:.85rem}
 .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-fg)}
 

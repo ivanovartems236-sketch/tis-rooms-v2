@@ -93,7 +93,7 @@ function addProfile(e, makeCur = true) {
   if (makeCur) st.cur = i;
   st.view = null; saveProfiles();
 }
-const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab, menu: false }, extra || {}); render(); scrollTo(0, 0); };
+const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab, menu: false, freePair: null }, extra || {}); render(); scrollTo(0, 0); };
 const TAB_NAME = { today: "Сегодня", week: "Неделя", find: "Найти", more: "Ещё", grid: "Шахматка" };
 function drill(tab, extra) {
   st.stack.push({ tab: st.tab, date: st.date, view: st.view, q: st.q, y: scrollY });
@@ -280,7 +280,8 @@ function viewFind() {
   const q = st.q.trim().toLowerCase(), view = [];
   const input = h("input", { placeholder: "Группа, аудитория или фамилия", value: st.q, autocomplete: "off", spellcheck: "false",
     oninput: ev => { st.q = ev.target.value; renderKeepFocus(); } });
-  view.push(st.profiles.length ? profileBar() : null, h("div", { class: "search" }, input));
+  view.push(st.profiles.length ? profileBar() : null, h("h2", { style: "margin:8px 0 2px" }, "Чьё расписание открыть"),
+    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Любая группа, аудитория или преподаватель."), h("div", { class: "search" }, input));
   if (q) {
     const res = [];
     for (const type of ["group", "room", "teacher"]) for (const v of lists[type]) if (v.toLowerCase().includes(q) || (type === "room" && v === "СЗ" && "спортзал".includes(q))) res.push({ type, v });
@@ -292,26 +293,37 @@ function viewFind() {
     view.push(h("p", { class: "muted", style: "font-size:.9rem" }, "Найди любую группу, аудиторию или преподавателя — и сохрани ★, чтобы переключаться в один тап."));
     return view;
   }
-  view.push(h("h3", {}, "Свободные аудитории"));
+  /* свободные аудитории: отвечаем на «куда пойти и до скольки» — группы по времени, когда аудиторию займут */
   const dday = byDate.has(iso(today())) ? iso(today()) : [...byDate.keys()].sort().find(k => k > iso(today())) || iso(today());
+  const isToday = dday === iso(today());
   const times = pairTimes(dday), ps = Object.keys(times).map(Number).sort((a, b) => a - b), m = nowMin();
+  const tm = p => mins(times[p]);
+  view.push(h("h2", { style: "margin:18px 0 2px" }, "Свободные аудитории"),
+    h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Где провести занятие, отработку или консультацию. Нажми на аудиторию — откроется её день."));
   if (!ps.length) { view.push(h("div", { class: "empty" }, "Нет данных на ближайшие дни.")); return view; }
-  const curP = dday === iso(today()) ? (ps.find(p => { const t = mins(times[p]); return t && m < t[1]; }) || ps[ps.length - 1]) : ps[0];
+  const curP = isToday ? (ps.find(p => tm(p) && m < tm(p)[1]) || ps[ps.length - 1]) : ps[0];
   if (st.freePair == null || !ps.includes(st.freePair)) st.freePair = curP;
-  if (dday !== iso(today())) view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Сегодня занятий нет — показываю ${WDL[wdi(fromIso(dday))].toLowerCase()}, ${dm(fromIso(dday))}.`));
-  view.push(h("div", { class: "pairs" }, ps.map(p => h("button", { "aria-pressed": p === st.freePair ? "true" : "false", onclick: () => { st.freePair = p; render(); } },
-    `${p} пара` + (p === curP && dday === iso(today()) ? " · сейчас" : ""), h("small", {}, times[p].replace(/\./g, ":").replace("-", "–"))))));
+  if (!isToday) view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Сегодня занятий нет — показываю ${WDL[wdi(fromIso(dday))].toLowerCase()}, ${dm(fromIso(dday))}.`));
+  view.push(h("div", { class: "lbl-sm" }, "На какую пару"),
+    h("div", { class: "pairs" }, ps.map(p => h("button", { class: isToday && tm(p) && m >= tm(p)[1] ? "past" : null, "aria-pressed": p === st.freePair ? "true" : "false", onclick: () => { st.freePair = p; render(); } },
+      p === curP && isToday ? `Сейчас · ${p} пара` : `${p} пара`, h("small", {}, times[p].replace(/\./g, ":").replace("-", "–"))))));
   const busy = p => new Set((byDate.get(dday) || []).filter(l => l.p === p && l.r).map(l => l.r));
   const busyBy = Object.fromEntries(ps.map(p => [p, busy(p)]));
+  const rest = ps.filter(p => p >= st.freePair);
   const free = lists.room.filter(r => !busyBy[st.freePair].has(r));
-  const streak = r => { let n = 0; for (const p of ps.filter(p => p >= st.freePair)) { if (busyBy[p].has(r)) break; n++; } return n; };
-  const byB = {};
-  free.forEach(r => (byB[/^([^\d-]+)-/.exec(r)?.[1] || r] ||= []).push(r));
-  view.push(h("p", { class: "muted", style: "margin:0 0 8px;font-size:.85rem" }, `Свободно ${free.length} из ${lists.room.length}. Цифра — сколько пар подряд свободна.`));
-  for (const b of Object.keys(byB).sort((a, c) => a.localeCompare(c, "ru"))) {
-    view.push(h("h3", { style: "margin-top:12px" }, b === "К" ? "Корпус К" : b === "В" ? "Корпус В" : b === "СЗ" ? "Спортзал" : b),
-      h("div", { class: "rooms" }, byB[b].map(r => { const n = streak(r);
-        return h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, h("b", {}, r), h("small", {}, n >= ps.length - ps.indexOf(st.freePair) ? "до конца дня" : `свободна на ${n} ${n === 1 ? "пару" : n < 5 ? "пары" : "пар"}`)); })));
+  // для каждой свободной — первая пара, на которой её займут (или null — до конца дня)
+  const byUntil = new Map();
+  for (const r of free) { const bp = rest.find(p => busyBy[p].has(r)) ?? null; (byUntil.get(bp) || byUntil.set(bp, []).get(bp)).push(r); }
+  const pairs = n => `${n} ${n === 1 ? "пара" : n < 5 ? "пары" : "пар"}`;
+  view.push(h("p", { class: "muted", style: "margin:2px 0 4px;font-size:.85rem" }, free.length ? `Свободно ${free.length} из ${lists.room.length}` : "На эту пару всё занято."));
+  const keys = [...byUntil.keys()].sort((a, b) => a == null ? -1 : b == null ? 1 : b - a);
+  for (const bp of keys) {
+    const n = bp == null ? rest.length : rest.indexOf(bp);
+    const title = bp == null ? "До конца дня" : n === 1 ? `Только эту пару — до ${tm(bp) ? hm(tm(bp)[0]) : bp + " пары"}` : `До ${tm(bp) ? hm(tm(bp)[0]) : bp + " пары"}`;
+    view.push(h("div", { class: "fgroup" + (bp == null ? " best" : n === 1 ? " short" : "") },
+      h("div", { class: "fh" }, h("b", {}, title), h("small", {}, bp == null ? (n > 1 ? pairs(n) + " подряд" : "") : n > 1 ? pairs(n) + " подряд" : "потом занята")),
+      h("div", { class: "rooms" }, byUntil.get(bp).sort(roomSort).map(r =>
+        h("button", { onclick: () => drill("today", { view: { type: "room", v: r }, date: fromIso(dday) }) }, roomName(r))))));
   }
   return view;
 }
