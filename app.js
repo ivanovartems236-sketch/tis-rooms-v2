@@ -30,11 +30,42 @@ const dur = m => (m >= 60 ? Math.floor(m / 60) + " ч " : "") + (m % 60 ? (m % 6
 const splitT = s => s.split("/").map(x => x.trim()).filter(Boolean);
 const roomName = r => r === "СЗ" ? "Спортзал" : r;
 const roomSort = (a, b) => { const pa = /^([^\d-]*)-?(\d*)/.exec(a), pb = /^([^\d-]*)-?(\d*)/.exec(b); return pa[1] === pb[1] ? (+pa[2] || 0) - (+pb[2] || 0) : pa[1].localeCompare(pb[1], "ru"); };
+/* поиск прощает формат: регистр, дефисы, пробелы, ё, латинские двойники; «оист261» найдёт О-ИстТ-261 */
+const LAT = { a: "а", b: "в", c: "с", e: "е", h: "н", k: "к", m: "м", o: "о", p: "р", t: "т", x: "х", y: "у" };
+const norm = s => s.toLowerCase().replace(/ё/g, "е").replace(/[a-z]/g, c => LAT[c] || c).replace(/[^0-9a-zа-я]/g, "");
+function fuzzy(q, v) {  // меньше — лучше, -1 — не подходит
+  const g = norm(v);
+  if (!q) return 0; if (g === q) return 0; if (g.startsWith(q)) return 1;
+  const i = g.indexOf(q); if (i >= 0) return 2 + i / 100;
+  const dq = q.replace(/\D/g, ""); if (dq && !g.replace(/\D/g, "").includes(dq)) return -1;  // цифры — подряд: 261 ≠ 2…6…1
+  let last = -1, gaps = 0;
+  for (const c of q) { const k = g.indexOf(c, last + 1); if (k < 0) return -1; gaps += k - last - 1; last = k; }
+  return 3 + gaps / 10;
+}
+/* группа = форма-направление[-9/11]-номер: «ист 261» — сначала ИстТ-261 (направление с начала), а не МИСТ-261 */
+function groupScore(q, v) {
+  const [f, d, ...ns] = v.toLowerCase().replace(/ё/g, "е").split("-"), num = ns.join("");
+  const ql = q.replace(/\d/g, ""), qd = q.replace(/\D/g, "");
+  if (qd && !num.endsWith(qd)) return -1;
+  if (ql.startsWith(f) && d.startsWith(ql.slice(f.length))) return ql === f ? 1 : 0;
+  if (d.startsWith(ql)) return 1;
+  return fuzzy(q, v) < 0 ? -1 : 3 + fuzzy(q, v) / 10;
+}
+/* набрал в английской раскладке: «jbcn261» → «оист261» */
+const QW = "qwertyuiop[]asdfghjkl;'zxcvbnm,.", YC = "йцукенгшщзхъфывапролджэячсмитьбю";
+const relayout = q => q.toLowerCase().replace(/./g, c => { const i = QW.indexOf(c); return i < 0 ? c : YC[i]; });
+function search(q, vs, type) {
+  const run = n => vs.map(v => [type === "group" ? groupScore(n, v) : fuzzy(n, v), v]).filter(x => x[0] >= 0)
+    .sort((a, b) => a[0] - b[0] || a[1].localeCompare(b[1], "ru")).map(x => x[1]);
+  const res = run(norm(q));
+  return res.length || !/[a-z]/i.test(q) ? res : run(norm(relayout(q)));
+}
 function ls(k, v) { try { if (v === undefined) return JSON.parse(localStorage.getItem(k)); localStorage.setItem(k, JSON.stringify(v)); } catch (e) { return null; } }
 
 /* демо-время: ?now=2026-10-27T10:20 — чтобы посмотреть «идёт пара» в любой момент */
 const NOWP = new URLSearchParams(location.search).get("now");
-const now = () => NOWP ? new Date(NOWP) : new Date();
+const msk = d => new Date(d.getTime() + (d.getTimezoneOffset() + 180) * 60000);  // UTC+3 без перехода на летнее
+const now = () => NOWP ? new Date(NOWP) : msk(new Date());
 const today = () => { const d = now(); d.setHours(0, 0, 0, 0); return d; };
 const nowMin = () => { const d = now(); return d.getHours() * 60 + d.getMinutes(); };
 
@@ -42,7 +73,11 @@ const nowMin = () => { const d = now(); return d.getHours() * 60 + d.getMinutes(
 let L = [], byDate = new Map(), lists = { group: [], teacher: [], room: [] }, CH = [], ICS = {}, UPDATED = "", MAXD = "";
 function ingest(data) {
   const S = data.dict;
-  L = data.l.map(r => ({ d: S[r[0]], p: r[1], t: S[r[2]], g: S[r[3]], k: r[4], s: S[r[5]], te: S[r[6]], r: S[r[7]], tl: splitT(S[r[6]]) }));
+  L = data.l.map(r => {
+    let s = S[r[5]], te = S[r[6]];
+    if (te.startsWith("(")) { s += " " + te; te = ""; }  // старые data.json: пояснение попало в преподавателя
+    return { d: S[r[0]], p: r[1], t: S[r[2]], g: S[r[3]], k: r[4], s, te, r: S[r[7]], tl: splitT(te) };
+  });
   const gs = new Set(), ts = new Set(), rs = new Set();
   byDate = new Map();
   for (const l of L) {
@@ -85,7 +120,7 @@ function migrate() {  // избранное со старого интерфей
 const st = {
   profiles: ls("tis3-profiles") || migrate(),
   cur: ls("tis3-cur") || 0,
-  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false, menu: false,
+  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false, menu: false, form: "О",
 };
 const me = () => st.view || st.profiles[st.cur] || null;
 function saveProfiles() { ls("tis3-profiles", st.profiles); ls("tis3-cur", st.cur); }
@@ -119,6 +154,7 @@ const backBtn = () => st.stack.length ? h("button", { class: "back", onclick: ()
 const forStaff = () => { const p = st.profiles[st.cur]; return st.showFree || !p || p.type !== "group"; };
 
 /* ---------- онбординг ---------- */
+const FORMS = [["О", "Очная"], ["ОЗ", "Очно-заочная"], ["З", "Заочная"]];
 function viewOnboarding() {
   if (!st.onb) return [h("div", { class: "onb" },
     h("div", { class: "brand" }, "Кабинеты ТИС"),
@@ -128,16 +164,33 @@ function viewOnboarding() {
     h("button", { class: "big", onclick: () => { st.onb = "teacher"; render(); } }, h("span", { class: "ic" }, "👩‍🏫"), h("div", {}, h("b", {}, "Я преподаватель"), h("span", {}, "Мои пары и окна"))),
     h("button", { class: "big", onclick: () => { st.onb = "skip"; ls("tis3-skip", 1); go("find"); } }, h("span", { class: "ic" }, "🔍"), h("div", {}, h("b", {}, "Просто посмотреть"), h("span", {}, "Аудитории, свободные кабинеты, любая группа"))),
     h("p", { class: "foot" }, "Неофициальный сервис. Данные — stis.su/schedule. © 2026 Артём Иванов."))];
-  const type = st.onb, q = st.q.toLowerCase();
-  const found = lists[type].filter(v => v.toLowerCase().includes(q)).slice(0, 40);
-  const input = h("input", { placeholder: type === "group" ? "Например, Исп-9-251" : "Фамилия", value: st.q, autocomplete: "off", spellcheck: "false",
+  const type = st.onb, q = st.q.trim();
+  const choose = v => { addProfile({ type, v }); st.onb = null; st.q = ""; go("today", { date: today() }); };
+  const input = h("input", { placeholder: type === "group" ? "Например: ист 261" : "Начни вводить фамилию", value: st.q, autocomplete: "off", spellcheck: "false",
     oninput: e => { st.q = e.target.value; renderKeepFocus(); } });
+  let body;
+  if (type === "teacher") {
+    /* список всех ФИО не показываем — только совпадения с введённой фамилией */
+    const found = norm(q).length >= 2 ? search(q, lists.teacher, "teacher").slice(0, 8) : [];
+    body = norm(q).length < 2 ? h("p", { class: "muted", style: "font-size:.9rem" }, "Введи хотя бы две буквы фамилии — покажем совпадения.")
+      : found.length ? h("div", { class: "res" }, found.map(v => h("button", { onclick: () => choose(v) }, h("b", {}, v), h("small", {}, TYPE.teacher))))
+      : h("div", { class: "empty" }, "Такой фамилии нет в текущем расписании");
+  } else if (q) {
+    const found = search(q, lists.group, "group").slice(0, 24);
+    body = found.length ? h("div", { class: "tiles full" }, found.map(v => h("button", { onclick: () => choose(v) }, v)))
+      : h("div", { class: "empty" }, "Ничего не нашлось. Пиши как в расписании: форма, направление, номер — например, о ист 261");
+  } else {
+    /* без поиска — все группы плитками, по формам обучения; номер без префикса формы, чтобы плитки были короткими */
+    const forms = FORMS.filter(([f]) => lists.group.some(g => g.startsWith(f + "-")));
+    const cur = forms.some(([f]) => f === st.form) ? st.form : forms[0]?.[0];
+    body = [h("div", { class: "seg", role: "tablist" }, forms.map(([f, t]) => h("button", { role: "tab", "aria-selected": f === cur ? "true" : "false",
+      onclick: () => { st.form = f; render(); } }, t))),
+      h("div", { class: "tiles" }, lists.group.filter(g => g.startsWith(cur + "-")).map(v => h("button", { "aria-label": v, onclick: () => choose(v) }, v.slice(cur.length + 1))))];
+  }
   return [h("div", { style: "padding-top:24px" },
     h("button", { class: "link", onclick: () => { st.onb = null; st.q = ""; render(); } }, "← назад"),
     h("h2", { style: "margin-top:12px" }, type === "group" ? "Найди свою группу" : "Найди себя"),
-    h("div", { class: "search" }, input),
-    h("div", { class: "res" }, found.map(v => h("button", { onclick: () => { addProfile({ type, v }); st.onb = null; st.q = ""; go("today", { date: today() }); } }, h("b", {}, v), h("small", {}, TYPE[type])))),
-    found.length ? null : h("div", { class: "empty" }, "Ничего не нашлось"))];
+    h("div", { class: "search" }, input), body)];
 }
 
 /* ---------- шапка: текущий профиль со стрелкой, по тапу — меню профилей ---------- */
@@ -191,10 +244,12 @@ function hero(e) {
       h("div", { class: roomCls }, place(next)), h("div", { class: "subj" }, next.s),
       h("div", { class: "meta" }, `${hm(next.m[0])}–${hm(next.m[1])} · ${who(next)}`));
   }
-  const [nd, nit] = nextSchoolDay(today(), e);
-  const head = isRoom ? (items.length ? "На сегодня занятия закончились" : "Сегодня свободна весь день")
+  const [nd, nit] = nextSchoolDay(today(), e), unknown = !items.length && t > MAXD && wdi(today()) < 6;
+  const head = unknown ? "Расписание на сегодня ещё не выложено"
+    : isRoom ? (items.length ? "На сегодня занятия закончились" : "Сегодня свободна весь день")
     : items.length ? "Всё, на сегодня свобода 🎉" : wdi(today()) === 6 ? "Сегодня выходной 😴" : "Сегодня пар нет 🙌";
-  if (!nd) return h("div", { class: "hero calm" }, h("div", { class: "lbl" }, head), h("div", { class: "subj", style: "margin-top:6px" }, "Дальше пар в расписании пока нет — следи за stis.su."));
+  if (!nd) return h("div", { class: "hero calm" }, h("div", { class: "lbl" }, head), h("div", { class: "subj", style: "margin-top:6px" },
+    unknown ? `Пока есть только до ${dm(fromIso(MAXD))} — следи за stis.su.` : `Дальше расписание ещё не выложено (есть до ${dm(fromIso(MAXD))}) — следи за stis.su.`));
   const f = nit[0], when = iso(nd) === iso(addDays(today(), 1)) ? "Завтра" : `${WDL[wdi(nd)]}, ${dm(nd)}`;
   return h("div", { class: "hero calm" }, h("div", { class: "lbl muted" }, head),
     h("div", { class: "subj", style: "margin-top:8px" }, `${when} к ${f.m ? hm(f.m[0]) : f.p + " паре"} — ${isRoom ? "первые придут" : "сюда"}:`),
@@ -225,13 +280,13 @@ function lessonList(date, e) {
   const out = []; let prevEnd = null;
   for (const i of all) {
     const gapMin = prevEnd != null && i.m && !i.cancel ? i.m[0] - prevEnd : 0;
-    if (gapMin >= 60) out.push(h("div", { class: "gap" + (live && m >= i.m[0] ? " done" : "") }, (e.type === "room" ? "свободно " : "окно ") + dur(gapMin)));
+    if (gapMin >= 20) out.push(h("div", { class: "gap" + (live && m >= i.m[0] ? " done" : "") }, (e.type === "room" ? "свободно " : "окно ") + dur(gapMin)));
     const changed = !i.cancel && chs.some(c => c.p === i.p && c.after && c.after.s === i.s);
     const isCur = isToday && i.m && !i.cancel && m >= i.m[0] && m < i.m[1], isPast = isToday && i.m && m >= i.m[1];
     const cls = "lesson" + (i.cancel ? " cancel" : "") + (isCur ? " cur" : "") + (isPast ? " past" : "");
     const right = e.type === "room" ? (i.gs.length > 1 ? null : i.gs[0]) : i.r ? roomName(i.r) : "—";
     const groups = e.type !== "group" && (e.type === "teacher" || i.gs.length > 1) ? h("div", { class: "gs" }, i.gs.map(g => h("span", {}, g))) : null;
-    const who = e.type === "group" ? `${i.p} пара · ${i.te}` : e.type === "teacher" ? `${i.p} пара` : `${i.p} пара · ${i.te}`;
+    const who = e.type === "teacher" || !i.te ? `${i.p} пара` : `${i.p} пара · ${i.te}`;
     let rail = null;
     if (tl) {
       // заполнение — от начала пары до начала следующей (последняя — до звонка)
@@ -293,7 +348,8 @@ function viewFind() {
     h("p", { class: "muted", style: "margin:0 0 10px;font-size:.88rem" }, "Любая группа, аудитория или преподаватель."), h("div", { class: "search" }, input));
   if (q) {
     const res = [];
-    for (const type of ["group", "room", "teacher"]) for (const v of lists[type]) if (v.toLowerCase().includes(q) || (type === "room" && v === "СЗ" && "спортзал".includes(q))) res.push({ type, v });
+    for (const type of ["group", "room", "teacher"]) for (const v of search(q, lists[type], type)) res.push({ type, v });
+    if (lists.room.includes("СЗ") && "спортзал".includes(norm(q)) && !res.some(x => x.v === "СЗ")) res.push({ type: "room", v: "СЗ" });
     view.push(h("div", { class: "res" }, res.slice(0, 30).map(e => h("button", { onclick: () => drill("today", { view: e, date: today() }) }, h("b", {}, roomName(e.v)), h("small", {}, TYPE[e.type])))),
       res.length ? null : h("div", { class: "empty" }, "Ничего не нашлось"));
     return view;
@@ -561,7 +617,8 @@ async function load() {
     ]);
     ingest(d); CH = Array.isArray(c) ? c : [];
   } catch (e) {
-    if (!L.length) { $app.replaceChildren(h("div", { class: "empty" }, "Расписание не загрузилось. Проверь интернет и обнови страницу.")); return; }
+    if (!L.length) { $app.replaceChildren(h("div", { class: "empty", style: "margin-top:40px" }, "Расписание не загрузилось. Проверь интернет.", h("br"),
+      h("button", { class: "btn", style: "margin-top:12px", onclick: load }, "Повторить"))); return; }
     toast("Нет связи — показываю сохранённое");
   }
   if (first) { first = false; readHash(); }
@@ -569,5 +626,6 @@ async function load() {
 }
 load();
 setInterval(() => { if (!document.hidden && !NOWP && !document.activeElement?.matches("input")) render(); }, 60000);
+addEventListener("online", () => { if (!L.length) load(); });
 document.addEventListener("visibilitychange", () => { if (!document.hidden) { if (Date.now() - lastLoad > 5 * 60000) load(); else render(); } });
 if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
