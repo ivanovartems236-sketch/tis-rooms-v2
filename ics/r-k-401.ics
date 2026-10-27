@@ -874,7 +874,7 @@ DTEND;TZID=Europe/Moscow:20261029T135500
 SUMMARY:Теория информационных процессов и с
  истем (Лаб.)
 LOCATION:К-401
-DESCRIPTION:3 пара · Черепов П.В.. · группы: ОЗ-Ис
+DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
  тТ-241
 END:VEVENT
 BEGIN:VEVENT
@@ -920,17 +920,6 @@ SUMMARY:Анализ и синтез информационных сист
 LOCATION:К-401
 DESCRIPTION:7 пара · Черепов П.В. · группы: ОЗ-МИ
  СТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:299f1d75af8eae622b74@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T083000
-DTEND;TZID=Europe/Moscow:20261030T100500
-SUMMARY:Разработка мобильных приложений (Ле
- кция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
 UID:6ac70b68fce666e0fa80@tis-rooms
@@ -1021,5 +1010,16 @@ SUMMARY:Системы искусственного интеллекта (
 LOCATION:К-401
 DESCRIPTION:2 пара · Черепов П.В. · группы: З-Икс
  М-242\, З-ИстТ-242\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9b8a422657209c5bd50f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T121000
+DTEND;TZID=Europe/Moscow:20261031T134000
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
 END:VEVENT
 END:VCALENDAR

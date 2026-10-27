@@ -686,28 +686,6 @@ DESCRIPTION:1 пара · Саиег Т.Х. · группы: О-ИстТ-24
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:18b0e2a15aa5b0e9c279@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T101500
-DTEND;TZID=Europe/Moscow:20261029T115000
-SUMMARY:Разработка мобильных приложений (Пр
- актика)
-LOCATION:К-406
-DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:90ec962a7a2778a1e2af@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T122000
-DTEND;TZID=Europe/Moscow:20261029T135500
-SUMMARY:Внедрение и поддержка компьютерных 
- систем (Практика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:7fd139028eb1a2829c9b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T140500
@@ -748,5 +726,38 @@ SUMMARY:Математическая логика и теория алго
 LOCATION:К-406
 DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-ИстТ-25
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:54351b963143d6d4cd81@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:07c46467e31070c11efc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T101000
+DTEND;TZID=Europe/Moscow:20261031T114000
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e687dfbed9d447c1ecd8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T140000
+DTEND;TZID=Europe/Moscow:20261031T153000
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
 END:VEVENT
 END:VCALENDAR

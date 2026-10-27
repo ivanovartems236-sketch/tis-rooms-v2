@@ -17,15 +17,15 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0bfff59567b030dc8017@tis-rooms
+UID:bb3cc2ca78efa19b88d6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261012T083000
 DTEND;TZID=Europe/Moscow:20261012T100500
 SUMMARY:Ознакомительное организационное со
- брание в 09:00 в Подиумном зале
+ брание в 09:00 в Подиумном зале (получение 
+ паролей от ЭИОС\, знакомство с ЭБС)
 LOCATION:
-DESCRIPTION:1 пара · (получение паролей от ЭИОС\
- , знакомство с ЭБС) · группы: З-МСЭ-261
+DESCRIPTION:1 пара ·  · группы: З-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
 UID:2139cc262e6a2a9ab2cd@tis-rooms
