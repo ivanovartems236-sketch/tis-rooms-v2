@@ -99,6 +99,19 @@ def sheet_dates(title, ref):
     return s, e
 
 
+def clean_teacher(s):
+    """Опечатки в ФИО из исходного Excel: «Черепов П.В..», «Сапилкина В.И .», «Петров О. П.» → один человек."""
+    out = []
+    for t in s.split("/"):
+        t = re.sub(r"\s+", " ", t).strip()
+        t = re.sub(r"\s+\.", ".", t)             # «В.И .» → «В.И.»
+        t = re.sub(r"\.{2,}", ".", t)              # «П.В..» → «П.В.»
+        t = re.sub(r"(?<=[А-ЯЁ]\.)\s+(?=[А-ЯЁ]\.)", "", t)  # «О. П.» → «О.П.»
+        if t:
+            out.append(t)
+    return " / ".join(out)
+
+
 def parse_cell(v):
     lines = [l.strip() for l in str(v).split("\n") if l.strip()]
     m = re.match(r"^(лаб|пр|л)\.\s*(.*)$", lines[0])
@@ -107,12 +120,12 @@ def parse_cell(v):
         # заочка: «Предмет Фамилия И.О. К-204» одной строкой
         m = ONE_LINE_RE.match(subj)
         if m:
-            return kind, m.group(1).strip(), re.sub(r"\s+", " ", m.group(2)).strip(), m.group(3) or ""
+            return kind, m.group(1).strip(), clean_teacher(m.group(2)), m.group(3) or ""
     toks = (lines[-1] if len(lines) > 1 else "").split()
     room = toks.pop() if toks and ROOM_RE.match(toks[-1]) else ""
     if len(lines) > 2:
         subj += " " + " ".join(lines[1:-1])
-    teacher = re.sub(r"\s+", " ", " ".join(toks)).strip()
+    teacher = clean_teacher(" ".join(toks))
     if teacher.startswith("("):  # «(получение паролей от ЭИОС…)» — пояснение к занятию, а не преподаватель
         subj, teacher = subj + " " + teacher, ""
     return kind, re.sub(r"\s+", " ", subj).strip(), teacher, room

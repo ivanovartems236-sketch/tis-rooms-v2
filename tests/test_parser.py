@@ -90,6 +90,28 @@ def test_sheet_dates_academic_year():
     assert rasp.sheet_dates("12.01-18.01", dt.date(2026, 10, 1)) == (dt.date(2027, 1, 12), dt.date(2027, 1, 18))
 
 
+# ---------- опечатки в ФИО ----------
+@pytest.mark.parametrize("raw,clean", [
+    ("Черепов П.В..", "Черепов П.В."),
+    ("Сапилкина В.И .", "Сапилкина В.И."),
+    ("Петров  О. П.", "Петров О.П."),
+    ("Надеина А.Е./Семенова Л.В..", "Надеина А.Е. / Семенова Л.В."),
+    ("", ""),
+])
+def test_clean_teacher(raw, clean):
+    assert rasp.clean_teacher(raw) == clean
+
+
+def test_parse_cell_cleans_teacher():
+    assert rasp.parse_cell("л.Физика\nЧерепов П.В.. К-121") == (1, "Физика", "Черепов П.В.", "К-121")
+
+
+def test_decode_cleans_old_snapshot_no_fake_change():
+    old = build.decode(build.encode([L1("2026-10-27", 1, "A", te="Черепов П.В..")], "x"))
+    new = [L1("2026-10-27", 1, "A", te="Черепов П.В.")]
+    assert build.diff(old, new, "2026-10-25", "now") == []
+
+
 # ---------- лента изменений ----------
 def L1(d, p, g, s="Предмет", te="Петров О.П.", r="К-121", t="08.30-10.05", k=1):
     return (d, p, t, g, k, s, te, r)

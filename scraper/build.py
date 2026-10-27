@@ -55,7 +55,8 @@ def decode(data):
     if not data or data.get("v") != 2:
         return []
     S = data["dict"]
-    return [(S[d], p, S[t], S[g], k, S[s], S[te], S[r]) for d, p, t, g, k, s, te, r in data["l"]]
+    # ФИО чистим и в прошлом снимке — иначе исправление опечатки покажется «изменением» в ленте
+    return [(S[d], p, S[t], S[g], k, S[s], rasp.clean_teacher(S[te]), S[r]) for d, p, t, g, k, s, te, r in data["l"]]
 
 
 # ---------- изменения ----------
