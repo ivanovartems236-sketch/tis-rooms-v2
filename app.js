@@ -120,7 +120,7 @@ function migrate() {  // избранное со старого интерфей
 const st = {
   profiles: ls("tis3-profiles") || migrate(),
   cur: ls("tis3-cur") || 0,
-  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false, menu: false, form: "О",
+  tab: "today", view: null, date: today(), onb: null, q: "", freePair: null, stack: [], showFree: false, menu: false, form: "О", gridSel: null,
 };
 const me = () => st.view || st.profiles[st.cur] || null;
 function saveProfiles() { ls("tis3-profiles", st.profiles); ls("tis3-cur", st.cur); }
@@ -515,28 +515,72 @@ async function share(kind) {
 function toast(msg) { const t = $toast; t.textContent = msg; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => t.hidden = true, 2400); }
 const shareBtn = kind => h("button", { class: "btn share", onclick: () => share(kind) }, "Поделиться ↗");
 
-/* ---------- шахматка (для преподавателей) ---------- */
+/* ---------- шахматка (для преподавателей) ----------
+   Таблица прокручивается внутри себя: шапка с парами, колонка аудиторий и легенда всегда на виду.
+   В клетке — группа с формой обучения (О/ОЗ/З), подробности — по нажатию, снизу. */
+const roomZone = r => { const m = /^([А-ЯA-Z]+)-(\d)/.exec(r); return m ? `Корпус ${m[1]} · ${m[2]} этаж` : "Другое"; };
 function viewGrid() {
   const date = iso(st.date), all = byDate.get(date) || [], times = pairTimes(date), m = nowMin(), isToday = date === iso(today());
-  const ps = Object.keys(times).map(Number).sort((a, b) => a - b);
-  const curP = isToday ? ps.find(p => { const t = mins(times[p]); return t && m >= t[0] && m < t[1]; }) : null;
-  const view = [h("div", { class: "top" }, backBtn()), dayStrip(), h("h2", {}, `Шахматка · ${WD[wdi(st.date)]} ${dm(st.date)}`)];
-  if (!all.length) { view.push(h("div", { class: "empty" }, wdi(st.date) === 6 ? "Воскресенье — занятий нет." : "На этот день занятий в расписании нет.")); return view; }
+  const ps = Object.keys(times).map(Number).sort((a, b) => a - b), span = p => mins(times[p]);
+  const curP = isToday ? ps.find(p => { const t = span(p); return t && m >= t[0] && m < t[1]; }) : null;
+  const isPast = p => isToday && span(p) && m >= span(p)[1];
+  const view = [h("div", { class: "top" }, backBtn()), dayStrip(() => { st.gridSel = null; render(); }), h("h2", {}, `Шахматка · ${WD[wdi(st.date)]} ${dm(st.date)}`)];
+  if (!all.length) { view.push(h("div", { class: "empty" }, wdi(st.date) === 6 ? "Воскресенье — занятий нет." : date > MAXD ? `Расписание на этот день ещё не выложено (есть до ${dm(fromIso(MAXD))}).` : "На этот день занятий в расписании нет.")); return view; }
+  /* клетка = все занятия аудитории в эту пару; разные предметы в одной клетке не склеиваем — покажем все */
   const cell = {};
-  for (const l of all) { if (!l.r) continue; const c = (cell[l.r + "|" + l.p] ||= { s: l.s, k: l.k, te: l.te, gs: [] }); if (!c.gs.includes(l.g)) c.gs.push(l.g); }
-  const used = lists.room.filter(r => ps.some(p => cell[r + "|" + p])).length;
-  const short = gs => gs.length > 1 ? `${gs.length} гр.` : gs[0].replace(/^(О|ОЗ|З)-/, "");
-  view.push(h("div", { class: "legend", style: "margin-bottom:8px" }, h("span", {}, h("i", { style: "background:var(--lec-soft)" }), "лекция"), h("span", {}, h("i", { style: "background:var(--accent-soft)" }), "практика"),
-    h("span", {}, h("i", { style: "background:var(--lab-soft)" }), "лабораторная"), h("span", {}, `задействовано ${used} из ${lists.room.length}`)));
-  const thead = h("thead", {}, h("tr", {}, h("th", {}, ""), ps.map(p => h("th", { class: p === curP ? "nowcol" : null, title: times[p] }, p))));
-  const tbody = h("tbody", {}, lists.room.map(r => h("tr", {}, h("th", {}, r), ps.map(p => {
-    const c = cell[r + "|" + p];
-    return h("td", { class: ((c ? "busy k" + c.k : "") + (p === curP ? " nowcol" : "")).trim() || null },
-      h("button", { title: c ? `${p} пара · ${c.s} · ${c.te} · ${c.gs.join(", ")}` : `${r}, ${p} пара — свободно`,
-        onclick: () => drill("today", { view: { type: "room", v: r } }) }, c ? short(c.gs) : ""));
-  }))));
-  view.push(h("div", { class: "tablewrap" }, h("table", { class: "grid" }, thead, tbody)),
-    h("p", { class: "note" }, "Нажми на клетку — откроется день аудитории. Удобнее смотреть с компьютера."));
+  for (const l of all) {
+    if (!l.r) continue;
+    const c = (cell[l.r + "|" + l.p] ||= []), key = [l.s, l.te, l.k].join("|");
+    const x = c.find(x => x.key === key) || (c.push({ key, s: l.s, te: l.te, k: l.k, gs: [] }), c[c.length - 1]);
+    if (!x.gs.includes(l.g)) x.gs.push(l.g);
+  }
+  const changed = new Set(CH.filter(c => c.type === "lesson" && c.d === date && c.after && c.after.r).map(c => c.after.r + "|" + c.p));
+  const busyRooms = lists.room.filter(r => ps.some(p => cell[r + "|" + p])), freeRooms = lists.room.filter(r => !busyRooms.includes(r));
+  const kinds = new Set(Object.values(cell).flat().map(x => x.k));
+  const counter = curP ? `сейчас занято ${busyRooms.filter(r => cell[r + "|" + curP]).length} из ${lists.room.length}` : `за день занято ${busyRooms.length} из ${lists.room.length}`;
+  view.push(h("div", { class: "legend gl" }, [1, 2, 3, 0].filter(k => kinds.has(k)).map(k => h("span", {}, h("i", { class: "k" + k }), ["другое", "лекция", "практика", "лабораторная"][k])),
+    h("span", { class: "cnt" }, counter)));
+  const thead = h("thead", {}, h("tr", {}, h("th", { class: "corner" }, "ауд."), ps.map(p => h("th", { class: (p === curP ? "nowcol" : isPast(p) ? "past" : "") || null },
+    h("b", {}, p), h("small", {}, span(p) ? hm(span(p)[0]) : "")))));
+  const rows = []; let zone = null;
+  for (const r of busyRooms) {
+    if (roomZone(r) !== zone) { zone = roomZone(r); rows.push(h("tr", { class: "zone" }, h("th", { colspan: ps.length + 1 }, h("span", {}, zone)))); }
+    rows.push(h("tr", {}, h("th", {}, roomName(r)), ps.map(p => {
+      const key = r + "|" + p, c = cell[key], sel = st.gridSel === key;
+      // несколько разных занятий в клетке — цвет того, где больше групп; все они видны в подробностях
+      const cls = [c ? "busy k" + c.reduce((a, b) => b.gs.length > a.gs.length ? b : a).k : "", p === curP ? "nowcol" : "", isPast(p) ? "past" : "", sel ? "sel" : ""].filter(Boolean).join(" ");
+      const gs = c ? [...new Set(c.flatMap(x => x.gs))] : [];
+      return h("td", { class: cls || null },
+        h("button", { "aria-label": c ? `${r}, ${p} пара: ${c.map(x => x.s).join("; ")}, ${gs.join(", ")}` : `${r}, ${p} пара — свободно`,
+          onclick: () => { st.gridSel = sel || !c ? null : key; render(); } },
+          c ? [h("span", { class: "g" }, gs[0]), gs.length > 1 ? h("span", { class: "more" }, `+${gs.length - 1} гр.`) : null, changed.has(key) ? h("i", { class: "chg", title: "изменено" }) : null] : ""));
+    })));
+  }
+  /* перерисовка (нажатие на клетку, ежеминутное обновление) не сбрасывает прокрутку; первый раз — сразу к текущей паре */
+  const old = document.querySelector(".tablewrap"), keep = old && old.dataset.d === date ? [old.scrollLeft, old.scrollTop] : null;
+  const wrap = h("div", { class: "tablewrap", "data-d": date }, h("table", { class: "grid" }, thead, h("tbody", {}, rows)));
+  requestAnimationFrame(() => {
+    if (keep) [wrap.scrollLeft, wrap.scrollTop] = keep;
+    else { const c = wrap.querySelector("thead th.nowcol"), f = wrap.querySelector("thead th.corner"); if (c && f) wrap.scrollLeft += c.getBoundingClientRect().left - f.getBoundingClientRect().right; }
+  });
+  view.push(wrap);
+  if (freeRooms.length) view.push(h("div", { class: "freeall" }, h("b", {}, "Свободны весь день"),
+    h("div", { class: "rooms" }, freeRooms.map(r => h("button", { onclick: () => drill("today", { view: { type: "room", v: r } }) }, roomName(r))))));
+  view.push(h("p", { class: "note" }, "Нажми на занятую клетку — покажем предмет, преподавателя и все группы."));
+  /* подробности клетки — панель снизу, таблица остаётся на месте */
+  const sel = st.gridSel && cell[st.gridSel];
+  if (sel) {
+    const [r, p] = st.gridSel.split("|"), t = span(p);
+    view.push(h("div", { class: "sheet", role: "dialog", "aria-label": `${r}, ${p} пара` },
+      h("div", { class: "sh-top" }, h("b", {}, `${roomName(r)} · ${p} пара`), h("span", { class: "muted" }, t ? ` ${hm(t[0])}–${hm(t[1])}` : ""),
+        h("button", { class: "x", "aria-label": "Закрыть", onclick: () => { st.gridSel = null; render(); } }, "✕")),
+      changed.has(st.gridSel) ? h("div", { class: "chip chg", style: "margin:2px 0 6px" }, "изменено в расписании") : null,
+      sel.map(x => h("div", { class: "sh-item" },
+        h("div", { class: "s" }, x.k ? h("span", { class: "chip k" + x.k }, KN[x.k]) : null, x.s),
+        x.te ? h("div", { class: "muted", style: "font-size:.85rem;margin-top:2px" }, x.te) : null,
+        h("div", { class: "gs" }, x.gs.map(g => h("button", { onclick: () => { st.gridSel = null; drill("today", { view: { type: "group", v: g } }); } }, g))))),
+      h("button", { class: "btn", style: "width:100%;margin-top:8px", onclick: () => { st.gridSel = null; drill("today", { view: { type: "room", v: r } }); } }, `Весь день ${roomName(r)} →`)));
+  }
   return view;
 }
 
