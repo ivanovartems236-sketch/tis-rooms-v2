@@ -628,4 +628,11 @@ load();
 setInterval(() => { if (!document.hidden && !NOWP && !document.activeElement?.matches("input")) render(); }, 60000);
 addEventListener("online", () => { if (!L.length) load(); });
 document.addEventListener("visibilitychange", () => { if (!document.hidden) { if (Date.now() - lastLoad > 5 * 60000) load(); else render(); } });
-if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  /* новая версия встала — перезагружаемся сразу, а не «со второго открытия»; при первой установке контроллера нет — не нужно */
+  let reloading = false;
+  if (navigator.serviceWorker.controller) navigator.serviceWorker.addEventListener("controllerchange", () => { if (!reloading) { reloading = true; location.reload(); } });
+  navigator.serviceWorker.register("sw.js").then(reg => {
+    document.addEventListener("visibilitychange", () => { if (!document.hidden) reg.update().catch(() => {}); });  // свёрнутое приложение тоже проверяет обновления
+  }).catch(() => {});
+}
