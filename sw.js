@@ -1,7 +1,7 @@
 // © 2026 Артём Иванов. Все права защищены.
 // Копирование, изменение и распространение без письменного разрешения автора запрещены (см. LICENSE).
 // Офлайн-режим: оболочка из кэша, данные — сначала из сети, без сети — последняя копия.
-const CACHE = "tis-rooms-v3-11";
+const CACHE = "tis-rooms-v3-12";
 const SHELL = ["./", "index.html", "app.js", "style.css", "manifest.json", "icon-180.png", "icon-512.png"];
 // cache: "reload" — мимо HTTP-кэша браузера (GitHub Pages: до 10 мин), иначе в новый кэш ложится старый app.js
 self.addEventListener("install", e => e.waitUntil(caches.open(CACHE)
