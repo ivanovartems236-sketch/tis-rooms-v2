@@ -112,7 +112,10 @@ def parse_cell(v):
     room = toks.pop() if toks and ROOM_RE.match(toks[-1]) else ""
     if len(lines) > 2:
         subj += " " + " ".join(lines[1:-1])
-    return kind, re.sub(r"\s+", " ", subj).strip(), re.sub(r"\s+", " ", " ".join(toks)).strip(), room
+    teacher = re.sub(r"\s+", " ", " ".join(toks)).strip()
+    if teacher.startswith("("):  # «(получение паролей от ЭИОС…)» — пояснение к занятию, а не преподаватель
+        subj, teacher = subj + " " + teacher, ""
+    return kind, re.sub(r"\s+", " ", subj).strip(), teacher, room
 
 
 def parse_sheet(ws):
