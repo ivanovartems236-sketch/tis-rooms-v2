@@ -97,9 +97,16 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 .tl .rail.now::after{background:var(--now);border-color:var(--now);box-shadow:0 0 0 4px var(--now-soft)}
 .tl .lesson:last-child .rail{margin-bottom:0}
 .tl .lesson.cancel .rail::after{border-style:dashed}
-.tl .gap{position:relative;margin-left:0;padding-left:80px;margin-bottom:8px;margin-top:0;padding-top:2px;padding-bottom:10px}
-.tl .gap::after{content:"";position:absolute;left:65px;top:0;bottom:0;width:2px;background:var(--line)}
-.tl .gap.done::after{background:var(--accent)}
+/* окно в таймлайне: линия не рвётся — идёт пунктиром (перерыв), отступы съедены, чтобы стыковаться с соседними парами */
+.tl .gap{position:relative;margin:-8px 0 0;padding:12px 0 12px 80px}
+.tl .gap::before{display:none}
+.tl .gap::after{content:"";position:absolute;left:65px;top:0;bottom:0;width:2px;background:repeating-linear-gradient(to bottom,color-mix(in srgb,var(--muted) 55%,transparent) 0 4px,transparent 4px 8px)}
+.tl .gap.done::after{background:repeating-linear-gradient(to bottom,var(--accent) 0 4px,transparent 4px 8px)}
+.tl .gap.now::after{background:repeating-linear-gradient(to bottom,var(--now) 0 4px,transparent 4px 8px)}
+.gap .gp{display:inline-flex;align-items:center;gap:5px;border:1px dashed var(--line);border-radius:99px;padding:3px 10px;background:var(--surface);color:var(--fg);font-weight:500}
+.gap .gp::before{content:"☕";font-size:.8rem}
+.gap small{font-family:var(--f-mono);font-size:.72rem;color:var(--muted)}
+.gap.now .gp{border:1px solid var(--now);background:var(--now-soft);color:var(--now);font-weight:600}
 .lesson.past{opacity:.5}
 .lesson.cur .card{border-color:var(--now);box-shadow:inset 3px 0 0 var(--now)}
 .lesson.cancel .card{background:transparent;border-style:dashed}

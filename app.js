@@ -280,7 +280,12 @@ function lessonList(date, e) {
   const out = []; let prevEnd = null;
   for (const i of all) {
     const gapMin = prevEnd != null && i.m && !i.cancel ? i.m[0] - prevEnd : 0;
-    if (gapMin >= 20) out.push(h("div", { class: "gap" + (live && m >= i.m[0] ? " done" : "") }, (e.type === "room" ? "свободно " : "окно ") + dur(gapMin)));
+    if (gapMin >= 20) {
+      /* окно — часть линии: пунктирный отрезок и плашка со временем; идёт сейчас — подсвечено и считает, сколько осталось */
+      const inGap = live && m >= prevEnd && m < i.m[0], word = e.type === "room" ? "свободно" : "окно";
+      out.push(h("div", { class: "gap" + (live && m >= i.m[0] ? " done" : "") + (inGap ? " now" : "") },
+        h("span", { class: "gp" }, inGap ? `${word} · ещё ${dur(i.m[0] - m)}` : `${word} ${dur(gapMin)}`), h("small", {}, `${hm(prevEnd)}–${hm(i.m[0])}`)));
+    }
     const changed = !i.cancel && chs.some(c => c.p === i.p && c.after && c.after.s === i.s);
     const isCur = isToday && i.m && !i.cancel && m >= i.m[0] && m < i.m[1], isPast = isToday && i.m && m >= i.m[1];
     const cls = "lesson" + (i.cancel ? " cancel" : "") + (isCur ? " cur" : "") + (isPast ? " past" : "");
@@ -289,8 +294,8 @@ function lessonList(date, e) {
     const who = e.type === "teacher" || !i.te ? `${i.p} пара` : `${i.p} пара · ${i.te}`;
     let rail = null;
     if (tl) {
-      // заполнение — от начала пары до начала следующей (последняя — до звонка)
-      const nx = i.m && real.find(x => x.m[0] > i.m[0]), end = i.m ? (nx ? nx.m[0] : i.m[1]) : 0;
+      // заполнение — от начала пары до начала следующей (последняя и перед окном — до звонка: окно рисуется своим отрезком)
+      const nx = i.m && real.find(x => x.m[0] > i.m[0]), end = i.m ? (nx && nx.m[0] - i.m[1] < 20 ? nx.m[0] : i.m[1]) : 0;
       const pct = live && i.m && !i.cancel ? Math.max(0, Math.min(100, 100 * (m - i.m[0]) / (end - i.m[0]))) : 0;
       rail = h("div", { class: "rail" + (pct > 0 ? " on" : "") + (isCur ? " now" : "") }, h("i", { style: `height:${pct.toFixed(1)}%` }));
     }
