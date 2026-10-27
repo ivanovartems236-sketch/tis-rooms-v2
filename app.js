@@ -27,7 +27,9 @@ const dm = d => `${pad(d.getDate())}.${pad(d.getMonth() + 1)}`;
 const mins = t => { const m = /(\d{1,2})\.(\d{2})-(\d{1,2})\.(\d{2})/.exec(t || ""); return m ? [m[1] * 60 + +m[2], m[3] * 60 + +m[4]] : null; };
 const hm = m => `${Math.floor(m / 60)}:${pad(m % 60)}`;
 const dur = m => (m >= 60 ? Math.floor(m / 60) + " ч " : "") + (m % 60 ? (m % 60) + " мин" : "");
-const splitT = s => s.split("/").map(x => x.trim()).filter(Boolean);
+/* опечатки в ФИО из исходного Excel («Черепов П.В..», «Сапилкина В.И .») — иначе один преподаватель в списке дважды */
+const cleanT = t => t.replace(/\s+/g, " ").trim().replace(/\s+\./g, ".").replace(/\.{2,}/g, ".").replace(/(?<=[А-ЯЁ]\.)\s+(?=[А-ЯЁ]\.)/g, "");
+const splitT = s => s.split("/").map(cleanT).filter(Boolean);
 const roomName = r => r === "СЗ" ? "Спортзал" : r;
 const roomSort = (a, b) => { const pa = /^([^\d-]*)-?(\d*)/.exec(a), pb = /^([^\d-]*)-?(\d*)/.exec(b); return pa[1] === pb[1] ? (+pa[2] || 0) - (+pb[2] || 0) : pa[1].localeCompare(pb[1], "ru"); };
 /* поиск прощает формат: регистр, дефисы, пробелы, ё, латинские двойники; «оист261» найдёт О-ИстТ-261 */
@@ -76,7 +78,8 @@ function ingest(data) {
   L = data.l.map(r => {
     let s = S[r[5]], te = S[r[6]];
     if (te.startsWith("(")) { s += " " + te; te = ""; }  // старые data.json: пояснение попало в преподавателя
-    return { d: S[r[0]], p: r[1], t: S[r[2]], g: S[r[3]], k: r[4], s, te, r: S[r[7]], tl: splitT(te) };
+    const tl = splitT(te);
+    return { d: S[r[0]], p: r[1], t: S[r[2]], g: S[r[3]], k: r[4], s, te: tl.join(" / "), r: S[r[7]], tl };
   });
   const gs = new Set(), ts = new Set(), rs = new Set();
   byDate = new Map();
