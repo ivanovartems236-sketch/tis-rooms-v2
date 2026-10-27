@@ -95,6 +95,13 @@ function addProfile(e, makeCur = true) {
   if (makeCur) st.cur = i;
   st.view = null; saveProfiles();
 }
+/* убрали все профили — назад к первому экрану: чистим и открытое чужое расписание, и стек «назад» */
+function restart() {
+  Object.assign(st, { profiles: [], cur: 0, view: null, stack: [], tab: "today", date: today(), onb: null, q: "", freePair: null, showFree: false, menu: false });
+  saveProfiles(); ls("tis3-skip", null);
+  history.replaceState(null, "", location.pathname + location.search);
+  render(); scrollTo(0, 0);
+}
 const go = (tab, extra) => { st.stack = []; Object.assign(st, { tab, menu: false, freePair: null }, extra || {}); render(); scrollTo(0, 0); };
 const TAB_NAME = { today: "Сегодня", week: "Неделя", find: "Найти", more: "Ещё", grid: "Шахматка" };
 function drill(tab, extra) {
@@ -359,8 +366,8 @@ function viewMore() {
   if (forStaff()) view.push(h("h3", {}, "Для преподавателей"),
     h("button", { class: "big", onclick: () => drill("grid", { date: today() }) }, h("span", { class: "ic" }, "▦"), h("div", {}, h("b", {}, "Шахматка"), h("span", {}, "Все аудитории × пары за день"))));
   view.push(h("h3", {}, "Профили"),
-    st.profiles.length ? h("div", { class: "res" }, st.profiles.map((p, i) => h("button", { onclick: () => { if (confirm(`Убрать «${p.v}»?`)) { st.profiles.splice(i, 1); if (st.cur > i || st.cur >= st.profiles.length) st.cur = Math.max(0, st.cur - 1); saveProfiles(); render(); } } }, h("b", {}, roomName(p.v)), h("small", {}, TYPE[p.type] + " · убрать ✕")))) : null,
-    h("button", { class: "btn", style: "margin-top:8px", onclick: () => { st.profiles = []; st.cur = 0; saveProfiles(); ls("tis3-skip", null); st.onb = null; render(); } }, "Начать заново (показать первый экран)"));
+    st.profiles.length ? h("div", { class: "res" }, st.profiles.map((p, i) => h("button", { onclick: () => { if (confirm(`Убрать «${p.v}»?`)) { st.profiles.splice(i, 1); if (!st.profiles.length) return restart(); if (st.cur > i || st.cur >= st.profiles.length) st.cur = Math.max(0, st.cur - 1); saveProfiles(); render(); } } }, h("b", {}, roomName(p.v)), h("small", {}, TYPE[p.type] + " · убрать ✕")))) : null,
+    h("button", { class: "btn", style: "margin-top:8px", onclick: restart }, "Начать заново (показать первый экран)"));
   view.push(h("p", { class: "foot" }, `Обновлено ${UPDATED}, данные — только с публичной страницы stis.su/schedule. Профиль хранится только на этом устройстве, без регистрации и cookie.`));
   return view;
 }
@@ -463,7 +470,7 @@ function viewGrid() {
   for (const l of all) { if (!l.r) continue; const c = (cell[l.r + "|" + l.p] ||= { s: l.s, k: l.k, te: l.te, gs: [] }); if (!c.gs.includes(l.g)) c.gs.push(l.g); }
   const used = lists.room.filter(r => ps.some(p => cell[r + "|" + p])).length;
   const short = gs => gs.length > 1 ? `${gs.length} гр.` : gs[0].replace(/^(О|ОЗ|З)-/, "");
-  view.push(h("div", { class: "legend", style: "margin-bottom:8px" }, h("span", {}, h("i", { style: "background:var(--accent-soft)" }), "занято"),
+  view.push(h("div", { class: "legend", style: "margin-bottom:8px" }, h("span", {}, h("i", { style: "background:var(--lec-soft)" }), "лекция"), h("span", {}, h("i", { style: "background:var(--accent-soft)" }), "практика"),
     h("span", {}, h("i", { style: "background:var(--lab-soft)" }), "лабораторная"), h("span", {}, `задействовано ${used} из ${lists.room.length}`)));
   const thead = h("thead", {}, h("tr", {}, h("th", {}, ""), ps.map(p => h("th", { class: p === curP ? "nowcol" : null, title: times[p] }, p))));
   const tbody = h("tbody", {}, lists.room.map(r => h("tr", {}, h("th", {}, r), ps.map(p => {
