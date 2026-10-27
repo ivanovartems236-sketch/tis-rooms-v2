@@ -201,7 +201,7 @@ h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mut
 :root{--g0:#e4e8ee;--g0-fg:#3b4654;--g1:#d6c4fa;--g1-fg:#3a1786;--g2:#c3daf7;--g2-fg:#0c3a70;--g3:#bde8cd;--g3-fg:#0f4f2a}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--g0:#2c3542;--g0-fg:#d5dde7;--g1:#4d3192;--g1-fg:#f3ecff;--g2:#1f4c80;--g2-fg:#e8f2ff;--g3:#1d6140;--g3-fg:#dffbe9}}
 :root[data-theme="dark"]{--g0:#2c3542;--g0-fg:#d5dde7;--g1:#4d3192;--g1-fg:#f3ecff;--g2:#1f4c80;--g2-fg:#e8f2ff;--g3:#1d6140;--g3-fg:#dffbe9}
-.tablewrap{overflow:auto;max-height:calc(100dvh - 300px - env(safe-area-inset-bottom,0px));min-height:260px;border:1px solid var(--line);border-radius:12px;background:var(--surface);overscroll-behavior:contain}
+.tablewrap{isolation:isolate;overflow:auto;max-height:calc(100dvh - 240px - env(safe-area-inset-bottom,0px));min-height:260px;border:1px solid var(--line);border-radius:12px;background:var(--surface);overscroll-behavior:contain}
 table.grid{border-collapse:separate;border-spacing:0;width:100%;font-size:.78rem}
 .grid th,.grid td{border-bottom:1px solid var(--line);padding:0;text-align:center}
 .grid td{padding:2px}
@@ -226,7 +226,10 @@ table.grid{border-collapse:separate;border-spacing:0;width:100%;font-size:.78rem
 .grid td.nowcol{background:color-mix(in srgb,var(--now) 9%,transparent)}
 .grid td.sel button{outline:2px solid var(--fg);outline-offset:-2px}
 .grid td button i.chg{position:absolute;top:4px;right:4px;width:7px;height:7px;border-radius:50%;background:var(--warn);box-shadow:0 0 0 1.5px var(--surface)}
-.legend.gl{position:sticky;top:58px;z-index:2;background:var(--bg);margin:0 -16px 8px;padding:6px 16px;gap:6px 12px}
+.gridhead{position:sticky;top:0;z-index:4;background:var(--bg);margin:0 -16px 8px;padding:6px 16px 2px}
+.gridhead .days{margin-bottom:6px}
+.gridhead h2{margin:0 0 6px}
+.legend.gl{margin:0 0 6px;gap:6px 12px}
 .legend.gl i{width:14px;height:14px;border-radius:4px}
 .legend.gl .cnt{margin-left:auto;font-weight:600;color:var(--fg)}
 .freeall{margin-top:12px}
