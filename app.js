@@ -524,7 +524,10 @@ function viewGrid() {
   const ps = Object.keys(times).map(Number).sort((a, b) => a - b), span = p => mins(times[p]);
   const curP = isToday ? ps.find(p => { const t = span(p); return t && m >= t[0] && m < t[1]; }) : null;
   const isPast = p => isToday && span(p) && m >= span(p)[1];
-  const view = [h("div", { class: "top" }, backBtn()), dayStrip(() => { st.gridSel = null; render(); }), h("h2", {}, `Шахматка · ${WD[wdi(st.date)]} ${dm(st.date)}`)];
+  /* дни, заголовок и легенда — одна закреплённая шапка: при прокрутке страницы таблица уходит под неё, а не наползает */
+  const strip = dayStrip(() => { st.gridSel = null; render(); }); strip.classList.remove("sticky");
+  const head = h("div", { class: "gridhead" }, strip, h("h2", {}, `Шахматка · ${WD[wdi(st.date)]} ${dm(st.date)}`));
+  const view = [h("div", { class: "top" }, backBtn()), head];
   if (!all.length) { view.push(h("div", { class: "empty" }, wdi(st.date) === 6 ? "Воскресенье — занятий нет." : date > MAXD ? `Расписание на этот день ещё не выложено (есть до ${dm(fromIso(MAXD))}).` : "На этот день занятий в расписании нет.")); return view; }
   /* клетка = все занятия аудитории в эту пару; разные предметы в одной клетке не склеиваем — покажем все */
   const cell = {};
@@ -538,7 +541,7 @@ function viewGrid() {
   const busyRooms = lists.room.filter(r => ps.some(p => cell[r + "|" + p])), freeRooms = lists.room.filter(r => !busyRooms.includes(r));
   const kinds = new Set(Object.values(cell).flat().map(x => x.k));
   const counter = curP ? `сейчас занято ${busyRooms.filter(r => cell[r + "|" + curP]).length} из ${lists.room.length}` : `за день занято ${busyRooms.length} из ${lists.room.length}`;
-  view.push(h("div", { class: "legend gl" }, [1, 2, 3, 0].filter(k => kinds.has(k)).map(k => h("span", {}, h("i", { class: "k" + k }), ["другое", "лекция", "практика", "лабораторная"][k])),
+  head.append(h("div", { class: "legend gl" }, [1, 2, 3, 0].filter(k => kinds.has(k)).map(k => h("span", {}, h("i", { class: "k" + k }), ["другое", "лекция", "практика", "лабораторная"][k])),
     h("span", { class: "cnt" }, counter)));
   const thead = h("thead", {}, h("tr", {}, h("th", { class: "corner" }, "ауд."), ps.map(p => h("th", { class: (p === curP ? "nowcol" : isPast(p) ? "past" : "") || null },
     h("b", {}, p), h("small", {}, span(p) ? hm(span(p)[0]) : "")))));
