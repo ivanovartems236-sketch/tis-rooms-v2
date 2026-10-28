@@ -604,6 +604,28 @@ LOCATION:К-408
 DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: З-Рт-242
 END:VEVENT
 BEGIN:VEVENT
+UID:b83c9ae07501448595dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T083000
+DTEND;TZID=Europe/Moscow:20261029T100500
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Лекция)
+LOCATION:К-408
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e3e24b52ece40b709ad8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261029T101500
+DTEND;TZID=Europe/Moscow:20261029T115000
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
 UID:32729838364e7c6e452d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T140500
