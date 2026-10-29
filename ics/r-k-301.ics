@@ -17,232 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ba340b10270e1fdbd55d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Иностранный язык (Практика)
-LOCATION:К-301
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- стТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:751a8f58047ee3c96b98@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:5 пара · Смирнова Н.Г. · группы: О-МК
- И-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2b3d4c1e3d142835a256@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T173500
-DTEND;TZID=Europe/Moscow:20261012T191000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:6 пара · Кудашина В.Л. · группы: З-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:04534ad9b328270e6377@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Основы редактирования документов (Л
- екция)
-LOCATION:К-301
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Дп-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b0dd9a01342eaf26aea4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Рисунок (Лаб.)
-LOCATION:К-301
-DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:07f830b74650c7d098d5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Современные методы и средства иссле
- дований в легкой промышленности (Лекция)
-LOCATION:К-301
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:1aa545b5578fbc343c7a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T173500
-DTEND;TZID=Europe/Moscow:20261013T191000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
- Т-261\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:587d6aa1c624b3cd6d4d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Иностранный язык в профессиональной
-  деятельности. (Практика)
-LOCATION:К-301
-DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
- Исп-11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:01e30fa29a29a253340f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Практикум по коммуникативной компет
- ентности (Практика)
-LOCATION:К-301
-DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Тб-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:02df30c09439e812721b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Теория решения изобретательских зад
- ач (Лекция)
-LOCATION:К-301
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:5dc781cc02453c7f7ec8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Специальные главы математики (Лекци
- я)
-LOCATION:К-301
-DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-М
- ИСТ-261\, О-МКИ-261\, ОЗ-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:0fb6e79a8cd19cabe8eb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МЭ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:89efc6f61cee5627ea2a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T173500
-DTEND;TZID=Europe/Moscow:20261015T191000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:6 пара · Смирнова Н.Г. · группы: О-МИ
- СТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d7f214d4b286fa536c92@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Деловая культура (Лекция)
-LOCATION:К-301
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Дп-11-261\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:1d461592932244d4cef4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Математический аппарат в отрасли ин
- формационных технологий (Лекция)
-LOCATION:К-301
-DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-Т
- эис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:7395ee7c01519d2b21e4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Математический аппарат в отрасли ин
- формационных технологий (Практика)
-LOCATION:К-301
-DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-Т
- эис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:8ab081e888a78a7647ec@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Концепции современного естествозна
- ния (Лекция)
-LOCATION:К-301
-DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-С
- т-261
-END:VEVENT
-BEGIN:VEVENT
-UID:6500c9a0285b03603d83@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:5 пара · Смирнова Н.Г. · группы: З-МИ
- СТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d690937f93226bdd16f1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Концепции современного естествозна
- ния (Лекция)
-LOCATION:К-301
-DESCRIPTION:5 пара · Левшенков В.Н. · группы: З-С
- п-262\, З-Ст-262\, З-Сэ-262\, З-Т-261\, З-Т-262
-END:VEVENT
-BEGIN:VEVENT
-UID:7896b150826cfb1479c4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T121000
-DTEND;TZID=Europe/Moscow:20261017T134000
-SUMMARY:Специальные главы математики (Лекци
- я)
-LOCATION:К-301
-DESCRIPTION:3 пара · Левшенков В.Н. · группы: З-М
- ИСТ-261\, З-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:f25894ab3d90d4c9e67b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T121000
-DTEND;TZID=Europe/Moscow:20261017T134000
-SUMMARY:История отрасли и введение в специал
- ьность (Лекция)
-LOCATION:К-301
-DESCRIPTION:3 пара · Кутин А.О. · группы: З-Тб-261\, 
- З-Тб-262
-END:VEVENT
-BEGIN:VEVENT
 UID:e4618328aeccb3b5d49c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -616,5 +390,134 @@ SUMMARY:Концепции современного естествозна
 LOCATION:К-301
 DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-С
  т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e739bf7ea2f148a47b2d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Исп-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:885b303bba68a2db8f27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b95e95f5880e55c6fcac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-26
+ 1\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9acc59e50ab9ee12a4fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b1836561671eb659fae0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:be56f73c4e8db1382e07@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Смирнова Н.Г. · группы: О-МИ
+ СТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a1863fadcacbaf210561@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (Лекция)
+LOCATION:К-301
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
+ ксМ-251\, О-ИстТ-251\, О-Рт-251\, ОЗ-ИстТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6064539925917ed7d1a6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:4 пара · Смирнова Н.Г. · группы: О-МК
+ И-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7824c57302f2417d2d45@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Дискретная математика с элементами 
+ математической логики (Лекция)
+LOCATION:К-301
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0b8438fb0a8d8cd81a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Элементы высшей математики (Лекция)
+LOCATION:К-301
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:75d2ffdc79eb32991bbe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4b11c3c6cd075e16d657@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-301
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 END:VCALENDAR

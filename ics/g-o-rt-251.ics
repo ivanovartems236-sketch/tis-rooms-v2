@@ -17,138 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9feb40d74d75bd5aa42c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Физические основы микроэлектроники 
- (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:6b058e0a25ba359e7401@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Физические основы микроэлектроники 
- (Практика)
-LOCATION:К-504
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:fb16145a1abef14df981@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Практика)
-LOCATION:К-413
-DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:ff70e5569eeeada210bc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Системы компьютерного моделировани
- я (Практика)
-LOCATION:К-401
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:3ab9aabdd6938178c085@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Специальные разделы информатики (Ле
- кция)
-LOCATION:К-408
-DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:3fc59bf14a0acd30654f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Основы теории цепей (Лекция)
-LOCATION:К-413
-DESCRIPTION:3 пара · Шепеть И.П. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:57cb308c0569cbb52d78@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Философия (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:2257f31b8114fa334fc9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Общая физическая подготовка (Практи
- ка)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:efbf5c08ce81d4945e12@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Теория вероятностей и математическа
- я статистика (Практика)
-LOCATION:В-103
-DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:710b0586f72508d57833@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Специальные разделы информатики (Ла
- б.)
-LOCATION:К-406
-DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:5f7f3b6f3f3454f1c3ae@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Лекция)
-LOCATION:К-505
-DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:9f176f9d314cc1dd1c16@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Радиоматериалы и радиокомпоненты (Л
- аб.)
-LOCATION:К-401
-DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:7ae46aece1d59507220f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Основы теории цепей (Практика)
-LOCATION:К-502
-DESCRIPTION:3 пара · Шепеть И.П. · группы: О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
 UID:fd69651454ae86a6827e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -411,5 +279,137 @@ DTEND;TZID=Europe/Moscow:20261030T135500
 SUMMARY:Основы теории цепей (Практика)
 LOCATION:К-502
 DESCRIPTION:3 пара · Шепеть И.П. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6d7b227860a6960511c8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Физические основы микроэлектроники 
+ (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf7a6c2ec4e37759c09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Основы теории цепей (Практика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c273b1de41b000e56417@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Радиоматериалы и радиокомпоненты (Л
+ екция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8445b519aa0836069540@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Специальные разделы информатики (Ла
+ б.)
+LOCATION:К-401
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7d93a9f561a04e80cb6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ebbda3d6db48b4e98aef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-408
+DESCRIPTION:5 пара · Литвин Д.Б. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c61a02688b31cc7640d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:dae0a778bc7633fa2098@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (Лекция)
+LOCATION:К-301
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c586419cb6f3f623df28@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Электродинамика и распространение р
+ адиоволн (Практика)
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c5dc182505f7e4d59a3d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Радиоматериалы и радиокомпоненты (Л
+ аб.)
+LOCATION:К-408
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5913a4e422c0d5606190@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:Метрология и радиоизмерения (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f6730bd4a5e902a46f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Метрология и радиоизмерения (Практи
+ ка)
+LOCATION:К-413
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:26d0f999a6e805f44516@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Метрология и радиоизмерения (Лаб.)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: О-Рт-
+ 251
 END:VEVENT
 END:VCALENDAR

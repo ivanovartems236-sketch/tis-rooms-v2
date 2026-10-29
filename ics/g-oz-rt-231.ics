@@ -17,62 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:18cb11f2b57f3d1eff3c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Устройства сверхвысоких частот и ан
- тенны (Лекция)
-LOCATION:К-413
-DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: ОЗ-
- Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:309e2446ffd1a3d68302@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Электропреобразовательные устройст
- ва радиоэлектронных систем (Лаб.)
-LOCATION:К-413
-DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:d16bfc88fee7f351bb3b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Программно-аппаратные средства муль
- тимедиа и компьютерной графики (Лаб.)
-LOCATION:К-413
-DESCRIPTION:4 пара · Братченко Н.Ю. · группы: ОЗ-
- Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:49c8855f026ba8922dcc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T121000
-DTEND;TZID=Europe/Moscow:20261017T134000
-SUMMARY:Диагностика и обслуживание радиоэле
- ктронных средств бытового назначения (Л
- екция)
-LOCATION:К-413
-DESCRIPTION:3 пара · Горяинов М.Ф. · группы: ОЗ-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
-UID:49a871fbe9913e15c8b8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T140000
-DTEND;TZID=Europe/Moscow:20261017T153000
-SUMMARY:Диагностика и обслуживание радиоэле
- ктронных средств бытового назначения (П
- рактика)
-LOCATION:К-413
-DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
 UID:24edf72bbb87e5448022@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -204,5 +148,70 @@ SUMMARY:Диагностика и обслуживание радиоэле
 LOCATION:К-413
 DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
  т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d3442df2f5c48c2c1bd6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Черепов П.В. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1304f51fce4ce9c2e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:В-201
+DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf7a51233c198ceccae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-408
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9b91fa6111b3422d73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-501
+DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:f683173fb77c4dfa16b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab34d399dbc4dbb06e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: ОЗ-
+ Рт-231
 END:VEVENT
 END:VCALENDAR

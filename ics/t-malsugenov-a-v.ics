@@ -17,39 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3c98c451c6d4df7febb5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T083000
-DTEND;TZID=Europe/Moscow:20261017T100000
-SUMMARY:Введение в профессиональную деятель
- ность (Лекция)
-LOCATION:К-612
-DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
- Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:c496d52c06b75368ba76@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T101000
-DTEND;TZID=Europe/Moscow:20261017T114000
-SUMMARY:Введение в профессиональную деятель
- ность (Практика)
-LOCATION:К-612
-DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
- Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d2f2f8c53da882d72cc4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T121000
-DTEND;TZID=Europe/Moscow:20261017T134000
-SUMMARY:Введение в профессиональную деятель
- ность (Лекция)
-LOCATION:К-612
-DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
- Тм-261\, З-Тм-262
-END:VEVENT
-BEGIN:VEVENT
 UID:5079c6fb49a3f20233c2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261029T173500

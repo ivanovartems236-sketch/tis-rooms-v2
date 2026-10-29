@@ -17,59 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:482dde4c31428f7c40f8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:34e670dc7e327d247dd6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Комплексный экономический анализ (П
- рактика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эпо-242
-END:VEVENT
-BEGIN:VEVENT
-UID:d108103ad5083a15037a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Налоги и налогообложение (Практика)
-LOCATION:К-107
-DESCRIPTION:1 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эпо-242
-END:VEVENT
-BEGIN:VEVENT
-UID:e2a669d6232ddb0fdeaf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Психология командной работы и лидер
- ства (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
- по-242
-END:VEVENT
-BEGIN:VEVENT
-UID:2043f239c5c5cb2d41e5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Экономика недвижимости (Практика)
-LOCATION:К-217
-DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
- по-242
-END:VEVENT
-BEGIN:VEVENT
 UID:e6a24e417d31fb8eb2bc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
@@ -186,5 +133,80 @@ SUMMARY:Деловые коммуникации (Лекция)
 LOCATION:К-210
 DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
  242
+END:VEVENT
+BEGIN:VEVENT
+UID:2132391fc38b6f2ae5ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:b242025fb25aebe5f4ff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:975be0b38bd3feaea2ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Экономическая оценка инвестиций (Ле
+ кция)
+LOCATION:К-107
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0f38a1fb26bb36ffe92b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Деловые коммуникации (Практика)
+LOCATION:К-308
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:9c16db3531c0beb52175@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-217
+DESCRIPTION:4 пара · Сурцев А.С. / Ионова А.Ч. · гр
+ уппы: ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8712e150d29dd4c7a7f7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Экономическая оценка инвестиций (Пр
+ актика)
+LOCATION:К-217
+DESCRIPTION:5 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c35ae8cf2688578dc781@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: ОЗ-Э
+ по-242
 END:VEVENT
 END:VCALENDAR

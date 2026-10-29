@@ -17,112 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b2cc27e54d07157fbc7a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Ресурсосбережение при проведении те
- хнического обслуживания и ремонта автом
- обилей (Практика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:954c83109718c4e5a150@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T173500
-DTEND;TZID=Europe/Moscow:20261012T191000
-SUMMARY:Техническое диагностирование и конт
- роль технического состояния автотрансп
- ортных средств (Лекция)
-LOCATION:К-208
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:40d9fd133e18899fa97a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Менеджмент автотранспортных и серви
- сных предприятий (Практика)
-LOCATION:К-602
-DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
-  · группы: О-МСТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:5b7efb41ed7b9a07c920@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Менеджмент автотранспортных и серви
- сных предприятий (Лекция)
-LOCATION:К-205
-DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:f05cd9afb604ca3254c9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Техническое диагностирование и конт
- роль технического состояния автотрансп
- ортных средств (Практика)
-LOCATION:К-205
-DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-МСТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:73994a3e0b959198fee8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Особые условия технической эксплуат
- ации и экологическая безопасность автом
- обилей (Практика)
-LOCATION:К-208
-DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:49f4e6f2f750aebb61a5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T173500
-DTEND;TZID=Europe/Moscow:20261015T191000
-SUMMARY:Особые условия технической эксплуат
- ации и экологическая безопасность автом
- обилей (Лекция)
-LOCATION:К-205
-DESCRIPTION:6 пара · Семенова Л.В. · группы: О-МС
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:1e5d5177f4b1f222f045@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T192000
-DTEND;TZID=Europe/Moscow:20261015T205500
-SUMMARY:Ресурсосбережение при проведении те
- хнического обслуживания и ремонта автом
- обилей (Лекция)
-LOCATION:К-205
-DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:9a66bd633c25fc0c684a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Особые условия технической эксплуат
- ации и экологическая безопасность автом
- обилей (Практика)
-LOCATION:К-205
-DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
 UID:520e5d511c060c695378@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T155000
@@ -323,5 +217,89 @@ SUMMARY:Особые условия технической эксплуат
 LOCATION:К-205
 DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
  251
+END:VEVENT
+BEGIN:VEVENT
+UID:7c75a70a0d99b56a078c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc6875de4ae93cc3ac7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:98f17d970193cc03038e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Современные технологии повышения ра
+ ботоспособности и восстановления детал
+ ей автомобилей (Лекция)
+LOCATION:К-208
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:04226b10fe2463acf548@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Особые условия технической эксплуат
+ ации и экологическая безопасность автом
+ обилей (Практика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:952079bc11b86985910a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Современные технологии повышения ра
+ ботоспособности и восстановления детал
+ ей автомобилей (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:d62a64dbf26fb22c493e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Ресурсосбережение при проведении те
+ хнического обслуживания и ремонта автом
+ обилей (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e08dbd7d474560404261@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Ресурсосбережение при проведении те
+ хнического обслуживания и ремонта автом
+ обилей (Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
 END:VEVENT
 END:VCALENDAR

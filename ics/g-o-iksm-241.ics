@@ -17,122 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:62dd378c592f18ec7647@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T083000
-DTEND;TZID=Europe/Moscow:20261012T100500
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:264364a7add4aaca8df6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Радиопередающие устройства (Лаб.)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:f1ecdde65f961c0f922f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:9ff59ba3cab346650ed7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Общая теория связи (Лаб.)
-LOCATION:К-506
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:4d742b73e4d41dc24564@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Электропитание устройств и систем и
- нфокоммуникаций (Практика)
-LOCATION:К-502
-DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИксМ-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:efc62c244924ae348f6a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Электропитание устройств и систем и
- нфокоммуникаций (Лекция)
-LOCATION:К-506
-DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:3836bf937350423f76fb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Общая теория связи (Лекция)
-LOCATION:К-506
-DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Икс
- М-241
-END:VEVENT
-BEGIN:VEVENT
-UID:f43468b7d45920577013@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Электропитание устройств и систем и
- нфокоммуникаций (Лаб.)
-LOCATION:К-502
-DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИксМ-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:800467628b64f7990689@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Цифровая обработка сигналов (Лаб.)
-LOCATION:К-406
-DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:6698ef4e039851a915f4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Психология командной работы и лидер
- ства (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ик
- сМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:debf2d34429dfdd008a4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Цифровая обработка сигналов (Лекция)
-LOCATION:К-408
-DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:691cd699107acbf5ab15@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
@@ -352,5 +236,110 @@ SUMMARY:Цифровая обработка сигналов (Лекция)
 LOCATION:К-408
 DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:d9de7ba0ead6c4c973f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-401
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6675d83f6727a577fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:258ce2c5688dfcbda96c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:dde2f7e91c5bf3f23861@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Общая теория связи (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a9fcedb7cd45885a93@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e36cc692f88ebe524623@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:257e726bfc0b22150752@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Радиопередающие устройства (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:afb76d138837470b2c97@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:27b35ee8018031ae2354@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:0de61c7fee78990aec86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241
 END:VEVENT
 END:VCALENDAR

@@ -17,100 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:764475fd4857cb6c385d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Микроэкономика (Практика)
-LOCATION:К-210
-DESCRIPTION:2 пара · Сурцев А.С. / Семенова Н.В. · 
- группы: ОЗ-М-261\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:7d852529f2da361af5e0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Микроэкономика (продвинутый уровень
- ) (Лекция)
-LOCATION:К-107
-DESCRIPTION:4 пара · Семенова Н.В. · группы: З-МЭ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:3f8188d0cf330761a147@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Микроэкономика (Лекция)
-LOCATION:К-217
-DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
- 261\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:c9b4b2f56d25d3ca58ae@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Теория организации (Практика)
-LOCATION:К-217
-DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-М-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:b33bab712178d57ba3ba@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Актуальные проблемы менеджмента (Ле
- кция)
-LOCATION:К-208
-DESCRIPTION:4 пара · Гончаров В.Н. / Семенова Н.В.
-  · группы: З-ММ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:5898f8eda986ba0016b2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T192000
-DTEND;TZID=Europe/Moscow:20261014T205500
-SUMMARY:Микроэкономика (продвинутый уровень
- ) (Лекция)
-LOCATION:К-217
-DESCRIPTION:7 пара · Семенова Н.В. · группы: О-МЭ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:4737734d71d7dff4cc2a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Актуальные проблемы менеджмента (Пр
- актика)
-LOCATION:К-106
-DESCRIPTION:4 пара · Семенова Н.В. · группы: З-ММ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:1d5063faecdfed0b52ee@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Логистика (Лекция)
-LOCATION:К-607
-DESCRIPTION:4 пара · Семенова Н.В. · группы: ОЗ-М-
- 231\, ОЗ-Эпо-231
-END:VEVENT
-BEGIN:VEVENT
-UID:c3ae6c4801ef22d0ecbe@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Логистика (Практика)
-LOCATION:К-210
-DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
- 231\, ОЗ-Эпо-231
-END:VEVENT
-BEGIN:VEVENT
 UID:8666d3dc0c5512c33ee5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T101500
@@ -243,5 +149,58 @@ SUMMARY:Логистика (Практика)
 LOCATION:К-210
 DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
  231\, ОЗ-Эпо-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d2708fb33c42a9f532ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Экономика предприятия (Практика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-Э
+ по-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c385aee6db96b6c314@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Инвестиционный менеджмент (Практика
+ )
+LOCATION:К-107
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
+ 231\, ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:2221fce406eac1069a12@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Теория организации (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-М-
+ 261\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:b5865ecfa2ea1064cee4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:История предпринимательства (Практи
+ ка)
+LOCATION:К-217
+DESCRIPTION:4 пара · Семенова Н.В. · группы: ОЗ-М-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b22571ddd869056f39@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Микроэкономика (продвинутый уровень
+ ) (Практика)
+LOCATION:К-217
+DESCRIPTION:7 пара · Семенова Н.В. · группы: О-МЭ-
+ 261
 END:VEVENT
 END:VCALENDAR

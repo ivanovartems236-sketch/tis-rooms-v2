@@ -17,103 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9e5c576892b12d9f25bf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Стандартизация\, сертификация и конт
- роль качества информационных систем (Пр
- актика)
-LOCATION:В-201
-DESCRIPTION:2 пара · Следский А.А. · группы: ОЗ-И
- стТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:ee7485ed57442c3756ef@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Математическая логика и теория алго
- ритмов (Лекция)
-LOCATION:В-202
-DESCRIPTION:3 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:add17f09559bb615f424@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Математическая логика и теория алго
- ритмов (Лаб.)
-LOCATION:В-202
-DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:92e51a01aedefacde7be@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Технология программирования (Лаб.)
-LOCATION:К-406
-DESCRIPTION:1 пара · Следский А.А. · группы: ОЗ-И
- стТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:1999bf51ca3b111d6a0f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Системы компьютерного моделировани
- я (Практика)
-LOCATION:К-406
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b758a129f1b016aa6e58@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Философия (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Ист
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:09596936bff542c204e3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Общая физическая подготовка (Практи
- ка)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Ист
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:03314fa7a0a7e556cb91@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Теория вероятностей и математическа
- я статистика (Практика)
-LOCATION:В-103
-DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
- ИстТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:a9bfcb000f21b8d5b42e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Электротехника и электроника (Лаб.)
-LOCATION:В-201
-DESCRIPTION:1 пара · Шепеть И.П. · группы: ОЗ-Ист
- Т-251
-END:VEVENT
-BEGIN:VEVENT
 UID:99ea14e662885172c890@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T122000
@@ -241,5 +144,48 @@ SUMMARY:Электротехника и электроника (Лаб.)
 LOCATION:В-201
 DESCRIPTION:1 пара · Шепеть И.П. · группы: ОЗ-Ист
  Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f5be76f8dab76c39c6b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Технология программирования (Лекция
+ )
+LOCATION:К-504
+DESCRIPTION:3 пара · Следский А.А. · группы: ОЗ-И
+ стТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:57239822d3c974d6bcb4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0d17b6383a8aaa212a6f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f73f85a9ff9134c414c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (Лекция)
+LOCATION:К-301
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-251
 END:VEVENT
 END:VCALENDAR

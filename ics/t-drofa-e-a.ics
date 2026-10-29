@@ -17,201 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5e1cabd2f31abdf26194@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Теория решения изобретательских зад
- ач (Лекция)
-LOCATION:К-609
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:e82e8f58c4459da05be1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Управление проектами (Лекция)
-LOCATION:К-501
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:555211d80da32aaf3cc4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Современные методы и средства иссле
- дований в легкой промышленности (Лекция)
-LOCATION:К-301
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:4b045609a490d132fb29@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Управление проектами (Практика)
-LOCATION:К-503
-DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:670a8778b5cfb0113a3c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Основы прикладной антропологии и би
- омеханики (Лекция)
-LOCATION:К-503
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-251
-END:VEVENT
-BEGIN:VEVENT
-UID:39f3ba3f7e7a327d7b06@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Теория решения изобретательских зад
- ач (Лекция)
-LOCATION:К-301
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b486557fbc66809d58f7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Конструирование одежды на индивидуа
- льного потребителя (Лекция)
-LOCATION:В-202
-DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-Ки-231
-END:VEVENT
-BEGIN:VEVENT
-UID:ac142984086b7dea850e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Современные проблемы науки и произв
- одства изделий легкой промышленности (П
- рактика)
-LOCATION:К-308
-DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:ec6494e327a4810903e8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T192000
-DTEND;TZID=Europe/Moscow:20261014T205500
-SUMMARY:Современные проблемы науки и произв
- одства изделий легкой промышленности (П
- рактика)
-LOCATION:К-308
-DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:53aa788e77ddd6830b09@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Конструкторско-технологическая под
- готовка производства (Лекция)
-LOCATION:К-503
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-231
-END:VEVENT
-BEGIN:VEVENT
-UID:6da86fd09a752a1ddae7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Проектирование одежды на основе объ
- емных композиционных материалов (Лекция
- )
-LOCATION:К-609
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:c2341584cabce7f9d7ed@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Основы подготовки научной и учебной 
- литературы (Лекция)
-LOCATION:К-308
-DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:88c386c00ec8e660136d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T173500
-DTEND;TZID=Europe/Moscow:20261015T191000
-SUMMARY:Проектирование одежды на основе объ
- емных композиционных материалов (Практи
- ка)
-LOCATION:К-308
-DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:3c876741ef53ea3abe56@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Конструирование изделий легкой пром
- ышленности (Лекция)
-LOCATION:К-503
-DESCRIPTION:2 пара · Дрофа Е.А. · группы: О-Ки-241\, 
- ОЗ-Ки-241
-END:VEVENT
-BEGIN:VEVENT
-UID:e6f96c8e797e20574510@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Конструктивное моделирование одежд
- ы (Лекция)
-LOCATION:К-503
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-241\, 
- ОЗ-Ки-241
-END:VEVENT
-BEGIN:VEVENT
-UID:542cc0ccf62c53e75f3e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Основы подготовки научной и учебной 
- литературы (Практика)
-LOCATION:К-308
-DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
- руппы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:4f46c325b692eff61bbb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Основы подготовки диссертации (Лекц
- ия)
-LOCATION:К-612
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:80474ab452a18bf94352@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Основы подготовки научной и учебной 
- литературы (Практика)
-LOCATION:К-308
-DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
- руппы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:482aeb9c19305157727d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Управление проектами (Лекция)
-LOCATION:К-612
-DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
 UID:f4873643cbb9931b910a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
@@ -558,5 +363,146 @@ SUMMARY:Конструкторско-технологическая под
  аб.)
 LOCATION:К-503
 DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3af7db06bde344f0106b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9ebf3ede736578ba13f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d37263b0b1809476d2fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:1 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:52b01fa5ea7e6ded1325@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2f894f73304115b1465d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:80f457dba8008c955ba8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c46eb6817762498db94c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:31f19374eb6fba09a681@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Практи
+ ка)
+LOCATION:К-313
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:efa258adbaf4f7e562f3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Практи
+ ка)
+LOCATION:К-313
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:86130e67e800dd0c56ac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Теория решения изобретательских зад
+ ач (Лаб.)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9d40e64e17f405869f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (Л
+ екция)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f6347653d4d2e7946a19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d67a90fb75f3b0da18a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-301
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 END:VCALENDAR

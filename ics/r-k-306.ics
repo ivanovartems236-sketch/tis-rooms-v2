@@ -17,101 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dd968664dd765cdd0305@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
- Исп-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:1e962d56d29bd5ed6ef5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Практикум по коммуникативной компет
- ентности (Лекция)
-LOCATION:К-306
-DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:8e15e6da1c5d3a07ff45@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Деловая культура (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Дп-11-261\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:c8bf5ed1d0d5d017fa3a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
- Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:e35aa0c9a2ff35eb8308@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-306
-DESCRIPTION:4 пара · Смирнова Н.Г. · группы: З-МК
- И-261
-END:VEVENT
-BEGIN:VEVENT
-UID:3327a02c8df0ca04c0e0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-306
-DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-ММ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:ed066f517faf7d554713@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:История (Лекция)
-LOCATION:К-306
-DESCRIPTION:2 пара · Варавина А.В. · группы: О-Ис
- п-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:86689ad700cd8f150127@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:История (Практика)
-LOCATION:К-306
-DESCRIPTION:3 пара · Варавина А.В. · группы: О-Ис
- п-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:dbdb298240966bcbbaed@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Математика (Лекция)
-LOCATION:К-306
-DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
- 1\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
 UID:21511a5ec34bbc402b8d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -237,5 +142,49 @@ SUMMARY:История (Практика)
 LOCATION:К-306
 DESCRIPTION:3 пара · Варавина А.В. · группы: О-Ис
  п-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4430a8776706114aa7ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:47d02ddfe37d7575ec60@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Основы инженерного творчества (Прак
+ тика)
+LOCATION:К-306
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf89aa259b6b786d183@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b038b969e73ee3d2d609@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T192000
+DTEND;TZID=Europe/Moscow:20261103T205500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:7 пара · Смирнова Н.Г. · группы: ОЗ-М
+ ИСТ-261
 END:VEVENT
 END:VCALENDAR

@@ -17,37 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a3feec2d193f182a1c95@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
-END:VEVENT
-BEGIN:VEVENT
-UID:003317402a40858baeef@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Риск-менеджмент (Практика)
-LOCATION:К-106
-DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:cde0685bfd6b5dff12a2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Психология командной работы и лидер
- ства (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-М-
- 242
-END:VEVENT
-BEGIN:VEVENT
 UID:a95adf977fe2b3fba9fb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T083000
@@ -148,5 +117,57 @@ SUMMARY:Производственный менеджмент (Лекция
  )
 LOCATION:К-217
 DESCRIPTION:4 пара · Ионова А.Ч. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3e946f24c96657ac1e05@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:331c4d9e3bee748514da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6dedc215dbfe8126d198@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-217
+DESCRIPTION:4 пара · Сурцев А.С. / Ионова А.Ч. · гр
+ уппы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:69d55325fab50984b775@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Инвестиционный менеджмент (Практика
+ )
+LOCATION:К-107
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:20536bb184a7ff342f62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 242
 END:VEVENT
 END:VCALENDAR

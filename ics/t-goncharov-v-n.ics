@@ -17,59 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fd3228fc88e0467f55b5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Управление проектами (Лаб.)
-LOCATION:К-406
-DESCRIPTION:4 пара · Колосова О.Ю. / Гончаров В.Н.
-  / Черепов П.В. · группы: З-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3edefc8d22e2e3c340@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Актуальные проблемы менеджмента (Ле
- кция)
-LOCATION:К-208
-DESCRIPTION:4 пара · Гончаров В.Н. / Семенова Н.В.
-  · группы: З-ММ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d8347d23557edcdf6902@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Моделирование систем и объектов свя
- зи (Практика)
-LOCATION:К-506
-DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
- группы: О-ИксМ-231
-END:VEVENT
-BEGIN:VEVENT
-UID:0d2b6a09656980fcc86e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Управление проектами (Практика)
-LOCATION:К-406
-DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В. 
- · группы: О-МИСТ-261\, ОЗ-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:e93c32c7059a1f8ab074@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Моделирование систем и объектов свя
- зи (Лаб.)
-LOCATION:К-505
-DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
- группы: О-ИксМ-231
-END:VEVENT
-BEGIN:VEVENT
 UID:e362b8916bf1f3a65956@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
@@ -142,5 +89,38 @@ SUMMARY:Моделирование систем и объектов свя
 LOCATION:К-505
 DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
  группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d5fcc9e1277e077ed6b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3174cc41137bf73d643c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fbdaa9f1c0929e820f64@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Гончаров В.Н. / Зайченко И.А.
+  · группы: ОЗ-М-252
 END:VEVENT
 END:VCALENDAR

@@ -17,181 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:95f357af65303870cc49@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
- Исп-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:4c1f68c2193af8b9183f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Разработка программных модулей (Лек
- ция)
-LOCATION:К-401
-DESCRIPTION:3 пара · Баранова Т.М. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:398c57a2711d8e147600@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Разработка программных модулей (Лек
- ция)
-LOCATION:К-401
-DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:003e5ae22023f431f86b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:К-401
-DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:bf5a22b99589bd7d63e3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T173500
-DTEND;TZID=Europe/Moscow:20261012T191000
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:К-401
-DESCRIPTION:6 пара · Баранова Т.М. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:a02933d520d9cb871891@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Внедрение и поддержка компьютерных 
- систем (Лекция)
-LOCATION:К-408
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:a60d367c11edc00fcfd0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Внедрение и поддержка компьютерных 
- систем (Практика)
-LOCATION:К-401
-DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:2927258adc5b055828f1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Лекция)
-LOCATION:К-501
-DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
- -251
-END:VEVENT
-BEGIN:VEVENT
-UID:4975ba1bc64c31027731@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Практика)
-LOCATION:К-401
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
- -251
-END:VEVENT
-BEGIN:VEVENT
-UID:ee0999c84b01e8e8b97a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Разработка мобильных приложений (Ле
- кция)
-LOCATION:К-401
-DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:8ba6d690b6c3d769b15f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Разработка мобильных приложений (Пр
- актика)
-LOCATION:К-406
-DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:85946d89efb865d92024@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Внедрение и поддержка компьютерных 
- систем (Практика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:81efd6f61fee330afcc7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Физическая культура (Практика)
-LOCATION:СЗ
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-11
- -251
-END:VEVENT
-BEGIN:VEVENT
-UID:3eb00f58503fc81df275@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Разработка мобильных приложений (Ле
- кция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:1be7b1369ff3d18d6352@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Лекция)
-LOCATION:К-408
-DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
- -251
-END:VEVENT
-BEGIN:VEVENT
-UID:cce8b8b17930f3f5f9ad@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Практика)
-LOCATION:К-401
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
- -251
-END:VEVENT
-BEGIN:VEVENT
 UID:29f7b385e3561b9afb2d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -551,5 +376,190 @@ SUMMARY:Обеспечение качества функционирова
 LOCATION:К-408
 DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
  -251
+END:VEVENT
+BEGIN:VEVENT
+UID:ab59f2add47ede8efa6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6e560de051692c4eb456@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Исп-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:eb10ce92e53b866fcd95@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Практика)
+LOCATION:К-401
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3373c1d2b37223cb214c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:320848c0556e1419334f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:5 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:78f6f986d5185583598d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-502
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c6ae80e7b44b4150839b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251
+END:VEVENT
+BEGIN:VEVENT
+UID:64fb26c7cf9c240a64e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
+ -251
+END:VEVENT
+BEGIN:VEVENT
+UID:3b7d22ac2b8fe3e770c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5aefa4e68f360d7a41c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
+ -251
+END:VEVENT
+BEGIN:VEVENT
+UID:deb97f58697389c810d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Практика)
+LOCATION:К-408
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4910f345a934cf5483@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-408
+DESCRIPTION:5 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fd828bd5d3e71fbccc46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-502
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4d0a0541c8b24b3ffb03@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251
+END:VEVENT
+BEGIN:VEVENT
+UID:4797c6d699cd221f6f5c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251
+END:VEVENT
+BEGIN:VEVENT
+UID:42f24da1fee392633852@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Внедрение и поддержка компьютерных 
+ систем (Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:58d367b69d64d6986de5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Следский А.А. · группы: О-Ис
+ п-11-251
 END:VEVENT
 END:VCALENDAR

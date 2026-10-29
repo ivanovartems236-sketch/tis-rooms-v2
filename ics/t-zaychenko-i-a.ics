@@ -17,228 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e040232e67b67e6839b7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Статистика: теория статистики (Практ
- ика)
-LOCATION:К-217
-DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-Э
- по-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b3b835b7bc9c56bbda41@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Статистика: социально-экономическая
-  статистика (Лекция)
-LOCATION:К-217
-DESCRIPTION:5 пара · Зайченко И.А. · группы: ОЗ-Э
- по-251
-END:VEVENT
-BEGIN:VEVENT
-UID:08420a2b391a21b6857b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Региональная экономика (Практика)
-LOCATION:К-217
-DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
- по-241
-END:VEVENT
-BEGIN:VEVENT
-UID:1cc2da79b9b97666a397@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Статистика: социально-экономическая
-  статистика (Практика)
-LOCATION:К-217
-DESCRIPTION:3 пара · Зайченко И.А. · группы: О-Эб
- у-251
-END:VEVENT
-BEGIN:VEVENT
-UID:5bc209d0c74f72453ae5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Самоменеджмент (Лекция)
-LOCATION:К-217
-DESCRIPTION:4 пара · Зайченко И.А. · группы: О-Эб
- у-251
-END:VEVENT
-BEGIN:VEVENT
-UID:f757d8a21b0cad967a2c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Статистика: теория статистики (Лекци
- я)
-LOCATION:К-217
-DESCRIPTION:5 пара · Зайченко И.А. · группы: О-Эб
- у-251
-END:VEVENT
-BEGIN:VEVENT
-UID:c043eccda1c743ad82be@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Риск-менеджмент (Практика)
-LOCATION:К-106
-DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:3c1e19adf67dd2d16a77@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Статистика: теория статистики (Практ
- ика)
-LOCATION:К-210
-DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
- 251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-252\, ОЗ-Эфк-252
-END:VEVENT
-BEGIN:VEVENT
-UID:d67557ed2715c61bb8d1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Организационное поведение (Практика
- )
-LOCATION:К-308
-DESCRIPTION:4 пара · Сурцев А.С. / Зайченко И.А. · 
- группы: ОЗ-М-251
-END:VEVENT
-BEGIN:VEVENT
-UID:3d1c4db62487d7c3ddbb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Конфликтология (Практика)
-LOCATION:К-210
-DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
- 252
-END:VEVENT
-BEGIN:VEVENT
-UID:12b1be750bd771f9464c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Самоменеджмент (Практика)
-LOCATION:К-210
-DESCRIPTION:5 пара · Зайченко И.А. · группы: О-Эб
- у-251
-END:VEVENT
-BEGIN:VEVENT
-UID:86d9d98ebd5bb07f0d93@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Региональная экономика (Лекция)
-LOCATION:К-217
-DESCRIPTION:1 пара · Колосова О.Ю. / Зайченко И.А.
-  · группы: ОЗ-Эпо-241
-END:VEVENT
-BEGIN:VEVENT
-UID:382832d16aaae9ae3f54@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Экономика недвижимости (Практика)
-LOCATION:К-217
-DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
- по-242
-END:VEVENT
-BEGIN:VEVENT
-UID:0efa191ee29024e0a6d3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Статистика: теория статистики (Практ
- ика)
-LOCATION:К-217
-DESCRIPTION:4 пара · Зайченко И.А. · группы: О-Эб
- у-251
-END:VEVENT
-BEGIN:VEVENT
-UID:0bb81a25176ee6bdbdec@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Теория организации и организационно
- е поведение (Практика)
-LOCATION:К-217
-DESCRIPTION:5 пара · Зайченко И.А. · группы: З-ММ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:a3cbbab2910ece359f0e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Статистика: теория статистики (Лекци
- я)
-LOCATION:К-217
-DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
- 251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-252\, ОЗ-Эфк-252
-END:VEVENT
-BEGIN:VEVENT
-UID:9e672da8f0120446ede1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Бухгалтерская финансовая отчетност
- ь (Практика)
-LOCATION:К-210
-DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
- бу-252
-END:VEVENT
-BEGIN:VEVENT
-UID:03c2bc1218634756fff0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Организационное поведение (Лекция)
-LOCATION:К-107
-DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
- 251\, ОЗ-М-252
-END:VEVENT
-BEGIN:VEVENT
-UID:97f2fe6cf6f9c3360c73@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Теория организации и организационно
- е поведение (Лекция)
-LOCATION:К-107
-DESCRIPTION:5 пара · Зайченко И.А. · группы: З-ММ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:1882d731ff99765003c4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Организация командной деятельности 
- (Практика)
-LOCATION:К-217
-DESCRIPTION:5 пара · Зайченко И.А. · группы: О-МЭ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:43c6d8a7833ce504dddb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T173500
-DTEND;TZID=Europe/Moscow:20261016T191000
-SUMMARY:Управленческая экономика (Лекция)
-LOCATION:К-107
-DESCRIPTION:6 пара · Зайченко И.А. · группы: З-ММ-
- 261
-END:VEVENT
-BEGIN:VEVENT
 UID:e7c7de7e49dc2f83dacc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -525,5 +303,178 @@ SUMMARY:Организация командной деятельности
 LOCATION:К-217
 DESCRIPTION:5 пара · Зайченко И.А. · группы: О-МЭ-
  261
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8d900822a8d99cd661@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Статистика: теория статистики (Лекци
+ я)
+LOCATION:К-217
+DESCRIPTION:2 пара · Зайченко И.А. · группы: О-Эб
+ у-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0977f82b1547372d91ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Учет и анализ: финансовый учет и анал
+ из (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:2586aff5496250c00b33@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Этика профессиональной деятельност
+ и (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252\, ОЗ-Эбу-252\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:8313e514031f8bde16c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Организация командной деятельности 
+ (Лекция)
+LOCATION:К-217
+DESCRIPTION:5 пара · Зайченко И.А. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:33a33d8b5d4bcc23b13a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Самоменеджмент (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7a5682a720d9fcdd64@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Самоменеджмент (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:e6048f7216c0c6d1c291@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Учет и анализ: финансовый учет и анал
+ из (Лекция)
+LOCATION:К-217
+DESCRIPTION:5 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9358ac095e064eb389@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Экономическая оценка инвестиций (Ле
+ кция)
+LOCATION:К-107
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-231\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8f47212d3f05d22de732@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Учет и анализ: управленческий учет (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:cb97c39bf52b14c7b9fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Гончаров В.Н. / Зайченко И.А.
+  · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:f9bef065715a9fc4300f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Учет и анализ: управленческий учет (Л
+ екция)
+LOCATION:К-107
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2303adcdf89b42b0cd57@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Экономическая оценка инвестиций (Пр
+ актика)
+LOCATION:К-217
+DESCRIPTION:5 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-231\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7ddeb24d5ba8754be7c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Статистика: теория статистики (Лекци
+ я)
+LOCATION:К-217
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-251
+END:VEVENT
+BEGIN:VEVENT
+UID:02fc78327bf8e6904b39@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Статистика: социально-экономическая
+  статистика (Лекция)
+LOCATION:К-210
+DESCRIPTION:3 пара · Зайченко И.А. · группы: О-Эб
+ у-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b798b16fa2feaeefdf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Статистика: теория статистики (Практ
+ ика)
+LOCATION:К-210
+DESCRIPTION:4 пара · Зайченко И.А. · группы: О-Эб
+ у-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a903af3badf1bdcc5411@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Самоменеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:5 пара · Зайченко И.А. · группы: О-Эб
+ у-251
 END:VEVENT
 END:VCALENDAR

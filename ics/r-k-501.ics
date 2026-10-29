@@ -17,131 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ee20f2f58420fe161510@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Геоинформационные системы (Лекция)
-LOCATION:К-501
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:c6d6c6db1fc511470e67@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Информационные технологии (Лекция)
-LOCATION:К-501
-DESCRIPTION:2 пара · Черепов П.В. · группы: О-Ист
- Т-261\, ОЗ-ИстТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:9436a42c7e3e488ad029@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Управление проектами (Лекция)
-LOCATION:К-501
-DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:06a84a1823d7d24fbb38@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Стандартизация\, сертификация и техн
- ическое документоведение (Лекция)
-LOCATION:К-501
-DESCRIPTION:1 пара · Черепов П.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:90ed976c4f45922d05cd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Лекция)
-LOCATION:К-501
-DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
- -251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:8c133dcd09474afcc9ac@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-501
-DESCRIPTION:3 пара · Приходченко О.В. · группы: О
- -Ки-261
-END:VEVENT
-BEGIN:VEVENT
-UID:1895f23753ae520aae0f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Модели и методы проектирования инфо
- рмационных систем (Лекция)
-LOCATION:К-501
-DESCRIPTION:5 пара · Черепов П.В. · группы: З-МИС
- Т-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2af10713206a8e540d5f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Методы исследования и моделирования
-  информационных процессов и технологий (
- Лекция)
-LOCATION:К-501
-DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:1de216f3e6db2af55eec@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Информационные технологии (Лекция)
-LOCATION:К-501
-DESCRIPTION:1 пара · Черепов П.В. · группы: О-Исп-
- 9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:7bd42c2fb1037e32d4f2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-501
-DESCRIPTION:2 пара · Черепов П.В. · группы: О-Ист
- Т-261\, ОЗ-ИстТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:a4c9488dbe501ea59e04@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Основы конструирования и технологии
-  производства радиоэлектронных средств 
- (Практика)
-LOCATION:К-501
-DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:60fcd03d65bf3dd01496@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-501
-DESCRIPTION:4 пара · Приходченко О.В. · группы: О
- З-Ки-261
-END:VEVENT
-BEGIN:VEVENT
 UID:e560918fff5a679e8811@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T122000
@@ -342,5 +217,92 @@ SUMMARY:Основы конструирования и технологии
  (Практика)
 LOCATION:К-501
 DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:57888c870de6f4009fe0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Компьютерные технологии в науке (Лаб
+ .)
+LOCATION:К-501
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9bc2647f1d2be50e61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-501
+DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:1527b1385468417f4a44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Системная инженерия (Практика)
+LOCATION:К-501
+DESCRIPTION:5 пара · Шепеть И.П. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc0964fdb1cf91e3dc8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:ceee8a1cc7b89ebb5bf1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Архитектура аппаратных средств и ос
+ новы сетевых технологий (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:28c1f6889e0493b3dabf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Практика)
+LOCATION:К-501
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:62f24a9879457c842b04@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Системная инженерия (Лекция)
+LOCATION:К-501
+DESCRIPTION:5 пара · Шепеть И.П. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f697cf5b23f4c672fae1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Технология программирования (Лекция
+ )
+LOCATION:К-501
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
 END:VEVENT
 END:VCALENDAR

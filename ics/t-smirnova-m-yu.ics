@@ -17,57 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6f8f9af879eb9c2e1310@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Рисунок (Лаб.)
-LOCATION:К-301
-DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:78edcf4e3359e34c6ab5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:История костюма и моды (Практика)
-LOCATION:В-301
-DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:d190cfdb2089a5bb9296@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Рисунок (Лаб.)
-LOCATION:К-609
-DESCRIPTION:2 пара · Смирнова М.Ю. · группы: ОЗ-К
- и-261
-END:VEVENT
-BEGIN:VEVENT
-UID:24374b05783f110e936c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Рисунок (Лаб.)
-LOCATION:В-301
-DESCRIPTION:3 пара · Смирнова М.Ю. · группы: З-Ки-
- 261\, З-Ки-262
-END:VEVENT
-BEGIN:VEVENT
-UID:2f4eb1a08b445eb8d9f7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Рисунок и основы композиции (Практик
- а)
-LOCATION:В-301
-DESCRIPTION:2 пара · Смирнова М.Ю. · группы: З-Ти-
- 261
-END:VEVENT
-BEGIN:VEVENT
 UID:953cf2d8f3ec0cf496d3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
@@ -193,5 +142,80 @@ SUMMARY:Рисунок (Лаб.)
 LOCATION:К-609
 DESCRIPTION:2 пара · Смирнова М.Ю. · группы: ОЗ-К
  и-261
+END:VEVENT
+BEGIN:VEVENT
+UID:494c3d31034dc345e0cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e356ed74f120dc0717bc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:4 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:c30ae9ec1911b8c3758f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:1 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3742743e96c17137c484@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5fd821ec874399c0842c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Практика)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:173fc738c22892f3a865@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:b8d0fa2af6cd33222c62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
 END:VEVENT
 END:VCALENDAR

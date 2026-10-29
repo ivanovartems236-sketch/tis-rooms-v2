@@ -17,77 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:50f2fe1e910ab3bad2bb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:История костюма и моды (Лекция)
-LOCATION:В-301
-DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4d7d8c81c8b6bd880287@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Композиция костюма (Лекция)
-LOCATION:В-301
-DESCRIPTION:3 пара · Еремина Ю.В. · группы: О-Ки-24
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f605fe013edc7f897c35@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Композиция костюма (Практика)
-LOCATION:В-301
-DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Ки-24
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a05e10a4e1b9a29de615@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:История костюма и моды (Практика)
-LOCATION:В-301
-DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:76eec230bd4c7d4b52c5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Архитектоника объемных форм (Лекция)
-LOCATION:В-301
-DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:ffa79e0ba04829013613@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Рисунок (Лаб.)
-LOCATION:В-301
-DESCRIPTION:3 пара · Смирнова М.Ю. · группы: З-Ки-
- 261\, З-Ки-262
-END:VEVENT
-BEGIN:VEVENT
-UID:712beca3628a3aac967c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Рисунок и основы композиции (Практик
- а)
-LOCATION:В-301
-DESCRIPTION:2 пара · Смирнова М.Ю. · группы: З-Ти-
- 261
-END:VEVENT
-BEGIN:VEVENT
 UID:e5fdc90fdc4501e264db@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -249,5 +178,77 @@ SUMMARY:Композиция костюма (Лаб.)
 LOCATION:В-301
 DESCRIPTION:6 пара · Еремина Ю.В. · группы: З-Ки-24
  2
+END:VEVENT
+BEGIN:VEVENT
+UID:9b20e35e3785d22478c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Композиция костюма (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-24
+ 1\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:86519be63a40a131175b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:1 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3cbb85d54100dd4e825c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b57fd69bce8f679afe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:f276635bc224b4207e2d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:fd87c47c200b7d123e44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5bbf2e6e7d1cfa3fc8db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:5 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
 END:VEVENT
 END:VCALENDAR

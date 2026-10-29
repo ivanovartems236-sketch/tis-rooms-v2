@@ -17,87 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5d921766b5f2b8bdd1a5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Статистика: теория статистики (Практ
- ика)
-LOCATION:К-210
-DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
- 252
-END:VEVENT
-BEGIN:VEVENT
-UID:b7a8f735d7bbbf89604f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Конфликтология (Практика)
-LOCATION:К-210
-DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
- 252
-END:VEVENT
-BEGIN:VEVENT
-UID:f4290d30c98da0383d37@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Философия (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-252
-END:VEVENT
-BEGIN:VEVENT
-UID:43493cfd0804146b0383@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Общая физическая подготовка (Практи
- ка)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-252
-END:VEVENT
-BEGIN:VEVENT
-UID:23ca447e61cffd524d15@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Статистика: теория статистики (Лекци
- я)
-LOCATION:К-217
-DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
- 252
-END:VEVENT
-BEGIN:VEVENT
-UID:f0cf604ccebe4c446e20@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Основы маркетинга (Практика)
-LOCATION:К-201
-DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
- 252
-END:VEVENT
-BEGIN:VEVENT
-UID:d2d2a15f81d155dc2a67@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Организационное поведение (Лекция)
-LOCATION:К-107
-DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
- 252
-END:VEVENT
-BEGIN:VEVENT
-UID:1335bd3722baac5ef898@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Организация предпринимательской де
- ятельности (Практика)
-LOCATION:К-107
-DESCRIPTION:5 пара · Ионова А.Ч. · группы: ОЗ-М-252
-END:VEVENT
-BEGIN:VEVENT
 UID:4c52c59b4ce596e82c3e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T140500
@@ -198,5 +117,78 @@ SUMMARY:Основы маркетинга (Практика)
 LOCATION:К-201
 DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
  252
+END:VEVENT
+BEGIN:VEVENT
+UID:756a3aa94511926c68ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Организация предпринимательской де
+ ятельности (Лекция)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионова А.Ч. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:625470a4e2b1a55f04a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Учет и анализ: финансовый учет и анал
+ из (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:fe0c98fa01a3f0575595@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Этика профессиональной деятельност
+ и (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:2ea33b027cd871672ecd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:a8689d9316204da44cc8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Учет и анализ: финансовый учет и анал
+ из (Лекция)
+LOCATION:К-217
+DESCRIPTION:5 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:30f9c295f562e8b9aaf4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:3609881e814602f5dd9b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Корпоративная социальная ответстве
+ нность (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Гончаров В.Н. / Зайченко И.А.
+  · группы: ОЗ-М-252
 END:VEVENT
 END:VCALENDAR

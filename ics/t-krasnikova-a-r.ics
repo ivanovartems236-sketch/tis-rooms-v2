@@ -17,78 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8042d47e679af49bcac8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T083000
-DTEND;TZID=Europe/Moscow:20261012T100500
-SUMMARY:Литература (Лекция)
-LOCATION:К-308
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2896151c75b68a20d02e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Основы редактирования документов (П
- рактика)
-LOCATION:К-313
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Дп-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2582df35567b53223d0a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Основы редактирования документов (Л
- екция)
-LOCATION:К-301
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Дп-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:ee62457a7e899780ee25@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Русский язык (Лекция)
-LOCATION:К-308
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b7eb273e6e659d10f7bf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Деловая культура (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Дп-11-261\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d105cf9de6a42bc85d30@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Русский язык (Лекция)
-LOCATION:К-308
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:aa9311d246d2b5b990cd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Деловая культура (Лекция)
-LOCATION:К-301
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Дп-11-261\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
 UID:7d9c2ce2c6ee5f7deee3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -220,5 +148,36 @@ SUMMARY:Деловая культура (Лекция)
 LOCATION:К-301
 DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4f42529b57a96cd44c07@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:181f5053c097d8f8a48b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0436b8da0eab9cc3b7bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Русский язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 END:VCALENDAR

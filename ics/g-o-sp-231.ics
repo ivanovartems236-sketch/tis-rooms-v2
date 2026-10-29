@@ -17,145 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5c74fcc5921e4570220c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:54cdaf564d49e6a390fa@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Инновации в сервисе (Лекция)
-LOCATION:К-208
-DESCRIPTION:4 пара · Фурсов В.А. · группы: О-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:07bb79fb201b5641e8b0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Инновации в сервисе (Практика)
-LOCATION:К-208
-DESCRIPTION:5 пара · Ториков А.В. · группы: О-Сп-23
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:8448d2d6013b32620dfc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Проектирование услуг на предприятия
- х сервиса (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:53355fdb330ff77c6f44@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Барное дело (Лекция)
-LOCATION:К-201
-DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:f3b1bb07fb2a91258a54@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Безопасность\, санитария и гигиена п
- редприятий общественного питания (Лекци
- я)
-LOCATION:К-205
-DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:d34dcc7e3ae09202285d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Безопасность\, санитария и гигиена п
- редприятий общественного питания (Практ
- ика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:601a61d9c82ae8efd92f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Барное дело (Практика)
-LOCATION:К-205
-DESCRIPTION:2 пара · Ядыкина Н.Д. / Чимонина И.В. 
- · группы: О-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:80db60a0846fe358fc24@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Проектирование услуг на предприятия
- х сервиса (Практика)
-LOCATION:К-204
-DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:50de3c4135a6684761df@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Экономический анализ деятельности с
- ервисного предприятия (Лекция)
-LOCATION:К-204
-DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:36c9623ab1dbea403cd6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Экономический анализ деятельности с
- ервисного предприятия (Практика)
-LOCATION:К-204
-DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сп-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:9ba9e3f15be0f14a7fa7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Практика)
-LOCATION:К-204
-DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:31a3c0c99d811a733d35@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Управление качеством услуг сервиса (
- Практика)
-LOCATION:К-204
-DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сп-23
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:41dbde8f02651fdad48c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -415,5 +276,127 @@ SUMMARY:Управление качеством услуг сервиса (
 LOCATION:К-204
 DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сп-23
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:9cebc2c0f3fe74d1f536@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:db152ed5c4232e335aa2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:00fbd5f54e21c70df6cf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:47f267d67e9f959710db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Сп-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:54502c8377070e494974@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:884ebbc6eb519e5301a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dee8c6f98cbb9ff57f6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Организация и технология специальны
+ х видов питания (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:b58847251c76faaa6fc1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Лекци
+ я)
+LOCATION:К-201
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:e509cfcb327bd6c1107f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Практ
+ ика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Чимонина И.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:b7aedd224dc7c9cab5a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-607
+DESCRIPTION:2 пара · Фурсов В.А. · группы: О-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:96bb9fc4ca8952a10809@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сп-231
 END:VEVENT
 END:VCALENDAR

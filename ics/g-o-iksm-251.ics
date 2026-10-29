@@ -17,144 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0d95dfe67f9651e336f5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T083000
-DTEND;TZID=Europe/Moscow:20261012T100500
-SUMMARY:Теория электрических цепей (Лекция)
-LOCATION:К-506
-DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:8f9c652e30c4f9abcc4f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Электроника (Лаб.)
-LOCATION:К-506
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:47693a820eeffcbe242e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Основы программирования в инфокомму
- никационных системах (Лекция)
-LOCATION:К-413
-DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
- сМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:c5e1b380ce2bfa1387f3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Практика)
-LOCATION:К-413
-DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:e605288509cfd198884e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Системы компьютерного моделировани
- я (Практика)
-LOCATION:К-401
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-ИксМ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:9b2bfedec6bbc0508dbf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Электроника (Практика)
-LOCATION:К-121
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:9925bc415fcf3f5eae54@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Философия (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:1a3110fbc404dea5e2a3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Общая физическая подготовка (Практи
- ка)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: О-ИксМ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:104150ce8cbb1219c5e7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Теория вероятностей и математическа
- я статистика (Практика)
-LOCATION:В-103
-DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b91298511b5f4edefab0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Теория электрических цепей (Лаб.)
-LOCATION:К-502
-DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИксМ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:54bca1efcf0acee51c02@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Теория электрических цепей (Практик
- а)
-LOCATION:К-502
-DESCRIPTION:5 пара · Шепеть И.П. · группы: О-ИксМ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:119c4ffbd34a91498d0d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Лекция)
-LOCATION:К-505
-DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:8886487bf9c93f629cce@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Основы программирования в инфокомму
- никационных системах (Практика)
-LOCATION:К-505
-DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
- сМ-251
-END:VEVENT
-BEGIN:VEVENT
 UID:555b2a418e674c6e3e68@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -397,5 +259,111 @@ SUMMARY:Основы программирования в инфокомму
 LOCATION:К-505
 DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
  сМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1a75e7bbb9a890928036@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Электроника (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3952c9313c98ad0eb7ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Электроника (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:768fa7b8f44dd538f9ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Основы программирования в инфокомму
+ никационных системах (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6b1eb9aa823ca1dbea21@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Электроника (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2d510ac290e4d33ae281@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:32eee361f315e9105df6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-408
+DESCRIPTION:5 пара · Литвин Д.Б. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:e91d55cd49c652c649be@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:cb731ac3279a8091aa3e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (Лекция)
+LOCATION:К-301
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3395f613f29217b2b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Электродинамика и распространение р
+ адиоволн (Практика)
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:28e134b1b580b48674dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Теория электрических цепей (Практик
+ а)
+LOCATION:К-502
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
 END:VEVENT
 END:VCALENDAR

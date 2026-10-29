@@ -17,101 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:84e7d54cfe4eaecf7cfb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T083000
-DTEND;TZID=Europe/Moscow:20261012T100500
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:4435d84ad8cca0e87e9d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Радиопередающие устройства (Лаб.)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:049ce9d86e2527f7ac5c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Радиотехнические цепи и сигналы (Лек
- ция)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Рт-24
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:af5b57d01931a1a7f804@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Общая теория связи (Лаб.)
-LOCATION:К-506
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:e14b61d8cb3c47af4f28@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Устройства приема и обработки сигна
- лов (Лаб.)
-LOCATION:К-408
-DESCRIPTION:2 пара · Перлик В.А. / Сагдеев К.М. · г
- руппы: О-Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:9e049782b359e5ed68a4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Общая теория связи (Лаб.)
-LOCATION:К-413
-DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
- сМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:2ad59c4c5a356061c6b1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-413
-DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
- сМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:1096e6836d31a03223a7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Общая теория связи (Лекция)
-LOCATION:К-506
-DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Икс
- М-241
-END:VEVENT
-BEGIN:VEVENT
-UID:46d126486044ad606a01@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Устройства приема и обработки сигна
- лов (Лекция)
-LOCATION:К-506
-DESCRIPTION:1 пара · Сагдеев К.М. · группы: О-Рт-23
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:9d87ff67edadaeee7bc1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -461,5 +366,121 @@ SUMMARY:Радиотехнические цепи и сигналы (Лек
 LOCATION:К-505
 DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Рт-24
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:ee70b85b5c29d54a8f92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Радиотехнические цепи и сигналы (Лаб
+ .)
+LOCATION:К-413
+DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:585b0dff0369e1ee77ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Общая теория связи (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a135ddeb4b70f4793ecf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:81bb1abfd479a64c0d2a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Радиотехнические цепи и сигналы (Пра
+ ктика)
+LOCATION:К-413
+DESCRIPTION:2 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a135ddeb4b70f4793ecf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ec313bfed13e9d70e656@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4f96965b7c15880bdb8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Общая теория связи (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:913e7f03362132222e77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Радиопередающие устройства (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: О-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3b6e639c4a2db6af7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Практика)
+LOCATION:К-505
+DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:72842bfbb1417e9a19a6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:04e4cbd317b88e995816@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
 END:VEVENT
 END:VCALENDAR

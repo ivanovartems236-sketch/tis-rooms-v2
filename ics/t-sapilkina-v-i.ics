@@ -17,110 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:25c7c97d0533f64887ad@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Основы проектной деятельности (Лекц
- ия)
-LOCATION:К-505
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:ae9e0eb91bade23f8634@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Основы телевидения и видеотехники (П
- рактика)
-LOCATION:К-413
-DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
-UID:1653f23befb08c565288@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-505
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:8b9a640f8915bc11272a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Вычислительные системы (Лекция)
-LOCATION:К-505
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:ca1832d21eb91638f0bf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Вычислительные системы (Практика)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:aab52c04635bdb2a4de3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-505
-DESCRIPTION:5 пара · Сапилкина В.И. · группы: З-И
- ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
-END:VEVENT
-BEGIN:VEVENT
-UID:8cfddb4a4b0bfeb3e9fc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Вычислительные системы (Лекция)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сапилкина В.И. · группы: З-И
- ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
-END:VEVENT
-BEGIN:VEVENT
-UID:65f68e24f9413516e3b4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Основы проектной деятельности (Прак
- тика)
-LOCATION:К-505
-DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:6b79f48f2b0ed0456a8d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Основы проектной деятельности (Лекц
- ия)
-LOCATION:К-502
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: З-И
- ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
-END:VEVENT
-BEGIN:VEVENT
-UID:17d0f599d0886801db59@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Введение в профессию (Практика)
-LOCATION:К-505
-DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
 UID:89ac8d95214272f0aceb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T140500
@@ -225,5 +121,27 @@ SUMMARY:Введение в профессию (Практика)
 LOCATION:К-505
 DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
  ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:857c3a3821b834268544@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcec29c20e81fb0682e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Основы телевидения и видеотехники (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-Р
+ т-231
 END:VEVENT
 END:VCALENDAR

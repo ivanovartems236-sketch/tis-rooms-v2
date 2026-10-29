@@ -17,72 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1a124a5580aa3fb5ce93@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Электроника (Лаб.)
-LOCATION:К-506
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:678d6c8604782e87ab85@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Физические основы микроэлектроники 
- (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:4db232661e134b6d6430@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Физические основы микроэлектроники 
- (Практика)
-LOCATION:К-504
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:f42df449865f6f069590@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Диагностика и обслуживание радиоэле
- ктронных средств бытового назначения (П
- рактика)
-LOCATION:К-506
-DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
-UID:57e55085151b6f4f7bf5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Электроника (Практика)
-LOCATION:К-121
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
- ксМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:81efadf4759a6ddf8c03@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Диагностика и обслуживание радиоэле
- ктронных средств бытового назначения (Л
- екция)
-LOCATION:К-506
-DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
 UID:c6067ac0db77861419e4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -243,5 +177,68 @@ SUMMARY:Диагностика и обслуживание радиоэле
 LOCATION:К-506
 DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
  т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dab6e8bb1b83dbb465af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Физические основы микроэлектроники 
+ (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8502506e91417df98dfd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Электроника (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ae4dbd0ef5e0e534d425@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Электроника (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:746313ab85dbad300577@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Электроника (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2b4129c06c20dc87f438@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Квантовая и оптическая электроника (
+ Практика)
+LOCATION:К-217
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3916218b4de5f1a2c3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Квантовая и оптическая электроника (
+ Лекция)
+LOCATION:К-504
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
+ т-241
 END:VEVENT
 END:VCALENDAR

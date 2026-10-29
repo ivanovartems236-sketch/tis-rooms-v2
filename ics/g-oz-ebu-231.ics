@@ -17,17 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:430869c7074563439d2e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Комплексный экономический анализ (П
- рактика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эбу-231
-END:VEVENT
-BEGIN:VEVENT
 UID:0a0280c97bcf212b2e63@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261023T155000
@@ -67,5 +56,25 @@ SUMMARY:Бюджетный учет и отчетность (Практик
 LOCATION:К-210
 DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-Э
  бу-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7117b961913e0e8a0533@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Деловые коммуникации (Практика)
+LOCATION:К-308
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эбу-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ce5c02c48dff5a5466@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-217
+DESCRIPTION:4 пара · Сурцев А.С. / Ионова А.Ч. · гр
+ уппы: ОЗ-Эбу-231
 END:VEVENT
 END:VCALENDAR

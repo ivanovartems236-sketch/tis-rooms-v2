@@ -17,126 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:42b874e3be1f9e2da7e4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Оптимизация бизнес-процессов в серв
- исе (Лекция)
-LOCATION:К-201
-DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:61f1ea4c552152da3f3d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T173500
-DTEND;TZID=Europe/Moscow:20261013T191000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:eb97033c0b702e059e2e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T192000
-DTEND;TZID=Europe/Moscow:20261013T205500
-SUMMARY:Технологии профессиональных коммун
- икаций в сервисе (Практика)
-LOCATION:К-201
-DESCRIPTION:7 пара · Чимонина И.В. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:40b911b8c5868e095d39@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Теория решения изобретательских зад
- ач (Лекция)
-LOCATION:К-201
-DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:93291d75785fcbb08e90@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Технологии управления сервисной сре
- дой (Лекция)
-LOCATION:К-201
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d7f0d6b823f73ef2689c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Оптимизация бизнес-процессов в серв
- исе (Практика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:719ef8147d3f5e72685f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T173500
-DTEND;TZID=Europe/Moscow:20261015T191000
-SUMMARY:Технологии управления сервисной сре
- дой (Практика)
-LOCATION:К-201
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d220ebf5393918918c58@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T192000
-DTEND;TZID=Europe/Moscow:20261015T205500
-SUMMARY:Управление проектами (Практика)
-LOCATION:К-201
-DESCRIPTION:7 пара · Лазарева Н.В. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:60b8452c37887caa43d6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Современные подходы к организационн
- о- управленческой деятельности (Лекция)
-LOCATION:К-201
-DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:dd26799c66996a24edff@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T173500
-DTEND;TZID=Europe/Moscow:20261016T191000
-SUMMARY:Энергосбережение и энергоаудит пред
- приятий и организаций (Практика)
-LOCATION:К-204
-DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
- Э-261
-END:VEVENT
-BEGIN:VEVENT
-UID:7d75eafa97a5fa2e9bbd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T192000
-DTEND;TZID=Europe/Moscow:20261016T205500
-SUMMARY:Управление системами энергообеспеч
- ения хозяйствующих субъектов (Практика)
-LOCATION:К-204
-DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:9a5f1ce7b425b41b5ea6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T155000
@@ -341,6 +221,94 @@ DTEND;TZID=Europe/Moscow:20261030T205500
 SUMMARY:Управление системами энергообеспеч
  ения хозяйствующих субъектов (Практика)
 LOCATION:К-204
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:acf926998e76bc76e433@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:151bd28b682af67b2981@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Технологии управления сервисной сре
+ дой (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9fa9d1489dec734c46cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Практик
+ а)
+LOCATION:К-201
+DESCRIPTION:7 пара · Чимонина И.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:215060edc45ba892f64b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d60ef85642c77b21f080@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0d391766068fe9dec844@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a781ce79a8b5f0ad58e1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Энергосбережение и энергоаудит пред
+ приятий и организаций (Лекция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:37afc265190b09a2af65@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:Управление системами энергообеспеч
+ ения хозяйствующих субъектов (Лекция)
+LOCATION:К-201
 DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
  1
 END:VEVENT

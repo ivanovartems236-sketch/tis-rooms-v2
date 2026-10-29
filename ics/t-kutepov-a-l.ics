@@ -17,37 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:53785601d868376f8f4c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T083000
-DTEND;TZID=Europe/Moscow:20261012T100500
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:4243cd5b18149fddbd83@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Радиопередающие устройства (Лаб.)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:9b6cf819bf2559568765@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Общая теория связи (Лаб.)
-LOCATION:К-506
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
 UID:efcb9112ab8f28f7f0d1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261021T101500
@@ -107,6 +76,37 @@ DTEND;TZID=Europe/Moscow:20261027T115000
 SUMMARY:Общая теория связи (Лаб.)
 LOCATION:К-506
 DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c2beb468fb56484cd53b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:26336559e8ee94bc3908@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:750749f468391c07425c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
  группы: О-ИксМ-241
 END:VEVENT
 END:VCALENDAR

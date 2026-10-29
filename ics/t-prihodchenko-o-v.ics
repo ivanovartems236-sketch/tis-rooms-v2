@@ -17,231 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:92ca701e07c5658b934c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Моделирование и оптимизация процесс
- ов проектирования изделий легкой промыш
- ленности (Лекция)
-LOCATION:К-612
-DESCRIPTION:2 пара · Приходченко О.В. · группы: З
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b6d0a2d48a40dae6309c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Технология изделий легкой промышлен
- ности (Лекция)
-LOCATION:К-503
-DESCRIPTION:3 пара · Приходченко О.В. · группы: О
- -Ки-251
-END:VEVENT
-BEGIN:VEVENT
-UID:391a563e77277561ec17@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Наноматериалы и нанотехнологии (Пра
- ктика)
-LOCATION:К-503
-DESCRIPTION:4 пара · Приходченко О.В. · группы: О
- -Ки-231
-END:VEVENT
-BEGIN:VEVENT
-UID:996c5e4bfe0cc33ccfa8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T173500
-DTEND;TZID=Europe/Moscow:20261012T191000
-SUMMARY:Ресурсосберегающие системы в отрасл
- ях легкой промышленности (Лекция)
-LOCATION:К-503
-DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
- О.В. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:1d258c292a5338e2430e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Гигиена одежды (Лаб.)
-LOCATION:К-503
-DESCRIPTION:2 пара · Приходченко О.В. · группы: О
- -Ки-241
-END:VEVENT
-BEGIN:VEVENT
-UID:2e782d981f36880e649d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Гигиена одежды (Лаб.)
-LOCATION:К-503
-DESCRIPTION:3 пара · Приходченко О.В. · группы: О
- -Ки-241
-END:VEVENT
-BEGIN:VEVENT
-UID:ae84c00bd2a1d0f4d17e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Моделирование и оптимизация процесс
- ов проектирования изделий легкой промыш
- ленности (Лекция)
-LOCATION:К-503
-DESCRIPTION:4 пара · Приходченко О.В. · группы: О
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:435f55e151378664b41a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Квалиметрия изделий легкой промышле
- нности (Лекция)
-LOCATION:К-308
-DESCRIPTION:5 пара · Приходченко О.В. · группы: О
- -МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:49b46027f4aadbaf328b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T173500
-DTEND;TZID=Europe/Moscow:20261013T191000
-SUMMARY:Рекламная деятельность (Лекция)
-LOCATION:К-308
-DESCRIPTION:6 пара · Приходченко О.В. · группы: О
- -МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b36bbec699505d196893@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Основы проектной деятельности (Лекц
- ия)
-LOCATION:К-504
-DESCRIPTION:2 пара · Приходченко О.В. · группы: О
- -Ки-261\, О-Тб-261\, О-Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2842a3eb907542fe34b3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-501
-DESCRIPTION:3 пара · Приходченко О.В. · группы: О
- -Ки-261
-END:VEVENT
-BEGIN:VEVENT
-UID:a9be440db63122e32770@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Основы проектной деятельности (Лекц
- ия)
-LOCATION:К-503
-DESCRIPTION:5 пара · Приходченко О.В. · группы: З
- -Ки-261\, З-Ки-262\, З-Тб-261\, З-Тб-262\, З-Ти-261\, З-Т
- м-261\, З-Тм-262
-END:VEVENT
-BEGIN:VEVENT
-UID:0ede2c499e602741b67d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Планирование эксперимента (Лекция)
-LOCATION:К-503
-DESCRIPTION:2 пара · Приходченко О.В. · группы: З
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:89f11401af1926601baf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Гигиена одежды (Лекция)
-LOCATION:К-609
-DESCRIPTION:3 пара · Приходченко О.В. · группы: О
- -Ки-241
-END:VEVENT
-BEGIN:VEVENT
-UID:32f66bbfb4ea1906419e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Наноматериалы и нанотехнологии (Лек
- ция)
-LOCATION:К-503
-DESCRIPTION:4 пара · Приходченко О.В. · группы: О
- -Ки-231
-END:VEVENT
-BEGIN:VEVENT
-UID:723168e929df2d42f1c0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Планирование эксперимента (Лекция)
-LOCATION:К-612
-DESCRIPTION:5 пара · Приходченко О.В. · группы: О
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:84609079bd0d247e11f6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Ресурсосберегающие системы в отрасл
- ях легкой промышленности (Лекция)
-LOCATION:К-612
-DESCRIPTION:2 пара · Приходченко О.В. · группы: З
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:29485fd92c7df907c40f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-612
-DESCRIPTION:3 пара · Приходченко О.В. · группы: З
- -Ки-261\, З-Ки-262\, З-Ти-261
-END:VEVENT
-BEGIN:VEVENT
-UID:8880f03fbf64a816bed9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Профессиональная подготовка (Практи
- ка)
-LOCATION:К-503
-DESCRIPTION:4 пара · Приходченко О.В. · группы: З
- -Ки-262
-END:VEVENT
-BEGIN:VEVENT
-UID:715efefcb33c8c608dfd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-501
-DESCRIPTION:4 пара · Приходченко О.В. · группы: О
- З-Ки-261
-END:VEVENT
-BEGIN:VEVENT
-UID:68ba7e36d9ca90dcf134@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Промышленные технологии и инновации
-  (Лекция)
-LOCATION:К-503
-DESCRIPTION:5 пара · Приходченко О.В. · группы: З
- -Тб-262
-END:VEVENT
-BEGIN:VEVENT
 UID:52ff962bbcd9cad0f00f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -684,5 +459,137 @@ SUMMARY:Профессиональная подготовка (Практи
 LOCATION:К-609
 DESCRIPTION:3 пара · Приходченко О.В. · группы: З
  -Ки-241\, З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a0eefb4cf64857de20b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f51fb37f7cef265bce5b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a3a4f6ccaa73ca549e8c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:13e90452a15dc4261659@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-313
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6cbefbf01377cc2f99eb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Планирование эксперимента (Практика
+ )
+LOCATION:К-609
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8fad51aa173149e892b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Планирование эксперимента (Практика
+ )
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd3d7d3a3b550de2d6c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d395db1aabffb981b42d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T192000
+DTEND;TZID=Europe/Moscow:20261103T205500
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:7 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b7da88e09fdd01b7d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-313
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e04f26478212a045f9fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd0a114304eed0fefb0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-308
+DESCRIPTION:5 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:01f0e93e7ba42bbebce5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
 END:VEVENT
 END:VCALENDAR

@@ -17,214 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f73463c3d37b1d2efa35@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Технологии профессиональных коммун
- икаций в сервисе (Лекция)
-LOCATION:К-204
-DESCRIPTION:4 пара · Чимонина И.В. · группы: З-МС
- Т-261\, З-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:99d712f08bdfee74c4ff@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Современные подходы к организационн
- о- управленческой деятельности (Лекция)
-LOCATION:К-204
-DESCRIPTION:5 пара · Чимонина И.В. · группы: З-МС
- Т-261\, З-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:9c3c88ab7e38a41d1fcc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Организация производства и технолог
- ии обслуживания на предприятиях сервиса
-  (по отраслям) (Практика)
-LOCATION:К-204
-DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Сп-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:f5cc7838973d020b2201@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Барное дело (Лекция)
-LOCATION:К-201
-DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
- 231\, ОЗ-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:0c9fbf58dd481d370679@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Безопасность\, санитария и гигиена п
- редприятий общественного питания (Лекци
- я)
-LOCATION:К-205
-DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
- 231\, ОЗ-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:3fc5018bbf56c67b5512@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T173500
-DTEND;TZID=Europe/Moscow:20261013T191000
-SUMMARY:Технологии профессиональных коммун
- икаций в сервисе (Практика)
-LOCATION:К-201
-DESCRIPTION:6 пара · Чимонина И.В. · группы: З-МС
- Т-261\, З-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:4f7d2ee8e506c78a7a05@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T192000
-DTEND;TZID=Europe/Moscow:20261013T205500
-SUMMARY:Технологии профессиональных коммун
- икаций в сервисе (Практика)
-LOCATION:К-201
-DESCRIPTION:7 пара · Чимонина И.В. · группы: О-МС
- Т-261\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d6e83f5b3b4763bd3840@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Организация производства и технолог
- ии обслуживания на предприятиях сервиса
-  (по отраслям) (Лекция)
-LOCATION:К-122
-DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:e98287ff127fcd7f7263@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Биология (Лекция)
-LOCATION:К-204
-DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
- л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:e3d76fcacba78ec10d9f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Товароведение продовольственных то
- варов (Практика)
-LOCATION:К-205
-DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:a5c39a7da93b8ab67cb4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Безопасность\, санитария и гигиена п
- редприятий общественного питания (Практ
- ика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
- 231\, ОЗ-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:a6036e06195cf5f2c06d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Барное дело (Практика)
-LOCATION:К-205
-DESCRIPTION:2 пара · Ядыкина Н.Д. / Чимонина И.В. 
- · группы: О-Сп-231\, ОЗ-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:0c78bf99c87c77a51010@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Биология (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
- л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:107de90bdb2bf9b7309a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Современные подходы к организационн
- о- управленческой деятельности (Практик
- а)
-LOCATION:К-208
-DESCRIPTION:5 пара · Чимонина И.В. · группы: З-МС
- Т-261\, З-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:4b428bc928383bfdc683@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Биология (Лекция)
-LOCATION:К-201
-DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Од
- л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d4146e13f3c82a6891b7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Организация развлекательно-досугов
- ой деятельности (Лекция)
-LOCATION:К-205
-DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Сп-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:e47ac7e3005b8765a517@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Организация развлекательно-досугов
- ой деятельности (Практика)
-LOCATION:К-205
-DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:0947864334f1c183e0f8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Современные подходы к организационн
- о- управленческой деятельности (Лекция)
-LOCATION:К-201
-DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
- Т-261\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:744be5ebd2576a507e91@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T101000
-DTEND;TZID=Europe/Moscow:20261017T114000
-SUMMARY:Человек и его потребности (Лекция)
-LOCATION:К-204
-DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Т-26
- 1\, З-Т-262
-END:VEVENT
-BEGIN:VEVENT
 UID:c65e38d21270e41d519c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -686,5 +478,172 @@ SUMMARY:Калькулирование на предприятиях общ
 LOCATION:К-205
 DESCRIPTION:3 пара · Чимонина И.В. · группы: З-Сп-
  242
+END:VEVENT
+BEGIN:VEVENT
+UID:a285ee3b23582172c5f2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:d628b07add7437502af4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Практика)
+LOCATION:К-205
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbe1dcb28e24349492d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Практик
+ а)
+LOCATION:К-201
+DESCRIPTION:7 пара · Чимонина И.В. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3122e8f951af2b2fd365@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Биология (Лекция)
+LOCATION:К-204
+DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e449bbeb94f7247f78cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Товароведение продовольственных то
+ варов (Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fd86c6e135d41fd2c3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c2565d1c3b485c4792@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Сервировка и декорирование стола (Пр
+ актика)
+LOCATION:К-201
+DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:015bf380ebd6fa80c404@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Биология (Лекция)
+LOCATION:К-204
+DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
+ л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:02d33fceffd59ef9969b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f6f4c3eb01b29fb795b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Организация и технология специальны
+ х видов питания (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:38e588ecf5de4200622b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Лекци
+ я)
+LOCATION:К-201
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
+ 231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb36e6ba5dd87d64e7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Практ
+ ика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Чимонина И.В. · группы: О-Сп-
+ 231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:278fbeb48d8b2ab46e81@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Товароведение продовольственных то
+ варов (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ff37a7e6c0b4db2f0e09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Сервировка и декорирование стола (Ле
+ кция)
+LOCATION:К-201
+DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d1983c6702233a11fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 241
 END:VEVENT
 END:VCALENDAR

@@ -17,72 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:41a3adcd6aa1d97a9c4d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Ист
- Т-241
-END:VEVENT
-BEGIN:VEVENT
-UID:a420c59e9179d8367044@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Инфокоммуникационные системы и сети
-  (Лаб.)
-LOCATION:К-401
-DESCRIPTION:2 пара · Шепеть И.П. · группы: ОЗ-Ист
- Т-241
-END:VEVENT
-BEGIN:VEVENT
-UID:8b02d5212b061ab327d5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Психология командной работы и лидер
- ства (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- стТ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:828b639b3a14dbd9dff6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Теория информационных процессов и с
- истем (Лаб.)
-LOCATION:К-401
-DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
- тТ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:15303fb51e34366f6b48@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Технологии обработки информации (Ла
- б.)
-LOCATION:К-408
-DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
- тТ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:c886ca8cd7f3c5c0090c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Компьютерная геометрия и графика (Ла
- б.)
-LOCATION:В-201
-DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
- 241
-END:VEVENT
-BEGIN:VEVENT
 UID:8b06a0a692ec97611aa6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
@@ -223,5 +157,70 @@ SUMMARY:Компьютерная геометрия и графика (Ла
 LOCATION:В-201
 DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
  241
+END:VEVENT
+BEGIN:VEVENT
+UID:94fc137f063b44c84dbd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Программирование (Лекция)
+LOCATION:К-401
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bd51c23f769cfe16bc73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-408
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:d91ec5369d4eea077748@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:2509e2ef1c5a297b24ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:355ebe67c8af923e48fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: ОЗ-И
+ стТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ece618f61608c3870af3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Технологии обработки информации (Ле
+ кция)
+LOCATION:В-201
+DESCRIPTION:4 пара · Черепов П.В. · группы: ОЗ-Ис
+ тТ-241
 END:VEVENT
 END:VCALENDAR

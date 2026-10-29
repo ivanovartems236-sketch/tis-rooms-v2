@@ -17,64 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:af1d4f19e1e390de249f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Технико-экономическое обоснование п
- роектов в сфере энергосбережения и ресу
- рсосбережения (Лекция)
-LOCATION:К-205
-DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-МС
- Э-251
-END:VEVENT
-BEGIN:VEVENT
-UID:00915f53ac862b019868@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Технико-экономическое обоснование п
- роектов в сфере энергосбережения и ресу
- рсосбережения (Практика)
-LOCATION:К-204
-DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
- Э-251
-END:VEVENT
-BEGIN:VEVENT
-UID:c9c676bd24142cf55ece@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Организация технического обслужива
- ния и ремонта энергетического оборудова
- ния (Практика)
-LOCATION:К-201
-DESCRIPTION:4 пара · Ториков А.В. · группы: О-МСЭ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:b98afd74615ce2ba9a37@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Теория и модели организации сервиса 
- энергетического оборудования (Лекция)
-LOCATION:К-208
-DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:c0a0fd7c965fdac7d87f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T173500
-DTEND;TZID=Europe/Moscow:20261016T191000
-SUMMARY:Теория и модели организации сервиса 
- энергетического оборудования (Практика)
-LOCATION:К-208
-DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСЭ-
- 251
-END:VEVENT
-BEGIN:VEVENT
 UID:bed3b2a6298035984942@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T140500
@@ -211,5 +153,73 @@ SUMMARY:Теория и модели организации сервиса
 LOCATION:К-208
 DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСЭ-
  251
+END:VEVENT
+BEGIN:VEVENT
+UID:3e424dced241688ad836@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСЭ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1e972c85b60ea59e18f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:dea48062b06c9839acd6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:301a833f95f31861d9d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Энергоменеджмент (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c6983bca5d1f734c5640@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Технико-экономическое обоснование п
+ роектов в сфере энергосбережения и ресу
+ рсосбережения (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1785729f081f548aff8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Энергоменеджмент (Практика)
+LOCATION:К-205
+DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-МСЭ-251
 END:VEVENT
 END:VCALENDAR

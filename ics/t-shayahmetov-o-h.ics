@@ -17,72 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cc1f5808a59e86aba228@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Устройства сверхвысоких частот и ан
- тенны (Лекция)
-LOCATION:К-413
-DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: ОЗ-
- Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:7f2d283c3aa651b65582@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Цифровые устройства и микропроцессо
- ры (Практика)
-LOCATION:К-121
-DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
- т-241
-END:VEVENT
-BEGIN:VEVENT
-UID:06805d19ead092c0eb0a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Практика)
-LOCATION:К-413
-DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-И
- ксМ-251\, О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:536c4a3efa77196ebec8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Лекция)
-LOCATION:К-505
-DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
- ксМ-251\, О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:adfec59212edb331da8c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Устройства сверхвысоких частот и ан
- тенны (Практика)
-LOCATION:К-413
-DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
-UID:dea1a27932ac7aed34e4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Цифровые устройства и микропроцессо
- ры (Лаб.)
-LOCATION:К-413
-DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
- т-241
-END:VEVENT
-BEGIN:VEVENT
 UID:b32bb506bc4327ee2528@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T083000
@@ -267,6 +201,72 @@ SUMMARY:Электродинамика и распространение р
  адиоволн (Лекция)
 LOCATION:К-413
 DESCRIPTION:7 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bd75add8276d6c98dc07@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3c1b65a5b6827623b4e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f63fe8037f4d96e618@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a7a9ff3bdc37285cf479@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:63614762d2115285a9f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Электродинамика и распространение р
+ адиоволн (Практика)
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e95476c3fcd06c88ef4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
  т-241
 END:VEVENT
 END:VCALENDAR

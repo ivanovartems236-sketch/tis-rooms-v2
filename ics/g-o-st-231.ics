@@ -17,145 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:25dadc9193a462f004a4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Ст-231
-END:VEVENT
-BEGIN:VEVENT
-UID:9b6585bef788a1b55c01@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Инновации в сервисе (Лекция)
-LOCATION:К-208
-DESCRIPTION:4 пара · Фурсов В.А. · группы: О-Ст-231
-END:VEVENT
-BEGIN:VEVENT
-UID:7544446ef511979a7012@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Инновации в сервисе (Практика)
-LOCATION:К-208
-DESCRIPTION:5 пара · Ториков А.В. · группы: О-Ст-23
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:8a1fc02656aa92137aed@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Проектирование услуг на предприятия
- х сервиса (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:b8a38e0facf8a108dee3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Безопасность транспортных средств (
- Лекция)
-LOCATION:К-208
-DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:32979f1605603498c6a7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Безопасность транспортных средств (
- Практика)
-LOCATION:К-208
-DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:872ac059d378d1ce4e32@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Организация технического обслужива
- ния и ремонта автомобилей (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Макеенко И.П. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:5135383823e3c7f7c74a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Техническая диагностика систем и ус
- тройств автомобилей (Лекция)
-LOCATION:К-204
-DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-23
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4febd3a2e5b30a3947bf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Проектирование услуг на предприятия
- х сервиса (Практика)
-LOCATION:К-204
-DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:3a7b4d39d8e1b148b820@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Экономический анализ деятельности с
- ервисного предприятия (Лекция)
-LOCATION:К-204
-DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:89c66a82245aaf86db10@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Экономический анализ деятельности с
- ервисного предприятия (Практика)
-LOCATION:К-204
-DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Ст-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:5b805504651dfe35c0a7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Практика)
-LOCATION:К-204
-DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-Ст-231
-END:VEVENT
-BEGIN:VEVENT
-UID:1ae2ff67e4512f80ebdc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Управление качеством услуг сервиса (
- Практика)
-LOCATION:К-204
-DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-23
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:17f5796ee6c027d36a2a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -413,5 +274,125 @@ SUMMARY:Управление качеством услуг сервиса (
 LOCATION:К-204
 DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-23
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:690bfd5a930d8fc74c27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:e6195c13c9be6035a5a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9144bb05803f4640a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Лекция)
+LOCATION:К-201
+DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:52fdb912a7eeef9ce56d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a005cdc7ba051ec699@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:422192df580f4153daf0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:c59a6631e24891cb0707@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Техническая диагностика систем и ус
+ тройств автомобилей (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4121428ead0ae656545a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcb5aaa3232a5a8713e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-607
+DESCRIPTION:2 пара · Фурсов В.А. · группы: О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5881d97ccbec6e4f28af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ff752926e76cf990f948@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Ст-
+ 231
 END:VEVENT
 END:VCALENDAR

@@ -17,156 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:10126438412e35c24edb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сж-231
-END:VEVENT
-BEGIN:VEVENT
-UID:6d66cb87941b3ead877d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Инновации в сервисе (Лекция)
-LOCATION:К-208
-DESCRIPTION:4 пара · Фурсов В.А. · группы: О-Сж-231
-END:VEVENT
-BEGIN:VEVENT
-UID:2bb11b52a96a702fabd6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Инновации в сервисе (Практика)
-LOCATION:К-208
-DESCRIPTION:5 пара · Ториков А.В. · группы: О-Сж-23
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:3975d845e7139d1cb600@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Энерго- и ресурсосбережение в систем
- е ЖКХ (Лекция)
-LOCATION:К-208
-DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:a9651c438fe65bfe1a2a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Проектирование услуг на предприятия
- х сервиса (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:7c2c572c90a6a1195f09@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T140500
-DTEND;TZID=Europe/Moscow:20261013T154000
-SUMMARY:Эксплуатация и обслуживание многокв
- артирных домов (Практика)
-LOCATION:К-208
-DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:fe59d545e3806bb529c6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Эксплуатация и обслуживание многокв
- артирных домов (Лекция)
-LOCATION:К-204
-DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:a01d9f395890ef545a48@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Управление многоквартирными домами 
- (Практика)
-LOCATION:К-204
-DESCRIPTION:5 пара · Макеенко И.П. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:36f3ab12141456cd755f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Энерго- и ресурсосбережение в систем
- е ЖКХ (Практика)
-LOCATION:К-204
-DESCRIPTION:6 пара · Макеенко И.П. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:6f09181049c78fa59718@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Проектирование услуг на предприятия
- х сервиса (Практика)
-LOCATION:К-204
-DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:75f22b375c4a18cd8a04@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Экономический анализ деятельности с
- ервисного предприятия (Лекция)
-LOCATION:К-204
-DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:13279e1384c8602afeea@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Экономический анализ деятельности с
- ервисного предприятия (Практика)
-LOCATION:К-204
-DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сж-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:63e44d32c2262de26cff@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Практика)
-LOCATION:К-204
-DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-Сж-231
-END:VEVENT
-BEGIN:VEVENT
-UID:04da41a90cf702f90284@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Управление качеством услуг сервиса (
- Практика)
-LOCATION:К-204
-DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сж-23
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:14375853649274d1af77@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T101500
@@ -424,5 +274,114 @@ SUMMARY:Управление качеством услуг сервиса (
 LOCATION:К-204
 DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сж-23
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6bf08c02cf248a82a8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:71847b4666a8d583c9a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:67b78ea5d9b8e9876b98@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:84cebb5b4e765d389427@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd82bca43b82ea0288d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Сж-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8d15302f8dca5ca60cfe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Управление многоквартирными домами 
+ (Лекция)
+LOCATION:К-208
+DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:18c6d062ab308a6ebdf1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a1536d4b8dc05afe342d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:67f55a2958eb2bc97985@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-607
+DESCRIPTION:2 пара · Фурсов В.А. · группы: О-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f67d1dea3ee766dd6c22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231
 END:VEVENT
 END:VCALENDAR

@@ -17,92 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:befe5851af4f929a5507@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Комплексный экономический анализ (П
- рактика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
- о-242
-END:VEVENT
-BEGIN:VEVENT
-UID:617e7089bf1c58983c2e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T083000
-DTEND;TZID=Europe/Moscow:20261014T100500
-SUMMARY:Бухгалтерский учет и анализ (Лекция)
-LOCATION:К-107
-DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-Эп
- о-241
-END:VEVENT
-BEGIN:VEVENT
-UID:5a8f91b568ead944851a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Документирование управленческой де
- ятельности (Лекция)
-LOCATION:К-210
-DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-М-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:15c358784b3eb77918b8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Делопроизводство (Практика)
-LOCATION:К-107
-DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: О-Эбу-251
-END:VEVENT
-BEGIN:VEVENT
-UID:cc86da9f0b4ea01357b5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Основы проектной деятельности (Прак
- тика)
-LOCATION:К-217
-DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:5702b51dd8a6f594891a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Налоги и налогообложение (Практика)
-LOCATION:К-107
-DESCRIPTION:1 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
-END:VEVENT
-BEGIN:VEVENT
-UID:4a2fbd1715f6ef000cb9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Теория экономического анализа (Прак
- тика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:a604571146ee9f32e4bc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Бухгалтерский учет и анализ (Практик
- а)
-LOCATION:К-106
-DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
- о-241
-END:VEVENT
-BEGIN:VEVENT
 UID:cfba011a8c58df0a505d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
@@ -206,5 +120,47 @@ SUMMARY:Бухгалтерский учет и анализ (Практик
 LOCATION:К-106
 DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
  о-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5354bd7ea48a1147552a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-217
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:5acfdfb4400e226544e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Теория экономического анализа (Прак
+ тика)
+LOCATION:К-217
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:b7dfd76246a996d872d2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Теория экономического анализа (Лекц
+ ия)
+LOCATION:К-210
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:57585ab7db436e2a94c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Делопроизводство (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
 END:VEVENT
 END:VCALENDAR

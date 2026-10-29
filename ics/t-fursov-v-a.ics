@@ -17,245 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:be47c9a4197f71e55f91@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Лекция)
-LOCATION:К-208
-DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сж-231\
- , О-Сп-231\, О-Ст-231
-END:VEVENT
-BEGIN:VEVENT
-UID:e151662d5478b6ed4f99@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T140500
-DTEND;TZID=Europe/Moscow:20261012T154000
-SUMMARY:Инновации в сервисе (Лекция)
-LOCATION:К-208
-DESCRIPTION:4 пара · Фурсов В.А. · группы: О-Сж-231\
- , О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
-END:VEVENT
-BEGIN:VEVENT
-UID:97370b5ef5890296826c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T155000
-DTEND;TZID=Europe/Moscow:20261012T172500
-SUMMARY:Ресурсосбережение при проведении те
- хнического обслуживания и ремонта автом
- обилей (Практика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:296f56f7742b92b42cf0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T173500
-DTEND;TZID=Europe/Moscow:20261012T191000
-SUMMARY:Техническое диагностирование и конт
- роль технического состояния автотрансп
- ортных средств (Лекция)
-LOCATION:К-208
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:4c4e6a35ebc58dc3254c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T155000
-DTEND;TZID=Europe/Moscow:20261013T172500
-SUMMARY:Методология научных исследований (Л
- екция)
-LOCATION:К-208
-DESCRIPTION:5 пара · Фурсов В.А. · группы: З-МИСТ-
- 261\, З-МСТ-261\, З-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:349b2ebcbd246be3a90e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Управление системами энергообеспеч
- ения хозяйствующих субъектов (Практика)
-LOCATION:К-201
-DESCRIPTION:3 пара · Фурсов В.А. · группы: З-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:107cf3384e4c11205d0a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Современные проблемы и направления 
- развития технической эксплуатации авто
- мобилей (Лекция)
-LOCATION:К-201
-DESCRIPTION:4 пара · Фурсов В.А. · группы: З-МСТ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:85c520fcaf8a733fb3d0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Теория решения изобретательских зад
- ач (Лекция)
-LOCATION:К-201
-DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
- 1\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:a6007fff31fbfb3df508@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Техническое диагностирование и конт
- роль технического состояния автотрансп
- ортных средств (Практика)
-LOCATION:К-205
-DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-МСТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:4f8ce58e33912f3f4eaf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T173500
-DTEND;TZID=Europe/Moscow:20261014T191000
-SUMMARY:Технологии управления сервисной сре
- дой (Лекция)
-LOCATION:К-201
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
- 1\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:6d1bc251b598064ae8ee@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T192000
-DTEND;TZID=Europe/Moscow:20261014T205500
-SUMMARY:Расчет и проектирование инфраструкт
- уры предприятий автомобильного сервиса 
- (Практика)
-LOCATION:К-201
-DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f19cd46dd5e5d9ca87ff@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Теория решения изобретательских зад
- ач (Лекция)
-LOCATION:К-205
-DESCRIPTION:4 пара · Фурсов В.А. · группы: З-МСТ-26
- 1\, З-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:35f47aa450371df3208a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T173500
-DTEND;TZID=Europe/Moscow:20261015T191000
-SUMMARY:Технологии управления сервисной сре
- дой (Практика)
-LOCATION:К-201
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
- 1\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:534841ccc94a57ef7012@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T192000
-DTEND;TZID=Europe/Moscow:20261015T205500
-SUMMARY:Ресурсосбережение при проведении те
- хнического обслуживания и ремонта автом
- обилей (Лекция)
-LOCATION:К-205
-DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:2a1fe77ab02959e20c73@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Инфраструктура предприятий сервиса 
- (Практика)
-LOCATION:К-204
-DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
-END:VEVENT
-BEGIN:VEVENT
-UID:7b9d4f288fdce2358ba2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Современные проблемы и направления 
- развития технической эксплуатации авто
- мобилей (Практика)
-LOCATION:К-201
-DESCRIPTION:4 пара · Фурсов В.А. · группы: З-МСТ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:19d84db251fd82bc30cb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Теория и модели организации сервиса 
- энергетического оборудования (Лекция)
-LOCATION:К-208
-DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:d945bc183999095182c3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T173500
-DTEND;TZID=Europe/Moscow:20261016T191000
-SUMMARY:Современные проблемы и направления 
- развития технической эксплуатации авто
- мобилей (Практика)
-LOCATION:К-201
-DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:27403c47a3cd78ad4739@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T192000
-DTEND;TZID=Europe/Moscow:20261016T205500
-SUMMARY:Управление системами энергообеспеч
- ения хозяйствующих субъектов (Практика)
-LOCATION:К-204
-DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:27adafeef89bfca0c4d8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T083000
-DTEND;TZID=Europe/Moscow:20261017T100000
-SUMMARY:Расчет и проектирование инфраструкт
- уры предприятий автомобильного сервиса 
- (Лекция)
-LOCATION:К-204
-DESCRIPTION:1 пара · Фурсов В.А. · группы: З-МСТ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:08d185f59969648b561b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T101000
-DTEND;TZID=Europe/Moscow:20261017T114000
-SUMMARY:Управление системами энергообеспеч
- ения хозяйствующих субъектов (Лекция)
-LOCATION:К-204
-DESCRIPTION:2 пара · Фурсов В.А. · группы: З-МСЭ-26
- 1
-END:VEVENT
-BEGIN:VEVENT
 UID:8ca65080d055e0b9cba6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
@@ -674,5 +435,200 @@ SUMMARY:Управление системами энергообеспеч
 LOCATION:К-204
 DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:1b4b7a19cdaf06b70925@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-205
+DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сж-241\
+ , О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:baf9a63e205205349aac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСЭ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2050ad3643e49eb1dea3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6887c36eca8c558ee7c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9f91ac30a12e3a7174@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Технологии управления сервисной сре
+ дой (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:369064be0209ba755ac8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Современные технологии повышения ра
+ ботоспособности и восстановления детал
+ ей автомобилей (Лекция)
+LOCATION:К-208
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7e9db60634c8f3c7a423@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Технологические процессы в сервисе (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:995dd0bfe3c1dbf11602@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d1fe08a12ab6e94431fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Современные проблемы и направления 
+ развития технической эксплуатации авто
+ мобилей (Лекция)
+LOCATION:К-204
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:56778242b0b4fce61025@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:Управление системами энергообеспеч
+ ения хозяйствующих субъектов (Лекция)
+LOCATION:К-201
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fe2d69196b62c2c60167@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-607
+DESCRIPTION:2 пара · Фурсов В.А. · группы: О-Сж-231\
+ , О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9c11fdadcdf59f407c4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Ресурсосбережение при проведении те
+ хнического обслуживания и ремонта автом
+ обилей (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5cda8e87e8a7e4ff24d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f637f916043d86ae50e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Ресурсосбережение при проведении те
+ хнического обслуживания и ремонта автом
+ обилей (Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c408fe37e978085a8301@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Методология научных исследований (П
+ рактика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Колосова О.Ю. / Фурсов В.А. · 
+ группы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:399290c8227f7742ef4b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Расчет и проектирование инфраструкт
+ уры предприятий автомобильного сервиса 
+ (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:805c7a343a04803d9b2a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Методология научных исследований (Л
+ екция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МИСТ-
+ 261\, ОЗ-МИСТ-261
 END:VEVENT
 END:VCALENDAR

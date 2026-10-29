@@ -17,16 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c3afcf588722b601e73e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Барное дело (Практика)
-LOCATION:К-205
-DESCRIPTION:2 пара · Ядыкина Н.Д. / Чимонина И.В. 
- · группы: О-Сп-231\, ОЗ-Сп-231
-END:VEVENT
-BEGIN:VEVENT
 UID:e8e5918e228026e956f6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261022T122000
@@ -57,5 +47,16 @@ SUMMARY:Товароведение продовольственных то
 LOCATION:К-201
 DESCRIPTION:5 пара · Ядыкина Н.Д. / Чимонина И.В. 
  · группы: З-Сп-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ef413cc9fad405190887@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231\, ОЗ-Сп-231
 END:VEVENT
 END:VCALENDAR

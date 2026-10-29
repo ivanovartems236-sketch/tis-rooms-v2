@@ -17,186 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:88db5c77b276b8531ed9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T083000
-DTEND;TZID=Europe/Moscow:20261012T100500
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:e9946434cc526d12549d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Основы проектной деятельности (Лекц
- ия)
-LOCATION:К-505
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:6044ec0139382f91f78c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T122000
-DTEND;TZID=Europe/Moscow:20261012T135500
-SUMMARY:Радиотехнические цепи и сигналы (Лек
- ция)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Рт-24
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:f21db16ae72c5e0b6477@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T083000
-DTEND;TZID=Europe/Moscow:20261013T100500
-SUMMARY:Физические основы микроэлектроники 
- (Лаб.)
-LOCATION:К-505
-DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
- т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:899a2323447beff2ee3b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-505
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2a7c63ea8da9b93784f7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T122000
-DTEND;TZID=Europe/Moscow:20261013T135500
-SUMMARY:Проектирование и эксплуатация сетей
-  связи (Лекция)
-LOCATION:К-505
-DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
- сМ-231
-END:VEVENT
-BEGIN:VEVENT
-UID:5fa70a35c0b79abe96ae@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T101500
-DTEND;TZID=Europe/Moscow:20261014T115000
-SUMMARY:Вычислительные системы (Лекция)
-LOCATION:К-505
-DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:45e71953a8a48f5d16b9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T122000
-DTEND;TZID=Europe/Moscow:20261014T135500
-SUMMARY:Вычислительные системы (Практика)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:442899fb1d16b2fc394e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T155000
-DTEND;TZID=Europe/Moscow:20261014T172500
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-505
-DESCRIPTION:5 пара · Сапилкина В.И. · группы: З-И
- ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
-END:VEVENT
-BEGIN:VEVENT
-UID:f01cab09d63b17354a64@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Электропреобразовательные устройст
- ва в телекоммуникациях (Лекция)
-LOCATION:К-505
-DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:bc9c96d5bcc6decfe920@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T101500
-DTEND;TZID=Europe/Moscow:20261015T115000
-SUMMARY:Моделирование систем и объектов свя
- зи (Лаб.)
-LOCATION:К-505
-DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
- группы: О-ИксМ-231
-END:VEVENT
-BEGIN:VEVENT
-UID:921e12bebbe3178f1819@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Вычислительные системы (Лекция)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сапилкина В.И. · группы: З-И
- ксМ-261\, З-ИксМ-262\, З-Рт-261\, З-Рт-262
-END:VEVENT
-BEGIN:VEVENT
-UID:5ba87d90d632f41b783d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T140500
-DTEND;TZID=Europe/Moscow:20261015T154000
-SUMMARY:Основы проектной деятельности (Прак
- тика)
-LOCATION:К-505
-DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
-UID:138d1496180a46356b90@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T083000
-DTEND;TZID=Europe/Moscow:20261016T100500
-SUMMARY:Электродинамика и распространение р
- адиоволн (Лекция)
-LOCATION:К-505
-DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
- ксМ-251\, О-Рт-251
-END:VEVENT
-BEGIN:VEVENT
-UID:d67a8f96695018a6aa8b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Основы программирования в инфокомму
- никационных системах (Практика)
-LOCATION:К-505
-DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
- сМ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:1c9b3305a5ce3d5a7580@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Менеджмент (Практика)
-LOCATION:К-505
-DESCRIPTION:3 пара · Сурцев А.С. / Ионова А.Ч. · гр
- уппы: ОЗ-Эпо-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b70476e84a84c7de8df2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Введение в профессию (Практика)
-LOCATION:К-505
-DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
- ксМ-261\, О-Рт-261
-END:VEVENT
-BEGIN:VEVENT
 UID:07d4dfb9178d693fbddc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T083000
@@ -574,5 +394,124 @@ SUMMARY:Радиотехнические цепи и сигналы (Лек
 LOCATION:К-505
 DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Рт-24
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:88521bbc509e8f919c8c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Физические основы микроэлектроники 
+ (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:9e739fabe6f60a20245a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T101500
+DTEND;TZID=Europe/Moscow:20261102T115000
+SUMMARY:Электроника (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6270566749c6dacf1789@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Электроника (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0508116183df68696e44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T083000
+DTEND;TZID=Europe/Moscow:20261103T100500
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a52c75d63f9005242ffc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e455386a6a0e315688d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2c8b2d0ede7a90b130@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Практика)
+LOCATION:К-505
+DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9436512d1c30906e2e8e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9c9686ac48dc16b8ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:65c4c1778c4cb96674d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T083000
+DTEND;TZID=Europe/Moscow:20261106T100500
+SUMMARY:Основы научного эксперимента (Практ
+ ика)
+LOCATION:К-505
+DESCRIPTION:1 пара · Братченко Н.Ю. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:de2886643ec1665c1031@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T101500
+DTEND;TZID=Europe/Moscow:20261106T115000
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
+ т-241
 END:VEVENT
 END:VCALENDAR

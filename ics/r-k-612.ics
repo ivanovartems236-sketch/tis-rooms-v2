@@ -17,132 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0381884e1ceb6793f82d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261012T101500
-DTEND;TZID=Europe/Moscow:20261012T115000
-SUMMARY:Моделирование и оптимизация процесс
- ов проектирования изделий легкой промыш
- ленности (Лекция)
-LOCATION:К-612
-DESCRIPTION:2 пара · Приходченко О.В. · группы: З
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:15fae28a595c2b4d58f7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Механика (Лекция)
-LOCATION:К-612
-DESCRIPTION:2 пара · Калинина А.С. · группы: О-Ки-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:028cafeffee2531e0f1f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Основы черчения и компьютерного про
- ектирования (Практика)
-LOCATION:К-612
-DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
- 262
-END:VEVENT
-BEGIN:VEVENT
-UID:a19290cbb53eabebbdb3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T122000
-DTEND;TZID=Europe/Moscow:20261015T135500
-SUMMARY:Механика (Практика)
-LOCATION:К-612
-DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:8a1c61b7562452310a77@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T155000
-DTEND;TZID=Europe/Moscow:20261015T172500
-SUMMARY:Планирование эксперимента (Лекция)
-LOCATION:К-612
-DESCRIPTION:5 пара · Приходченко О.В. · группы: О
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:21e1e6caeadbc46853e9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T101500
-DTEND;TZID=Europe/Moscow:20261016T115000
-SUMMARY:Ресурсосберегающие системы в отрасл
- ях легкой промышленности (Лекция)
-LOCATION:К-612
-DESCRIPTION:2 пара · Приходченко О.В. · группы: З
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:68429592c7b289f75402@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T122000
-DTEND;TZID=Europe/Moscow:20261016T135500
-SUMMARY:Введение в профессию (Лекция)
-LOCATION:К-612
-DESCRIPTION:3 пара · Приходченко О.В. · группы: З
- -Ки-261\, З-Ки-262\, З-Ти-261
-END:VEVENT
-BEGIN:VEVENT
-UID:251c5a231f73b3498c03@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T140500
-DTEND;TZID=Europe/Moscow:20261016T154000
-SUMMARY:Основы подготовки диссертации (Лекц
- ия)
-LOCATION:К-612
-DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:8076d962dec0cdb589b2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261016T155000
-DTEND;TZID=Europe/Moscow:20261016T172500
-SUMMARY:Управление проектами (Лекция)
-LOCATION:К-612
-DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b68550ed35a83a641e9f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T083000
-DTEND;TZID=Europe/Moscow:20261017T100000
-SUMMARY:Введение в профессиональную деятель
- ность (Лекция)
-LOCATION:К-612
-DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
- Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:2a447f603b4e5f98c64a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T101000
-DTEND;TZID=Europe/Moscow:20261017T114000
-SUMMARY:Введение в профессиональную деятель
- ность (Практика)
-LOCATION:К-612
-DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
- Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:5be9f57c4904cc546e0c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261017T121000
-DTEND;TZID=Europe/Moscow:20261017T134000
-SUMMARY:Введение в профессиональную деятель
- ность (Лекция)
-LOCATION:К-612
-DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
- Тм-261\, З-Тм-262
-END:VEVENT
-BEGIN:VEVENT
 UID:e71cb0fdb5c06de24398@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261020T122000
@@ -341,5 +215,35 @@ SUMMARY:Проектирование бытовой техники (Лек
 LOCATION:К-612
 DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
  Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a5138018b20419064294@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:Механика (Лаб.)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:7feffb83ec0d3327a885@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:История отрасли и введение в специал
+ ьность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Кутин А.О. · группы: О-Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0e4f6e9c2776ce441b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:История отрасли и введение в специал
+ ьность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Кутин А.О. · группы: О-Тб-261
 END:VEVENT
 END:VCALENDAR

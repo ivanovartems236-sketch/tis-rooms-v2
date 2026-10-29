@@ -17,38 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:708eb82f1e6cbd3b92d4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261013T101500
-DTEND;TZID=Europe/Moscow:20261013T115000
-SUMMARY:Комплексный экономический анализ (П
- рактика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
- о-242
-END:VEVENT
-BEGIN:VEVENT
-UID:4dccf889e9bc07848510@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261014T140500
-DTEND;TZID=Europe/Moscow:20261014T154000
-SUMMARY:Делопроизводство (Практика)
-LOCATION:К-107
-DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: О-Эбу-251
-END:VEVENT
-BEGIN:VEVENT
-UID:336cb6c5f1deb560b726@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261015T083000
-DTEND;TZID=Europe/Moscow:20261015T100500
-SUMMARY:Налоги и налогообложение (Практика)
-LOCATION:К-107
-DESCRIPTION:1 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
-END:VEVENT
-BEGIN:VEVENT
 UID:a216841f04f4d139ee6f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261019T122000
