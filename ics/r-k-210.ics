@@ -247,6 +247,17 @@ DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эбу-
  252\, ОЗ-Эпо-252\, ОЗ-Эфк-252
 END:VEVENT
 BEGIN:VEVENT
+UID:15ba254dc556f2088dc5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Лекц
+ ия)
+LOCATION:К-210
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:cc1ea8ed48a68fc8d163@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000

@@ -644,6 +644,39 @@ DESCRIPTION:4 пара · Сагдеев К.М. · группы: О-Икс
  М-241
 END:VEVENT
 BEGIN:VEVENT
+UID:09b90ed26ef1d5e39ca4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Лаб.)
+LOCATION:К-413
+DESCRIPTION:6 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:576543f84a7e87ff6aa7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Практика)
+LOCATION:К-413
+DESCRIPTION:7 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:83cf23704d97ab159fa2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Статистическая теория радиотехниче
+ ских систем (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Рт-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:a47cfbd7f4f2ae66ae60@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T101500
@@ -677,6 +710,29 @@ DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: О-Р
  т-231
 END:VEVENT
 BEGIN:VEVENT
+UID:26a8ad29dd0dbd57c427@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Электромагнитная совместимость и уп
+ равление использованием радиочастотног
+ о спектра (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-242\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:bee91869f5459b281331@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Волоконно-оптические системы связи (
+ Лаб.)
+LOCATION:К-413
+DESCRIPTION:6 пара · Гривенная Н.В. · группы: З-И
+ ксМ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:0060a7b1a651d3f412bd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000
@@ -708,6 +764,49 @@ SUMMARY:Проектирование и эксплуатация сетей
 LOCATION:К-413
 DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
  сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:eea976992163f68d0d4f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Оборудование систем мобильной связи
+  (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:2038accf9cafdb5250e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Спутниковые системы мобильной связи
+  (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9b480efc5abd8091e63d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Сети и системы широкополосного дост
+ упа и Интернета вещей (Практика)
+LOCATION:К-413
+DESCRIPTION:6 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a45e56b92f018dff80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:зач.Конструирование и технология пр
+ оизводства радиоэлектронных средств
+LOCATION:К-413
+DESCRIPTION:7 пара · Дюдюн Д.Е. · группы: З-Рт-242
 END:VEVENT
 BEGIN:VEVENT
 UID:8773114ece05ada23ef1@tis-rooms
@@ -754,6 +853,28 @@ DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
  сМ-231
 END:VEVENT
 BEGIN:VEVENT
+UID:765bc684c373ab6b1af5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Самоорганизующиеся сети мобильной с
+ вязи (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb9a5fa82b0f0b352af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:зчО.Сети и системы широкополосного д
+ оступа и Интернета вещей
+LOCATION:К-413
+DESCRIPTION:6 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:55fc69fd734f503f504b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261107T083000
@@ -762,6 +883,16 @@ SUMMARY:Метрология и радиоизмерения (Лекция)
 LOCATION:К-413
 DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
  251
+END:VEVENT
+BEGIN:VEVENT
+UID:74f7c34321bed077af11@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Радиоавтоматика (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Рт-
+ 241\, З-Рт-242
 END:VEVENT
 BEGIN:VEVENT
 UID:337d542c2d49e357c130@tis-rooms
@@ -773,6 +904,16 @@ SUMMARY:Метрология и радиоизмерения (Практи
 LOCATION:К-413
 DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
  251
+END:VEVENT
+BEGIN:VEVENT
+UID:be355437d1638432d738@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Сети и системы мобильной связи (Лаб.)
+LOCATION:К-413
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
 END:VEVENT
 BEGIN:VEVENT
 UID:d56de568f7567b707ff8@tis-rooms

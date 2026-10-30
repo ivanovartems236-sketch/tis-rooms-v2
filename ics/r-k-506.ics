@@ -400,6 +400,17 @@ DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-Р
  т-231
 END:VEVENT
 BEGIN:VEVENT
+UID:de17b104c9da3d436536@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Лекция)
+LOCATION:К-506
+DESCRIPTION:6 пара · Дюдюн Д.Е. · группы: З-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:1d2175a686a9781c635e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T101500
@@ -419,6 +430,18 @@ SUMMARY:Электроника (Лаб.)
 LOCATION:К-506
 DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
  ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e4c467d8829cd8d0eb27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Основы информационной безопасности 
+ информационно-коммуникационных систем (
+ Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Шепеть И.П. · группы: З-ИксМ-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:e1adbd519348c9be482d@tis-rooms
@@ -449,6 +472,27 @@ SUMMARY:Общая теория связи (Лаб.)
 LOCATION:К-506
 DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
  группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:b9060505e7ab90df2025@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:199a918f9ce955bd687e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
 END:VEVENT
 BEGIN:VEVENT
 UID:0729a0f816e54358e4ca@tis-rooms
@@ -494,5 +538,26 @@ SUMMARY:Стандартизация\, сертификация и упра
 LOCATION:К-506
 DESCRIPTION:4 пара · Братченко Н.Ю. · группы: О-Р
  т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:80ac541e68e33c87b8d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:17524b5dabb4e835a1c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Лаб.)
+LOCATION:К-506
+DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
 END:VEVENT
 END:VCALENDAR

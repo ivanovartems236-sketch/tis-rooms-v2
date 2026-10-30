@@ -128,6 +128,18 @@ DESCRIPTION:4 пара · Кудашина В.Л. · группы: З-Ик
   З-Рт-241\, З-Рт-242\, З-Тб-242\, З-Тм-241\, З-Тм-242
 END:VEVENT
 BEGIN:VEVENT
+UID:8bbb3fcec263446a2c91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-121
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\,
+  З-Рт-242\, З-Тб-242\, З-Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
 UID:ebcb874cb021392f835e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000
@@ -184,5 +196,17 @@ LOCATION:К-504
 DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
  сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
  Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b0adbcd45a7edfa7f3f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Психология командной работы и ли
+ дерства
+LOCATION:К-121
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\,
+  З-Рт-242\, З-Тб-242\, З-Тм-241\, З-Тм-242
 END:VEVENT
 END:VCALENDAR

@@ -169,6 +169,17 @@ DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-24
  1\, ОЗ-Ки-241
 END:VEVENT
 BEGIN:VEVENT
+UID:b9c7f320357d2b20ace9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Перспективные направления развития 
+ бытовой техники (Лекция)
+LOCATION:К-306
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: З-Тм-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:bd97c9880dfd1fcaec68@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500

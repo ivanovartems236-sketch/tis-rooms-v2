@@ -195,4 +195,122 @@ LOCATION:К-609
 DESCRIPTION:3 пара · Приходченко О.В. · группы: З
  -Ки-242
 END:VEVENT
+BEGIN:VEVENT
+UID:50cd4129da33af00b16b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:33d3325ba3a657e8ce43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-121
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a297b4df6a398a064ac9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5d982063230813473b8a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Лекци
+ я)
+LOCATION:К-306
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:5c7878ce61252a653e50@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6bdca94bcb6224201b43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:зач.Особенности проектирования одеж
+ ды по индивидуальным заказам
+LOCATION:В-301
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:62f9da69178a23ee2457@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c941afe0809cb3df8704@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Смирнова М.Ю. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:eae2cb89ce5f11117795@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:зач.Менеджмент и маркетинг на предпр
+ иятиях легкой промышленности
+LOCATION:К-602
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:f4698078dc4934409fa2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Основы брендинга и мерчандайзинга (Л
+ екция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:763bae1d73adb46c024b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Психология командной работы и ли
+ дерства
+LOCATION:К-121
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: З-Ки-
+ 242
+END:VEVENT
 END:VCALENDAR

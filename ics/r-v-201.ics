@@ -369,6 +369,17 @@ DESCRIPTION:5 пара · Архипов В.В. · группы: О-Исп-
  9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:20788dc688693b10fda8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:зач.Проектирование информационных с
+ истем управления
+LOCATION:В-201
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:21c1f2ea29bdb2ec701b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T140500
@@ -452,6 +463,17 @@ SUMMARY:ПП САПР (Лаб.)
 LOCATION:В-201
 DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
  231
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb8af049b4860f793cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:В-201
+DESCRIPTION:5 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:dadc76a839d9c28221a0@tis-rooms

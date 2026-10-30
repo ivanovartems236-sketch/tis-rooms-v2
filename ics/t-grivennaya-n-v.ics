@@ -220,6 +220,17 @@ DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
  ксМ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:a67ea8f5259707881da2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Волоконно-оптические системы связи (
+ Лаб.)
+LOCATION:К-413
+DESCRIPTION:6 пара · Гривенная Н.В. · группы: З-И
+ ксМ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:2b4129c06c20dc87f438@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500

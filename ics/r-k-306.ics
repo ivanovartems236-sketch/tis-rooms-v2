@@ -155,6 +155,17 @@ DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
  Дп-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae329f884d46920aa3d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Перспективные направления развития 
+ бытовой техники (Лекция)
+LOCATION:К-306
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: З-Тм-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:47d02ddfe37d7575ec60@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500
@@ -164,6 +175,18 @@ SUMMARY:Основы инженерного творчества (Прак
 LOCATION:К-306
 DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:663a9b6355582f287b98@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Лекци
+ я)
+LOCATION:К-306
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Ки-24
+ 2
 END:VEVENT
 BEGIN:VEVENT
 UID:dcf89aa259b6b786d183@tis-rooms

@@ -182,4 +182,136 @@ SUMMARY:Устойчивое развитие туризма (Лекция)
 LOCATION:К-208
 DESCRIPTION:1 пара · Ториков А.В. · группы: З-Т-242
 END:VEVENT
+BEGIN:VEVENT
+UID:54f49224178ae48f39ff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Устойчивое развитие туризма (Практи
+ ка)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:dd08c51957aedbecb87b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:263d6d822190569e31e0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Технология разработки туристского м
+ аршрута (Практика)
+LOCATION:К-205
+DESCRIPTION:5 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8fcdb428b0f088ded5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Страхование в туризме (Лекция)
+LOCATION:К-205
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:da857b352d5620e0eabf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1471f7670bec010a3967@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Технология организации внутреннего 
+ туризма (Лекция)
+LOCATION:К-607
+DESCRIPTION:4 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c92d9645a73f5234f7e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Технология организации внутреннего 
+ туризма (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:671bb1b9c6f828745d36@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Инновации в туризме (Лекция)
+LOCATION:К-205
+DESCRIPTION:6 пара · Фурсов В.А. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ec59a0a09923062c2931@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Управление качеством услуг туризма (
+ Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6b600738fca2362f7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Технология разработки туристского м
+ аршрута (Лекция)
+LOCATION:К-208
+DESCRIPTION:6 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9e93c4329e5a1faee7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:зчО.Туристско-рекреационное проекти
+ рование
+LOCATION:К-201
+DESCRIPTION:7 пара · Ториков А.В. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:219dc83b48479879a792@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Устойчивое развитие туризма
+LOCATION:К-208
+DESCRIPTION:1 пара · Ториков А.В. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8a73c96771babb7a6c1d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:зач.Страхование в туризме
+LOCATION:К-204
+DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Т-24
+ 2
+END:VEVENT
 END:VCALENDAR

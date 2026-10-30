@@ -348,6 +348,18 @@ DESCRIPTION:1 пара · Семенова Л.В. · группы: З-Сж-
  241\, З-Ст-241\, З-Сэ-241
 END:VEVENT
 BEGIN:VEVENT
+UID:ef161e33fd9f244e32a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Семенова Л.В. · группы: З-Сэ-
+ 241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:bed42aafeb3cede8264f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T101500
@@ -368,6 +380,28 @@ LOCATION:К-205
 DESCRIPTION:3 пара · Семенова Л.В. · группы: О-Эб
  у-251\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк
  -252
+END:VEVENT
+BEGIN:VEVENT
+UID:ababe5ae09afae263a62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Маркетинг в туристской индустрии (Ле
+ кция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ea5a8f5aa66d9d12ca40@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Менеджмент в туристской индустрии (Л
+ екция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Семенова Л.В. · группы: З-Т-24
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:e6f76540fdcb60453cad@tis-rooms
@@ -413,6 +447,18 @@ DESCRIPTION:5 пара · Семенова Л.В. · группы: О-Сж-
  241\, О-Сп-241\, О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
+UID:84c66cbcccc7bbe0383a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Гончаров В.Н. / Семенова Л.В.
+  · группы: З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, 
+ З-Ст-242\, З-Сэ-241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:14a44278e5c2ca05cf51@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T173500
@@ -443,5 +489,39 @@ SUMMARY:Менеджмент и маркетинг на предприят
 LOCATION:К-208
 DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Ки-
  241\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:fb61b7e335049c9b6b17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:зач.Менеджмент и маркетинг на предпр
+ иятиях легкой промышленности
+LOCATION:К-602
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:8231cb69ef4283737d2f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зчО.Организация и планирование деят
+ ельности предприятий сервиса
+LOCATION:К-204
+DESCRIPTION:1 пара · Семенова Л.В. · группы: З-Сж-
+ 241\, З-Ст-241\, З-Сэ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a48623b886d7e9a58646@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:зач.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: З-Сэ-
+ 241
 END:VEVENT
 END:VCALENDAR

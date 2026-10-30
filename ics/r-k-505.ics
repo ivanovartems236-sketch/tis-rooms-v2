@@ -427,6 +427,18 @@ DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
  ксМ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:e4bbbaef004278268794@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Практик
+ а)
+LOCATION:К-505
+DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
 UID:0508116183df68696e44@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000
@@ -458,6 +470,27 @@ SUMMARY:Устройства сверхвысоких частот и ан
 LOCATION:К-505
 DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
  т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:646738faf6111efee5b0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Радиотехнические системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:57499a333bb0e8008af0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
 END:VEVENT
 BEGIN:VEVENT
 UID:bf2c8b2d0ede7a90b130@tis-rooms
@@ -493,6 +526,39 @@ LOCATION:К-505
 DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
 END:VEVENT
 BEGIN:VEVENT
+UID:c74a477ca961b535c587@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Метрология и радиоизмерения (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:02f65725d15aeaad086c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зач.Диагностика и обслуживание ради
+ оэлектронных средств бытового назначен
+ ия
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:63a02e429a7632684436@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:65c4c1778c4cb96674d8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T083000
@@ -513,5 +579,92 @@ SUMMARY:Цифровые устройства и микропроцессо
 LOCATION:К-505
 DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
  т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:10d8a9d5f894272f22fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Метрология и радиоизмерения (Практи
+ ка)
+LOCATION:К-505
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:eb37117819a8c7952906@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Метрология и радиоизмерения (Лаб.)
+LOCATION:К-505
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:b2bbde3729cbfc5488c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:14a5fd21ab8b5bf6c826@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c443521f9c2a9cba5ab5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:51643aff62c9bfc48080@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:7 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:7d867f362c3a669c86fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Основы помехоустойчивой радиосвязи 
+ (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:dc9870ee1cedf5e454a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
 END:VEVENT
 END:VCALENDAR

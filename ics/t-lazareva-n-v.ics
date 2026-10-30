@@ -300,6 +300,17 @@ DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
  Т-261\, О-МСЭ-261
 END:VEVENT
 BEGIN:VEVENT
+UID:a82f4b4db742802e16d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-607
+DESCRIPTION:6 пара · Лазарева Н.В. · группы: З-Ст-
+ 242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:847a9937cfaea5821576@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T122000
@@ -330,6 +341,17 @@ SUMMARY:Сервисология (Лекция)
 LOCATION:К-204
 DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Ст-
  261
+END:VEVENT
+BEGIN:VEVENT
+UID:884cb6230e59d1d38649@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сж-
+ 242\, З-Сп-242
 END:VEVENT
 BEGIN:VEVENT
 UID:d1947c78827333f09c07@tis-rooms
@@ -385,5 +407,46 @@ SUMMARY:Сервисология (Практика)
 LOCATION:К-313
 DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ст-
  261
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1102cf3d7ac40a99e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Основы брендинга и мерчандайзинга (Л
+ екция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:629033f4e1a6f6044e5a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:экз.Энергосбережение и энергоаудит
+LOCATION:К-205
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:5142bea7d09e71702211@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:экз.Энергосбережение и энергоаудит
+LOCATION:К-205
+DESCRIPTION:6 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7467c27172209451ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:экз.Энергосбережение и энергоаудит
+LOCATION:К-205
+DESCRIPTION:7 пара · Лазарева Н.В. · группы: З-Сэ-
+ 242
 END:VEVENT
 END:VCALENDAR

@@ -175,7 +175,7 @@ DTSTART;TZID=Europe/Moscow:20261031T083000
 DTEND;TZID=Europe/Moscow:20261031T100000
 SUMMARY:Инновации в сервисе (Лекция)
 LOCATION:К-205
-DESCRIPTION:1 пара · Фурмов В.А. · группы: З-Сп-242
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сп-242
 END:VEVENT
 BEGIN:VEVENT
 UID:bcba1baa0170500a5345@tis-rooms
@@ -197,6 +197,159 @@ SUMMARY:Калькулирование на предприятиях общ
  ественного питания (Практика)
 LOCATION:К-205
 DESCRIPTION:3 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:95186c7251ad01c0cfc5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:зач.Товароведение продовольственны
+ х товаров
+LOCATION:К-602
+DESCRIPTION:3 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:f78cb745f6830a02bb6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-Сп-242
+END:VEVENT
+BEGIN:VEVENT
+UID:14116a38624563f06dd3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Сервировка и декорирование стола (Пр
+ актика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:96b06a956c84b4ae2ce5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:зач.Сервировка и декорирование стол
+ а
+LOCATION:К-205
+DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:cd5320a5035ee447444f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Сп-242
+END:VEVENT
+BEGIN:VEVENT
+UID:161925eaca4c805d186e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:7f3bc4787e8114bd1a0a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Гончаров В.Н. / Семенова Л.В.
+  · группы: З-Сп-242
+END:VEVENT
+BEGIN:VEVENT
+UID:77e127913bcd7b0cdfd6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:Организация и технология специальны
+ х видов питания (Лекция)
+LOCATION:К-204
+DESCRIPTION:7 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:0efc105e0dbedac37f17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:043b46a40ebc5047fdf2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Лекци
+ я)
+LOCATION:К-607
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:631d4908e87f5cfc494e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Практ
+ ика)
+LOCATION:К-208
+DESCRIPTION:7 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:267e54847bf25e196b8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T154000
+DTEND;TZID=Europe/Moscow:20261107T171000
+SUMMARY:экз.Калькулирование на предприятиях
+  общественного питания
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:40b49d7746f6c4876f97@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T173500
+DTEND;TZID=Europe/Moscow:20261107T191000
+SUMMARY:экз.Калькулирование на предприятиях
+  общественного питания
+LOCATION:К-204
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:eabc0604b93284a9cf68@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T192000
+DTEND;TZID=Europe/Moscow:20261107T205500
+SUMMARY:экз.Калькулирование на предприятиях
+  общественного питания
+LOCATION:К-204
+DESCRIPTION:7 пара · Чимонина И.В. · группы: З-Сп-
  242
 END:VEVENT
 END:VCALENDAR

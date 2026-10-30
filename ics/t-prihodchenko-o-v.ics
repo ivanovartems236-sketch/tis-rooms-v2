@@ -483,6 +483,17 @@ DESCRIPTION:2 пара · Аксенова И.С. / Приходченко
  О.В. · группы: О-Ки-251
 END:VEVENT
 BEGIN:VEVENT
+UID:52fea9f66092133f5461@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:зач.Проектирование предприятий по р
+ емонту бытовых машин и приборов
+LOCATION:К-612
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Тм-242
+END:VEVENT
+BEGIN:VEVENT
 UID:a3a4f6ccaa73ca549e8c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500
@@ -512,6 +523,17 @@ SUMMARY:Планирование эксперимента (Практика
 LOCATION:К-609
 DESCRIPTION:4 пара · Приходченко О.В. · группы: О
  -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e08079fc66057a51e6c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Ки-242
 END:VEVENT
 BEGIN:VEVENT
 UID:8fad51aa173149e892b3@tis-rooms
@@ -549,6 +571,17 @@ DESCRIPTION:7 пара · Целиковская О.С. / Приходче
  нко О.В. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
+UID:49162596505506c91cd5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:зач.Особенности проектирования одеж
+ ды по индивидуальным заказам
+LOCATION:В-301
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
 UID:b2b7da88e09fdd01b7d8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T122000
@@ -558,6 +591,17 @@ SUMMARY:Квалиметрия изделий легкой промышле
 LOCATION:К-313
 DESCRIPTION:3 пара · Приходченко О.В. · группы: О
  -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b4de3e7ebbbc53dc8847@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Производственная санитария и гигиен
+ а труда (Практика)
+LOCATION:К-609
+DESCRIPTION:4 пара · Приходченко О.В. · группы: З
+ -Тб-242
 END:VEVENT
 BEGIN:VEVENT
 UID:e04f26478212a045f9fb@tis-rooms
@@ -591,5 +635,49 @@ SUMMARY:Ресурсосберегающие системы в отрасл
 LOCATION:К-503
 DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
  О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3fabe3eddfae8624b556@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:экз.Производственная санитария и ги
+ гиена труда
+LOCATION:К-609
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7dcc11af602e497c34e1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:экз.Производственная санитария и ги
+ гиена труда
+LOCATION:К-609
+DESCRIPTION:4 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0cfbc98836fcec305e0e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:экз.Производственная санитария и ги
+ гиена труда
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee61c4c89a56a94b052@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-609
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тб-242
 END:VEVENT
 END:VCALENDAR

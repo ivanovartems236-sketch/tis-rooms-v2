@@ -209,6 +209,19 @@ DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-11
  251\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
+UID:995eef4d581f1525c338@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-ИксМ-
+ 241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\, З-
+ Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст
+ -242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, З-Тб-242\, 
+ З-Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
 UID:a72a4417e8c3a804210c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T101500

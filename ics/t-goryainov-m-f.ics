@@ -184,6 +184,82 @@ DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
  сМ-241
 END:VEVENT
 BEGIN:VEVENT
+UID:b1ba2f59cd7bbd0d0638@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Метрология и радиоизмерения (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2b6fa87fd5209c3b1f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зач.Диагностика и обслуживание ради
+ оэлектронных средств бытового назначен
+ ия
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:4b73b593b392c70448dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T122000
+DTEND;TZID=Europe/Moscow:20261106T135500
+SUMMARY:Метрология и радиоизмерения (Практи
+ ка)
+LOCATION:К-505
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:2734e0a13a0e267b2800@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Метрология и радиоизмерения (Лаб.)
+LOCATION:К-505
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:d7759fad64306e5b2436@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:caf97fff0f63074b5863@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d026990c12cf855f2c30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:7 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
 UID:364c0b08579e5e63d6fd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261107T083000

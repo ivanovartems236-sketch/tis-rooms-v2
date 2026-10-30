@@ -148,6 +148,16 @@ DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В.
  · группы: О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
+UID:357dd4506048e48bcd8b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Электробезопасность (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Субботин А.Е. / Макеенко И.П.
+  · группы: З-Сэ-241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:c2d7d3c67efbee2b62da@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T122000

@@ -72,4 +72,72 @@ LOCATION:К-612
 DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
  Тм-241\, З-Тм-242
 END:VEVENT
+BEGIN:VEVENT
+UID:8e8d43b452609d57919e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Основы технологии машиностроения (П
+ рактика)
+LOCATION:К-612
+DESCRIPTION:6 пара · Малсугенов А.В. · группы: З-
+ Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:038799f294258a9f6a30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Проектирование технологии восстано
+ вления работоспособности бытовых машин 
+ и приборов (Практика)
+LOCATION:К-612
+DESCRIPTION:7 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5a89954be9170c07c440@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Технология отраслевого машинострое
+ ния (Лекция)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1dce4db9e09bb4b587@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Технология отраслевого машинострое
+ ния (Практика)
+LOCATION:К-612
+DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:697f8e1e97869edf8ea4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T140000
+DTEND;TZID=Europe/Moscow:20261107T153000
+SUMMARY:Проектирование бытовой техники (Пра
+ ктика)
+LOCATION:К-612
+DESCRIPTION:4 пара · Погребной М.Н. / Малсугенов 
+ А.В. · группы: З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c147f59af1a32e6c6f83@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T154000
+DTEND;TZID=Europe/Moscow:20261107T171000
+SUMMARY:зач.Проектирование технологии восст
+ ановления работоспособности бытовых ма
+ шин и приборов
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
 END:VCALENDAR

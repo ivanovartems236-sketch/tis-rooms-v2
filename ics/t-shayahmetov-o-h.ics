@@ -204,6 +204,28 @@ DESCRIPTION:7 пара · Шаяхметов О.Х. · группы: З-Р
  т-241
 END:VEVENT
 BEGIN:VEVENT
+UID:bb64581f794decb8e564@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Лаб.)
+LOCATION:К-413
+DESCRIPTION:6 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e24378bb9b16805a6bad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Практика)
+LOCATION:К-413
+DESCRIPTION:7 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
 UID:bd75add8276d6c98dc07@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000

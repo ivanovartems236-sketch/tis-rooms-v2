@@ -538,6 +538,27 @@ DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Сж-
  231\, О-Сп-231\, О-Ст-231\, ОЗ-Сп-231
 END:VEVENT
 BEGIN:VEVENT
+UID:9cf913a1e71011f1bc8c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Электробезопасность (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Субботин А.Е. / Макеенко И.П.
+  · группы: З-Сэ-241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ea302d488eaf475156df@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Сервировка и декорирование стола (Пр
+ актика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
 UID:8c7fe3ead7d8a7ecb7ad@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T155000
@@ -560,6 +581,16 @@ SUMMARY:Техническое диагностирование и конт
 LOCATION:К-208
 DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4892413975be4886aa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Цифровизация в сфере ЖКХ (Лекция)
+LOCATION:К-208
+DESCRIPTION:7 пара · Макеенко И.П. · группы: З-Сж-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc39d74675ae57c6674@tis-rooms
@@ -594,6 +625,17 @@ SUMMARY:Товароведение продовольственных то
 LOCATION:К-208
 DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
  241
+END:VEVENT
+BEGIN:VEVENT
+UID:7fed151bee21fc48dfbf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Менеджмент в туристской индустрии (Л
+ екция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Семенова Л.В. · группы: З-Т-24
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:6f20719077340e5a0f24@tis-rooms
@@ -638,6 +680,18 @@ SUMMARY:Организация технического обслужива
 LOCATION:К-208
 DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Ст-
  231
+END:VEVENT
+BEGIN:VEVENT
+UID:c194310ccabe4229a122@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зач.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-208
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241
 END:VEVENT
 BEGIN:VEVENT
 UID:59772d6459700fc4fab1@tis-rooms
@@ -708,5 +762,48 @@ SUMMARY:Ресурсосбережение при проведении те
 LOCATION:К-208
 DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСТ-25
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:6ead67040d51cb751ef1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Технология разработки туристского м
+ аршрута (Лекция)
+LOCATION:К-208
+DESCRIPTION:6 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:fba97d8963bb099602d0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Практ
+ ика)
+LOCATION:К-208
+DESCRIPTION:7 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:be08e22ed1f9fe55900d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Устойчивое развитие туризма
+LOCATION:К-208
+DESCRIPTION:1 пара · Ториков А.В. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7554affd91ecf34c04@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Фурсов В.А. · группы: З-Сэ-242
 END:VEVENT
 END:VCALENDAR

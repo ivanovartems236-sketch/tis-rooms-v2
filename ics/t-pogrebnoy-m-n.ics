@@ -49,4 +49,26 @@ LOCATION:К-609
 DESCRIPTION:5 пара · Погребной М.Н. / Дрофа Е.А. · 
  группы: З-Тб-242
 END:VEVENT
+BEGIN:VEVENT
+UID:94baf1a16567621dc064@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:зач.Управление техносферной безопас
+ ностью
+LOCATION:К-609
+DESCRIPTION:3 пара · Погребной М.Н. / Дрофа Е.А. · 
+ группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:95d6ce2bcc03b892c081@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T140000
+DTEND;TZID=Europe/Moscow:20261107T153000
+SUMMARY:Проектирование бытовой техники (Пра
+ ктика)
+LOCATION:К-612
+DESCRIPTION:4 пара · Погребной М.Н. / Малсугенов 
+ А.В. · группы: З-Тм-242
+END:VEVENT
 END:VCALENDAR

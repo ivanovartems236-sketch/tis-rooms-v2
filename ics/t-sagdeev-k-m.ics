@@ -443,6 +443,50 @@ DESCRIPTION:4 пара · Сагдеев К.М. · группы: О-Икс
  М-241
 END:VEVENT
 BEGIN:VEVENT
+UID:2238e3563be4205986bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Статистическая теория радиотехниче
+ ских систем (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Рт-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:28b417490b6dc4597f8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Радиотехнические системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:0c900ab12c793bd9d768@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Электромагнитная совместимость и уп
+ равление использованием радиочастотног
+ о спектра (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-242\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:239f555c2805061f5975@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:913e7f03362132222e77@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000
@@ -482,5 +526,59 @@ SUMMARY:Общая теория связи (Лаб.)
 LOCATION:К-506
 DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
  группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6af4c83860d9083665bb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe13a9e32cea44c0c3e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:2c83bd5589cb5456c5f3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:37dc0f5dff292665f7a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Основы помехоустойчивой радиосвязи 
+ (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e689408600cc70f333c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
 END:VEVENT
 END:VCALENDAR

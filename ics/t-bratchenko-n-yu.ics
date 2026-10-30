@@ -141,6 +141,18 @@ DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
  т-241
 END:VEVENT
 BEGIN:VEVENT
+UID:0e2e1f4da00c9e0ecbde@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Практик
+ а)
+LOCATION:К-505
+DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
 UID:151b36a9f926073ec36e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T083000
@@ -185,5 +197,26 @@ SUMMARY:Стандартизация\, сертификация и упра
 LOCATION:К-506
 DESCRIPTION:4 пара · Братченко Н.Ю. · группы: О-Р
  т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c26b2721fcdc11d6c772@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e260c0ea05bfb0d1c11b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Лаб.)
+LOCATION:К-506
+DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
 END:VEVENT
 END:VCALENDAR

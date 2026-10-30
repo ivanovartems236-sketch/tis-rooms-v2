@@ -499,6 +499,17 @@ DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
  сп-9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:510760a6310403cf3689@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:зач.Основы экономической деятельнос
+ ти предприятий
+LOCATION:К-301
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Тм-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:75d2ffdc79eb32991bbe@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T173500

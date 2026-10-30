@@ -123,4 +123,16 @@ LOCATION:К-217
 DESCRIPTION:3 пара · Гончаров В.Н. / Зайченко И.А.
   · группы: ОЗ-М-252
 END:VEVENT
+BEGIN:VEVENT
+UID:ef4b68cb45c5c5fa2068@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Гончаров В.Н. / Семенова Л.В.
+  · группы: З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, 
+ З-Ст-242\, З-Сэ-241\, З-Сэ-242
+END:VEVENT
 END:VCALENDAR

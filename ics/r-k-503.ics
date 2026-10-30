@@ -563,6 +563,17 @@ DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-23
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:6f341951a4cb46e916be@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
 UID:c2748c5dd7f53a8c3eab@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T173500
@@ -620,6 +631,16 @@ DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:5365413e1a41bc506a89@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
 UID:ac7af5bededda5d812c0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T140500
@@ -629,6 +650,17 @@ SUMMARY:Профессиональная подготовка (Практи
 LOCATION:К-503
 DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-24
  1\, О-Ки-251\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:04b40e9397f623f24604@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Смирнова М.Ю. · группы: З-Ки-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:f51041388091bf264ad2@tis-rooms

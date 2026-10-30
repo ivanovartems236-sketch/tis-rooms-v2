@@ -242,6 +242,18 @@ DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. ·
  группы: О-ИксМ-241
 END:VEVENT
 BEGIN:VEVENT
+UID:0295e2ed4eb49e9c6f4c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Основы проектирования информационн
+ о-коммуникационных систем и сетей (Лекци
+ я)
+LOCATION:К-504
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:0a482d3f42fe967af0e7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T122000

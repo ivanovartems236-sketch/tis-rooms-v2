@@ -571,6 +571,16 @@ DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
  Т-251
 END:VEVENT
 BEGIN:VEVENT
+UID:db35a58b2e84d7877295@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Специальные разделы информатики (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: З-Рт-241
+END:VEVENT
+BEGIN:VEVENT
 UID:1fc34c7947bb483507fa@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T140500
@@ -634,6 +644,17 @@ SUMMARY:Современные проблемы науки и произв
 LOCATION:К-406
 DESCRIPTION:5 пара · Черепов П.В. · группы: О-МИС
  Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d21cfedf989c0982cc8a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:зач.Инфокоммуникационные системы и 
+ сети
+LOCATION:К-406
+DESCRIPTION:6 пара · Шепеть И.П. · группы: З-ИстТ-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:6799406a843a103e8e30@tis-rooms

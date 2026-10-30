@@ -485,6 +485,16 @@ DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Сж-
  241
 END:VEVENT
 BEGIN:VEVENT
+UID:d3b084eb877625e576dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:Электробезопасность (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Субботин А.Е. / Макеенко И.П.
+  · группы: З-Сэ-241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:38739b74c8ba8fc78aef@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500
@@ -494,6 +504,29 @@ SUMMARY:Эксплуатация и обслуживание многокв
 LOCATION:К-201
 DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Сж-
  231
+END:VEVENT
+BEGIN:VEVENT
+UID:a74358af8001050bdeed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d62268d85b22728a8f9c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Безопасность транспортных средств (
+ Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Ст-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:7ec6668ef56ba72eab45@tis-rooms
@@ -508,6 +541,16 @@ DESCRIPTION:5 пара · Макеенко И.П. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
+UID:105a1d4555907b2f826b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Технологии управления ТБО (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
 UID:9b771eeaa1fdf4892f58@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T173500
@@ -520,6 +563,16 @@ DESCRIPTION:6 пара · Макеенко И.П. · группы: О-МС
  Э-251
 END:VEVENT
 BEGIN:VEVENT
+UID:8dbecabfaf928983d120@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Цифровизация в сфере ЖКХ (Лекция)
+LOCATION:К-208
+DESCRIPTION:7 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
 UID:e17ebe400a3681584dc8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000
@@ -529,6 +582,38 @@ SUMMARY:Организация технического обслужива
 LOCATION:К-201
 DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Ст-
  231
+END:VEVENT
+BEGIN:VEVENT
+UID:044dcec56b5d6d2086db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:зач.Электробезопасность
+LOCATION:К-204
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сэ-
+ 241\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:311b7ed84f5272b76134@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Управление многоквартирными домами 
+ (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:da7691279c511a0b24a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Лекция)
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:c67e322139c6c674dc4d@tis-rooms
@@ -552,6 +637,27 @@ DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Сж-
  241
 END:VEVENT
 BEGIN:VEVENT
+UID:6192ba2888fa923f24de@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Цифровизация в сфере ЖКХ (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:da64ff6acc28f3ab9981@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Правовое обеспечение в сфере ЖКХ и ж
+ илищное законодательство (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
 UID:c39eb7f3177d8775f46d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T140500
@@ -561,6 +667,29 @@ SUMMARY:Организация технического обслужива
 LOCATION:К-208
 DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Ст-
  231
+END:VEVENT
+BEGIN:VEVENT
+UID:b99cc50b91258e8ee5f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зач.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-208
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:326d98e554f4758bde9c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-201
+DESCRIPTION:7 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-242
 END:VEVENT
 BEGIN:VEVENT
 UID:403fce01733edac70ac3@tis-rooms
@@ -598,6 +727,18 @@ DESCRIPTION:3 пара · Макеенко И.П. · группы: О-Сж-
  241
 END:VEVENT
 BEGIN:VEVENT
+UID:cf9e5e0db20341657a9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:зач.Конструкции инженерных систем\, 
+ внутридомового и внутриквартирного обо
+ рудования
+LOCATION:К-201
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
 UID:d82af823b1418c12be2c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T140500
@@ -607,5 +748,94 @@ SUMMARY:Организация технического обслужива
 LOCATION:К-204
 DESCRIPTION:4 пара · Макеенко И.П. · группы: О-Ст-
  231
+END:VEVENT
+BEGIN:VEVENT
+UID:2f335d9e8b5b70fd138d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:экз.Эксплуатация и обслуживание мно
+ гоквартирных домов
+LOCATION:К-201
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:efd950af212882686842@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:экз.Эксплуатация и обслуживание мно
+ гоквартирных домов
+LOCATION:К-201
+DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:784548674a23d26af87a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:экз.Эксплуатация и обслуживание мно
+ гоквартирных домов
+LOCATION:К-201
+DESCRIPTION:7 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:4c87ccb77d5bc650215f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:зач.Правовое обеспечение в сфере ЖКХ
+  и жилищное законодательство
+LOCATION:К-607
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e137021948c619b211a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:зач.Конструкции инженерных систем\, 
+ внутридомового и внутриквартирного обо
+ рудования
+LOCATION:К-205
+DESCRIPTION:3 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:e4bf3f82013ff93f1c48@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T140000
+DTEND;TZID=Europe/Moscow:20261107T153000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта автомобилей
+LOCATION:К-205
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Ст-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d7d023870e24955f1c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T154000
+DTEND;TZID=Europe/Moscow:20261107T171000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта автомобилей
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Ст-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a4790b062dfd425f3307@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T173500
+DTEND;TZID=Europe/Moscow:20261107T191000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта автомобилей
+LOCATION:К-205
+DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Ст-
+ 242
 END:VEVENT
 END:VCALENDAR

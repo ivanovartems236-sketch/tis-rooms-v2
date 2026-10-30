@@ -70,4 +70,37 @@ LOCATION:К-208
 DESCRIPTION:6 пара · Надеина А.Е. / Семенова Л.В. 
  · группы: З-Т-241
 END:VEVENT
+BEGIN:VEVENT
+UID:9e7d11a0931b8e85fceb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Технология организации внутреннего 
+ туризма (Лекция)
+LOCATION:К-607
+DESCRIPTION:4 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:030d33e1e9f48dc9da36@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Технология организации внутреннего 
+ туризма (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d446c6a07b8ff07543c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Организация и планирование деятельн
+ ости туристских предприятий (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-241
+END:VEVENT
 END:VCALENDAR

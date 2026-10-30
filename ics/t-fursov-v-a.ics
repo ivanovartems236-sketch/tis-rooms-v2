@@ -437,6 +437,16 @@ DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:45d33f0881d0af4bcfa0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261031T083000
+DTEND;TZID=Europe/Moscow:20261031T100000
+SUMMARY:Инновации в сервисе (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сж-242\
+ , З-Сп-242\, З-Ст-242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:1b4b7a19cdaf06b70925@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T122000
@@ -516,6 +526,37 @@ SUMMARY:Технологические процессы в сервисе (
 LOCATION:К-208
 DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cd93b22ba8cf3b1c75b7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Лекц
+ ия)
+LOCATION:К-210
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a77869e380310fae21@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Прак
+ тика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:48daa885930dc29f8f30@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Инновации в туризме (Лекция)
+LOCATION:К-205
+DESCRIPTION:6 пара · Фурсов В.А. · группы: З-Т-242
 END:VEVENT
 BEGIN:VEVENT
 UID:995dd0bfe3c1dbf11602@tis-rooms
@@ -621,6 +662,16 @@ DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:745ce84e216c961b5feb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:зач.Сервисное обслуживание систем э
+ лектроснабжения
+LOCATION:К-602
+DESCRIPTION:6 пара · Фурсов В.А. · группы: З-Сэ-241
+END:VEVENT
+BEGIN:VEVENT
 UID:805c7a343a04803d9b2a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T173500
@@ -630,5 +681,36 @@ SUMMARY:Методология научных исследований (Л
 LOCATION:К-201
 DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МИСТ-
  261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3063bcb7df2682129e6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:Сервисное обслуживание систем элект
+ роснабжения (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d849ad91441f151652a6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:df7837781f0486890bf7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:зач.Сервисное обслуживание систем э
+ лектроснабжения
+LOCATION:К-201
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сэ-242
 END:VEVENT
 END:VCALENDAR

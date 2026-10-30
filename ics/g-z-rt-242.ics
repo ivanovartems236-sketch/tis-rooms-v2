@@ -225,4 +225,208 @@ LOCATION:К-401
 DESCRIPTION:2 пара · Черепов П.В. · группы: З-Рт-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:eb6b842b546dba0ef20f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:41a4c16a52fe3cfd90b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-121
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:5f449d36d1ae1143022c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Практик
+ а)
+LOCATION:К-505
+DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fd722d514dfe94f02534@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Практика)
+LOCATION:К-413
+DESCRIPTION:7 пара · Шаяхметов О.Х. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1c44c0467b2b48a349@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc0b2106ddcf19c2f7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Радиотехнические системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:af29bcee1806f295b38f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Электромагнитная совместимость и уп
+ равление использованием радиочастотног
+ о спектра (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:3067d6b19d0b607b194d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T173500
+DTEND;TZID=Europe/Moscow:20261103T191000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:1ebc17cd8ac7ba801893@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca1a8c0b4a70b84f0d0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:зач.Диагностика и обслуживание ради
+ оэлектронных средств бытового назначен
+ ия
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:bad32061c4e74c60b58d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:81d0055530b89c940fa8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:зач.Конструирование и технология пр
+ оизводства радиоэлектронных средств
+LOCATION:К-413
+DESCRIPTION:7 пара · Дюдюн Д.Е. · группы: З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:629a53a10c2d170b5aa5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad580a69ce2a9d21872@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a021b7f45b7e2e12a794@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Лаб.)
+LOCATION:К-506
+DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:727cf2d282fd7771f4cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:7 пара · Черепов П.В. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20f0215a586ee88a4e12@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Психология командной работы и ли
+ дерства
+LOCATION:К-121
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba54503d7dde05e8d5c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:Радиоавтоматика (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:9c97ec4fc6030393e774@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
 END:VCALENDAR

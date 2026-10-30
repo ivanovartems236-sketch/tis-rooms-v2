@@ -321,6 +321,18 @@ DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-И
  ксМ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, О-Тм-261
 END:VEVENT
 BEGIN:VEVENT
+UID:db952b07022befdc6721@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-121
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\,
+  З-Рт-242\, З-Тб-242\, З-Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
 UID:22c92b530e5fdc35089a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000
@@ -345,6 +357,20 @@ DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
  261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
  261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
  -М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:9919ceffebb9dfe77c9a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\, З-
+ Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст
+ -242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, З-Тб-242\, 
+ З-Тм-241\, З-Тм-242
 END:VEVENT
 BEGIN:VEVENT
 UID:c90c8a5bb50092654098@tis-rooms
@@ -384,6 +410,16 @@ DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
   ОЗ-М-262
 END:VEVENT
 BEGIN:VEVENT
+UID:a988a9e90031d38b7fe3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
 UID:7d2d0b036ed2437ea0d0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T083000
@@ -405,5 +441,17 @@ LOCATION:К-121
 DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
  ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, 
  О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:abe36ae828d36ed227fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Психология командной работы и ли
+ дерства
+LOCATION:К-121
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\,
+  З-Рт-242\, З-Тб-242\, З-Тм-241\, З-Тм-242
 END:VEVENT
 END:VCALENDAR

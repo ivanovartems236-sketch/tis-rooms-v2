@@ -144,4 +144,15 @@ LOCATION:К-413
 DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-Р
  т-231
 END:VEVENT
+BEGIN:VEVENT
+UID:124b96c7f6e8b782c5e1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: З-Р
+ т-242
+END:VEVENT
 END:VCALENDAR

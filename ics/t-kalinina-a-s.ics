@@ -112,6 +112,17 @@ DESCRIPTION:5 пара · Калинина А.С. · группы: З-Тм-
  242
 END:VEVENT
 BEGIN:VEVENT
+UID:6a1bbb136b668856b7e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:Теоретические процессы бытовой техн
+ ики (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 241
+END:VEVENT
+BEGIN:VEVENT
 UID:a770900d8cff61d1deda@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T122000
@@ -120,5 +131,68 @@ SUMMARY:Механика (Лаб.)
 LOCATION:К-612
 DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
  251
+END:VEVENT
+BEGIN:VEVENT
+UID:17e5039b8213f10ef466@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Монтаж\, эксплуатация и ремонт техно
+ логического оборудования (Лекция)
+LOCATION:К-612
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:1dcce841b9e34911bcf7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Организация фирменного обслуживани
+ я бытовых машин и приборов (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:29efc6799230f421a2cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:экз.Теплотехника
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: З-Тм-
+ 241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:bcacc5bd00392cdadc18@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:экз.Теплотехника
+LOCATION:К-612
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:080c953aa93c6cd763e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:экз.Теплотехника
+LOCATION:К-612
+DESCRIPTION:5 пара · Калинина А.С. · группы: З-Тм-
+ 241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8dc9581fb8e475dc86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:Теория механизмов и основы проектир
+ ования (Практика)
+LOCATION:К-612
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 241
 END:VEVENT
 END:VCALENDAR

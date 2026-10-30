@@ -388,4 +388,15 @@ LOCATION:К-313
 DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ст-
  261
 END:VEVENT
+BEGIN:VEVENT
+UID:7d8f24c05f5054685845@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Защита интеллектуальной собственно
+ сти (Лекция)
+LOCATION:К-313
+DESCRIPTION:5 пара · Еремина Е.А. · группы: З-Тм-24
+ 2
+END:VEVENT
 END:VCALENDAR

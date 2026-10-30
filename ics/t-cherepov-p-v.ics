@@ -723,4 +723,26 @@ LOCATION:В-201
 DESCRIPTION:4 пара · Черепов П.В. · группы: ОЗ-Ис
  тТ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:658c96504d60cab2fccf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Прикладные компьютерные программы (
+ Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-Тм-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a31c4310073d0de7d491@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:7 пара · Черепов П.В. · группы: З-Икс
+ М-242\, З-ИстТ-242\, З-Рт-242
+END:VEVENT
 END:VCALENDAR

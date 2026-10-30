@@ -660,14 +660,14 @@ DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
  1
 END:VEVENT
 BEGIN:VEVENT
-UID:31354797c30c817498d6@tis-rooms
+UID:ebb276c8ce7276bd8eb5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T101500
 DTEND;TZID=Europe/Moscow:20261102T115000
-SUMMARY:Программирование (Лекция)
+SUMMARY:Технология программирования (Лаб.)
 LOCATION:К-401
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
- Т-241
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
 END:VEVENT
 BEGIN:VEVENT
 UID:8b4d2464b1a022530a3a@tis-rooms
@@ -703,6 +703,28 @@ SUMMARY:Инструментальные платформы информа
 LOCATION:К-401
 DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:45a40518faf910bb09d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-401
+DESCRIPTION:6 пара · Следский А.А. · группы: З-Ис
+ тТ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0936f4b2b4c8e51de2f9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T192000
+DTEND;TZID=Europe/Moscow:20261102T205500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:7 пара · Следский А.А. · группы: З-Ис
+ тТ-242
 END:VEVENT
 BEGIN:VEVENT
 UID:7bda8824aad78ac25f57@tis-rooms
@@ -840,6 +862,17 @@ DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:7617e004e2fbec3702cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-401
+DESCRIPTION:7 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
 UID:caa32f46b2913ce0282d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T101500
@@ -882,5 +915,26 @@ SUMMARY:Разработка мобильных приложений (Ле
 LOCATION:К-401
 DESCRIPTION:5 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9d774ba5c0e25da168@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:2ee82b41afe0181ff224@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:7 пара · Черепов П.В. · группы: З-Икс
+ М-242\, З-ИстТ-242\, З-Рт-242
 END:VEVENT
 END:VCALENDAR

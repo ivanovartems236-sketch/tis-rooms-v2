@@ -575,14 +575,14 @@ DESCRIPTION:1 пара · Янковец Ю.Г. / Черепов П.В. ·
  группы: О-ИстТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:d448988122e4bc4dfb74@tis-rooms
+UID:de953a693a5a5489391e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T101500
 DTEND;TZID=Europe/Moscow:20261102T115000
-SUMMARY:Технология программирования (Лаб.)
+SUMMARY:Базы данных (Практика)
 LOCATION:В-202
-DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
- тТ-251
+DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:648dfad189b7af14b715@tis-rooms
@@ -787,5 +787,16 @@ SUMMARY:Методы исследования и моделирования
 LOCATION:В-202
 DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfe1d4d56bb420334b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Прикладные компьютерные программы (
+ Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-Тм-24
+ 1
 END:VEVENT
 END:VCALENDAR

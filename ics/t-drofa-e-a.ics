@@ -365,6 +365,17 @@ LOCATION:К-503
 DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Ки-242
 END:VEVENT
 BEGIN:VEVENT
+UID:08f9aa3be75ec233f843@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T122000
+DTEND;TZID=Europe/Moscow:20261102T135500
+SUMMARY:зач.Управление техносферной безопас
+ ностью
+LOCATION:К-609
+DESCRIPTION:3 пара · Погребной М.Н. / Дрофа Е.А. · 
+ группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
 UID:3af7db06bde344f0106b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500
@@ -409,6 +420,16 @@ DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
   · группы: О-Ки-231
 END:VEVENT
 BEGIN:VEVENT
+UID:51f69981576d136a0389@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Управление производственной безопа
+ сностью (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
 UID:2f894f73304115b1465d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T140500
@@ -418,6 +439,16 @@ SUMMARY:Основы подготовки научной и учебной
 LOCATION:К-313
 DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
  руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fba626739eb452b7c87f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Управление производственной безопа
+ сностью (Практика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-242
 END:VEVENT
 BEGIN:VEVENT
 UID:80f457dba8008c955ba8@tis-rooms
@@ -431,6 +462,16 @@ DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
  руппы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:ab16a53aba58eb32e565@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
+SUMMARY:Экспертиза проектов по обеспечению 
+ техносферной безопасности (Лекция)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
 UID:c46eb6817762498db94c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500
@@ -439,6 +480,26 @@ SUMMARY:Основы подготовки научной и учебной
  литературы (Лекция)
 LOCATION:К-308
 DESCRIPTION:2 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ea68963771a271a192@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:зач.Управление производственной без
+ опасностью
+LOCATION:К-609
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:2007b6fd40b374af1d22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
 END:VEVENT
 BEGIN:VEVENT
 UID:31f19374eb6fba09a681@tis-rooms

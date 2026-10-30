@@ -94,6 +94,17 @@ DESCRIPTION:5 пара · Ториков А.В. · группы: З-Ст-24
  1\, З-Ст-242
 END:VEVENT
 BEGIN:VEVENT
+UID:cf9e18146ea53b9379c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-607
+DESCRIPTION:6 пара · Лазарева Н.В. · группы: З-Ст-
+ 242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
 UID:a6549b91226d6da53226@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T122000
@@ -103,6 +114,28 @@ SUMMARY:Проектирование услуг на предприятия
 LOCATION:К-607
 DESCRIPTION:3 пара · Лазарева Н.В. · группы: ОЗ-С
  п-231
+END:VEVENT
+BEGIN:VEVENT
+UID:64aaf1b25fd006fc0f32@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Технология организации внутреннего 
+ туризма (Лекция)
+LOCATION:К-607
+DESCRIPTION:4 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3b560fdbc89d61c2c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Технология организации внутреннего 
+ туризма (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe50f9f93acd286d4d7@tis-rooms
@@ -125,5 +158,50 @@ SUMMARY:Инфраструктура предприятий сервиса
 LOCATION:К-607
 DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:13dd8df1eb504b0232ec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:зач.Технология и организация туропе
+ раторских и турагентских услуг
+LOCATION:К-607
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f6fd5e5173ffb21ea6d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:e8290c2e337a6e65bda7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Лекци
+ я)
+LOCATION:К-607
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:512a99f24f636470f35d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T101000
+DTEND;TZID=Europe/Moscow:20261107T114000
+SUMMARY:зач.Правовое обеспечение в сфере ЖКХ
+  и жилищное законодательство
+LOCATION:К-607
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242
 END:VEVENT
 END:VCALENDAR

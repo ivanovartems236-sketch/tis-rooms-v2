@@ -160,6 +160,20 @@ DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
  -М-262
 END:VEVENT
 BEGIN:VEVENT
+UID:fd488df5c4f4840a03fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\, З-
+ Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст
+ -242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, З-Тб-242\, 
+ З-Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
 UID:1d04d9abd36774fbc6c8@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000

@@ -199,6 +199,17 @@ DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:18ae97d34f8c0b9609bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Смирнова М.Ю. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
 UID:173fc738c22892f3a865@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T101500

@@ -271,6 +271,18 @@ DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:a9ce620dfb509e1e4e43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Лекци
+ я)
+LOCATION:К-306
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:7718a353e85d61cfe243@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000
@@ -280,5 +292,27 @@ SUMMARY:Проектирование одежды с объемным ут
 LOCATION:К-313
 DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-23
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:7af468a335f6cef53155@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:зач.Основы экономической деятельнос
+ ти предприятий
+LOCATION:К-301
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Тм-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e7a69e52721702207e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Защита интеллектуальной собственно
+ сти (Лекция)
+LOCATION:К-313
+DESCRIPTION:5 пара · Еремина Е.А. · группы: З-Тм-24
+ 2
 END:VEVENT
 END:VCALENDAR

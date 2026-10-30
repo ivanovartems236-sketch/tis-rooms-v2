@@ -143,4 +143,100 @@ LOCATION:К-201
 DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-24
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:ab599c99473758054332@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3890ff01f5bbfd367acf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:320a7a132aac68c0ffe1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Маркетинг в туристской индустрии (Ле
+ кция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:65cd0a05d4417ccde8a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T155000
+DTEND;TZID=Europe/Moscow:20261103T172500
+SUMMARY:Менеджмент в туристской индустрии (Л
+ екция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d190923193c7042247ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Организация и планирование деятельн
+ ости туристских предприятий (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d27dd8d12dd37e2e167d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T140500
+DTEND;TZID=Europe/Moscow:20261106T154000
+SUMMARY:зач.Технология и организация туропе
+ раторских и турагентских услуг
+LOCATION:К-607
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1e8d299c8284e11c02@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:зчО.Организация и планирование деят
+ ельности туристских предприятий
+LOCATION:К-602
+DESCRIPTION:5 пара · Торикова Е.Ф. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:00924dcbb8f0e5403214@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Технология и организация услуг пита
+ ния в туризме (Лаб.)
+LOCATION:К-204
+DESCRIPTION:3 пара · Чимонина И.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a31dc7a1ea3965204774@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T140000
+DTEND;TZID=Europe/Moscow:20261107T153000
+SUMMARY:Технология и организация услуг пита
+ ния в туризме (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Чимонина И.В. · группы: З-Т-24
+ 1
+END:VEVENT
 END:VCALENDAR

@@ -212,6 +212,17 @@ DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
   · группы: О-Ки-231
 END:VEVENT
 BEGIN:VEVENT
+UID:0f4b1d8f87b76e454139@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:зач.Особенности проектирования одеж
+ ды по индивидуальным заказам
+LOCATION:В-301
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
 UID:b1b57fd69bce8f679afe@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T101500

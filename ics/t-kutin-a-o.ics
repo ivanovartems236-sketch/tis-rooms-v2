@@ -66,4 +66,14 @@ SUMMARY:История отрасли и введение в специал
 LOCATION:К-612
 DESCRIPTION:2 пара · Кутин А.О. · группы: О-Тб-261
 END:VEVENT
+BEGIN:VEVENT
+UID:290e1f36cb02a78344ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T121000
+DTEND;TZID=Europe/Moscow:20261107T134000
+SUMMARY:Безопасность в чрезвычайных ситуаци
+ ях (Лаб.)
+LOCATION:К-609
+DESCRIPTION:3 пара · Кутин А.О. · группы: З-Тб-242
+END:VEVENT
 END:VCALENDAR

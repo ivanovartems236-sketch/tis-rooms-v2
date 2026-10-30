@@ -142,6 +142,28 @@ DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
 END:VEVENT
 BEGIN:VEVENT
+UID:f7f94d62d71a7e0749c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a188701c49c2195978da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Технологии управления ТБО (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
 UID:49e6285cf16066acca4a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T173500
@@ -165,6 +187,27 @@ DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-241\, О-Сп-241\, О-Ст-241
 END:VEVENT
 BEGIN:VEVENT
+UID:00fc29541bbac96146ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T122000
+DTEND;TZID=Europe/Moscow:20261105T135500
+SUMMARY:Цифровизация в сфере ЖКХ (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:05e88cea10d1430c49c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Правовое обеспечение в сфере ЖКХ и ж
+ илищное законодательство (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
 UID:716eefb3967111df3693@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T140500
@@ -174,6 +217,17 @@ SUMMARY:Принятие управленческих решений в с
 LOCATION:К-205
 DESCRIPTION:4 пара · Ламанов С.Г. / Семенова Л.В. 
  · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5704e5c3a82c4bb3b4cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T192000
+DTEND;TZID=Europe/Moscow:20261105T205500
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-201
+DESCRIPTION:7 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-242
 END:VEVENT
 BEGIN:VEVENT
 UID:b20d23d50e3b8c7a90b1@tis-rooms

@@ -471,6 +471,17 @@ DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:eb40fe41d2a4cafa39ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T101500
+DTEND;TZID=Europe/Moscow:20261103T115000
+SUMMARY:зач.Проектирование информационных с
+ истем управления
+LOCATION:В-201
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
 UID:c350cb592ed63351e9bd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T122000
@@ -479,6 +490,16 @@ SUMMARY:Специальные разделы информатики (Ла
  б.)
 LOCATION:К-401
 DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a89390fc16617125f2b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Специальные разделы информатики (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: З-Рт-241
 END:VEVENT
 BEGIN:VEVENT
 UID:b84f11415e4011228ffb@tis-rooms
@@ -579,5 +600,26 @@ SUMMARY:Моделирование систем (Лаб.)
 LOCATION:К-406
 DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-ИстТ-24
  1
+END:VEVENT
+BEGIN:VEVENT
+UID:71b52e98f6f598a49343@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-501
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:e57bae75ad4eba4f6229@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
 END:VEVENT
 END:VCALENDAR

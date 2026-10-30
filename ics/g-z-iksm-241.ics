@@ -157,4 +157,122 @@ LOCATION:К-413
 DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
  сМ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:41c3edbef757dba742a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T140500
+DTEND;TZID=Europe/Moscow:20261102T154000
+SUMMARY:зач.Физическая культура и спорт
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: З-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:53db5b0c3750386d275a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T155000
+DTEND;TZID=Europe/Moscow:20261102T172500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-121
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5aed9c8c00a978698b3d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T173500
+DTEND;TZID=Europe/Moscow:20261102T191000
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Лекция)
+LOCATION:К-506
+DESCRIPTION:6 пара · Дюдюн Д.Е. · группы: З-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8603aaf8855759a65f49@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T122000
+DTEND;TZID=Europe/Moscow:20261103T135500
+SUMMARY:зач.Правовое обеспечение профессион
+ альной деятельности
+LOCATION:К-121
+DESCRIPTION:3 пара · Герман Р.Э. · группы: З-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:86a5cb00506405c30184@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-506
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e05f1cf584f5bb92de6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T155000
+DTEND;TZID=Europe/Moscow:20261105T172500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:1f4ca88bf9098fe1aa00@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:6 пара · Дюдюн Д.Е. · группы: З-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ab5f5952c4ffa5b3a6a8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T155000
+DTEND;TZID=Europe/Moscow:20261106T172500
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:63e11c04721b2fcd5665@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T173500
+DTEND;TZID=Europe/Moscow:20261106T191000
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:87e5aa950012c52378d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261106T192000
+DTEND;TZID=Europe/Moscow:20261106T205500
+SUMMARY:экз.Метрология\, стандартизация и се
+ ртификация в телекоммуникациях
+LOCATION:К-505
+DESCRIPTION:7 пара · Горяинов М.Ф. · группы: З-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:67411b97c101a10a2b22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261107T083000
+DTEND;TZID=Europe/Moscow:20261107T100000
+SUMMARY:зач.Психология командной работы и ли
+ дерства
+LOCATION:К-121
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: З-Ик
+ сМ-241
+END:VEVENT
 END:VCALENDAR

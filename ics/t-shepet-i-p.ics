@@ -555,6 +555,18 @@ DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
  261
 END:VEVENT
 BEGIN:VEVENT
+UID:de87b0ac26696ba0118c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261103T140500
+DTEND;TZID=Europe/Moscow:20261103T154000
+SUMMARY:Основы информационной безопасности 
+ информационно-коммуникационных систем (
+ Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Шепеть И.П. · группы: З-ИксМ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
 UID:3a52d231e0e2bdcefb96@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T155000
@@ -604,6 +616,17 @@ SUMMARY:Системная инженерия (Лекция)
 LOCATION:К-501
 DESCRIPTION:5 пара · Шепеть И.П. · группы: ОЗ-МИС
  Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:36c08a4d1089e9bef74a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T173500
+DTEND;TZID=Europe/Moscow:20261105T191000
+SUMMARY:зач.Инфокоммуникационные системы и 
+ сети
+LOCATION:К-406
+DESCRIPTION:6 пара · Шепеть И.П. · группы: З-ИстТ-
+ 242
 END:VEVENT
 BEGIN:VEVENT
 UID:cf75b78ff60e502b8e1c@tis-rooms
