@@ -351,13 +351,13 @@ DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
  9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:f6c0f33c21956c3bfdc7@tis-rooms
+UID:d59ec550171792f178b4@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T122000
-DTEND;TZID=Europe/Moscow:20261105T135500
+DTSTART;TZID=Europe/Moscow:20261105T101500
+DTEND;TZID=Europe/Moscow:20261105T115000
 SUMMARY:Базы данных (Практика)
 LOCATION:В-201
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Тэи
+DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
  с-11-261
 END:VEVENT
 BEGIN:VEVENT

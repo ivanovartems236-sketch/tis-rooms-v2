@@ -181,6 +181,16 @@ DESCRIPTION:3 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:b769f98bcdb6a9782a61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Основы делопроизводства (Практика)
+LOCATION:К-107
+DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:f2e473c44c58a24462b1@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500
@@ -224,48 +234,6 @@ SUMMARY:Организация документооборота и доку
  ти (Практика)
 LOCATION:К-502
 DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:3a0fe4f6f3ecb6867754@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T083000
-DTEND;TZID=Europe/Moscow:20261105T100500
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Практика)
-LOCATION:В-201
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:1eb621518a29ba2092a4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T101500
-DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:Архивное дело (Лекция)
-LOCATION:К-106
-DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:ede2fa2e4e2c804b64b6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T122000
-DTEND;TZID=Europe/Moscow:20261105T135500
-SUMMARY:Архивное дело (Практика)
-LOCATION:К-106
-DESCRIPTION:3 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:0fc5381a6c39f0a5c4c1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T083000
-DTEND;TZID=Europe/Moscow:20261106T100500
-SUMMARY:Основы делопроизводства (Практика)
-LOCATION:К-107
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 END:VCALENDAR

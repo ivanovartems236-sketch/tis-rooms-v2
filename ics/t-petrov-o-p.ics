@@ -270,17 +270,6 @@ DESCRIPTION:5 пара · Петров О.П. · группы: О-Дп-11-2
  9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:b49f93dc1398dcd6a249@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T101500
-DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:Основы безопасности и защиты Родины 
- (Лекция)
-LOCATION:К-606
-DESCRIPTION:2 пара · Петров О.П. · группы: О-Одл-9-
- 261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
 UID:211074eb884c18929d56@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T122000
@@ -290,6 +279,17 @@ LOCATION:СЗ
 DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
  -241\, О-Исп-11-251\, О-Исп-9-231\, О-Исп-9-241\, О-Исп-9-
  251\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:1e1acd060b0db460cc09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Основы безопасности и защиты Родины 
+ (Лекция)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:555da55df07683bb168e@tis-rooms

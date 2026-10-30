@@ -330,26 +330,4 @@ LOCATION:К-204
 DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
  242
 END:VEVENT
-BEGIN:VEVENT
-UID:40b49d7746f6c4876f97@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261107T173500
-DTEND;TZID=Europe/Moscow:20261107T191000
-SUMMARY:экз.Калькулирование на предприятиях
-  общественного питания
-LOCATION:К-204
-DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Сп-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:eabc0604b93284a9cf68@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261107T192000
-DTEND;TZID=Europe/Moscow:20261107T205500
-SUMMARY:экз.Калькулирование на предприятиях
-  общественного питания
-LOCATION:К-204
-DESCRIPTION:7 пара · Чимонина И.В. · группы: З-Сп-
- 242
-END:VEVENT
 END:VCALENDAR

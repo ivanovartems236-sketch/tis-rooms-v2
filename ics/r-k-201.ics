@@ -1005,17 +1005,6 @@ DESCRIPTION:5 пара · Колосова О.Ю. / Фурсов В.А. ·
  группы: О-МИСТ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:fbacde0525bc594dc990@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T173500
-DTEND;TZID=Europe/Moscow:20261106T191000
-SUMMARY:экз.Эксплуатация и обслуживание мно
- гоквартирных домов
-LOCATION:К-201
-DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
- 242
-END:VEVENT
-BEGIN:VEVENT
 UID:6d992da0cac24e494802@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T173500
@@ -1025,17 +1014,6 @@ SUMMARY:Методология научных исследований (Л
 LOCATION:К-201
 DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МИСТ-
  261\, ОЗ-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:c39c867f81e1524bda48@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T192000
-DTEND;TZID=Europe/Moscow:20261106T205500
-SUMMARY:экз.Эксплуатация и обслуживание мно
- гоквартирных домов
-LOCATION:К-201
-DESCRIPTION:7 пара · Макеенко И.П. · группы: З-Сж-
- 242
 END:VEVENT
 BEGIN:VEVENT
 UID:6cfef4f0ac8181752aba@tis-rooms

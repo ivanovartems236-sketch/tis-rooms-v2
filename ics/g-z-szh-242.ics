@@ -306,28 +306,6 @@ DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
  242
 END:VEVENT
 BEGIN:VEVENT
-UID:816de19ef52150d76ffe@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T173500
-DTEND;TZID=Europe/Moscow:20261106T191000
-SUMMARY:экз.Эксплуатация и обслуживание мно
- гоквартирных домов
-LOCATION:К-201
-DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:43dcc066f73be48e66e9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T192000
-DTEND;TZID=Europe/Moscow:20261106T205500
-SUMMARY:экз.Эксплуатация и обслуживание мно
- гоквартирных домов
-LOCATION:К-201
-DESCRIPTION:7 пара · Макеенко И.П. · группы: З-Сж-
- 242
-END:VEVENT
-BEGIN:VEVENT
 UID:5b8fc9d82852becc9c26@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261107T101000

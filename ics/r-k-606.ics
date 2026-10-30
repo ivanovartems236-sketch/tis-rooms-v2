@@ -97,14 +97,14 @@ DESCRIPTION:3 пара · Петров О.П. · группы: О-Дп-11-2
  -11-231
 END:VEVENT
 BEGIN:VEVENT
-UID:1120bf72aed021c75ec3@tis-rooms
+UID:98a63bc64638f6e3f5ea@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T101500
-DTEND;TZID=Europe/Moscow:20261105T115000
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
 SUMMARY:Основы безопасности и защиты Родины 
  (Лекция)
 LOCATION:К-606
-DESCRIPTION:2 пара · Петров О.П. · группы: О-Одл-9-
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Одл-9-
  261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT

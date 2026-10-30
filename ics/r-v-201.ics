@@ -423,35 +423,13 @@ DESCRIPTION:7 пара · Литвин Д.Б. · группы: О-ИстТ-
  231
 END:VEVENT
 BEGIN:VEVENT
-UID:8bbf4d3a1cfe99f0b33a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T083000
-DTEND;TZID=Europe/Moscow:20261105T100500
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Практика)
-LOCATION:В-201
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:7f2684c5e85771e18f29@tis-rooms
+UID:037763a1cef7b6a82f32@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500
 DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:ПП САПР (Лекция)
-LOCATION:В-201
-DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИстТ-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:cf48916b6943af6f07ae@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T122000
-DTEND;TZID=Europe/Moscow:20261105T135500
 SUMMARY:Базы данных (Практика)
 LOCATION:В-201
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Тэи
+DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
  с-11-261
 END:VEVENT
 BEGIN:VEVENT

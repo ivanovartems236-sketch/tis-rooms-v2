@@ -272,15 +272,14 @@ DESCRIPTION:1 пара · Черепов П.В. · группы: О-Исп-
  11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
-UID:ceee8a1cc7b89ebb5bf1@tis-rooms
+UID:c4e4b4bc3a1653c95db4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500
 DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:Архитектура аппаратных средств и ос
- новы сетевых технологий (Лекция)
+SUMMARY:ПП САПР (Лекция)
 LOCATION:К-501
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
 END:VEVENT
 BEGIN:VEVENT
 UID:3d59e3c38cad4926b826@tis-rooms

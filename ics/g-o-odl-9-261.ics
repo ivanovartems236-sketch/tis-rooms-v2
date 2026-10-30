@@ -451,25 +451,24 @@ DESCRIPTION:5 пара · Петров О.П. · группы: О-Одл-9-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:dfe8beed38f9264d6015@tis-rooms
+UID:fb46a0b60d3729832b7a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000
 DTEND;TZID=Europe/Moscow:20261105T100500
-SUMMARY:Информатика (Лекция)
-LOCATION:К-406
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-О
- дл-9-261
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1
 END:VEVENT
 BEGIN:VEVENT
-UID:bdc7d5f891b49f43ded6@tis-rooms
+UID:554283116a8b6f277305@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500
 DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:Основы безопасности и защиты Родины 
- (Лекция)
-LOCATION:К-606
-DESCRIPTION:2 пара · Петров О.П. · группы: О-Одл-9-
- 261
+SUMMARY:Информатика (Лекция)
+LOCATION:К-502
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
+ дл-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:d657150ad0febf5bed4a@tis-rooms
@@ -482,14 +481,15 @@ DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
  л-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:2a8968308e8382b6dfa6@tis-rooms
+UID:8854bb726e20d6fb1d8d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T140500
 DTEND;TZID=Europe/Moscow:20261105T154000
-SUMMARY:Математика (Лекция)
-LOCATION:К-308
-DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
- 1
+SUMMARY:Основы безопасности и защиты Родины 
+ (Лекция)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Одл-9-
+ 261
 END:VEVENT
 BEGIN:VEVENT
 UID:b0fc01d53db33e2cbe52@tis-rooms

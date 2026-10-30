@@ -185,24 +185,26 @@ DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:5697e93ce9d98c9f2a7b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T101500
-DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:Архивное дело (Лекция)
-LOCATION:К-106
-DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d9d7ae2a503db51adf30@tis-rooms
+UID:2d8c5e975bd5db494d41@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T122000
 DTEND;TZID=Europe/Moscow:20261105T135500
-SUMMARY:Архивное дело (Практика)
+SUMMARY:Основы финансовой грамотности (Лекц
+ ия)
 LOCATION:К-106
-DESCRIPTION:3 пара · Аверченко С.В. · группы: О-Д
- п-11-261
+DESCRIPTION:3 пара · Дикова Т.В. · группы: О-Дп-11-2
+ 61\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f95c91566c47f97ea4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T140500
+DTEND;TZID=Europe/Moscow:20261105T154000
+SUMMARY:Основы финансовой грамотности (Лекц
+ ия)
+LOCATION:К-106
+DESCRIPTION:4 пара · Дикова Т.В. · группы: О-Дп-11-2
+ 61\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:2cbf12b1b44448e01309@tis-rooms

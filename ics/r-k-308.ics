@@ -424,6 +424,16 @@ DESCRIPTION:4 пара · Варавина А.В. · группы: О-Ис
  п-9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:1c2a444c7567d84b1e9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
 UID:9b2b072c4f3c662a841a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500
@@ -442,16 +452,6 @@ SUMMARY:Деловые коммуникации (Практика)
 LOCATION:К-308
 DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эбу-
  231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эпо-242
-END:VEVENT
-BEGIN:VEVENT
-UID:ec0c41c2659b4bfd1114@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T140500
-DTEND;TZID=Europe/Moscow:20261105T154000
-SUMMARY:Математика (Лекция)
-LOCATION:К-308
-DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
- 1\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:70b97fe3a562b2177462@tis-rooms

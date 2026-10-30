@@ -156,24 +156,24 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:063610701e3e939dcf0f@tis-rooms
+UID:de7e631d03c2efc6c018@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000
 DTEND;TZID=Europe/Moscow:20261105T100500
-SUMMARY:Информатика (Лекция)
+SUMMARY:Архитектура аппаратных средств и ос
+ новы сетевых технологий (Лекция)
 LOCATION:К-406
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-О
- дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:21df792d53c2d5e435a1@tis-rooms
+UID:0437cfd3f1dee5427cd4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T101500
 DTEND;TZID=Europe/Moscow:20261105T115000
-SUMMARY:Архитектура аппаратных средств и ос
- новы сетевых технологий (Лекция)
-LOCATION:К-501
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
+SUMMARY:Информатика (Лекция)
+LOCATION:К-502
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
+ дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 END:VCALENDAR

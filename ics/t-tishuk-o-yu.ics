@@ -107,13 +107,13 @@ DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
  1\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:75af06913b22ad0384df@tis-rooms
+UID:b8e44156d209edde6759@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T140500
-DTEND;TZID=Europe/Moscow:20261105T154000
+DTSTART;TZID=Europe/Moscow:20261105T083000
+DTEND;TZID=Europe/Moscow:20261105T100500
 SUMMARY:Математика (Лекция)
 LOCATION:К-308
-DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
  1\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT

@@ -352,26 +352,4 @@ LOCATION:К-205
 DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Ст-
  242
 END:VEVENT
-BEGIN:VEVENT
-UID:5ad65e6b2ac5e030196e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261107T154000
-DTEND;TZID=Europe/Moscow:20261107T171000
-SUMMARY:экз.Организация технического обслуж
- ивания и ремонта автомобилей
-LOCATION:К-205
-DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Ст-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:48825cd718826f8a1c0f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261107T173500
-DTEND;TZID=Europe/Moscow:20261107T191000
-SUMMARY:экз.Организация технического обслуж
- ивания и ремонта автомобилей
-LOCATION:К-205
-DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Ст-
- 242
-END:VEVENT
 END:VCALENDAR

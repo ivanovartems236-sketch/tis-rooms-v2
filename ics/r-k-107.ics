@@ -193,6 +193,16 @@ DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:c61ed38d0eab92a01382@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261102T083000
+DTEND;TZID=Europe/Moscow:20261102T100500
+SUMMARY:Основы делопроизводства (Практика)
+LOCATION:К-107
+DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:a1eb922ebb4e51b5dcfc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T101500
@@ -287,16 +297,6 @@ SUMMARY:Учет и анализ: управленческий учет (Л
 LOCATION:К-107
 DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
  251
-END:VEVENT
-BEGIN:VEVENT
-UID:587ea445c9135e582a3a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T083000
-DTEND;TZID=Europe/Moscow:20261106T100500
-SUMMARY:Основы делопроизводства (Практика)
-LOCATION:К-107
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:bee6c9f1a031f6db1af1@tis-rooms

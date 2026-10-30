@@ -593,14 +593,15 @@ DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:578b5994489fd741f1d1@tis-rooms
+UID:1d93481f1faf08be9cdb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261105T083000
 DTEND;TZID=Europe/Moscow:20261105T100500
-SUMMARY:Информатика (Лекция)
+SUMMARY:Архитектура аппаратных средств и ос
+ новы сетевых технологий (Лекция)
 LOCATION:К-406
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-О
- дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:704856a7fce936067cd7@tis-rooms
