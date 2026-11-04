@@ -17,51 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4d762f6f3f909b90c643@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T155000
-DTEND;TZID=Europe/Moscow:20261019T172500
-SUMMARY:Модели и методы интеллектуального а
- нализа данных (Лекция)
-LOCATION:В-202
-DESCRIPTION:5 пара · Черепов П.В. · группы: ОЗ-МИ
- СТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:ce4137b2fcaf29bcbf2f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T155000
-DTEND;TZID=Europe/Moscow:20261020T172500
-SUMMARY:Системная инженерия (Практика)
-LOCATION:К-501
-DESCRIPTION:5 пара · Шепеть И.П. · группы: ОЗ-МИС
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:23a9176f72d59249cb31@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261021T155000
-DTEND;TZID=Europe/Moscow:20261021T172500
-SUMMARY:Инструментальные платформы информа
- ционных и коммуникационных технологий (
- Лекция)
-LOCATION:К-401
-DESCRIPTION:5 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:02219abbed1eb0e6ad6e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T140500
-DTEND;TZID=Europe/Moscow:20261022T154000
-SUMMARY:Методы исследования и моделирования
-  информационных процессов и технологий (
- Практика)
-LOCATION:В-202
-DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
- Т-251
-END:VEVENT
-BEGIN:VEVENT
 UID:e0adb3ffc171fb1bfce7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500

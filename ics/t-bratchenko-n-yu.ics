@@ -17,41 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b66c717d98bff6651bfd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T083000
-DTEND;TZID=Europe/Moscow:20261023T100500
-SUMMARY:Основы научного эксперимента (Практ
- ика)
-LOCATION:К-505
-DESCRIPTION:1 пара · Братченко Н.Ю. · группы: О-Р
- т-241
-END:VEVENT
-BEGIN:VEVENT
-UID:e09ac5cda5217f8c920b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T101500
-DTEND;TZID=Europe/Moscow:20261023T115000
-SUMMARY:Стандартизация\, сертификация и упра
- вление качеством радиотехнических сист
- ем (Лекция)
-LOCATION:К-506
-DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
-UID:9539ca8f20216851bca2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T122000
-DTEND;TZID=Europe/Moscow:20261023T135500
-SUMMARY:Стандартизация\, сертификация и упра
- вление качеством радиотехнических сист
- ем (Практика)
-LOCATION:К-506
-DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-Р
- т-231
-END:VEVENT
-BEGIN:VEVENT
 UID:55a502826d22ce4d3062@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T155000

@@ -17,38 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:76490c493a043387a04c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T101500
-DTEND;TZID=Europe/Moscow:20261019T115000
-SUMMARY:Автоэксплуатационные материалы (Пра
- ктика)
-LOCATION:К-204
-DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В. 
- · группы: О-Ст-241
-END:VEVENT
-BEGIN:VEVENT
-UID:bdbd9756c857d552348b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T122000
-DTEND;TZID=Europe/Moscow:20261022T135500
-SUMMARY:Организация и планирование деятельн
- ости предприятий сервиса (Практика)
-LOCATION:К-205
-DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
-  · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
-END:VEVENT
-BEGIN:VEVENT
-UID:f71289dab755d059d423@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T173500
-DTEND;TZID=Europe/Moscow:20261022T191000
-SUMMARY:Энергоменеджмент (Практика)
-LOCATION:К-205
-DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
-  · группы: О-МСЭ-251
-END:VEVENT
-BEGIN:VEVENT
 UID:27ce416ce80ded4664e6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T122000

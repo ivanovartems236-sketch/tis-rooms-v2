@@ -17,50 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:120ac664498c3cf41104@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T140500
-DTEND;TZID=Europe/Moscow:20261019T154000
-SUMMARY:Основы подготовки диссертации (Прак
- тика)
-LOCATION:К-609
-DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
- руппы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b5d580834457b46d1d88@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T155000
-DTEND;TZID=Europe/Moscow:20261019T172500
-SUMMARY:Основы подготовки диссертации (Прак
- тика)
-LOCATION:К-609
-DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
- руппы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:62c6d9db9a84155c8e25@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T140500
-DTEND;TZID=Europe/Moscow:20261020T154000
-SUMMARY:Планирование эксперимента (Практика
- )
-LOCATION:К-609
-DESCRIPTION:4 пара · Приходченко О.В. · группы: О
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:96cf4afd7aec90b1f4f0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T155000
-DTEND;TZID=Europe/Moscow:20261020T172500
-SUMMARY:Планирование эксперимента (Практика
- )
-LOCATION:К-609
-DESCRIPTION:5 пара · Приходченко О.В. · группы: О
- -МКИ-261
-END:VEVENT
-BEGIN:VEVENT
 UID:0981e47fb43d31d4ea07@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T122000

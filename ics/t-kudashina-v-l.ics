@@ -17,28 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e37a9bce6ef18caecb43@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T155000
-DTEND;TZID=Europe/Moscow:20261020T172500
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-301
-DESCRIPTION:5 пара · Кудашина В.Л. · группы: О-МЭ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:4b5a955c91745350e144@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T173500
-DTEND;TZID=Europe/Moscow:20261020T191000
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-306
-DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
- Т-261\, О-МСЭ-261
-END:VEVENT
-BEGIN:VEVENT
 UID:b090ad818df66cd87594@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T101500

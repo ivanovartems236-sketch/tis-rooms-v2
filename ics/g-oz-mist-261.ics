@@ -17,61 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:012e04d0d1f08b3a7ff8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T155000
-DTEND;TZID=Europe/Moscow:20261020T172500
-SUMMARY:Современные проблемы науки и произв
- одства (информационные системы) (Лекция)
-LOCATION:К-401
-DESCRIPTION:5 пара · Черепов П.В. · группы: ОЗ-МИ
- СТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:41134ffd9653ef07a1fb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T173500
-DTEND;TZID=Europe/Moscow:20261020T191000
-SUMMARY:Математические модели информационн
- ых процессов (Практика)
-LOCATION:К-401
-DESCRIPTION:6 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
- уппы: ОЗ-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:d7fa23c18b1ffd248208@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T192000
-DTEND;TZID=Europe/Moscow:20261020T205500
-SUMMARY:Профессиональная коммуникация на ин
- остранном языке (Практика)
-LOCATION:К-306
-DESCRIPTION:7 пара · Смирнова Н.Г. · группы: ОЗ-М
- ИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:6feaa9464587122d9237@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T155000
-DTEND;TZID=Europe/Moscow:20261023T172500
-SUMMARY:Математические модели информационн
- ых процессов (Лекция)
-LOCATION:К-401
-DESCRIPTION:5 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:c3f4c988d7a2d3d505b1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T173500
-DTEND;TZID=Europe/Moscow:20261023T191000
-SUMMARY:Методология научных исследований (Л
- екция)
-LOCATION:К-201
-DESCRIPTION:6 пара · Фурсов В.А. · группы: ОЗ-МИС
- Т-261
-END:VEVENT
-BEGIN:VEVENT
 UID:4de66058119c3726752d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T173500

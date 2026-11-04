@@ -17,37 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:efcb9112ab8f28f7f0d1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261021T101500
-DTEND;TZID=Europe/Moscow:20261021T115000
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-505
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:986bddaf08c3259b28a0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T101500
-DTEND;TZID=Europe/Moscow:20261022T115000
-SUMMARY:Радиопередающие устройства (Лаб.)
-LOCATION:К-506
-DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:28ab4fc84c5b94c15e92@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T122000
-DTEND;TZID=Europe/Moscow:20261022T135500
-SUMMARY:Общая теория связи (Лаб.)
-LOCATION:К-506
-DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
- группы: О-ИксМ-241
-END:VEVENT
-BEGIN:VEVENT
 UID:cc67e267fe4b83b8b110@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T083000

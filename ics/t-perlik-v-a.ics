@@ -17,39 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:406bd96091d60f8b62ca@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T083000
-DTEND;TZID=Europe/Moscow:20261019T100500
-SUMMARY:Радиотехнические цепи и сигналы (Лаб
- .)
-LOCATION:К-413
-DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
- руппы: О-Рт-241
-END:VEVENT
-BEGIN:VEVENT
-UID:b29a31e2cb6bc18e8dde@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T101500
-DTEND;TZID=Europe/Moscow:20261019T115000
-SUMMARY:Радиотехнические цепи и сигналы (Пра
- ктика)
-LOCATION:К-413
-DESCRIPTION:2 пара · Перлик В.А. / Сагдеев К.М. · г
- руппы: О-Рт-241
-END:VEVENT
-BEGIN:VEVENT
-UID:99122976a8ea9e63dbbe@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T083000
-DTEND;TZID=Europe/Moscow:20261022T100500
-SUMMARY:Устройства приема и обработки сигна
- лов (Практика)
-LOCATION:К-505
-DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
- руппы: О-Рт-231
-END:VEVENT
-BEGIN:VEVENT
 UID:c4f3624aa0a2f5e8ec41@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T101500

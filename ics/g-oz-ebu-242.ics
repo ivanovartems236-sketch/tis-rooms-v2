@@ -17,50 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:facd8877c6053594adcc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T083000
-DTEND;TZID=Europe/Moscow:20261020T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Лекция)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эбу-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:9980a7838beb354d364b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T101500
-DTEND;TZID=Europe/Moscow:20261020T115000
-SUMMARY:Физическая культура и спорт (Практик
- а)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эбу-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:f2fbb785b0cebc571e87@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261021T083000
-DTEND;TZID=Europe/Moscow:20261021T100500
-SUMMARY:Психология командной работы и лидер
- ства (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-Э
- бу-242
-END:VEVENT
-BEGIN:VEVENT
-UID:9cb4f7dfeecebeb4ddfd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T101500
-DTEND;TZID=Europe/Moscow:20261023T115000
-SUMMARY:Государственное регулирование экон
- омики (Практика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-Э
- бу-242
-END:VEVENT
-BEGIN:VEVENT
 UID:02e8cca257771aa4f7ef@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T083000

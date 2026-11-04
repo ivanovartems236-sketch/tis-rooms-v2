@@ -17,59 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1a679566880561451707@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T101500
-DTEND;TZID=Europe/Moscow:20261019T115000
-SUMMARY:Операционные системы и среды (Лекция
- )
-LOCATION:К-408
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
- сп-9-251\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:619667a1438c44109092@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T122000
-DTEND;TZID=Europe/Moscow:20261019T135500
-SUMMARY:Информатика (Лекция)
-LOCATION:К-408
-DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-О
- дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:7946e92bd94e560e2cd4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261021T083000
-DTEND;TZID=Europe/Moscow:20261021T100500
-SUMMARY:Архитектура аппаратных средств и ос
- новы сетевых технологий (Лекция)
-LOCATION:К-408
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
- эис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b137dd8170e180e8c5cb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T083000
-DTEND;TZID=Europe/Moscow:20261022T100500
-SUMMARY:Информатика (Лекция)
-LOCATION:К-406
-DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-О
- дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:508a14ca235cf96d2c5d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T101500
-DTEND;TZID=Europe/Moscow:20261022T115000
-SUMMARY:Операционные системы и среды (Лекция
- )
-LOCATION:К-406
-DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
- сп-9-251\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
 UID:dc7e6a4dd44515c0d9fa@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T101500

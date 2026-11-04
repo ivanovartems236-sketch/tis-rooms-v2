@@ -17,47 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a95adf977fe2b3fba9fb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T083000
-DTEND;TZID=Europe/Moscow:20261020T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Лекция)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
-END:VEVENT
-BEGIN:VEVENT
-UID:21835fedb8ebaec49ced@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261020T101500
-DTEND;TZID=Europe/Moscow:20261020T115000
-SUMMARY:Физическая культура и спорт (Практик
- а)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-242
-END:VEVENT
-BEGIN:VEVENT
-UID:b0f8ff0dda52ba0f61d3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261021T083000
-DTEND;TZID=Europe/Moscow:20261021T100500
-SUMMARY:Психология командной работы и лидер
- ства (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Смирнова Н.Г. · группы: ОЗ-М-
- 242
-END:VEVENT
-BEGIN:VEVENT
-UID:75d2e4d4c199216c7bd3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T140500
-DTEND;TZID=Europe/Moscow:20261023T154000
-SUMMARY:Инвестиционный менеджмент (Лекция)
-LOCATION:К-217
-DESCRIPTION:4 пара · Семенова Н.В. · группы: ОЗ-М-
- 242
-END:VEVENT
-BEGIN:VEVENT
 UID:1b0f4503a71ba194d1d3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T083000

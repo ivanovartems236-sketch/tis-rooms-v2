@@ -17,62 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bed3b2a6298035984942@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T140500
-DTEND;TZID=Europe/Moscow:20261019T154000
-SUMMARY:Организация технического обслужива
- ния и ремонта энергетического оборудова
- ния (Лекция)
-LOCATION:К-204
-DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСЭ-25
- 1
-END:VEVENT
-BEGIN:VEVENT
-UID:a928517863d11fa36c04@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T155000
-DTEND;TZID=Europe/Moscow:20261019T172500
-SUMMARY:Энергоменеджмент (Лекция)
-LOCATION:К-204
-DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
- Э-251
-END:VEVENT
-BEGIN:VEVENT
-UID:90cbbab70b0671a88ef0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T140500
-DTEND;TZID=Europe/Moscow:20261022T154000
-SUMMARY:Оценка управления техническим состо
- янием объектов и систем сервиса энергет
- ического оборудования (Лекция)
-LOCATION:К-201
-DESCRIPTION:4 пара · Макеенко И.П. · группы: О-МС
- Э-251
-END:VEVENT
-BEGIN:VEVENT
-UID:4da83772d95ed0245fcf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T155000
-DTEND;TZID=Europe/Moscow:20261022T172500
-SUMMARY:Оценка управления техническим состо
- янием объектов и систем сервиса энергет
- ического оборудования (Практика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Макеенко И.П. · группы: О-МС
- Э-251
-END:VEVENT
-BEGIN:VEVENT
-UID:85e9d8759b116203d7d3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T173500
-DTEND;TZID=Europe/Moscow:20261022T191000
-SUMMARY:Энергоменеджмент (Практика)
-LOCATION:К-205
-DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
-  · группы: О-МСЭ-251
-END:VEVENT
-BEGIN:VEVENT
 UID:aa463f408f540ad2a656@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261027T140500

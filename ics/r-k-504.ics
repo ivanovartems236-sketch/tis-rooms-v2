@@ -17,64 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4dfb4d4bf1ba3e7f6e30@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T083000
-DTEND;TZID=Europe/Moscow:20261019T100500
-SUMMARY:Иностранный язык (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Смирнова Н.Г. · группы: О-Ик
- сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
- Тб-261\, О-Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:5160280892a6ff3dd362@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261019T122000
-DTEND;TZID=Europe/Moscow:20261019T135500
-SUMMARY:Основы проектной деятельности (Прак
- тика)
-LOCATION:К-504
-DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-26
- 1\, О-Тб-261\, О-Тм-261\, ОЗ-Ки-261
-END:VEVENT
-BEGIN:VEVENT
-UID:08d669a38ddb0ff0f573@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261021T083000
-DTEND;TZID=Europe/Moscow:20261021T100500
-SUMMARY:Психология командной работы и лидер
- ства (Практика)
-LOCATION:К-504
-DESCRIPTION:1 пара · Смирнова Н.Г. · группы: О-Ик
- сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
- \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
- З-Эпо-241\, ОЗ-Эпо-242
-END:VEVENT
-BEGIN:VEVENT
-UID:7daf684ff6770c3af18a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261022T101500
-DTEND;TZID=Europe/Moscow:20261022T115000
-SUMMARY:Философия (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
- 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
- ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
- 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
-END:VEVENT
-BEGIN:VEVENT
-UID:51ae671ef4d2b5664973@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261023T122000
-DTEND;TZID=Europe/Moscow:20261023T135500
-SUMMARY:Иностранный язык (Практика)
-LOCATION:К-504
-DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
- сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
- Тб-261\, О-Тм-261
-END:VEVENT
-BEGIN:VEVENT
 UID:abcf60bebb3fc83f76e2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261026T101500
