@@ -354,4 +354,99 @@ LOCATION:К-201
 DESCRIPTION:4 пара · Ториков А.В. · группы: З-Сэ-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:cc9268583d1d62c04fed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:fc0b526adb0abb8f3933@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:db19c243e9a4c398f982@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:45ecc39b8002a6096a8e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:c2b77695f7fba6ca044f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Стандартизация и сертификация в сер
+ висе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:949d0a6bae2abd416e90@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1c7ac2beb7a758c18743@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта линий электропередач
+LOCATION:К-205
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0dcc47644d48618de68d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:экз.Принятие управленческих решений
+  в сервисной деятельности
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:1f83656cae4bd74edcda@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Электрооборудование и электрохо
+ зяйство предприятий
+LOCATION:К-205
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
 END:VCALENDAR

@@ -415,4 +415,74 @@ LOCATION:К-201
 DESCRIPTION:2 пара · Семенова Л.В. · группы: З-Сэ-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:4beca34abd3886899700@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:586bc22896eeab6eaebe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Семенова Л.В. · группы: З-Сж-
+ 242\, З-Сп-242\, З-Ст-242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:24a158c770d19769d0a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Ик
+ сМ-241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-242\, З-Рт-241\,
+  З-Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-
+ Ст-242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, З-Тб-242
+ \, З-Тм-241\, З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:add68620c10ecf9f7f72@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:экз.Менеджмент в туристской индустр
+ ии
+LOCATION:К-205
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b582734f5fd77c8d9d13@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Маркетинг в туристской индустри
+ и
+LOCATION:К-201
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:df2980508680d2e8c1a4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:экз.Принятие управленческих решений
+  в сервисной деятельности
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сж-
+ 241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст-242\, З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
 END:VCALENDAR

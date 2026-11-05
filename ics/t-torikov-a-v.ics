@@ -665,4 +665,37 @@ LOCATION:К-201
 DESCRIPTION:4 пара · Ториков А.В. · группы: З-Сэ-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:b637e24dc86385c83396@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:зач.Автоэксплуатационные материалы
+LOCATION:К-205
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Ст-24
+ 1\, З-Ст-242
+END:VEVENT
+BEGIN:VEVENT
+UID:181b0ceef8828c4025f3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Организация контроля техническо
+ го состояния автомобилей
+LOCATION:К-607
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:9bfa3838d0255054a3b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Ст-24
+ 2
+END:VEVENT
 END:VCALENDAR

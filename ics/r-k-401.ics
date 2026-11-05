@@ -681,4 +681,14 @@ LOCATION:К-401
 DESCRIPTION:7 пара · Черепов П.В. · группы: З-Икс
  М-242\, З-ИстТ-242\, З-Рт-242
 END:VEVENT
+BEGIN:VEVENT
+UID:094e73a16c23e94287c6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:ПП САПР (Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Шепеть И.П. · группы: З-ИстТ-
+ 242
+END:VEVENT
 END:VCALENDAR

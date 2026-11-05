@@ -189,4 +189,26 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
  т-241
 END:VEVENT
+BEGIN:VEVENT
+UID:d374355302da03f00bad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Квантовая и оптическая электрон
+ ика
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e450499f346bad427fc4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Волоконно-оптические системы св
+ язи
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: З-И
+ ксМ-242
+END:VEVENT
 END:VCALENDAR

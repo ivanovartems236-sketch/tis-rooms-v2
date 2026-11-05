@@ -537,4 +537,57 @@ LOCATION:К-505
 DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Рт-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:1e6fd82590675d5fed6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e4232443184fb5181e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Цифровая обработка сигналов
+LOCATION:К-505
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-ИксМ-24
+ 1\, З-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:72c57ba5647b442e728f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:зчО.Метрология и радиоизмерения
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8cebd848694295c63a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Основы телевидения и видеотехни
+ ки
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: З-Р
+ т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8f2629e5598f18bebc26@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Волоконно-оптические системы св
+ язи
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: З-И
+ ксМ-242
+END:VEVENT
 END:VCALENDAR

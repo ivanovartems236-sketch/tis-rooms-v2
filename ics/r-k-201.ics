@@ -790,4 +790,39 @@ LOCATION:К-201
 DESCRIPTION:4 пара · Ториков А.В. · группы: З-Сэ-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:a67919a70e512adc34cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сэ-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:ce133f9c4134eb118403@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Маркетинг в туристской индустри
+ и
+LOCATION:К-201
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:37258c0abf1c007eadae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:экз.Принятие управленческих решений
+  в сервисной деятельности
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сж-
+ 241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст-242\, З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
 END:VCALENDAR

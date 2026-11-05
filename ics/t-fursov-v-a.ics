@@ -518,4 +518,47 @@ SUMMARY:зач.Сервисное обслуживание систем э
 LOCATION:К-201
 DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сэ-242
 END:VEVENT
+BEGIN:VEVENT
+UID:3cc3c95f9d37d92cd752@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сж-241\
+ , З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст-242\, З-Сэ-241\, З
+ -Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3574d0bf53ef02ca2f3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Методы научных исследований (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сж-241\
+ , З-Ст-241\, З-Сэ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:237234ac8cca6e5233f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта линий электропередач
+LOCATION:К-205
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e08bc0386ab56538a54f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Электрооборудование и электрохо
+ зяйство предприятий
+LOCATION:К-205
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
 END:VCALENDAR

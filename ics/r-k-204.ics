@@ -788,4 +788,50 @@ LOCATION:К-204
 DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:b5d57d3021109fc88a17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:экз.Технология и организация туропе
+ раторских и турагентских услуг
+LOCATION:К-204
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:35fc8aa2cb625755e583@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Стандартизация и сертификация в сер
+ висе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст-242\, З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6281f945554a55c6cfc2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Экологическая безопасность произво
+ дства (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:101f45216b627c0eaa6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Ст-24
+ 2
+END:VEVENT
 END:VCALENDAR

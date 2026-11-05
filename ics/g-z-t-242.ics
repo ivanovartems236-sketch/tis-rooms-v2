@@ -314,4 +314,68 @@ LOCATION:К-204
 DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Т-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:20ff90294383ae358c2b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:экз.Технология и организация туропе
+ раторских и турагентских услуг
+LOCATION:К-204
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:828530ee7731038ea2e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:4c353e78c0e14aad516e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:c54f81227b71fe08877a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:экз.Технология организации междунар
+ одного туризма
+LOCATION:К-607
+DESCRIPTION:3 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:283671dc5c37e6fd4d92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Технология организации внутренн
+ его туризма
+LOCATION:К-607
+DESCRIPTION:3 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:01a451ea0ddb0367ced9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Технология разработки туристско
+ го маршрута
+LOCATION:К-602
+DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
 END:VCALENDAR

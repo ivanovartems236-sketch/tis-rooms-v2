@@ -474,4 +474,26 @@ LOCATION:К-506
 DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
  т-242
 END:VEVENT
+BEGIN:VEVENT
+UID:e3cc40b2afd818d6d8f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:зач.Цифровые устройства и микропроц
+ ессоры
+LOCATION:К-506
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:98fa4b8edd2a5b5504fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Квантовая и оптическая электрон
+ ика
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: З-Р
+ т-241
+END:VEVENT
 END:VCALENDAR

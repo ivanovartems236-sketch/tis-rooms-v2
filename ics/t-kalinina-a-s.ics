@@ -185,4 +185,48 @@ LOCATION:К-612
 DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:d1b1e4a904f2bbdc1df3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:зач.Теоретические процессы бытовой 
+ техники
+LOCATION:К-609
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e93829924b00ba401a5e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Мембранное разделение полидисперсн
+ ых систем (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:b9a61f56f108d2816c91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Проектирование оснастки для рем
+ онта технологического оборудования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b6947b6c396a12051d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Теория механизмов и основы проек
+ тирования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 241
+END:VEVENT
 END:VCALENDAR

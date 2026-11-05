@@ -454,4 +454,78 @@ LOCATION:К-505
 DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Рт-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:13b07071033a812fe7ff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Радиопередающие устройства (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241\, З-ИксМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1c554a774e838ae528c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Радиопередающие устройства
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:bcea3adc836e9029a6fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:экз.Устройства генерирования и форм
+ ирования сигналов
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:30a8a78cd8d6483faa09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:экз.Устройства приема и обработки си
+ гналов
+LOCATION:К-501
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:0518f8620c209ed66d70@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Цифровая схемотехника телекомму
+ никационных устройств
+LOCATION:К-413
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:473e2c3ae9374cc4be0d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:экз.Основы помехоустойчивой радиосв
+ язи
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e94b9493f27a47e6f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:экз.Общая теория связи
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
 END:VCALENDAR

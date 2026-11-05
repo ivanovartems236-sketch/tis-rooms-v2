@@ -239,4 +239,57 @@ LOCATION:К-204
 DESCRIPTION:4 пара · Чимонина И.В. · группы: З-Т-24
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:81a88562ceb8aa665d4a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:b06f687f79ebff14d2ad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:385efd4194254c331f15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:экз.Менеджмент в туристской индустр
+ ии
+LOCATION:К-205
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f04b9283fca0a11c9c7b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Маркетинг в туристской индустри
+ и
+LOCATION:К-201
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6517603739271fca2f44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:экз.Технология и организация услуг п
+ итания в туризме
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Т-24
+ 1
+END:VEVENT
 END:VCALENDAR

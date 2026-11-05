@@ -698,4 +698,109 @@ LOCATION:К-413
 DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-И
  ксМ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:dc747348a59a55ccef51@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Радиопередающие устройства (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241\, З-ИксМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0d94b30e12dad2dd6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:зач.Основы научного эксперимента
+LOCATION:К-413
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-241\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:383601dc8e02e540b83d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Радиопередающие устройства
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:93a09b6b35598c824415@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:экз.Устройства генерирования и форм
+ ирования сигналов
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:cf80e3c5a83a3b6b9d15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:экз.Сети и системы мобильной связи
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e0aec10011daea05b3a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Цифровая схемотехника телекомму
+ никационных устройств
+LOCATION:К-413
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c389965d038313390ceb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:экз.Основы помехоустойчивой радиосв
+ язи
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6909caf5d2fd7bbf34@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:экз.Общая теория связи
+LOCATION:К-413
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d8afd89225f3c1ebe534@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Электродинамика и распространен
+ ие радиоволн
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e1a51b4bc4a45a702aa4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Программно-аппаратные средства 
+ мультимедиа и компьютерной графики
+LOCATION:К-413
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
 END:VCALENDAR

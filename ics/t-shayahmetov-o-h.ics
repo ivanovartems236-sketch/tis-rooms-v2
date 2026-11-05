@@ -225,4 +225,26 @@ LOCATION:К-505
 DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
  т-241
 END:VEVENT
+BEGIN:VEVENT
+UID:8d8821f7755383934c62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:зач.Цифровые устройства и микропроц
+ ессоры
+LOCATION:К-506
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e60f57196a39b046f4ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Электродинамика и распространен
+ ие радиоволн
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
 END:VCALENDAR

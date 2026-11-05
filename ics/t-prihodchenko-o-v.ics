@@ -537,4 +537,58 @@ LOCATION:К-609
 DESCRIPTION:2 пара · Приходченко О.В. · группы: З
  -Тб-242
 END:VEVENT
+BEGIN:VEVENT
+UID:a36a0419fa73649df9d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b30f956f592450b1c918@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:зач.Профессиональная подготовка
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b926927ed258b4fcf805@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:экз.Специальная оценка условий труд
+ а
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3c151e52a6b5e75272e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Основы технологии машиностроени
+ я
+LOCATION:К-609
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тм-241
+END:VEVENT
+BEGIN:VEVENT
+UID:8550ce59e8d231702e06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Основы технологии машиностроени
+ я
+LOCATION:К-313
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тм-242
+END:VEVENT
 END:VCALENDAR

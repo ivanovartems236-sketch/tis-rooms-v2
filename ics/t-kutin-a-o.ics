@@ -56,4 +56,14 @@ SUMMARY:Безопасность в чрезвычайных ситуаци
 LOCATION:К-609
 DESCRIPTION:3 пара · Кутин А.О. · группы: З-Тб-242
 END:VEVENT
+BEGIN:VEVENT
+UID:6872589b37366a461336@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Безопасность в чрезвычайных сит
+ уациях
+LOCATION:К-609
+DESCRIPTION:1 пара · Кутин А.О. · группы: З-Тб-242
+END:VEVENT
 END:VCALENDAR

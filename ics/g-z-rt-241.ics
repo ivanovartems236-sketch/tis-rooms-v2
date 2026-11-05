@@ -287,4 +287,86 @@ LOCATION:К-413
 DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Рт-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:c45aa043e17156f05d3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:зач.Цифровые устройства и микропроц
+ ессоры
+LOCATION:К-506
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4d4715f748b2e6cbd0b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:fac8100e424f650978ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:deb5f444b7b8d3b18d40@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:зач.Основы научного эксперимента
+LOCATION:К-413
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:14b49f0206c107c93b01@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Цифровая обработка сигналов
+LOCATION:К-505
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:53e2fe5f1651309ea556@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:зчО.Метрология и радиоизмерения
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a118e86e272991d038e6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Квантовая и оптическая электрон
+ ика
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: З-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2dbac02e69652f1c10@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Электродинамика и распространен
+ ие радиоволн
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: З-Р
+ т-241
+END:VEVENT
 END:VCALENDAR

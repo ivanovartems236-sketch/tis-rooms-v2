@@ -281,4 +281,15 @@ LOCATION:К-501
 DESCRIPTION:4 пара · Литвин Д.Б. · группы: З-ИстТ-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:77d5d211b6c1b467b82f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:экз.Компьютерная геометрия и график
+ а
+LOCATION:К-408
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 242
+END:VEVENT
 END:VCALENDAR

@@ -184,4 +184,25 @@ LOCATION:К-506
 DESCRIPTION:6 пара · Братченко Н.Ю. · группы: З-Р
  т-242
 END:VEVENT
+BEGIN:VEVENT
+UID:270bae16eaaf61c727ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:зач.Основы научного эксперимента
+LOCATION:К-413
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-241\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb4882a7a984ab0432c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Программно-аппаратные средства 
+ мультимедиа и компьютерной графики
+LOCATION:К-413
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: З-Р
+ т-242
+END:VEVENT
 END:VCALENDAR

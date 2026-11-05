@@ -700,4 +700,79 @@ LOCATION:К-205
 DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Ст-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:3ea9c483f25ce014bb03@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Технологии продвижения и продаж в се
+ рвисе (Лекция)
+LOCATION:К-205
+DESCRIPTION:3 пара · Чимонина И.В. · группы: З-Ст-
+ 241\, З-Ст-242\, З-Сэ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:f59dd3498f2969a37b17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:экз.Технологии управления ТБО
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9f6ad8fc3d0510bc9ff9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:зач.Автоэксплуатационные материалы
+LOCATION:К-205
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Ст-24
+ 1\, З-Ст-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e004d65d2b335934b9ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:экз.Менеджмент в туристской индустр
+ ии
+LOCATION:К-205
+DESCRIPTION:3 пара · Семенова Л.В. · группы: З-Т-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c34ee85a02f662ea822d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта линий электропередач
+LOCATION:К-205
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f60f520b0d89c3f54f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Электрооборудование и электрохо
+ зяйство предприятий
+LOCATION:К-205
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5896365cac4d0aa3a899@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-205
+DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
 END:VCALENDAR

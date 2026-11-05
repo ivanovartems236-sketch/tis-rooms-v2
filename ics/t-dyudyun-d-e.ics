@@ -301,4 +301,14 @@ SUMMARY:Радиоматериалы и радиокомпоненты (Л
 LOCATION:К-408
 DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: О-Рт-251
 END:VEVENT
+BEGIN:VEVENT
+UID:41de1721464cbd494605@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Цифровая обработка сигналов
+LOCATION:К-505
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-ИксМ-24
+ 1\, З-Рт-241
+END:VEVENT
 END:VCALENDAR

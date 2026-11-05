@@ -205,4 +205,15 @@ SUMMARY:зач.Сервисное обслуживание систем э
 LOCATION:К-602
 DESCRIPTION:6 пара · Фурсов В.А. · группы: З-Сэ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:03ac47de1d2f4a29fe23@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Технология разработки туристско
+ го маршрута
+LOCATION:К-602
+DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-24
+ 2
+END:VEVENT
 END:VCALENDAR

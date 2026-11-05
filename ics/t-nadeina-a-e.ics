@@ -103,4 +103,15 @@ LOCATION:К-602
 DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
  · группы: З-Т-241
 END:VEVENT
+BEGIN:VEVENT
+UID:aeba8ea359373e49fcbb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Технология организации внутренн
+ его туризма
+LOCATION:К-607
+DESCRIPTION:3 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-242
+END:VEVENT
 END:VCALENDAR

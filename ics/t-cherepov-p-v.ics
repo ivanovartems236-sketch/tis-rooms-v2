@@ -537,4 +537,26 @@ LOCATION:К-401
 DESCRIPTION:7 пара · Черепов П.В. · группы: З-Икс
  М-242\, З-ИстТ-242\, З-Рт-242
 END:VEVENT
+BEGIN:VEVENT
+UID:b8634ce7058c41e1e5ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T173500
+DTEND;TZID=Europe/Moscow:20261109T191000
+SUMMARY:зчО.Системы искусственного интеллек
+ та
+LOCATION:К-406
+DESCRIPTION:6 пара · Черепов П.В. · группы: З-Икс
+ М-242\, З-ИстТ-242\, З-Рт-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe6155c8aae8076d18e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T173500
+DTEND;TZID=Europe/Moscow:20261111T191000
+SUMMARY:Информационная теория управления (Л
+ екция)
+LOCATION:К-408
+DESCRIPTION:6 пара · Черепов П.В. · группы: З-Ист
+ Т-242
+END:VEVENT
 END:VCALENDAR

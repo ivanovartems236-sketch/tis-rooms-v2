@@ -237,4 +237,25 @@ LOCATION:К-413
 DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-И
  ксМ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:7664eefaf0ac628b9535@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4d829447942778f448@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:зчО.Метрология и радиоизмерения
+LOCATION:К-505
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
+ 241
+END:VEVENT
 END:VCALENDAR

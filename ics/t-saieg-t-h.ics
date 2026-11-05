@@ -469,4 +469,25 @@ LOCATION:К-401
 DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-ИстТ-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:fb3295c0b8a2b3b8c725@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:экз.Моделирование систем
+LOCATION:К-406
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:c89e0860a1d3dc404d7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Администрирование информационн
+ ых систем
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: З-ИстТ-24
+ 2
+END:VEVENT
 END:VCALENDAR

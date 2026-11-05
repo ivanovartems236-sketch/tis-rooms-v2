@@ -384,4 +384,111 @@ LOCATION:К-612
 DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
  Тм-242
 END:VEVENT
+BEGIN:VEVENT
+UID:afb309491983d3df0de6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:экз.Проектирование бытовой техники
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e2429c417c5661a22735@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:зач.Технология отраслевого машиност
+ роения
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c1158cc024086762cd3d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:6eca8b6406b22aafefb9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a0cb180e6b2b3431be7b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Организация эксплуатации и ремонта 
+ технологического оборудования (Лекция)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a5f92f7b628997dc5d5e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Методы и средства диагностирования 
+ бытовых машин и приборов (Лекция)
+LOCATION:К-612
+DESCRIPTION:3 пара · Меронюк С.А. / Малсугенов А.
+ В. · группы: З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a38e8ee6143d1e3bbbfc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Мембранное разделение полидисперсн
+ ых систем (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:e07b054ccd3aa8537c2e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Основы динамических расчетов (Лекци
+ я)
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:939f4fa312b7f6b0eba2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Проектирование оснастки для рем
+ онта технологического оборудования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:88e2224fc2b7293aa25d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Основы технологии машиностроени
+ я
+LOCATION:К-313
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тм-242
+END:VEVENT
 END:VCALENDAR

@@ -633,4 +633,80 @@ SUMMARY:Организация технического обслужива
 LOCATION:К-208
 DESCRIPTION:2 пара · Фурсов В.А. · группы: З-Сэ-242
 END:VEVENT
+BEGIN:VEVENT
+UID:20f155f7d23db96b73cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:экз.Безопасность\, санитария и гигие
+ на предприятий общественного питания
+LOCATION:К-208
+DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:4e2c16ea2b3cb01b98e1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:2 пара · Семенова Л.В. · группы: З-Сж-
+ 242\, З-Сп-242\, З-Ст-242\, З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9147ebabacf97d758b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сж-241\
+ , З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст-242\, З-Сэ-241\, З
+ -Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3ca23718947701cc1e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:экз.Цифровизация в сфере ЖКХ
+LOCATION:К-208
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:c85198c842cd9908d1b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Методы научных исследований (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сж-241\
+ , З-Ст-241\, З-Сэ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:68bd60c13facf4559458@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:экз.Организация развлекательно-досу
+ говой деятельности
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:de30eb3530159fe4e03d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:экз.Технология и организация услуг п
+ итания в туризме
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Т-24
+ 1
+END:VEVENT
 END:VCALENDAR

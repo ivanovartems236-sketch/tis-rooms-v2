@@ -331,4 +331,87 @@ SUMMARY:Безопасность в чрезвычайных ситуаци
 LOCATION:К-609
 DESCRIPTION:3 пара · Кутин А.О. · группы: З-Тб-242
 END:VEVENT
+BEGIN:VEVENT
+UID:7849bf6322007d5c55e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:4fae7d00ca7986e91eb5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Надзор и контроль в сфере безопаснос
+ ти (Лекция)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:da2b87668af87127e2d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b056cb20715e6ca768c0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d0a2b976137e16aa78@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:экз.Специальная оценка условий труд
+ а
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d1df43c23b450be0b5a4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Устойчивость функционирования п
+ редприятий в чрезвычайных ситуациях
+LOCATION:К-313
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:429ccf5caaa97c46e83e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Экологическая безопасность произво
+ дства (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:6b3d681843222e741441@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Безопасность в чрезвычайных сит
+ уациях
+LOCATION:К-609
+DESCRIPTION:1 пара · Кутин А.О. · группы: З-Тб-242
+END:VEVENT
 END:VCALENDAR

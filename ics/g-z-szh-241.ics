@@ -256,4 +256,75 @@ LOCATION:К-607
 DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:f05e0fcfeae74846cf92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:экз.Технологии управления ТБО
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:81acd8b7517b2a39118e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6e4cb9cd926a60244f06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e3715fc4bb842566988b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Стандартизация и сертификация в сер
+ висе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:eaca499b5425bb6b3dc7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ce3df19b99f4d18f1a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Методы научных исследований (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:90cf62fdb2739dc2c51b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:экз.Принятие управленческих решений
+  в сервисной деятельности
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сж-
+ 241
+END:VEVENT
 END:VCALENDAR

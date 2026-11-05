@@ -313,4 +313,105 @@ LOCATION:К-121
 DESCRIPTION:1 пара · Кудашина В.Л. · группы: З-Ки-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:614969935bb311ccc51c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:зач.Конструкторско-технологическая 
+ подготовка производства
+LOCATION:К-313
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fc50263b95fa5fc32ad7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лекция)
+LOCATION:К-313
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe5fc3511f34f510db8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Проектирование изделий легкой промы
+ шленности в САПР (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:83b935aada8eafa25b6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:зач.Профессиональная подготовка
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f2d74a25b09c8ea131@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Петров О.П. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:287f96870cfd62c1d854@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Экология (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Ки-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:46e604c619594cd60bc2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Конструктивное моделирование од
+ ежды
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f259157aa41eb6781655@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Композиция костюма
+LOCATION:В-301
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba6300206d228811e26@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:"САПР одежды ""Грация""" (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:00706b1d785834b9b303@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Конструирование изделий легкой 
+ промышленности
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
 END:VCALENDAR

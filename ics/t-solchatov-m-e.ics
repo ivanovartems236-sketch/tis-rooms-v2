@@ -312,4 +312,14 @@ LOCATION:К-413
 DESCRIPTION:3 пара · Солчатов М.Э. · группы: З-Ик
  сМ-242
 END:VEVENT
+BEGIN:VEVENT
+UID:8f19b9f4e1e4a1c60687@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:экз.Сети и системы мобильной связи
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-242
+END:VEVENT
 END:VCALENDAR

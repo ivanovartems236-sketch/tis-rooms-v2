@@ -281,4 +281,26 @@ LOCATION:К-501
 DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:fc1fba47d97560f16a47@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:зач.Системы поддержки принятия реше
+ ний
+LOCATION:К-501
+DESCRIPTION:4 пара · Следский А.А. · группы: З-Ис
+ тТ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f0a1b7c463bd867540@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:экз.Устройства приема и обработки си
+ гналов
+LOCATION:К-501
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: З-Рт-24
+ 2
+END:VEVENT
 END:VCALENDAR

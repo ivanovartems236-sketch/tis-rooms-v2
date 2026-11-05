@@ -323,4 +323,68 @@ SUMMARY:Безопасность в чрезвычайных ситуаци
 LOCATION:К-609
 DESCRIPTION:3 пара · Кутин А.О. · группы: З-Тб-242
 END:VEVENT
+BEGIN:VEVENT
+UID:a446dc513cc9b8c04bf8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:зач.Теоретические процессы бытовой 
+ техники
+LOCATION:К-609
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:93a17c6f7bfc9ef052f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Надзор и контроль в сфере безопаснос
+ ти (Лекция)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7383562f9cba4b6a3a16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:экз.Специальная оценка условий труд
+ а
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:13a68be64b26f6366468@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Мембранное разделение полидисперсн
+ ых систем (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef4846eed6f82940c1c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:экз.Основы технологии машиностроени
+ я
+LOCATION:К-609
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тм-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3273089b60275d4c27f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:экз.Безопасность в чрезвычайных сит
+ уациях
+LOCATION:К-609
+DESCRIPTION:1 пара · Кутин А.О. · группы: З-Тб-242
+END:VEVENT
 END:VCALENDAR

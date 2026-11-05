@@ -322,4 +322,45 @@ LOCATION:К-313
 DESCRIPTION:5 пара · Еремина Е.А. · группы: З-Тм-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:cca6aea28390699df4eb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:зач.Конструкторско-технологическая 
+ подготовка производства
+LOCATION:К-313
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a20e09fbb5989538c82c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лекция)
+LOCATION:К-313
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:0d7a354529f37ff841e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Устойчивость функционирования п
+ редприятий в чрезвычайных ситуациях
+LOCATION:К-313
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:89324b3a29d0e776af7d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Основы технологии машиностроени
+ я
+LOCATION:К-313
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тм-242
+END:VEVENT
 END:VCALENDAR

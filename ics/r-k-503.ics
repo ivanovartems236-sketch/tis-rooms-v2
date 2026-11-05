@@ -495,4 +495,45 @@ SUMMARY:Современные проблемы науки и произв
 LOCATION:К-503
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
+BEGIN:VEVENT
+UID:78836f2cb734e5612076@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9b5de1f13cb7cc30366a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:зач.Профессиональная подготовка
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c1dc20d9927bc8bf7b46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Конструктивное моделирование од
+ ежды
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:867baabe6e45bea1bbac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Конструирование изделий легкой 
+ промышленности
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
 END:VCALENDAR

@@ -648,4 +648,59 @@ LOCATION:К-205
 DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Ст-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:f3ceada0020b7f4eeca8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:экз.Технологии управления ТБО
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242
+END:VEVENT
+BEGIN:VEVENT
+UID:162c66324f1a5bea0b5c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Стандартизация и сертификация в сер
+ висе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, З-Ст-242\, З-Сэ-241\
+ , З-Сэ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:882d2c3b91d65168b28e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:экз.Цифровизация в сфере ЖКХ
+LOCATION:К-208
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:3154126f94a8a52c1470@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Экологическая безопасность произво
+ дства (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Макеенко И.П. · группы: З-Тб-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:bcfbd2b8f8bbfb69d4ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Организация производства и техн
+ ологии обслуживания на предприятиях сер
+ виса (по отраслям)
+LOCATION:К-607
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
+ 242
+END:VEVENT
 END:VCALENDAR

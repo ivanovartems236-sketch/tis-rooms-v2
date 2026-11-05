@@ -169,4 +169,35 @@ LOCATION:К-306
 DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:cece55feb15524ef00a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Проектирование изделий легкой промы
+ шленности в САПР (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6091354fe336dfed25c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:экз.Композиция костюма
+LOCATION:В-301
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: З-Ки-24
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:1b55778bfb992a0c36c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:"САПР одежды ""Грация""" (Лекция)
+LOCATION:В-202
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Ки-24
+ 2
+END:VEVENT
 END:VCALENDAR

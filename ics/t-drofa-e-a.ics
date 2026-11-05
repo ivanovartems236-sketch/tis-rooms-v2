@@ -435,4 +435,64 @@ SUMMARY:Современные проблемы науки и произв
 LOCATION:К-301
 DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
+BEGIN:VEVENT
+UID:617a4ae5e596a31f1a27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:зач.Конструкторско-технологическая 
+ подготовка производства
+LOCATION:К-313
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f8b341315ee58662a0ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лекция)
+LOCATION:К-313
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5ec0d0cfb0b321c82da0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Надзор и контроль в сфере безопаснос
+ ти (Лекция)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbdc726a99b18e561d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:экз.Конструктивное моделирование од
+ ежды
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d6bd8b4f8a0ec583e663@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:экз.Устойчивость функционирования п
+ редприятий в чрезвычайных ситуациях
+LOCATION:К-313
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fa5f322409a14af65a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:экз.Конструирование изделий легкой 
+ промышленности
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
 END:VCALENDAR

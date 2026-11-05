@@ -140,4 +140,79 @@ LOCATION:К-612
 DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
  Тм-242
 END:VEVENT
+BEGIN:VEVENT
+UID:c3ebaa15af2e5940bac1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:экз.Проектирование бытовой техники
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc2e06ec69d3ddd4c85@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:зач.Технология отраслевого машиност
+ роения
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3c22937aa41c7cbb4680@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Организация эксплуатации и ремонта 
+ технологического оборудования (Лекция)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:af96275df5e383899701@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Методы и средства диагностирования 
+ бытовых машин и приборов (Лекция)
+LOCATION:К-612
+DESCRIPTION:3 пара · Меронюк С.А. / Малсугенов А.
+ В. · группы: З-Тм-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5605f04307d58bae6fd1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Детали машин и основы конструирован
+ ия (Практика)
+LOCATION:К-612
+DESCRIPTION:4 пара · Малсугенов А.В. · группы: З-
+ Тм-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d7035c80becca0cd71a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Бытовые машины и приборы (Лекция)
+LOCATION:К-612
+DESCRIPTION:4 пара · Малсугенов А.В. · группы: З-
+ Тм-241
+END:VEVENT
+BEGIN:VEVENT
+UID:10b0dcecb357a78453f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Основы динамических расчетов (Лекци
+ я)
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-242
+END:VEVENT
 END:VCALENDAR
