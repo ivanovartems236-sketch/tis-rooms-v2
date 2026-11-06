@@ -93,4 +93,37 @@ LOCATION:В-202
 DESCRIPTION:7 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
  уппы: О-МИСТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:50781a2db4278ca76a17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9584da52a6dfdbf05f77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Технологии обработки информации (Ла
+ б.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Янковец Ю.Г. / Черепов П.В. · 
+ группы: О-ИстТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2b73431172223c377a11@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Математические модели информационн
+ ых процессов (Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
+ уппы: О-МИСТ-261
+END:VEVENT
 END:VCALENDAR

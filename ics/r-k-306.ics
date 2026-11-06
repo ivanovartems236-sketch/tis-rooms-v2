@@ -146,4 +146,67 @@ LOCATION:К-306
 DESCRIPTION:7 пара · Смирнова Н.Г. · группы: ОЗ-М
  ИСТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:62683246746bc2522a82@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Исп-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:77e700eda244edf80e34@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:52dfbe6685366d7a0085@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Элементы высшей математики (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:36e50258f6601b0a73d1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-306
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:495529511640bf4cad0a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:История (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Варавина А.В. · группы: О-Ис
+ п-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c975e579cb12560a1137@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:История (Практика)
+LOCATION:К-306
+DESCRIPTION:3 пара · Варавина А.В. · группы: О-Ис
+ п-9-251
+END:VEVENT
 END:VCALENDAR

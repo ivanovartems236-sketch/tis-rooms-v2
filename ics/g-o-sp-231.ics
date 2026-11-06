@@ -277,4 +277,143 @@ LOCATION:К-607
 DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сп-231
 END:VEVENT
+BEGIN:VEVENT
+UID:0456ff9c77305736be59@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:fb10ab5ce423fd154b0b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Инновации в сервисе (Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Фурсов В.А. · группы: О-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:903e0f2bab4261044261@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Инновации в сервисе (Практика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Ториков А.В. · группы: О-Сп-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2714255a3aeb6959842f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-208
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:64d57061c9ff9e494461@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Барное дело (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ebf4888012b5eface959@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Лекци
+ я)
+LOCATION:К-205
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:cce5329c079c0f88af60@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Практ
+ ика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:fc9acc0b3e5a9f58aa7b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Барное дело (Практика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e31aa3a23ec273eeac06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:e518f6d2127b27ca746f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:9285e360795d4621d62d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd44bcf878813904f0b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cacd8dab845556294f77@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Сп-23
+ 1
+END:VEVENT
 END:VCALENDAR

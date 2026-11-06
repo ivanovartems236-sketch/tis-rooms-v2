@@ -129,4 +129,45 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Кудашина В.Л. · группы: ОЗ-М-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:e1ebf585e7b113dc2336@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e19dc2f5c3aae06a8c26@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:3c7c7d104d8f79ce68db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Риск-менеджмент (Лекция)
+LOCATION:К-210
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:0f08b42b9886c0149947@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Производственный менеджмент (Практи
+ ка)
+LOCATION:К-210
+DESCRIPTION:4 пара · Ионова А.Ч. · группы: ОЗ-М-242
+END:VEVENT
 END:VCALENDAR

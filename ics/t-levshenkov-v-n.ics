@@ -275,4 +275,199 @@ LOCATION:В-103
 DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-М
  КИ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:c3a62bffaade04a01341@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T083000
+DTEND;TZID=Europe/Moscow:20261109T100500
+SUMMARY:Физика (Практика)
+LOCATION:В-102
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-К
+ и-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:34fa6b0e893ad53d837b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Физика (Практика)
+LOCATION:В-102
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-К
+ и-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:37e4bd31cc91065c5c08@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Физика (Практика)
+LOCATION:В-102
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:aeccb3a5821d12553e9a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Физика (Практика)
+LOCATION:В-102
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7d5fd1484f9d85aa3b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Физика (Практика)
+LOCATION:В-103
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8ed5f7efa2da3abf05@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Физика (Практика)
+LOCATION:В-103
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9e0289d3acda32f0fcb2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Физика (Практика)
+LOCATION:В-103
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:11a25a4f2cb3aad27fbe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Концепции современного естествозна
+ ния (Практика)
+LOCATION:В-103
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-С
+ т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8df74d305ca1fd0a5389@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-261\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:dc4fba167048b22edc7d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: ОЗ-
+ Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8f8204ebfcfe850d7184@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Специальные главы математики (Лекци
+ я)
+LOCATION:К-301
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-М
+ ИСТ-261\, О-МКИ-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa192060e119e2da7ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, 
+ О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae35cf841361d607cc0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Теория вероятностей и математическа
+ я статистика (Практика)
+LOCATION:В-103
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
+ ксМ-251\, О-ИстТ-251\, О-Рт-251\, ОЗ-ИстТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:9be48f093ca031c450a4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Специальные главы математики (Лаб.)
+LOCATION:В-103
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-М
+ ИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c32faf62a52193d0ad8e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Физика (Лаб.)
+LOCATION:В-103
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a4609c5af50cfefec4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Ки-261\, О-Рт-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e1968b3fb821627ea1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Физика (Практика)
+LOCATION:В-103
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ed332e9f24b5166b1f65@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Концепции современного естествозна
+ ния (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-С
+ т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:16bd2f9285e5edc40cd6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Специальные главы математики (Лаб.)
+LOCATION:В-103
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: ОЗ-
+ МИСТ-261
+END:VEVENT
 END:VCALENDAR

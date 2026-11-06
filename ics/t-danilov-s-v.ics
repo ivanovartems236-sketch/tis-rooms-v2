@@ -79,4 +79,36 @@ LOCATION:К-217
 DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
  11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
 END:VEVENT
+BEGIN:VEVENT
+UID:9ae95b49dabdbf307d79@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:Экономика отрасли (Лекция)
+LOCATION:К-217
+DESCRIPTION:1 пара · Данилов С.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:fdacfea7566946aa4ce2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:Менеджмент в профессиональной деяте
+ льности (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Данилов С.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:acd39202f890561da151@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T122000
+DTEND;TZID=Europe/Moscow:20261114T135500
+SUMMARY:Менеджмент в профессиональной деяте
+ льности (Практика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231
+END:VEVENT
 END:VCALENDAR

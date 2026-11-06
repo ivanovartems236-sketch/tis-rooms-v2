@@ -323,6 +323,17 @@ DESCRIPTION:5 пара · Еремина Е.А. · группы: З-Тм-24
  2
 END:VEVENT
 BEGIN:VEVENT
+UID:9d10f469315ab44fc144@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Дискретная математика с элементами 
+ математической логики (Практика)
+LOCATION:К-313
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
 UID:cca6aea28390699df4eb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261109T122000
@@ -343,6 +354,62 @@ LOCATION:К-313
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
 END:VEVENT
 BEGIN:VEVENT
+UID:12a9d55ba962634abdf8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Лекци
+ я)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:13603da43c592cc55422@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Проектирование детской одежды (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9688a7aa8a603b227e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Проектирование детской одежды (Прак
+ тика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:557949a2d86d68b0570b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-313
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:e5fa657b9bdd576ad6dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Лаб.)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:0d7a354529f37ff841e4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261112T140500
@@ -351,6 +418,39 @@ SUMMARY:экз.Устойчивость функционирования п
  редприятий в чрезвычайных ситуациях
 LOCATION:К-313
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:d9210e69c44fe0a93129@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Методы и средства исследований (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:e6aa94f9e79657a30c9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Методы и средства исследований (Прак
+ тика)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:aa70f395d77389e6c4ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Основы инженерного творчества (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:89324b3a29d0e776af7d@tis-rooms

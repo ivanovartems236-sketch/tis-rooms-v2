@@ -71,4 +71,15 @@ LOCATION:К-201
 DESCRIPTION:5 пара · Колосова О.Ю. / Фурсов В.А. · 
  группы: О-МИСТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:424b563ec956447132ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Колосова О.Ю. / Черепов П.В. 
+ · группы: О-ИстТ-261\, ОЗ-ИстТ-261
+END:VEVENT
 END:VCALENDAR

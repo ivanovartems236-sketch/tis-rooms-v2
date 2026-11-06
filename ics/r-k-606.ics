@@ -84,4 +84,38 @@ DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
  61\, О-Исп-11-241\, О-Исп-9-231\, О-Тэис-11-261\, ОЗ-Исп
  -11-231
 END:VEVENT
+BEGIN:VEVENT
+UID:1dcbd9f1deca99e83096@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
+ 61\, О-Исп-11-241\, О-Исп-9-231\, О-Тэис-11-261\, ОЗ-Исп
+ -11-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b99e1dbc964d5a6c9c6a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Основы безопасности и защиты Родины 
+ (Лекция)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:87ce612b3027159ac4ff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Основы безопасности и защиты Родины 
+ (Лекция)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
 END:VCALENDAR

@@ -174,4 +174,98 @@ LOCATION:К-217
 DESCRIPTION:7 пара · Семенова Н.В. · группы: О-МЭ-
  261
 END:VEVENT
+BEGIN:VEVENT
+UID:2e07f49399dac804e49c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:992e7ece354a877d4bab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T173500
+DTEND;TZID=Europe/Moscow:20261111T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:c66fb5b6210960034da5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T192000
+DTEND;TZID=Europe/Moscow:20261111T205500
+SUMMARY:Микроэкономика (продвинутый уровень
+ ) (Лекция)
+LOCATION:К-217
+DESCRIPTION:7 пара · Семенова Н.В. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:5f5e340401af562b49fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Компьютерные технологии в науке (Лаб
+ .)
+LOCATION:В-202
+DESCRIPTION:5 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:62eee28ba67b1a8f1e82@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T173500
+DTEND;TZID=Europe/Moscow:20261112T191000
+SUMMARY:Цифровые технологии в профессиональ
+ ной деятельности (Лаб.)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: О-МЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:64f7758fc1696d4aa3fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T192000
+DTEND;TZID=Europe/Moscow:20261112T205500
+SUMMARY:Деловые и научные коммуникации (Лекц
+ ия)
+LOCATION:В-202
+DESCRIPTION:7 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a8affafb6c598c9e59ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Организация командной деятельности 
+ (Практика)
+LOCATION:К-217
+DESCRIPTION:5 пара · Зайченко И.А. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:2b33736f82a391472c86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T173500
+DTEND;TZID=Europe/Moscow:20261113T191000
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-217
+DESCRIPTION:6 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4b25bcfa8a49ba3d6cb9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T192000
+DTEND;TZID=Europe/Moscow:20261113T205500
+SUMMARY:Деловые и научные коммуникации (Прак
+ тика)
+LOCATION:К-217
+DESCRIPTION:7 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
 END:VCALENDAR

@@ -195,6 +195,52 @@ DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
  т-241\, З-Рт-242
 END:VEVENT
 BEGIN:VEVENT
+UID:b492eaed0b46c2206847@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Лекц
+ ия)
+LOCATION:К-506
+DESCRIPTION:1 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:54c0cfe881b1ddc2ad3c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:2907707d4d0fd7158906@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Прак
+ тика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:be01648cd1bf8e088745@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Практик
+ а)
+LOCATION:К-413
+DESCRIPTION:4 пара · Братченко Н.Ю. · группы: ОЗ-
+ Рт-231
+END:VEVENT
+BEGIN:VEVENT
 UID:fdb4882a7a984ab0432c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261114T101500

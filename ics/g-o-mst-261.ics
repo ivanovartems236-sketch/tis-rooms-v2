@@ -228,4 +228,126 @@ LOCATION:К-204
 DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:75999755cd906f17d62a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Оптимизация бизнес-процессов в серв
+ исе (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:209e1415dc1bf7ced291@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T173500
+DTEND;TZID=Europe/Moscow:20261110T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:19b7c4d61815282d43a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T192000
+DTEND;TZID=Europe/Moscow:20261110T205500
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Практика)
+LOCATION:К-201
+DESCRIPTION:7 пара · Чимонина И.В. · группы: О-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3c832a3b5fb49b0c0ad0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:65f684a07afa8c7ea648@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T173500
+DTEND;TZID=Europe/Moscow:20261111T191000
+SUMMARY:Технологии управления сервисной сре
+ дой (Лекция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:374e73e045364b5ff1cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T192000
+DTEND;TZID=Europe/Moscow:20261111T205500
+SUMMARY:Расчет и проектирование инфраструкт
+ уры предприятий автомобильного сервиса 
+ (Практика)
+LOCATION:К-201
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc6d8d02b45e12e73df@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Оптимизация бизнес-процессов в серв
+ исе (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Семенова Л.В. · группы: О-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2a92c902a8d91bd41553@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T173500
+DTEND;TZID=Europe/Moscow:20261112T191000
+SUMMARY:Технологии управления сервисной сре
+ дой (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:839df4a7bf18b742b4a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T192000
+DTEND;TZID=Europe/Moscow:20261112T205500
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-201
+DESCRIPTION:7 пара · Лазарева Н.В. · группы: О-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e39b9261053929258848@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:96f13a48e1398d06f063@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T173500
+DTEND;TZID=Europe/Moscow:20261113T191000
+SUMMARY:Современные проблемы и направления 
+ развития технической эксплуатации авто
+ мобилей (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-26
+ 1
+END:VEVENT
 END:VCALENDAR

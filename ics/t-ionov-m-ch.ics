@@ -26,4 +26,24 @@ LOCATION:К-107
 DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
  уппы: О-Эбу-251
 END:VEVENT
+BEGIN:VEVENT
+UID:cb667aae2c7713e24ba3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Налоги и налогообложение (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:10999eb766903a1b17f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
+END:VEVENT
 END:VCALENDAR

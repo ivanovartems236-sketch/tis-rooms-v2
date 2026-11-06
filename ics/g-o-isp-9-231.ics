@@ -331,4 +331,162 @@ LOCATION:К-217
 DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
  9-231
 END:VEVENT
+BEGIN:VEVENT
+UID:21883a56fca464705413@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-202
+DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1a610bdc585da5ac3453@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Технология разработки программного 
+ обеспечения (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c78b03aaf76b6943e5e0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-202
+DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:07d1de7a8684cfbabb85@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-9-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed551302f2cb604aed3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:369010fbf09b192c1ee5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Исп-9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d1a626c050e709832bc7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Технология разработки программного 
+ обеспечения (Лаб.)
+LOCATION:В-201
+DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a799fe24c52523bba0f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-202
+DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:65b6c176c55b410da655@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-202
+DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:440e45db9e1e538c5e46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Веб - программирование (Лекция)
+LOCATION:В-201
+DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c0bae54e440363b409@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Веб - программирование (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1704fa0497b2e7baea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Технология разработки программного 
+ обеспечения (Практика)
+LOCATION:В-201
+DESCRIPTION:5 пара · Архипов В.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b2446556cc23a3893a75@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100500
+SUMMARY:Экономика отрасли (Лекция)
+LOCATION:К-217
+DESCRIPTION:1 пара · Данилов С.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9570e605a94af1b3cfeb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101500
+DTEND;TZID=Europe/Moscow:20261114T115000
+SUMMARY:Менеджмент в профессиональной деяте
+ льности (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Данилов С.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:672482b20857a0dd108d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T122000
+DTEND;TZID=Europe/Moscow:20261114T135500
+SUMMARY:Менеджмент в профессиональной деяте
+ льности (Практика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
 END:VCALENDAR

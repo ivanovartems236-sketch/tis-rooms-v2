@@ -286,4 +286,127 @@ DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
  сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
  Тб-261\, О-Тм-261
 END:VEVENT
+BEGIN:VEVENT
+UID:1db65bbe2ecbfc9ea9c8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5ae14ca33ee412e3bfb6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Физические основы микроэлектроники 
+ (Практика)
+LOCATION:К-504
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6e6ea90facbd87257f43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\,
+  ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:e7e7fa9d35c8318353ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:77468fdf72b9af4ba4b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-504
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
+ ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
+ О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
+ 1\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:cd31ac8972e0c10fcd2e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-504
+DESCRIPTION:2 пара · Приходченко О.В. · группы: О
+ -Ки-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8522df6bbbd3c1dedc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лекция)
+LOCATION:К-504
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dd7e4950a83266f2535b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9fe246cc868c70a520@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b4e3c5816861c69661@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:df448b1ed4b0afdf01b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
 END:VCALENDAR

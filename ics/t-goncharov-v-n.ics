@@ -103,4 +103,46 @@ DESCRIPTION:6 пара · Гончаров В.Н. / Семенова Л.В.
   · группы: З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, 
  З-Ст-242\, З-Сэ-241\, З-Сэ-242
 END:VEVENT
+BEGIN:VEVENT
+UID:24652ab836d60ba08a22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca266df729b23ec4366@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T173500
+DTEND;TZID=Europe/Moscow:20261111T191000
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-406
+DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В. 
+ · группы: О-МИСТ-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a29065d3934f467bf7f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ccf235d90f756db8f0ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-401
+DESCRIPTION:4 пара · Гончаров В.Н. / Черепов П.В. 
+ · группы: О-ИстТ-261\, ОЗ-ИстТ-261
+END:VEVENT
 END:VCALENDAR

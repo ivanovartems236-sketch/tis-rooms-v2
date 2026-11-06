@@ -96,4 +96,54 @@ LOCATION:К-308
 DESCRIPTION:2 пара · Тишук О.Ю. · группы: О-Одл-9-26
  1\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
+BEGIN:VEVENT
+UID:196f1c17da6cec66b2e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8d54eadbe0162a410dc1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:09446b02a28b01e370ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d112af5bb2bece9fc986@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:2 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9551cf01b3ca33d32c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
 END:VCALENDAR

@@ -226,4 +226,108 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Рт-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:a695d4763bc1a6ae1539@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Радиотехнические цепи и сигналы (Лек
+ ция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Рт-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b0be35bb909b0bfc3a3b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4603f01110977c84bb93@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:00da65fece9b6941c7aa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a97f504b7d07418b79@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:3235ef5197a9572588c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Цифровая обработка сигналов (Лекция)
+LOCATION:К-401
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:2d0fdfdceda3190361c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Основы научного эксперимента (Лаб.)
+LOCATION:К-504
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:30e3d2e8270ff43191b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Лаб.)
+LOCATION:К-413
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6361551b8f8a86e56d57@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:14cdcd653292488b9491@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101000
+DTEND;TZID=Europe/Moscow:20261114T114000
+SUMMARY:Основы автомобильной электроники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
 END:VCALENDAR

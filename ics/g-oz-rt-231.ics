@@ -148,4 +148,72 @@ LOCATION:К-506
 DESCRIPTION:2 пара · Братченко Н.Ю. · группы: ОЗ-
  Рт-231
 END:VEVENT
+BEGIN:VEVENT
+UID:138ed7852e98de00ee10@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: ОЗ-
+ Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a184060647addcb84e4a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:11e676dc1dd17b1e2726@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Практика)
+LOCATION:К-413
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cf0eef764e9c529b1a21@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Практик
+ а)
+LOCATION:К-413
+DESCRIPTION:4 пара · Братченко Н.Ю. · группы: ОЗ-
+ Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:fd8d16f032586eb53cc3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T122000
+DTEND;TZID=Europe/Moscow:20261114T135500
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f008b5c7d5773bac9e66@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T140500
+DTEND;TZID=Europe/Moscow:20261114T154000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
 END:VCALENDAR

@@ -157,4 +157,80 @@ LOCATION:В-201
 DESCRIPTION:4 пара · Черепов П.В. · группы: ОЗ-Ис
  тТ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:e03e1fde0d89f4f0a86c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Программирование (Лаб.)
+LOCATION:В-202
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:57487c624904c236e1d1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:b543555cfe3edfd53a54@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-401
+DESCRIPTION:2 пара · Шепеть И.П. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4543c9fda8b1f57cb242@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
+ стТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:f98d73aeafc3340da828@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Теория информационных процессов и с
+ истем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:df19dc496aace8e2e370@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Технологии обработки информации (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:118554b9631f5b6ce05a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 241
+END:VEVENT
 END:VCALENDAR

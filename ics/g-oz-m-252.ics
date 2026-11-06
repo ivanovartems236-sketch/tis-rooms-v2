@@ -140,4 +140,65 @@ LOCATION:К-217
 DESCRIPTION:3 пара · Гончаров В.Н. / Зайченко И.А.
   · группы: ОЗ-М-252
 END:VEVENT
+BEGIN:VEVENT
+UID:9107062dea4634ac67d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Статистика: теория статистики (Практ
+ ика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:f46da7eeebc6a4ade7f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Основы маркетинга (Лекция)
+LOCATION:К-201
+DESCRIPTION:4 пара · Семенова Л.В. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:455252f2d88ca49ed85a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:adde227e7bb21d7c138f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:088e356cdd2839a93a26@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Статистика: теория статистики (Лекци
+ я)
+LOCATION:К-217
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:83d91b5a365118435cdc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Основы маркетинга (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
+ 252
+END:VEVENT
 END:VCALENDAR

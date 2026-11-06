@@ -38,4 +38,15 @@ LOCATION:К-401
 DESCRIPTION:6 пара · Протасов К.А. / Саиег Т.Х. · г
  руппы: З-ИстТ-242
 END:VEVENT
+BEGIN:VEVENT
+UID:52d74087bca14a4a984a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лаб.)
+LOCATION:В-201
+DESCRIPTION:3 пара · Протасов К.А. / Саиег Т.Х. · г
+ руппы: О-ИстТ-231
+END:VEVENT
 END:VCALENDAR

@@ -144,4 +144,89 @@ LOCATION:К-413
 DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-И
  ксМ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:2a223536532c35c466a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:0578c0c6a18effb408db@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
+ М-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5126d11b72ffc1f5686b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-413
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6e87789eb25bceb5834f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-413
+DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
+ сМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:88738b5f3456d27a09b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Цифровая обработка сигналов (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:6dab33792135312e7d32@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:58eb8af1bc5479a32ab6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T155000
+DTEND;TZID=Europe/Moscow:20261114T172500
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Практика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4a297af48236d7e92cad@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T173500
+DTEND;TZID=Europe/Moscow:20261114T191000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лаб.)
+LOCATION:К-413
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
 END:VCALENDAR

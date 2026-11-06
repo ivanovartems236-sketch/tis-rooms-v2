@@ -391,6 +391,16 @@ DESCRIPTION:2 пара · Малсугенов А.В. · группы: З-
  Тм-242
 END:VEVENT
 BEGIN:VEVENT
+UID:8977d97a218842403e0b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Механика (Лекция)
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
 UID:78fcce34cfb8063a1e4f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261111T101500
@@ -424,6 +434,16 @@ DESCRIPTION:4 пара · Малсугенов А.В. · группы: З-
  Тм-241
 END:VEVENT
 BEGIN:VEVENT
+UID:e3e280b0802d7b6016dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Механика (Практика)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
 UID:23bb608c54bdb00a4f24@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261112T140500
@@ -445,6 +465,16 @@ DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
  Тм-242
 END:VEVENT
 BEGIN:VEVENT
+UID:dff08d47b143c1dc3591@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Планирование эксперимента (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
 UID:5aeb0bba6650f18b4f62@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261113T101500
@@ -454,6 +484,47 @@ SUMMARY:экз.Проектирование оснастки для рем
 LOCATION:К-612
 DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
  242
+END:VEVENT
+BEGIN:VEVENT
+UID:89b13e25982b4ce22e4f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Основы подготовки диссертации (Лекц
+ ия)
+LOCATION:К-612
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e77c77dfb0ddddb023@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c38227c1b7c046765c1d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100000
+SUMMARY:Введение в профессиональную деятель
+ ность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad832bb31cb2b331cfe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101000
+DTEND;TZID=Europe/Moscow:20261114T114000
+SUMMARY:Введение в профессиональную деятель
+ ность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
+ Тм-261
 END:VEVENT
 BEGIN:VEVENT
 UID:1ec64ad6e22ca888cad7@tis-rooms

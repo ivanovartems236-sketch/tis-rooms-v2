@@ -249,4 +249,104 @@ LOCATION:К-313
 DESCRIPTION:5 пара · Еремина Е.А. · группы: З-Тм-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:48d18140e99b661d6a17@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T083000
+DTEND;TZID=Europe/Moscow:20261109T100500
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:71b4b17a3bdd28f88da6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e9ad976e34bb2a005c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Лекци
+ я)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:166542a910f3bc0662fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Проектирование детской одежды (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:026ddd6d3f936d38f8f7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Проектирование детской одежды (Прак
+ тика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:86b146c071c29c93081b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Лаб.)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:703541cb4e8cbea430e0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Оборудование швейного производства 
+ (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0cfd4d5272eccac104e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Методы и средства исследований (Лекц
+ ия)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:424745fe2e9075981954@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Методы и средства исследований (Прак
+ тика)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
 END:VCALENDAR

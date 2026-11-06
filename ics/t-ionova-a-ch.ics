@@ -220,4 +220,94 @@ SUMMARY:Теория решения изобретательских зад
 LOCATION:К-217
 DESCRIPTION:6 пара · Ионова А.Ч. · группы: О-МЭ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:fd0ade26524e32677368@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:38d7eef4555893c57f63@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: О-Эбу-25
+ 1\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:1979d5f700906a8ec0fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Инновационный менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:4 пара · Ионова А.Ч. · группы: О-МКИ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8c5964bca05713841e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T173500
+DTEND;TZID=Europe/Moscow:20261112T191000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:6 пара · Ионова А.Ч. · группы: О-МКИ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f917dd31bf3495c09f94@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T192000
+DTEND;TZID=Europe/Moscow:20261112T205500
+SUMMARY:Деловые и научные коммуникации (Лекц
+ ия)
+LOCATION:В-202
+DESCRIPTION:7 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bf136dd736a4d9d87c41@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Менеджмент (Лекция)
+LOCATION:К-107
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: О-Эбу-25
+ 1\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:0687fe42b3e55f1117d2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Производственный менеджмент (Практи
+ ка)
+LOCATION:К-210
+DESCRIPTION:4 пара · Ионова А.Ч. · группы: ОЗ-М-231\
+ , ОЗ-М-242\, ОЗ-Эпо-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f1686c94e9d95faf7d8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T173500
+DTEND;TZID=Europe/Moscow:20261113T191000
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-217
+DESCRIPTION:6 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4f78d04c7c5f63db3286@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T192000
+DTEND;TZID=Europe/Moscow:20261113T205500
+SUMMARY:Деловые и научные коммуникации (Прак
+ тика)
+LOCATION:К-217
+DESCRIPTION:7 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
 END:VCALENDAR

@@ -195,4 +195,50 @@ LOCATION:К-607
 DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
 END:VEVENT
+BEGIN:VEVENT
+UID:9be3d92e8d7b61751c06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2695f03c1c3ffb03f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Практика)
+LOCATION:К-122
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:391b7c774be8a39ce0f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T173500
+DTEND;TZID=Europe/Moscow:20261111T191000
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Практика)
+LOCATION:К-205
+DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8ed7e8717cfc14ae0f1b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
 END:VCALENDAR

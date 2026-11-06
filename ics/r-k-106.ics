@@ -153,4 +153,89 @@ LOCATION:К-106
 DESCRIPTION:3 пара · Варавина А.В. · группы: О-Дп-
  11-261\, О-Тэис-11-261
 END:VEVENT
+BEGIN:VEVENT
+UID:594f5093817f53861029@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:История России (Практика)
+LOCATION:К-106
+DESCRIPTION:3 пара · Варавина А.В. · группы: О-Дп-
+ 11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9b76f6682a8a0bfed6cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:История России (Лекция)
+LOCATION:К-106
+DESCRIPTION:4 пара · Варавина А.В. · группы: О-Дп-
+ 11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c37f492a58a13f35afe0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Лекция)
+LOCATION:К-106
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bf73a9c7689c0d104a88@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Архивное дело (Лекция)
+LOCATION:К-106
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e23ac0ef1032fb3f87a6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Основы делопроизводства (Лекция)
+LOCATION:К-106
+DESCRIPTION:3 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5b91323dab251fb27672@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Архивное дело (Практика)
+LOCATION:К-106
+DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ae24a1179a8d72cd3526@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Лекция)
+LOCATION:К-106
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3202315b2e6411b40119@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Бухгалтерский учет и анализ (Практик
+ а)
+LOCATION:К-106
+DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-241
+END:VEVENT
 END:VCALENDAR

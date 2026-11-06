@@ -492,6 +492,153 @@ DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:b5f1012bd3d76e290a8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T083000
+DTEND;TZID=Europe/Moscow:20261109T100500
+SUMMARY:Теория электрических цепей (Лекция)
+LOCATION:К-506
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:9aee2ef3a0869bebba3f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лекция)
+LOCATION:К-502
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:8314657d259c8ced2838@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Электротехника и электроника (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИстТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:c222901bb79d1540463a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Системная инженерия (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:0b98d24a0a0f709985c3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-401
+DESCRIPTION:2 пара · Шепеть И.П. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:80e6ded61e8e35d93884@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Практика)
+LOCATION:К-502
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4730a36601133c94ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:ПП САПР (Практика)
+LOCATION:К-501
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e244b52556d2a63041@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лекция)
+LOCATION:К-408
+DESCRIPTION:5 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:f66cefbfc52f1508fc28@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T173500
+DTEND;TZID=Europe/Moscow:20261110T191000
+SUMMARY:Системная инженерия (Практика)
+LOCATION:К-408
+DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:045e233a8bd286981163@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T192000
+DTEND;TZID=Europe/Moscow:20261110T205500
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лаб.)
+LOCATION:К-408
+DESCRIPTION:7 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:efd3be6911c87d998eb1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:908cda30c73faa19e588@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb510f62a6f7f9c2a37@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Основы теории цепей (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:23a0cdf7359529baafdc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Электропитание устройств и систем и
+ нфокоммуникаций (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИксМ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
 UID:364d6f236124116f3d85@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261111T155000
@@ -500,5 +647,121 @@ SUMMARY:ПП САПР (Лекция)
 LOCATION:К-401
 DESCRIPTION:5 пара · Шепеть И.П. · группы: З-ИстТ-
  242
+END:VEVENT
+BEGIN:VEVENT
+UID:0559f398185290f177b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:05ca24a0466581b64ac0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T173500
+DTEND;TZID=Europe/Moscow:20261111T191000
+SUMMARY:Анализ и синтез информационных сист
+ ем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:013495ac403d82804a57@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:bb62e0bed1037cb829d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:594266600dc674c54836@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:ПП САПР (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:7c975b6efa89eb153132@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Теория электрических цепей (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2c973781fd75c1dd1554@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Теория электрических цепей (Практик
+ а)
+LOCATION:К-502
+DESCRIPTION:5 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:e62dc858488765434c4f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Электротехника и электроника (Лаб.)
+LOCATION:К-501
+DESCRIPTION:1 пара · Шепеть И.П. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:024beb7c8f7335e6fe04@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:2fcb17ba191cec4d17ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Основы теории цепей (Практика)
+LOCATION:К-502
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8f13db6e2e913bfb2fbb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Электротехника и электроника (Практ
+ ика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
+ 251
 END:VEVENT
 END:VCALENDAR

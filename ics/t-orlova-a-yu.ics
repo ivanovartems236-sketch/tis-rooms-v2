@@ -201,6 +201,17 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:44a7152ab7c68bf93073@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:afe22856da5e2cd3f0cd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261109T155000
@@ -213,6 +224,18 @@ DESCRIPTION:5 пара · Орлова А.Ю. · группы: З-ИстТ-
  242
 END:VEVENT
 BEGIN:VEVENT
+UID:f800310010e604f87904@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
 UID:456c645fd3725120993a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261110T155000
@@ -222,5 +245,84 @@ SUMMARY:Инструментальные средства информац
 LOCATION:К-408
 DESCRIPTION:5 пара · Орлова А.Ю. · группы: З-ИстТ-
  242
+END:VEVENT
+BEGIN:VEVENT
+UID:6656bd6310438f601669@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Модели и методы поддержки принятия р
+ ешений (Практика)
+LOCATION:К-406
+DESCRIPTION:5 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0511dcffaa5b5a04ba71@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:83be489946f60bea4cd1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:010a1b597849f3964a3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:be25232a96633472fea1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Лекция)
+LOCATION:К-501
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:be2ed48430065e79e325@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:717888bdb81608126fd3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
+ 251
 END:VEVENT
 END:VCALENDAR

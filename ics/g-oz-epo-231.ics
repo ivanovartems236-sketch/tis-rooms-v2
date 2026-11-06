@@ -89,4 +89,36 @@ LOCATION:К-217
 DESCRIPTION:5 пара · Зайченко И.А. · группы: ОЗ-Э
  по-231
 END:VEVENT
+BEGIN:VEVENT
+UID:f2db8d7d8b0b47e57e69@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Комплексный экономический анализ (Л
+ екция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-231
+END:VEVENT
+BEGIN:VEVENT
+UID:79d081538d0c11f24d62@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Производственный менеджмент (Практи
+ ка)
+LOCATION:К-210
+DESCRIPTION:4 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:d2549147e3d191701718@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Логистика (Практика)
+LOCATION:К-210
+DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-Э
+ по-231
+END:VEVENT
 END:VCALENDAR

@@ -496,6 +496,17 @@ LOCATION:К-503
 DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:05eac52c26f9f4a3db14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T083000
+DTEND;TZID=Europe/Moscow:20261109T100500
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:78836f2cb734e5612076@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261109T101500
@@ -505,6 +516,50 @@ SUMMARY:Специальная оценка условий труда (Ла
 LOCATION:К-503
 DESCRIPTION:2 пара · Приходченко О.В. · группы: З
  -Тб-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5e561075c4ed17fa95@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Сертификация изделий легкой промышл
+ енности (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:3be1d47be25c791fa27c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:60fe98549e0df5e0121f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Наноматериалы и нанотехнологии (Пра
+ ктика)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:886114d324786d7ee008@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T173500
+DTEND;TZID=Europe/Moscow:20261109T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
 UID:9b5de1f13cb7cc30366a@tis-rooms
@@ -517,6 +572,48 @@ DESCRIPTION:2 пара · Приходченко О.В. · группы: З
  -Ки-242
 END:VEVENT
 BEGIN:VEVENT
+UID:39a951e253edc614bc16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Гигиена одежды (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: О
+ -Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:f0aeb11ddd2f9604e383@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Гигиена одежды (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd3c0d97f2e056f5dc7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:09a220d1adcd18efc5b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
 UID:c1dc20d9927bc8bf7b46@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261111T140500
@@ -525,6 +622,69 @@ SUMMARY:экз.Конструктивное моделирование од
  ежды
 LOCATION:К-503
 DESCRIPTION:4 пара · Дрофа Е.А. · группы: З-Ки-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1a9fe4ab44287a9b0693@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5500b5551ce6ede8e865@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Наноматериалы и нанотехнологии (Лек
+ ция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:79234def658969f86876@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Оборудование швейного производства 
+ (Лекция)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2718b38e4b28fd49d307@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: О-Ки-241\, 
+ ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5e53bf15b82fda9074f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-241\, 
+ ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c66117d1d6648bdc4620@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T173500
+DTEND;TZID=Europe/Moscow:20261113T191000
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
 UID:867baabe6e45bea1bbac@tis-rooms

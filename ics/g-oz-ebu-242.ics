@@ -122,4 +122,58 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Кудашина В.Л. · группы: ОЗ-Э
  бу-242
 END:VEVENT
+BEGIN:VEVENT
+UID:1a38f97cf752ca5e2030@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эбу-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a265295f5a2e88ee379a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Налоги и налогообложение (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-242
+END:VEVENT
+BEGIN:VEVENT
+UID:7413ba2de6f332d2a003@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Комплексный экономический анализ (Л
+ екция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-Эб
+ у-242
+END:VEVENT
+BEGIN:VEVENT
+UID:9da4458696804ee8226c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Государственное регулирование экон
+ омики (Лекция)
+LOCATION:К-107
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
+ бу-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e29105987f270a92e6f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
+ бу-242
+END:VEVENT
 END:VCALENDAR

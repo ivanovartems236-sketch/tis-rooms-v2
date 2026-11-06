@@ -190,6 +190,72 @@ DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
  т-241
 END:VEVENT
 BEGIN:VEVENT
+UID:ff447f74e9ee735701af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Электроника (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5e6484801593880fff@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Физические основы микроэлектроники 
+ (Лаб.)
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1c05271ecd0967dcc819@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Физические основы микроэлектроники 
+ (Практика)
+LOCATION:К-504
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:926f487fa89ed4920f8c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:74a1ce8be2c6d6bf6c75@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Электроника (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a53279b52e5038c16334@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
 UID:d374355302da03f00bad@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261113T101500

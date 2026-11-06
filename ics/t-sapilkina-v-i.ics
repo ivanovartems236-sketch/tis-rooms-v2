@@ -134,6 +134,69 @@ DESCRIPTION:4 пара · Сапилкина В.И. · группы: З-Р
  т-242
 END:VEVENT
 BEGIN:VEVENT
+UID:1aeedb19d59d07c785b9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ac19ca75f16bcee5e492@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b7abcf46c9ac1294ec86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:80924177fba5cafc1f8d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Вычислительные системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1c16bdb42f321d0460@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Вычислительные системы (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:846168736de73b5801b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
 UID:b826787ffdb59b6a4947@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261113T101500
@@ -143,5 +206,15 @@ SUMMARY:экз.Основы телевидения и видеотехни
 LOCATION:К-505
 DESCRIPTION:2 пара · Сапилкина В.И. · группы: З-Р
  т-242
+END:VEVENT
+BEGIN:VEVENT
+UID:26b152108ee4a81614c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
 END:VEVENT
 END:VCALENDAR

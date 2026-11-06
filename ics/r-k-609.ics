@@ -345,6 +345,26 @@ LOCATION:К-609
 DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-242
 END:VEVENT
 BEGIN:VEVENT
+UID:92fe9ce2cf9fead35096@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Композиция костюма (Практика)
+LOCATION:К-609
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:0d9c6f6b6965232ce3ee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Рисунок (Лаб.)
+LOCATION:К-609
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: ОЗ-К
+ и-261
+END:VEVENT
+BEGIN:VEVENT
 UID:7383562f9cba4b6a3a16@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261111T155000
@@ -356,6 +376,26 @@ DESCRIPTION:5 пара · Приходченко О.В. · группы: З
  -Тб-242
 END:VEVENT
 BEGIN:VEVENT
+UID:f7bb6f3d10be183e0888@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Ионова А.Ч. · группы: О-МЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:66d3b092e83d8ceb587f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Гигиена одежды (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -Ки-241
+END:VEVENT
+BEGIN:VEVENT
 UID:13a68be64b26f6366468@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261112T140500
@@ -365,6 +405,17 @@ SUMMARY:Мембранное разделение полидисперсн
 LOCATION:К-609
 DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
  242
+END:VEVENT
+BEGIN:VEVENT
+UID:aac79ebd46abe6284454@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Лекция
+ )
+LOCATION:К-609
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef4846eed6f82940c1c@tis-rooms

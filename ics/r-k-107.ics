@@ -194,4 +194,96 @@ LOCATION:К-107
 DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
  231\, ОЗ-М-242
 END:VEVENT
+BEGIN:VEVENT
+UID:9023db094dab2f885ae0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Основы делопроизводства (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:979cb01a0ac5d950723a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Налоги и налогообложение (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3279f75c36487afa96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Бухгалтерский учет и анализ (Лекция)
+LOCATION:К-107
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-241
+END:VEVENT
+BEGIN:VEVENT
+UID:19b817593013ee755065@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Архивное дело (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:705b09d7fd387a382732@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Государственное регулирование экон
+ омики (Лекция)
+LOCATION:К-107
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
+ бу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:644c105991b828efcc35@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3e8ea83ab6b1df34b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Основы делопроизводства (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6127b5f044adf847ace1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Менеджмент (Лекция)
+LOCATION:К-107
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: О-Эбу-25
+ 1\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:22a26530339b2d0b2270@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Теория экономического анализа (Прак
+ тика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
 END:VCALENDAR

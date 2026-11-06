@@ -313,6 +313,72 @@ DESCRIPTION:3 пара · Солчатов М.Э. · группы: З-Ик
  сМ-242
 END:VEVENT
 BEGIN:VEVENT
+UID:28826fc86521ec98b7d7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Оборудование систем мобильной связи
+  (Практика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a1bfc969dbbd73136d40@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0711392b331347c43f09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Основы программирования в инфокомму
+ никационных системах (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:92e6813ef9e2fa2b97ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e46312f7bf6289954f46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Стандарты и технологии систем мобил
+ ьной связи (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ef914563260dee6ffc49@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Сети и системы мобильной связи (Прак
+ тика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
 UID:8f19b9f4e1e4a1c60687@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261112T101500
@@ -321,5 +387,16 @@ SUMMARY:экз.Сети и системы мобильной связи
 LOCATION:К-413
 DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Ик
  сМ-242
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9d2a11613b86beb399@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Основы программирования в инфокомму
+ никационных системах (Практика)
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-251
 END:VEVENT
 END:VCALENDAR

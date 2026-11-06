@@ -215,4 +215,26 @@ LOCATION:К-612
 DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
  Тм-242
 END:VEVENT
+BEGIN:VEVENT
+UID:22af9d349bcd893f803c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100000
+SUMMARY:Введение в профессиональную деятель
+ ность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf2746f6d8cc4e66ced@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101000
+DTEND;TZID=Europe/Moscow:20261114T114000
+SUMMARY:Введение в профессиональную деятель
+ ность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
 END:VCALENDAR

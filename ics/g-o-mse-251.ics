@@ -166,4 +166,74 @@ LOCATION:К-205
 DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСЭ-251
 END:VEVENT
+BEGIN:VEVENT
+UID:cb2e66447842b4a5aa2a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Технико-экономическое обоснование п
+ роектов в сфере энергосбережения и ресу
+ рсосбережения (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7f69330b16d017ee918a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Технико-экономическое обоснование п
+ роектов в сфере энергосбережения и ресу
+ рсосбережения (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a04913220a687125b042@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Ториков А.В. · группы: О-МСЭ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:99bae67fda896fcb347b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Лекция)
+LOCATION:К-205
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:24b543fceb21fcd8f4fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Теория и модели организации сервиса 
+ энергетического оборудования (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:33468c5d11bc48a83d4d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T173500
+DTEND;TZID=Europe/Moscow:20261113T191000
+SUMMARY:Теория и модели организации сервиса 
+ энергетического оборудования (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСЭ-
+ 251
+END:VEVENT
 END:VCALENDAR

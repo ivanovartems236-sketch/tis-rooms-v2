@@ -111,4 +111,77 @@ LOCATION:К-210
 DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
  251
 END:VEVENT
+BEGIN:VEVENT
+UID:c9fdcc6f034264bd40ac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Налоги и налогообложение (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:ff686c66b840373854f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-217
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-251
+END:VEVENT
+BEGIN:VEVENT
+UID:354ccfbfb4c1ef66c509@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Бухгалтерский учет и анализ (Лекция)
+LOCATION:К-107
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-241
+END:VEVENT
+BEGIN:VEVENT
+UID:513858cf4d7a7d113f92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Комплексный экономический анализ (Л
+ екция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-Эб
+ у-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:be73a85197d5b174f1e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2a7d5002b2d98234ed43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Теория экономического анализа (Прак
+ тика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5582e4f0f6eac333df@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Бухгалтерский учет и анализ (Практик
+ а)
+LOCATION:К-106
+DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-241
+END:VEVENT
 END:VCALENDAR

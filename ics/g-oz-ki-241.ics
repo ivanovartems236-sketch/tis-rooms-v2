@@ -220,4 +220,56 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Кудашина В.Л. · группы: ОЗ-К
  и-241
 END:VEVENT
+BEGIN:VEVENT
+UID:aaa26d403c24f3d635c3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:71ee8e0d26a369b1a8cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Композиция костюма (Практика)
+LOCATION:К-609
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:570f84895ab2cca1c072@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-К
+ и-241
+END:VEVENT
+BEGIN:VEVENT
+UID:5ecff1376351faf1af22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:0bcb7c79a04ffde119ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Лекция)
+LOCATION:К-503
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: ОЗ-Ки-241
+END:VEVENT
 END:VCALENDAR

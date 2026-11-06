@@ -376,4 +376,196 @@ LOCATION:К-606
 DESCRIPTION:4 пара · Петров О.П. · группы: О-Тэис-
  11-261
 END:VEVENT
+BEGIN:VEVENT
+UID:4363213ec816ac86c940@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T083000
+DTEND;TZID=Europe/Moscow:20261109T100500
+SUMMARY:Операционные системы и среды (Практи
+ ка)
+LOCATION:К-408
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:efa2b19b4541cfe344a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Архитектура аппаратных средств и ос
+ новы сетевых технологий (Лекция)
+LOCATION:К-401
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:58f5fe1f7a6169d33f67@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:История России (Практика)
+LOCATION:К-106
+DESCRIPTION:3 пара · Варавина А.В. · группы: О-Тэ
+ ис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:94641bc150b517dc717c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:История России (Лекция)
+LOCATION:К-106
+DESCRIPTION:4 пара · Варавина А.В. · группы: О-Тэ
+ ис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6767fd447db71b5ee1e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T083000
+DTEND;TZID=Europe/Moscow:20261110T100500
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Лекция)
+LOCATION:К-401
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:afd4ce7bc99a4101c569@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T101500
+DTEND;TZID=Europe/Moscow:20261110T115000
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:be6ef458a57f9822c350@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:86d08933353dbf450366@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Тэис-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fd001c068b45034e91c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T083000
+DTEND;TZID=Europe/Moscow:20261111T100500
+SUMMARY:Операционные системы и среды (Практи
+ ка)
+LOCATION:В-202
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fa47bd6e590b7b7a1645@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T101500
+DTEND;TZID=Europe/Moscow:20261111T115000
+SUMMARY:Базы данных (Практика)
+LOCATION:В-202
+DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bde65dcd73c3f2e62360@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T122000
+DTEND;TZID=Europe/Moscow:20261111T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-306
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:36380a23124267ffd7c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-408
+DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fc25a68df355cb29a8ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Архитектура аппаратных средств и ос
+ новы сетевых технологий (Практика)
+LOCATION:К-401
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ef6729f743f836b92d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T122000
+DTEND;TZID=Europe/Moscow:20261112T135500
+SUMMARY:Базы данных (Практика)
+LOCATION:В-202
+DESCRIPTION:3 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:897ccdfd16297ee56f14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Базы данных (Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7078225cf520e59c73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Математический аппарат в отрасли ин
+ формационных технологий (Лекция)
+LOCATION:К-301
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7cae2e406b5de872fb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Математический аппарат в отрасли ин
+ формационных технологий (Практика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-Т
+ эис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b4bac30b44165760ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Тэис-
+ 11-261
+END:VEVENT
 END:VCALENDAR

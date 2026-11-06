@@ -258,4 +258,72 @@ LOCATION:К-505
 DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Рт-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:0cde4d8909f632d08505@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T083000
+DTEND;TZID=Europe/Moscow:20261114T100000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:06419201f14147efa727@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T101000
+DTEND;TZID=Europe/Moscow:20261114T114000
+SUMMARY:Основы автомобильной электроники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:67be9cc6ede814b5860a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T122000
+DTEND;TZID=Europe/Moscow:20261114T135500
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (Л
+ екция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:39d8e25875d7551b0872@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T140500
+DTEND;TZID=Europe/Moscow:20261114T154000
+SUMMARY:Диагностика и обслуживание радиоэле
+ ктронных средств бытового назначения (П
+ рактика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a17fdac02631a7e9b66b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T155000
+DTEND;TZID=Europe/Moscow:20261114T172500
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Практика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:2b8d26a82dda7419bc41@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261114T173500
+DTEND;TZID=Europe/Moscow:20261114T191000
+SUMMARY:Метрология\, стандартизация и сертиф
+ икация в телекоммуникациях (Лаб.)
+LOCATION:К-413
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: ОЗ-И
+ ксМ-241
+END:VEVENT
 END:VCALENDAR

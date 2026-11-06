@@ -250,4 +250,117 @@ LOCATION:В-103
 DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-М
  КИ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:815fd26d54f9236fab04@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T155000
+DTEND;TZID=Europe/Moscow:20261109T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Смирнова Н.Г. · группы: О-МК
+ И-261
+END:VEVENT
+BEGIN:VEVENT
+UID:cc228f1bedc0eb47f638@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T173500
+DTEND;TZID=Europe/Moscow:20261109T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ddfb4e80ba01829aa1bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Лекция)
+LOCATION:К-503
+DESCRIPTION:4 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9f8e916b0ea7744d03@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Теория решения изобретательских зад
+ ач (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:55dda056cf79a549f00e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Специальные главы математики (Лекци
+ я)
+LOCATION:К-301
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-М
+ КИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:59f5df5c24eb6803c1fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T140500
+DTEND;TZID=Europe/Moscow:20261112T154000
+SUMMARY:Инновационный менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:4 пара · Ионова А.Ч. · группы: О-МКИ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:27ef1ac54fe19569539b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T155000
+DTEND;TZID=Europe/Moscow:20261112T172500
+SUMMARY:Планирование эксперимента (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f1ed89a70babf77f3db1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T173500
+DTEND;TZID=Europe/Moscow:20261112T191000
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:6 пара · Ионова А.Ч. · группы: О-МКИ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a57746d285f64eaa46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T140500
+DTEND;TZID=Europe/Moscow:20261113T154000
+SUMMARY:Основы подготовки диссертации (Лекц
+ ия)
+LOCATION:К-612
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:747539b09f5f17ba3c9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T155000
+DTEND;TZID=Europe/Moscow:20261113T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b544fbf7d0f58c1676a5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T173500
+DTEND;TZID=Europe/Moscow:20261113T191000
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
 END:VCALENDAR

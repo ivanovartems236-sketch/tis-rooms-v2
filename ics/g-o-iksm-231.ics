@@ -282,4 +282,149 @@ LOCATION:К-413
 DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
  сМ-231
 END:VEVENT
+BEGIN:VEVENT
+UID:b17193348f1b8285196f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T101500
+DTEND;TZID=Europe/Moscow:20261109T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лекция)
+LOCATION:К-502
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:4096b6996c72b47fc5b7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T122000
+DTEND;TZID=Europe/Moscow:20261109T135500
+SUMMARY:Оборудование систем мобильной связи
+  (Практика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:54a85f90382f63877982@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261109T140500
+DTEND;TZID=Europe/Moscow:20261109T154000
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e0fc7c8729d04630c191@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T122000
+DTEND;TZID=Europe/Moscow:20261110T135500
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e5088e6c3d77586357@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T140500
+DTEND;TZID=Europe/Moscow:20261110T154000
+SUMMARY:Стандарты и технологии систем мобил
+ ьной связи (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a849ef98d9bae03763a8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261110T155000
+DTEND;TZID=Europe/Moscow:20261110T172500
+SUMMARY:Сети и системы мобильной связи (Прак
+ тика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d59eb5b48146088b9dbf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T140500
+DTEND;TZID=Europe/Moscow:20261111T154000
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Икс
+ М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfbb58f404da84d8320@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261111T155000
+DTEND;TZID=Europe/Moscow:20261111T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:edadf168b5dcbef3ab74@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T083000
+DTEND;TZID=Europe/Moscow:20261112T100500
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:b46c69208a5f133798b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261112T101500
+DTEND;TZID=Europe/Moscow:20261112T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a6d84867d8771fe853@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T083000
+DTEND;TZID=Europe/Moscow:20261113T100500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Лекц
+ ия)
+LOCATION:К-506
+DESCRIPTION:1 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1a37d53b91618c883f73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T101500
+DTEND;TZID=Europe/Moscow:20261113T115000
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6d1321c1ed98c8e7a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261113T122000
+DTEND;TZID=Europe/Moscow:20261113T135500
+SUMMARY:Основы компьютерного проектировани
+ я сетей и средств инфокоммуникаций (Прак
+ тика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-И
+ ксМ-231
+END:VEVENT
 END:VCALENDAR
