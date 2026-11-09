@@ -667,17 +667,6 @@ DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
-UID:ff587a3c6a307bec7e68@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261112T122000
-DTEND;TZID=Europe/Moscow:20261112T135500
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Лекция)
-LOCATION:К-406
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
- -251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:b7e721ea264cffd78829@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261112T140500
