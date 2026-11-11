@@ -17,57 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1be10fd9db16db031aae@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T173500
-DTEND;TZID=Europe/Moscow:20261026T191000
-SUMMARY:Физическая культура и спорт (Практик
- а)
-LOCATION:СЗ
-DESCRIPTION:6 пара · Петров О.П. · группы: З-ИксМ-
- 241\, З-ИксМ-242\, З-ИстТ-242\, З-Ки-241\, З-Ки-242\, З-
- Рт-241\, З-Рт-242\, З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст
- -241\, З-Ст-242\, З-Сэ-241\, З-Сэ-242\, З-Т-241\, З-Т-242\, 
- З-Тб-242\, З-Тм-241\, З-Тм-242
-END:VEVENT
-BEGIN:VEVENT
-UID:f27bc447e4685c6ec3b8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T101500
-DTEND;TZID=Europe/Moscow:20261029T115000
-SUMMARY:Общая физическая подготовка (Практи
- ка)
-LOCATION:СЗ
-DESCRIPTION:2 пара · Петров О.П. · группы: О-ИксМ-
- 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
- ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
- 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
-END:VEVENT
-BEGIN:VEVENT
-UID:0fc10d6337a665e22fe4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T122000
-DTEND;TZID=Europe/Moscow:20261029T135500
-SUMMARY:Общая физическая подготовка (Практи
- ка)
-LOCATION:СЗ
-DESCRIPTION:3 пара · Петров О.П. · группы: О-ИксМ-
- 261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-Тб-
- 261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ
- -М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:233da8de856496c920d8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T140500
-DTEND;TZID=Europe/Moscow:20261029T154000
-SUMMARY:Физическая культура (Практика)
-LOCATION:СЗ
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-11
- -241\, О-Исп-11-251\, О-Исп-9-231\, О-Исп-9-241\, О-Исп-9-
- 251\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
 UID:fc21936d4c1e67d5e689@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T140500

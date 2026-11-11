@@ -17,52 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e0adb3ffc171fb1bfce7@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T140500
-DTEND;TZID=Europe/Moscow:20261027T154000
-SUMMARY:Методы исследования и моделирования
-  информационных процессов и технологий (
- Лекция)
-LOCATION:К-406
-DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:fe0f2d83b282bedb007a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T155000
-DTEND;TZID=Europe/Moscow:20261027T172500
-SUMMARY:Модели и методы поддержки принятия р
- ешений (Практика)
-LOCATION:К-406
-DESCRIPTION:5 пара · Орлова А.Ю. · группы: ОЗ-МИС
- Т-251
-END:VEVENT
-BEGIN:VEVENT
-UID:e597c17fc181f0ffeaa1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T173500
-DTEND;TZID=Europe/Moscow:20261029T191000
-SUMMARY:Инструментальные платформы информа
- ционных и коммуникационных технологий (
- Практика)
-LOCATION:К-401
-DESCRIPTION:6 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
- 251
-END:VEVENT
-BEGIN:VEVENT
-UID:811f788a40003455f251@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T192000
-DTEND;TZID=Europe/Moscow:20261029T205500
-SUMMARY:Анализ и синтез информационных сист
- ем (Лаб.)
-LOCATION:К-401
-DESCRIPTION:7 пара · Черепов П.В. · группы: ОЗ-МИ
- СТ-251
-END:VEVENT
-BEGIN:VEVENT
 UID:1040695b65089a607bae@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T140500

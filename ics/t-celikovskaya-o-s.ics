@@ -17,17 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bb0a0949d2515248884a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T173500
-DTEND;TZID=Europe/Moscow:20261029T191000
-SUMMARY:Особенности проектирования одежды п
- о индивидуальным заказам (Практика)
-LOCATION:В-301
-DESCRIPTION:6 пара · Целиковская О.С. / Приходче
- нко О.В. · группы: З-Ки-242
-END:VEVENT
-BEGIN:VEVENT
 UID:e212fd3dfeafc7fde241@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000

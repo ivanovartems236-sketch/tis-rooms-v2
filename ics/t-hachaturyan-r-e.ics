@@ -17,63 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4ee66d3851799eb647b8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T122000
-DTEND;TZID=Europe/Moscow:20261026T135500
-SUMMARY:Высшая математика (Практика)
-LOCATION:К-121
-DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
- ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
- О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
- 1\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:93a38ae3d2da33a43459@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T083000
-DTEND;TZID=Europe/Moscow:20261028T100500
-SUMMARY:Высшая математика (Лекция)
-LOCATION:К-504
-DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
- ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
- О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
- 1\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:45de169336d3ab12a04f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T101500
-DTEND;TZID=Europe/Moscow:20261028T115000
-SUMMARY:Дискретная математика с элементами 
- математической логики (Практика)
-LOCATION:К-313
-DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
- сп-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:a5c26fa6f54f47204e77@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T101500
-DTEND;TZID=Europe/Moscow:20261030T115000
-SUMMARY:Математический аппарат в отрасли ин
- формационных технологий (Лекция)
-LOCATION:К-301
-DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-Т
- эис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:eccc292fb81aaeaeee5a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T122000
-DTEND;TZID=Europe/Moscow:20261030T135500
-SUMMARY:Математический аппарат в отрасли ин
- формационных технологий (Практика)
-LOCATION:К-301
-DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-Т
- эис-11-261
-END:VEVENT
-BEGIN:VEVENT
 UID:eb814d428a1db16e18a5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T083000

@@ -17,50 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:76a03c7b8f239a6c827a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T122000
-DTEND;TZID=Europe/Moscow:20261026T135500
-SUMMARY:Разработка программных модулей (Лек
- ция)
-LOCATION:К-401
-DESCRIPTION:3 пара · Баранова Т.М. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:36c92a67aba7a95efe5c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T140500
-DTEND;TZID=Europe/Moscow:20261026T154000
-SUMMARY:Разработка программных модулей (Лек
- ция)
-LOCATION:К-401
-DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:a6175ee041b2dcfc80d0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T155000
-DTEND;TZID=Europe/Moscow:20261026T172500
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:К-401
-DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:0e6a637b28f4557299a1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T173500
-DTEND;TZID=Europe/Moscow:20261026T191000
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:К-401
-DESCRIPTION:6 пара · Баранова Т.М. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:45a227594fa8ff1bd6f2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261109T122000

@@ -17,69 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6b1e182a89dbce295066@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T122000
-DTEND;TZID=Europe/Moscow:20261026T135500
-SUMMARY:Цифровая обработка сигналов (Лаб.)
-LOCATION:К-408
-DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:9abe69e59aa14c60a439@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T083000
-DTEND;TZID=Europe/Moscow:20261027T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Икс
- М-241
-END:VEVENT
-BEGIN:VEVENT
-UID:59983edbd309b7b67ef0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T083000
-DTEND;TZID=Europe/Moscow:20261028T100500
-SUMMARY:Общая теория связи (Лаб.)
-LOCATION:К-413
-DESCRIPTION:1 пара · Сагдеев К.М. · группы: ОЗ-Ик
- сМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:6433b54f615e502f525b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T101500
-DTEND;TZID=Europe/Moscow:20261028T115000
-SUMMARY:Цифровая схемотехника телекоммуник
- ационных устройств (Лаб.)
-LOCATION:К-413
-DESCRIPTION:2 пара · Сагдеев К.М. · группы: ОЗ-Ик
- сМ-241
-END:VEVENT
-BEGIN:VEVENT
-UID:9f4b3a87c51d85c15966@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T083000
-DTEND;TZID=Europe/Moscow:20261029T100500
-SUMMARY:Цифровая обработка сигналов (Лекция)
-LOCATION:К-413
-DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-ИксМ-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:3472db7632d04f4d97e4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T101500
-DTEND;TZID=Europe/Moscow:20261029T115000
-SUMMARY:Психология командной работы и лидер
- ства (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-И
- ксМ-241
-END:VEVENT
-BEGIN:VEVENT
 UID:178dfc2fa6d5c279995d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T083000

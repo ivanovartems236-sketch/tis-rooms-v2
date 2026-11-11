@@ -17,39 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:83bae0d17a25ba3e6131@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T140500
-DTEND;TZID=Europe/Moscow:20261029T154000
-SUMMARY:Управление техносферной безопаснос
- тью (Лекция)
-LOCATION:К-301
-DESCRIPTION:4 пара · Погребной М.Н. / Дрофа Е.А. · 
- группы: З-Тб-242
-END:VEVENT
-BEGIN:VEVENT
-UID:4f9ba21d4649f343cb64@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T192000
-DTEND;TZID=Europe/Moscow:20261029T205500
-SUMMARY:Проектирование бытовой техники (Пра
- ктика)
-LOCATION:К-612
-DESCRIPTION:7 пара · Погребной М.Н. / Малсугенов 
- А.В. · группы: З-Тм-242
-END:VEVENT
-BEGIN:VEVENT
-UID:fd60734152c54eafba68@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T155000
-DTEND;TZID=Europe/Moscow:20261030T172500
-SUMMARY:Управление техносферной безопаснос
- тью (Практика)
-LOCATION:К-609
-DESCRIPTION:5 пара · Погребной М.Н. / Дрофа Е.А. · 
- группы: З-Тб-242
-END:VEVENT
-BEGIN:VEVENT
 UID:94baf1a16567621dc064@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T122000

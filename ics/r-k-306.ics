@@ -17,69 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:588461b3932eacb6d31d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T101500
-DTEND;TZID=Europe/Moscow:20261026T115000
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
- Исп-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:47a7f8b5e483e6caefa8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T101500
-DTEND;TZID=Europe/Moscow:20261027T115000
-SUMMARY:Практикум по коммуникативной компет
- ентности (Лекция)
-LOCATION:К-306
-DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
- 261
-END:VEVENT
-BEGIN:VEVENT
-UID:c88635dd0e129c19c1e8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T101500
-DTEND;TZID=Europe/Moscow:20261028T115000
-SUMMARY:Деловая культура (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Дп-11-261\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:42d045a565e4ad7928c9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T122000
-DTEND;TZID=Europe/Moscow:20261028T135500
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
- Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:c0c14e012a04eb04bccf@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T101500
-DTEND;TZID=Europe/Moscow:20261030T115000
-SUMMARY:История (Лекция)
-LOCATION:К-306
-DESCRIPTION:2 пара · Варавина А.В. · группы: О-Ис
- п-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:0fa85fb3ec5c6899ccc6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T122000
-DTEND;TZID=Europe/Moscow:20261030T135500
-SUMMARY:История (Практика)
-LOCATION:К-306
-DESCRIPTION:3 пара · Варавина А.В. · группы: О-Ис
- п-9-251
-END:VEVENT
-BEGIN:VEVENT
 UID:4430a8776706114aa7ed@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T101500

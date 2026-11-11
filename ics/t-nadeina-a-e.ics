@@ -17,60 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2336224ffa668962939d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T122000
-DTEND;TZID=Europe/Moscow:20261027T135500
-SUMMARY:Технология организации международн
- ого туризма (Практика)
-LOCATION:К-208
-DESCRIPTION:3 пара · Надеина А.Е. / Торикова Е.Ф. 
- · группы: З-Т-242
-END:VEVENT
-BEGIN:VEVENT
-UID:b73e7173f2f32700179a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T155000
-DTEND;TZID=Europe/Moscow:20261028T172500
-SUMMARY:Маркетинг в туристской индустрии (Пр
- актика)
-LOCATION:К-208
-DESCRIPTION:5 пара · Надеина А.Е. / Семенова Л.В. 
- · группы: З-Т-241
-END:VEVENT
-BEGIN:VEVENT
-UID:b8fc076827ddb7a5a87f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T173500
-DTEND;TZID=Europe/Moscow:20261028T191000
-SUMMARY:Страхование в туризме (Практика)
-LOCATION:К-205
-DESCRIPTION:6 пара · Надеина А.Е. / Чимонина И.В. 
- · группы: З-Т-242
-END:VEVENT
-BEGIN:VEVENT
-UID:b49cb95fd7fa34fb9927@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T155000
-DTEND;TZID=Europe/Moscow:20261029T172500
-SUMMARY:Технология и организация туроперато
- рских и турагентских услуг (Практика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
- · группы: З-Т-241\, З-Т-242
-END:VEVENT
-BEGIN:VEVENT
-UID:57f38a8f508161afc29d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T173500
-DTEND;TZID=Europe/Moscow:20261029T191000
-SUMMARY:Менеджмент в туристской индустрии (П
- рактика)
-LOCATION:К-208
-DESCRIPTION:6 пара · Надеина А.Е. / Семенова Л.В. 
- · группы: З-Т-241
-END:VEVENT
-BEGIN:VEVENT
 UID:9e7d11a0931b8e85fceb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T140500

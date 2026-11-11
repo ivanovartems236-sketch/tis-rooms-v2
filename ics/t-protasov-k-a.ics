@@ -17,28 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:04887ef390726b7b3055@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T122000
-DTEND;TZID=Europe/Moscow:20261029T135500
-SUMMARY:Проектирование информационных сист
- ем управления (Лаб.)
-LOCATION:В-201
-DESCRIPTION:3 пара · Протасов К.А. / Саиег Т.Х. · г
- руппы: О-ИстТ-231
-END:VEVENT
-BEGIN:VEVENT
-UID:a72bd65814d30b901e57@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T173500
-DTEND;TZID=Europe/Moscow:20261030T191000
-SUMMARY:Проектирование информационных сист
- ем управления (Лаб.)
-LOCATION:К-401
-DESCRIPTION:6 пара · Протасов К.А. / Саиег Т.Х. · г
- руппы: З-ИстТ-242
-END:VEVENT
-BEGIN:VEVENT
 UID:52d74087bca14a4a984a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261112T122000

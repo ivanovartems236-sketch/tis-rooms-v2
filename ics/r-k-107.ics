@@ -17,67 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6d1ebc29a0d7abb832b3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T101500
-DTEND;TZID=Europe/Moscow:20261027T115000
-SUMMARY:Электропреобразовательные устройст
- ва радиоэлектронных систем (Практика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
-END:VEVENT
-BEGIN:VEVENT
-UID:7c3af806e2f866bb933e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T140500
-DTEND;TZID=Europe/Moscow:20261027T154000
-SUMMARY:Основы делопроизводства (Практика)
-LOCATION:К-107
-DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:931375c05f3961ddbfbc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T083000
-DTEND;TZID=Europe/Moscow:20261028T100500
-SUMMARY:Бухгалтерский учет и анализ (Лекция)
-LOCATION:К-107
-DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-Эп
- о-241
-END:VEVENT
-BEGIN:VEVENT
-UID:e8e90171fb8c579a4c72@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T140500
-DTEND;TZID=Europe/Moscow:20261028T154000
-SUMMARY:Делопроизводство (Практика)
-LOCATION:К-107
-DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
- уппы: О-Эбу-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b5430a9e7ae0d4eb1d6a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T083000
-DTEND;TZID=Europe/Moscow:20261030T100500
-SUMMARY:Менеджмент (Лекция)
-LOCATION:К-107
-DESCRIPTION:1 пара · Ионова А.Ч. · группы: О-Эбу-25
- 1\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк-252
-END:VEVENT
-BEGIN:VEVENT
-UID:09c0a92d865822a0f68d@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T101500
-DTEND;TZID=Europe/Moscow:20261030T115000
-SUMMARY:Теория экономического анализа (Прак
- тика)
-LOCATION:К-107
-DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
- 251
-END:VEVENT
-BEGIN:VEVENT
 UID:c61ed38d0eab92a01382@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T083000

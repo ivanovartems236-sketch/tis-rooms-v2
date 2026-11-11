@@ -17,59 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ea6c6106d4aec18e0f6b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261027T083000
-DTEND;TZID=Europe/Moscow:20261027T100500
-SUMMARY:Правовое обеспечение профессиональ
- ной деятельности (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:dd72ce517f2301cea0d2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T083000
-DTEND;TZID=Europe/Moscow:20261028T100500
-SUMMARY:Бухгалтерский учет и анализ (Лекция)
-LOCATION:К-107
-DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-Эп
- о-241
-END:VEVENT
-BEGIN:VEVENT
-UID:1418925360782d2fdcd1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T083000
-DTEND;TZID=Europe/Moscow:20261029T100500
-SUMMARY:Эконометрика (Практика)
-LOCATION:К-217
-DESCRIPTION:1 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
- 241
-END:VEVENT
-BEGIN:VEVENT
-UID:5943c3bedc49373c92af@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T101500
-DTEND;TZID=Europe/Moscow:20261029T115000
-SUMMARY:Психология командной работы и лидер
- ства (Лекция)
-LOCATION:К-504
-DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
- по-241
-END:VEVENT
-BEGIN:VEVENT
-UID:813b9217bd1aa704ffe4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T122000
-DTEND;TZID=Europe/Moscow:20261030T135500
-SUMMARY:Бухгалтерский учет и анализ (Практик
- а)
-LOCATION:К-106
-DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
- о-241
-END:VEVENT
-BEGIN:VEVENT
 UID:809d6dd063720fbc0d83@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261103T083000

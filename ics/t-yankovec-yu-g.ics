@@ -17,39 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:47ccfea79d97eeafd1e9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T155000
-DTEND;TZID=Europe/Moscow:20261026T172500
-SUMMARY:Математические модели информационн
- ых процессов (Лаб.)
-LOCATION:В-202
-DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
- уппы: О-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:fbd1cb7ded7ca4ff9c83@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T083000
-DTEND;TZID=Europe/Moscow:20261030T100500
-SUMMARY:Технологии обработки информации (Ла
- б.)
-LOCATION:К-502
-DESCRIPTION:1 пара · Янковец Ю.Г. / Черепов П.В. · 
- группы: О-ИстТ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:854c08c9d6e5724394a4@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261030T155000
-DTEND;TZID=Europe/Moscow:20261030T172500
-SUMMARY:Математические модели информационн
- ых процессов (Практика)
-LOCATION:В-202
-DESCRIPTION:5 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
- уппы: О-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
 UID:1447fd08e4f04a330b1b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T083000

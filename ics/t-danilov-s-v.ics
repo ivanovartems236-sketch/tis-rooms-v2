@@ -17,38 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9fdcf76388c2075b6f85@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261031T083000
-DTEND;TZID=Europe/Moscow:20261031T100000
-SUMMARY:Экономика отрасли (Лекция)
-LOCATION:К-217
-DESCRIPTION:1 пара · Данилов С.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:2cfef1b7000e014f19f6@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261031T101000
-DTEND;TZID=Europe/Moscow:20261031T114000
-SUMMARY:Менеджмент в профессиональной деяте
- льности (Практика)
-LOCATION:К-217
-DESCRIPTION:2 пара · Данилов С.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231
-END:VEVENT
-BEGIN:VEVENT
-UID:4989b0ecb3b86efcb1e8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261031T121000
-DTEND;TZID=Europe/Moscow:20261031T134000
-SUMMARY:Менеджмент в профессиональной деяте
- льности (Лекция)
-LOCATION:К-217
-DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231
-END:VEVENT
-BEGIN:VEVENT
 UID:c1612643b26fbc7dbb49@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261107T083000

@@ -17,49 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cd9a25458ef9577feda5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261026T101500
-DTEND;TZID=Europe/Moscow:20261026T115000
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
- Исп-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:02f2d8fb58c8d655aaa2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T083000
-DTEND;TZID=Europe/Moscow:20261028T100500
-SUMMARY:Иностранный язык (Лекция)
-LOCATION:К-308
-DESCRIPTION:1 пара · Дерепасова О.В. · группы: О-
- Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
-END:VEVENT
-BEGIN:VEVENT
-UID:80990af97feeab279028@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T101500
-DTEND;TZID=Europe/Moscow:20261028T115000
-SUMMARY:Иностранный язык в профессиональной
-  деятельности. (Практика)
-LOCATION:К-301
-DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
- Исп-11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:4c2729ec40bc19b23d58@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261028T122000
-DTEND;TZID=Europe/Moscow:20261028T135500
-SUMMARY:Иностранный язык в профессиональной
-  деятельности (Практика)
-LOCATION:К-306
-DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
- Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
 UID:b4b1bab9beaa1c26bb64@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261102T101500

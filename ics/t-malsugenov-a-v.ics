@@ -17,62 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5079c6fb49a3f20233c2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T173500
-DTEND;TZID=Europe/Moscow:20261029T191000
-SUMMARY:Проектирование технологии восстано
- вления работоспособности бытовых машин 
- и приборов (Лекция)
-LOCATION:К-612
-DESCRIPTION:6 пара · Малсугенов А.В. · группы: З-
- Тм-242
-END:VEVENT
-BEGIN:VEVENT
-UID:d8a2e27ba471df7cba6f@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261029T192000
-DTEND;TZID=Europe/Moscow:20261029T205500
-SUMMARY:Проектирование бытовой техники (Пра
- ктика)
-LOCATION:К-612
-DESCRIPTION:7 пара · Погребной М.Н. / Малсугенов 
- А.В. · группы: З-Тм-242
-END:VEVENT
-BEGIN:VEVENT
-UID:dca0f308dacc0c031d76@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261031T083000
-DTEND;TZID=Europe/Moscow:20261031T100000
-SUMMARY:Введение в профессиональную деятель
- ность (Лекция)
-LOCATION:К-612
-DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
- Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:1f95785310c7a34721bb@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261031T101000
-DTEND;TZID=Europe/Moscow:20261031T114000
-SUMMARY:Введение в профессиональную деятель
- ность (Практика)
-LOCATION:К-612
-DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
- Тм-261
-END:VEVENT
-BEGIN:VEVENT
-UID:5a0720556be8cfe190ff@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261031T121000
-DTEND;TZID=Europe/Moscow:20261031T134000
-SUMMARY:Проектирование бытовой техники (Лек
- ция)
-LOCATION:К-612
-DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
- Тм-241\, З-Тм-242
-END:VEVENT
-BEGIN:VEVENT
 UID:8e8d43b452609d57919e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261106T173500
