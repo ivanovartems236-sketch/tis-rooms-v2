@@ -170,4 +170,45 @@ SUMMARY:Производственный менеджмент (Практи
 LOCATION:К-210
 DESCRIPTION:4 пара · Ионова А.Ч. · группы: ОЗ-М-242
 END:VEVENT
+BEGIN:VEVENT
+UID:4f7f3f3788725d74f567@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:a21dd0d84d775e950c14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T101500
+DTEND;TZID=Europe/Moscow:20261117T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:021797ff92353881830b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e2330481bd7c77fa44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T140500
+DTEND;TZID=Europe/Moscow:20261120T154000
+SUMMARY:Стратегический менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-24
+ 2
+END:VEVENT
 END:VCALENDAR

@@ -209,4 +209,68 @@ LOCATION:К-306
 DESCRIPTION:3 пара · Варавина А.В. · группы: О-Ис
  п-9-251
 END:VEVENT
+BEGIN:VEVENT
+UID:eeb6110a11cc738d2863@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T083000
+DTEND;TZID=Europe/Moscow:20261116T100500
+SUMMARY:Деловая культура (Практика)
+LOCATION:К-306
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa5a5f8a14c84d8c8a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-306
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3950f0f85442badb60@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T173500
+DTEND;TZID=Europe/Moscow:20261117T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:86c4061becaeb8edbbb8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T192000
+DTEND;TZID=Europe/Moscow:20261117T205500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:7 пара · Смирнова Н.Г. · группы: ОЗ-М
+ ИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d004f48d1d4607d53b83@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Исп-11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:ca310d17480d8fba1046@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T140500
+DTEND;TZID=Europe/Moscow:20261119T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-306
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
 END:VCALENDAR

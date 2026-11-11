@@ -155,4 +155,47 @@ LOCATION:К-106
 DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
  о-241
 END:VEVENT
+BEGIN:VEVENT
+UID:d1b7ea205eab623a65ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:37f28a8cb01a59cf4f51@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T101500
+DTEND;TZID=Europe/Moscow:20261117T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эпо-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:9c614501d2211a1943e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-Э
+ по-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c9863c6c9f6f7735571d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
+SUMMARY:Экономика предприятия (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
+ по-241
+END:VEVENT
 END:VCALENDAR

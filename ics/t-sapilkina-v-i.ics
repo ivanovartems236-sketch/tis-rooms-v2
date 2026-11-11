@@ -217,4 +217,26 @@ LOCATION:К-505
 DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
  ксМ-261\, О-Рт-261
 END:VEVENT
+BEGIN:VEVENT
+UID:722bf9090b1365f5fb67@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T140500
+DTEND;TZID=Europe/Moscow:20261118T154000
+SUMMARY:Основы телевидения и видеотехники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4d9e12160d7c98fbbf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T101500
+DTEND;TZID=Europe/Moscow:20261119T115000
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-Р
+ т-231
+END:VEVENT
 END:VCALENDAR

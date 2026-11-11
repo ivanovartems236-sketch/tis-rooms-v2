@@ -99,4 +99,25 @@ LOCATION:К-210
 DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
  231
 END:VEVENT
+BEGIN:VEVENT
+UID:264edd947c4b0ed78331@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T140500
+DTEND;TZID=Europe/Moscow:20261119T154000
+SUMMARY:Теоретические основы прогнозирован
+ ия (Лекция)
+LOCATION:К-107
+DESCRIPTION:4 пара · Колосова О.Ю. / Ионова А.Ч. · 
+ группы: ОЗ-М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ef478447e433b264e675@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T140500
+DTEND;TZID=Europe/Moscow:20261120T154000
+SUMMARY:Стратегический менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-23
+ 1
+END:VEVENT
 END:VCALENDAR

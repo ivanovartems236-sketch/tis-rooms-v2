@@ -200,4 +200,75 @@ LOCATION:К-201
 DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
  251
 END:VEVENT
+BEGIN:VEVENT
+UID:1a5db37a5807c243d8a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T140500
+DTEND;TZID=Europe/Moscow:20261117T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-М-251
+END:VEVENT
+BEGIN:VEVENT
+UID:985c5f6c992fb1399e8f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T155000
+DTEND;TZID=Europe/Moscow:20261117T172500
+SUMMARY:Организация предпринимательской де
+ ятельности (Практика)
+LOCATION:К-217
+DESCRIPTION:5 пара · Ионова А.Ч. · группы: ОЗ-М-251
+END:VEVENT
+BEGIN:VEVENT
+UID:095bb01dc6a3093b80da@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T122000
+DTEND;TZID=Europe/Moscow:20261118T135500
+SUMMARY:Самоменеджмент (Лекция)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:9124cb5942b8657aab1d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T140500
+DTEND;TZID=Europe/Moscow:20261118T154000
+SUMMARY:Учет и анализ: управленческий учет (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:a9366a1b1d69dc050bc7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T083000
+DTEND;TZID=Europe/Moscow:20261119T100500
+SUMMARY:Организация предпринимательской де
+ ятельности (Лекция)
+LOCATION:К-217
+DESCRIPTION:1 пара · Гончаров В.Н. / Ионова А.Ч. · 
+ группы: ОЗ-М-251
+END:VEVENT
+BEGIN:VEVENT
+UID:88abaaa1b1c8c6b1f2a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T101500
+DTEND;TZID=Europe/Moscow:20261119T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-М-251
+END:VEVENT
+BEGIN:VEVENT
+UID:71bb3832e6496effa303@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T122000
+DTEND;TZID=Europe/Moscow:20261119T135500
+SUMMARY:Организационное поведение (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
 END:VCALENDAR

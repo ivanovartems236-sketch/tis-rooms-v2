@@ -172,4 +172,25 @@ LOCATION:К-210
 DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
  231\, ОЗ-Эпо-231
 END:VEVENT
+BEGIN:VEVENT
+UID:5bd7eaaea81b88fd0756@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T155000
+DTEND;TZID=Europe/Moscow:20261118T172500
+SUMMARY:Микроэкономика (продвинутый уровень
+ ) (Практика)
+LOCATION:К-217
+DESCRIPTION:5 пара · Семенова Н.В. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:3919842c0a831a116441@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
+SUMMARY:Экономика предприятия (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
+ по-241
+END:VEVENT
 END:VCALENDAR

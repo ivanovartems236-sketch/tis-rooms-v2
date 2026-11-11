@@ -68,4 +68,15 @@ LOCATION:К-210
 DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-Эб
  у-231
 END:VEVENT
+BEGIN:VEVENT
+UID:df8ae44f742123e2f6f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-231
+END:VEVENT
 END:VCALENDAR

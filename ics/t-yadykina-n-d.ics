@@ -58,4 +58,15 @@ LOCATION:К-205
 DESCRIPTION:2 пара · Ядыкина Н.Д. / Чимонина И.В. 
  · группы: О-Сп-231\, ОЗ-Сп-231
 END:VEVENT
+BEGIN:VEVENT
+UID:36e0c54aeb195e6dbc9c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T122000
+DTEND;TZID=Europe/Moscow:20261119T135500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231\, ОЗ-Сп-231
+END:VEVENT
 END:VCALENDAR

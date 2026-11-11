@@ -227,4 +227,26 @@ LOCATION:К-607
 DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
  242
 END:VEVENT
+BEGIN:VEVENT
+UID:ff302eedeedcd06bd0ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T101500
+DTEND;TZID=Europe/Moscow:20261120T115000
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-607
+DESCRIPTION:2 пара · Фурсов В.А. · группы: О-Сж-231\
+ , О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e887192bd3ff1b38a5a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
 END:VCALENDAR

@@ -145,4 +145,37 @@ LOCATION:К-401
 DESCRIPTION:4 пара · Гончаров В.Н. / Черепов П.В. 
  · группы: О-ИстТ-261\, ОЗ-ИстТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:ef20905816c627927387@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T140500
+DTEND;TZID=Europe/Moscow:20261116T154000
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa308d41fe12bde056c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T155000
+DTEND;TZID=Europe/Moscow:20261116T172500
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5111ff2c3a0055f3e977@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T083000
+DTEND;TZID=Europe/Moscow:20261119T100500
+SUMMARY:Организация предпринимательской де
+ ятельности (Лекция)
+LOCATION:К-217
+DESCRIPTION:1 пара · Гончаров В.Н. / Ионова А.Ч. · 
+ группы: ОЗ-М-251
+END:VEVENT
 END:VCALENDAR

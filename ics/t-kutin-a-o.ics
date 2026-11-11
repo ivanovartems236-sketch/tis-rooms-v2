@@ -66,4 +66,24 @@ SUMMARY:экз.Безопасность в чрезвычайных сит
 LOCATION:К-609
 DESCRIPTION:1 пара · Кутин А.О. · группы: З-Тб-242
 END:VEVENT
+BEGIN:VEVENT
+UID:74ff88908aad5d5e2323@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261121T083000
+DTEND;TZID=Europe/Moscow:20261121T100500
+SUMMARY:История отрасли и введение в специал
+ ьность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Кутин А.О. · группы: О-Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:878dfed60fcd18dbd7f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261121T101500
+DTEND;TZID=Europe/Moscow:20261121T115000
+SUMMARY:История отрасли и введение в специал
+ ьность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Кутин А.О. · группы: О-Тб-261
+END:VEVENT
 END:VCALENDAR

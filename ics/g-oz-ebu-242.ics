@@ -176,4 +176,48 @@ LOCATION:К-504
 DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
  бу-242
 END:VEVENT
+BEGIN:VEVENT
+UID:711fa51811b1021faca4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эбу-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:bad1b49d24b42e4c6d67@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T101500
+DTEND;TZID=Europe/Moscow:20261117T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эбу-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4027a56ef0d0f21862@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-Э
+ бу-242
+END:VEVENT
+BEGIN:VEVENT
+UID:46041db902112eb122bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-242
+END:VEVENT
 END:VCALENDAR

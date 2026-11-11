@@ -184,4 +184,79 @@ LOCATION:К-106
 DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
  о-241
 END:VEVENT
+BEGIN:VEVENT
+UID:254129b5d62bf4403db3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-217
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-М-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:90f65ab66218efe5d99d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
+ о-242
+END:VEVENT
+BEGIN:VEVENT
+UID:134724ead317b1d23d9a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T122000
+DTEND;TZID=Europe/Moscow:20261118T135500
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:f0db70cc8ee7787a3fd4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T140500
+DTEND;TZID=Europe/Moscow:20261118T154000
+SUMMARY:Теория экономического анализа (Лекц
+ ия)
+LOCATION:К-210
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:c31ef08876d5195749d0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T083000
+DTEND;TZID=Europe/Moscow:20261120T100500
+SUMMARY:Теория экономического анализа (Прак
+ тика)
+LOCATION:К-210
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:70f92213b75dcaee466e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T101500
+DTEND;TZID=Europe/Moscow:20261120T115000
+SUMMARY:Делопроизводство (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2c76bad93d39c6a6279b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T140500
+DTEND;TZID=Europe/Moscow:20261120T154000
+SUMMARY:Стратегический менеджмент (Лекция)
+LOCATION:К-217
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-23
+ 1\, ОЗ-М-242
+END:VEVENT
 END:VCALENDAR

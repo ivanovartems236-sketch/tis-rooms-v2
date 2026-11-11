@@ -46,4 +46,16 @@ LOCATION:К-107
 DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
  уппы: О-Эбу-251
 END:VEVENT
+BEGIN:VEVENT
+UID:7451282464f21dc7dd99@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
+ о-242
+END:VEVENT
 END:VCALENDAR
