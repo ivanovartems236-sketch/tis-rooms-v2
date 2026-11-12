@@ -408,6 +408,18 @@ DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
  тТ-241
 END:VEVENT
 BEGIN:VEVENT
+UID:7fcefcbde9a969ddfe4a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:В-201
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:208f0dcdaa5e56150977@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T155000

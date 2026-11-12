@@ -484,11 +484,34 @@ UID:a3d7cb736acbafd7535b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T122000
 DTEND;TZID=Europe/Moscow:20261116T135500
-SUMMARY:Разработка мобильных приложений (Пр
- актика)
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
 LOCATION:К-401
 DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:eca7e4efae91c74089dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T140500
+DTEND;TZID=Europe/Moscow:20261116T154000
+SUMMARY:Разработка мобильных приложений (Пр
+ актика)
+LOCATION:К-401
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f5cf5539e9d482e782@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-502
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
 END:VEVENT
 BEGIN:VEVENT
 UID:030aee3e673e9cce66ba@tis-rooms
@@ -501,6 +524,17 @@ SUMMARY:Стандартизация\, сертификация и конт
 LOCATION:К-406
 DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:11705e44e1dc82252f11@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:зчО. Разработка мобильных приложени
+ й
+LOCATION:К-502
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
 UID:6c5286cc990a47572be7@tis-rooms
@@ -545,28 +579,5 @@ SUMMARY:Системы поддержки принятия решений (
 LOCATION:К-502
 DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-231
-END:VEVENT
-BEGIN:VEVENT
-UID:c82e71718076711719ad@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T083000
-DTEND;TZID=Europe/Moscow:20261119T100500
-SUMMARY:Разработка мобильных приложений (Ле
- кция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:38d2109475622ba15d70@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T122000
-DTEND;TZID=Europe/Moscow:20261119T135500
-SUMMARY:Стандартизация\, сертификация и конт
- роль качества информационных систем (Пр
- актика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- тТ-251
 END:VEVENT
 END:VCALENDAR

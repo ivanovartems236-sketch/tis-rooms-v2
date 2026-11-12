@@ -415,10 +415,21 @@ UID:99e92ba8b0fad4f1d0ff@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T122000
 DTEND;TZID=Europe/Moscow:20261116T135500
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251
+END:VEVENT
+BEGIN:VEVENT
+UID:39bf3b60da36d06c7b13@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T140500
+DTEND;TZID=Europe/Moscow:20261116T154000
 SUMMARY:Разработка мобильных приложений (Пр
  актика)
 LOCATION:К-401
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
  п-11-251
 END:VEVENT
 BEGIN:VEVENT
@@ -444,15 +455,15 @@ DESCRIPTION:2 пара · Баранова Т.М. · группы: О-Ис
  п-11-251
 END:VEVENT
 BEGIN:VEVENT
-UID:06b3e5d3fb579fbe119e@tis-rooms
+UID:75376ae37a7020193248@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
 DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Практика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
- -251
+SUMMARY:зчО. Разработка мобильных приложени
+ й
+LOCATION:К-502
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251
 END:VEVENT
 BEGIN:VEVENT
 UID:2f2add62f5f1f49d261b@tis-rooms
@@ -510,17 +521,6 @@ DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
  п-11-251
 END:VEVENT
 BEGIN:VEVENT
-UID:d26ce28812bde7f65177@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T083000
-DTEND;TZID=Europe/Moscow:20261119T100500
-SUMMARY:Разработка мобильных приложений (Ле
- кция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
 UID:7404bf1c05fb3aa63d1d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
@@ -529,6 +529,17 @@ SUMMARY:Обеспечение качества функционирова
  ния компьютерных систем (Практика)
 LOCATION:К-401
 DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251
+END:VEVENT
+BEGIN:VEVENT
+UID:03fe4b9ff289c91bdae3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T122000
+DTEND;TZID=Europe/Moscow:20261119T135500
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
+LOCATION:К-401
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
  -251
 END:VEVENT
 BEGIN:VEVENT

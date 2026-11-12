@@ -364,6 +364,29 @@ DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-И
  ксМ-261\, О-Рт-261
 END:VEVENT
 BEGIN:VEVENT
+UID:91eee63d2ce3122edb96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-502
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9381b62ec89da029cd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:зчО. Разработка мобильных приложени
+ й
+LOCATION:К-502
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
 UID:1c733516f2680e827280@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T140500

@@ -627,10 +627,21 @@ UID:e15122a189d091769d2f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T122000
 DTEND;TZID=Europe/Moscow:20261116T135500
+SUMMARY:Разработка мобильных приложений (Ле
+ кция)
+LOCATION:К-401
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ п-11-251\, О-Исп-9-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4e707bf838e61c947967@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T140500
+DTEND;TZID=Europe/Moscow:20261116T154000
 SUMMARY:Разработка мобильных приложений (Пр
  актика)
 LOCATION:К-401
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
@@ -767,17 +778,6 @@ DESCRIPTION:6 пара · Янковец Ю.Г. / Саиег Т.Х. · гр
  уппы: О-МИСТ-261
 END:VEVENT
 BEGIN:VEVENT
-UID:1919b48710a9ec617dd3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T083000
-DTEND;TZID=Europe/Moscow:20261119T100500
-SUMMARY:Разработка мобильных приложений (Ле
- кция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:578c788f8785c43099f2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
@@ -789,16 +789,15 @@ DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
  -251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
-UID:65827fb52d422306c9c5@tis-rooms
+UID:1cb2abc695dddfb1dcdf@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T122000
 DTEND;TZID=Europe/Moscow:20261119T135500
-SUMMARY:Методы и средства проектирования ин
- формационных систем и технологий (Лекци
- я)
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
 LOCATION:К-401
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-ИстТ-
- 231
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
 UID:8e1067c85a7742cce747@tis-rooms

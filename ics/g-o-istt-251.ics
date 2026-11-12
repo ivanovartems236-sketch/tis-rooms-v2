@@ -310,6 +310,18 @@ DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:a0f3f3ff126d56eccc90@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-502
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
 UID:07f96200d0da1d532596@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T101500
@@ -385,18 +397,6 @@ SUMMARY:Философия (Лекция)
 LOCATION:К-504
 DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИстТ-
  251
-END:VEVENT
-BEGIN:VEVENT
-UID:80bae83085008d7831cc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T122000
-DTEND;TZID=Europe/Moscow:20261119T135500
-SUMMARY:Стандартизация\, сертификация и конт
- роль качества информационных систем (Пр
- актика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- тТ-251
 END:VEVENT
 BEGIN:VEVENT
 UID:be6210207fbf5617dd28@tis-rooms

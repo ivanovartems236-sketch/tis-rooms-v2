@@ -235,15 +235,16 @@ DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:6ea12b593821582034ee@tis-rooms
+UID:b7600e841e1eba7ef18d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
 DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Практика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
- -251\, О-Исп-9-241
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лекци
+ я)
+LOCATION:В-201
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
 END:VEVENT
 BEGIN:VEVENT
 UID:6a70bc2ff6e0d365cb3f@tis-rooms
@@ -281,16 +282,15 @@ DESCRIPTION:2 пара · Орлова А.Ю. · группы: О-Исп-11
  -251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
-UID:1fbca5c8a181885af4ce@tis-rooms
+UID:2480847261ed60af6191@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T122000
 DTEND;TZID=Europe/Moscow:20261119T135500
-SUMMARY:Методы и средства проектирования ин
- формационных систем и технологий (Лекци
- я)
+SUMMARY:Обеспечение качества функционирова
+ ния компьютерных систем (Практика)
 LOCATION:К-401
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-ИстТ-
- 231
+DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
+ -251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
 UID:aca47a538f92074037c1@tis-rooms

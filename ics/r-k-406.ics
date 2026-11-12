@@ -526,17 +526,6 @@ DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:a68a0a26f5a57acf67cc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T122000
-DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:Обеспечение качества функционирова
- ния компьютерных систем (Практика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Орлова А.Ю. · группы: О-Исп-11
- -251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:182c7de88028191b9e8e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T140500
@@ -652,18 +641,6 @@ SUMMARY:Администрирование информационных с
 LOCATION:К-406
 DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
  1
-END:VEVENT
-BEGIN:VEVENT
-UID:ee0a4681fcdc36eb6a86@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T122000
-DTEND;TZID=Europe/Moscow:20261119T135500
-SUMMARY:Стандартизация\, сертификация и конт
- роль качества информационных систем (Пр
- актика)
-LOCATION:К-406
-DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- тТ-251
 END:VEVENT
 BEGIN:VEVENT
 UID:5625492eb191cdd935e3@tis-rooms
