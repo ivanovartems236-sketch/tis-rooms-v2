@@ -399,7 +399,7 @@ DTEND;TZID=Europe/Moscow:20261117T115000
 SUMMARY:Организация документооборота и доку
  ментирование управленческой деятельнос
  ти (Лекция)
-LOCATION:К-106
+LOCATION:К-107
 DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
@@ -414,15 +414,25 @@ DESCRIPTION:3 пара · Варавина А.В. · группы: О-Дп-
  11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:84b8d4be9f8535677eb0@tis-rooms
+UID:7c2616837d654a1f67f3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T140500
 DTEND;TZID=Europe/Moscow:20261117T154000
+SUMMARY:История России (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Варавина А.В. · группы: О-Дп-
+ 11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7f4dc6470f5c3ad361@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
 SUMMARY:Организация документооборота и доку
  ментирование управленческой деятельнос
  ти (Практика)
 LOCATION:К-502
-DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
+DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
@@ -467,11 +477,13 @@ DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Дп-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:e4658e71a2f8b86674d7@tis-rooms
+UID:882b66c09b3b581f3220@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
 DTEND;TZID=Europe/Moscow:20261119T115000
-SUMMARY:Архивное дело (Лекция)
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Практика)
 LOCATION:К-107
 DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
  п-11-261
@@ -487,27 +499,14 @@ DESCRIPTION:3 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:0b45ebeda97fcb2ebc60@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T140500
-DTEND;TZID=Europe/Moscow:20261119T154000
-SUMMARY:Безопасность жизнедеятельности (Пра
- ктика)
-LOCATION:К-606
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
- 61
-END:VEVENT
-BEGIN:VEVENT
-UID:dd7d88c889016e431b46@tis-rooms
+UID:39a9c5df11351f8e5f15@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261120T083000
 DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Практика)
-LOCATION:К-406
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
+SUMMARY:Деловая культура (Лекция)
+LOCATION:К-301
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:f65babb62a318e3c2cb7@tis-rooms

@@ -154,26 +154,14 @@ DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
  о-241
 END:VEVENT
 BEGIN:VEVENT
-UID:071ac76f8e1c3fdcd2c7@tis-rooms
+UID:645fa709e1b608473658@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261116T101500
-DTEND;TZID=Europe/Moscow:20261116T115000
-SUMMARY:Психология общения (Лекция)
+DTSTART;TZID=Europe/Moscow:20261116T140500
+DTEND;TZID=Europe/Moscow:20261116T154000
+SUMMARY:Психология общения (Практика)
 LOCATION:К-106
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+DESCRIPTION:4 пара · Красникова А.Р. · группы: О-
  Исп-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:878de52c27e22e03fec3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T101500
-DTEND;TZID=Europe/Moscow:20261117T115000
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Лекция)
-LOCATION:К-106
-DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
- п-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:2b013ee087d4a19ef347@tis-rooms

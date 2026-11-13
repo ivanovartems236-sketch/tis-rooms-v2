@@ -526,17 +526,6 @@ DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:182c7de88028191b9e8e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T140500
-DTEND;TZID=Europe/Moscow:20261117T154000
-SUMMARY:Информационные технологии (Практика
- )
-LOCATION:К-406
-DESCRIPTION:4 пара · Черепов П.В. · группы: О-Исп-
- 9-251
-END:VEVENT
-BEGIN:VEVENT
 UID:e0ebdf051792f34b8dab@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T155000
@@ -651,18 +640,6 @@ SUMMARY:Технология мультимедиа (Лекция)
 LOCATION:К-406
 DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-Исп-9-25
  1
-END:VEVENT
-BEGIN:VEVENT
-UID:ed00780042089bc1fd45@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T083000
-DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Практика)
-LOCATION:К-406
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:b87d72e2787aafd498a3@tis-rooms

@@ -148,15 +148,4 @@ LOCATION:В-202
 DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
-BEGIN:VEVENT
-UID:8a51f150ed6f47f9616e@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261118T155000
-DTEND;TZID=Europe/Moscow:20261118T172500
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:В-202
-DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
 END:VCALENDAR

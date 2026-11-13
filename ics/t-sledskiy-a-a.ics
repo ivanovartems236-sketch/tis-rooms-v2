@@ -491,17 +491,6 @@ DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
-UID:eca7e4efae91c74089dd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261116T140500
-DTEND;TZID=Europe/Moscow:20261116T154000
-SUMMARY:Разработка мобильных приложений (Пр
- актика)
-LOCATION:К-401
-DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:f0f5cf5539e9d482e782@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T083000
@@ -526,12 +515,11 @@ DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:11705e44e1dc82252f11@tis-rooms
+UID:ff040ecc0aa17791a7fd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
 DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:зчО. Разработка мобильных приложени
- й
+SUMMARY:зчО.Разработка мобильных приложений
 LOCATION:К-502
 DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241

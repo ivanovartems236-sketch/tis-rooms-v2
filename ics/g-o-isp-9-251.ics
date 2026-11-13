@@ -379,14 +379,15 @@ DESCRIPTION:3 пара · Варавина А.В. · группы: О-Ис
  п-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:6e9b08c339e1bfb1f577@tis-rooms
+UID:79922ddab1bd72bfd9be@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T101500
 DTEND;TZID=Europe/Moscow:20261116T115000
-SUMMARY:Психология общения (Лекция)
-LOCATION:К-106
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Исп-9-251
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-401
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:77cdf5db714d0dceba6f@tis-rooms
@@ -400,15 +401,14 @@ DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
  Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:33c2ebb6da66f6545fc5@tis-rooms
+UID:c22660256c04a5938299@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T140500
 DTEND;TZID=Europe/Moscow:20261116T154000
-SUMMARY:Основы проектирования баз данных (Пр
- актика)
-LOCATION:В-202
-DESCRIPTION:4 пара · Архипов В.В. · группы: О-Исп-
- 9-251
+SUMMARY:Психология общения (Практика)
+LOCATION:К-106
+DESCRIPTION:4 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:cc72841eee77c984a827@tis-rooms
@@ -433,26 +433,14 @@ DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:c94aebade61fb41e96b6@tis-rooms
+UID:95b78551f12de123d6bd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
 DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:Основы проектирования баз данных (Пр
- актика)
-LOCATION:В-202
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
- 9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:e946d39100295fa5ee45@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T140500
-DTEND;TZID=Europe/Moscow:20261117T154000
-SUMMARY:Информационные технологии (Практика
- )
-LOCATION:К-406
-DESCRIPTION:4 пара · Черепов П.В. · группы: О-Исп-
- 9-251
+SUMMARY:Психология общения (Лекция)
+LOCATION:К-107
+DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:901d6ce3c973b7e0d30b@tis-rooms
@@ -466,14 +454,14 @@ DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
  сп-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:f7d0b82fac25062c23ae@tis-rooms
+UID:d3d071e4315aecbe3d1c@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T101500
 DTEND;TZID=Europe/Moscow:20261118T115000
-SUMMARY:Основы проектирования баз данных (Ле
- кция)
-LOCATION:В-201
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
+SUMMARY:Информационные технологии (Практика
+ )
+LOCATION:К-401
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
  9-251
 END:VEVENT
 BEGIN:VEVENT

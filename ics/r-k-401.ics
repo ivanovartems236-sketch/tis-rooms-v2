@@ -623,6 +623,17 @@ DESCRIPTION:5 пара · Саиег Т.Х. · группы: О-МИСТ-25
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:b01eda69ca707b208fdd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T101500
+DTEND;TZID=Europe/Moscow:20261116T115000
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-401
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-И
+ сп-9-251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:e15122a189d091769d2f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T122000
@@ -631,17 +642,6 @@ SUMMARY:Разработка мобильных приложений (Ле
  кция)
 LOCATION:К-401
 DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
-UID:4e707bf838e61c947967@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261116T140500
-DTEND;TZID=Europe/Moscow:20261116T154000
-SUMMARY:Разработка мобильных приложений (Пр
- актика)
-LOCATION:К-401
-DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
@@ -753,6 +753,17 @@ SUMMARY:Технология программирования (Лекция
 LOCATION:К-401
 DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
  тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8946fb224d3afb455ff3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Информационные технологии (Практика
+ )
+LOCATION:К-401
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
+ 9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:9b3603f19cfae71160c9@tis-rooms

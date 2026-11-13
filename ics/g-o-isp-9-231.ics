@@ -331,34 +331,59 @@ DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
  9-231
 END:VEVENT
 BEGIN:VEVENT
-UID:a30cc8d89a58dcf8a2c8@tis-rooms
+UID:79e461fab742487f940e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T083000
 DTEND;TZID=Europe/Moscow:20261117T100500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
- 9-231
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Исп-9-
+ 231
 END:VEVENT
 BEGIN:VEVENT
-UID:ec00243ff89e416d0d41@tis-rooms
+UID:0907f9b34d46431bae09@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T101500
 DTEND;TZID=Europe/Moscow:20261117T115000
-SUMMARY:Веб - программирование (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
  9-231
 END:VEVENT
 BEGIN:VEVENT
-UID:adcf413bccadcb5ea574@tis-rooms
+UID:26978730b6c14621150f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-9-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:0eba9e9384946cc8d5d7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T140500
+DTEND;TZID=Europe/Moscow:20261117T154000
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:75034d25a44c9f5ae025@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T083000
 DTEND;TZID=Europe/Moscow:20261118T100500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-201
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
- 9-231
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Исп-9-
+ 231
 END:VEVENT
 BEGIN:VEVENT
 UID:b5672bd749fc8c9e0348@tis-rooms
@@ -372,25 +397,37 @@ DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
  Исп-9-231
 END:VEVENT
 BEGIN:VEVENT
-UID:77d749c18b34da39afc9@tis-rooms
+UID:bb0c8d3a4d47567714a5@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T122000
 DTEND;TZID=Europe/Moscow:20261118T135500
-SUMMARY:Технология разработки программного 
- обеспечения (Лаб.)
-LOCATION:В-201
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
- 9-231
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-9-
+ 231
 END:VEVENT
 BEGIN:VEVENT
-UID:07413eadac19bf88a0c4@tis-rooms
+UID:8aa4305934c75d88179f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T140500
 DTEND;TZID=Europe/Moscow:20261118T154000
-SUMMARY:Веб - программирование (Практика)
-LOCATION:В-201
-DESCRIPTION:4 пара · Архипов В.В. · группы: О-Исп-
- 9-231
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-9-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:e3cbca13b55507844462@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T083000
+DTEND;TZID=Europe/Moscow:20261119T100500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Исп-9-
+ 231
 END:VEVENT
 BEGIN:VEVENT
 UID:3557f05bb7227f0ed38a@tis-rooms
@@ -404,46 +441,25 @@ DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
  9-231
 END:VEVENT
 BEGIN:VEVENT
-UID:10e09c241265d53b6116@tis-rooms
+UID:ba96e003055057a4032e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T122000
 DTEND;TZID=Europe/Moscow:20261119T135500
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-9-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:10f490551bba01db4272@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
 SUMMARY:Стандартизация\, сертификация и техн
  ическое документоведение (Лекция)
 LOCATION:К-501
 DESCRIPTION:3 пара · Черепов П.В. · группы: О-Исп-
- 9-231
-END:VEVENT
-BEGIN:VEVENT
-UID:c236e14e51cf87fecc41@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T140500
-DTEND;TZID=Europe/Moscow:20261119T154000
-SUMMARY:Безопасность жизнедеятельности (Пра
- ктика)
-LOCATION:К-606
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-9-
- 231
-END:VEVENT
-BEGIN:VEVENT
-UID:befa09720d8305bfea86@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T101500
-DTEND;TZID=Europe/Moscow:20261120T115000
-SUMMARY:Технология разработки программного 
- обеспечения (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
- 9-231
-END:VEVENT
-BEGIN:VEVENT
-UID:7160a8d5533bfad73a1b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T122000
-DTEND;TZID=Europe/Moscow:20261120T135500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-202
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
  9-231
 END:VEVENT
 BEGIN:VEVENT
@@ -454,6 +470,17 @@ DTEND;TZID=Europe/Moscow:20261120T154000
 SUMMARY:Физическая культура (Практика)
 LOCATION:СЗ
 DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-9-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0a4ce667317dd94d15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T155000
+DTEND;TZID=Europe/Moscow:20261120T172500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:5 пара · Петров О.П. · группы: О-Исп-9-
  231
 END:VEVENT
 BEGIN:VEVENT
@@ -485,6 +512,17 @@ DTEND;TZID=Europe/Moscow:20261121T135500
 SUMMARY:Экономика отрасли (Практика)
 LOCATION:К-217
 DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
+ 9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3891df7a9b9b69876252@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261121T140500
+DTEND;TZID=Europe/Moscow:20261121T154000
+SUMMARY:Менеджмент в профессиональной деяте
+ льности (Лекция)
+LOCATION:К-217
+DESCRIPTION:4 пара · Данилов С.В. · группы: О-Исп-
  9-231
 END:VEVENT
 END:VCALENDAR

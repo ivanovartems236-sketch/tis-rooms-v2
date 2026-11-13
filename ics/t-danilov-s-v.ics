@@ -110,4 +110,15 @@ LOCATION:К-217
 DESCRIPTION:3 пара · Данилов С.В. · группы: О-Исп-
  11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
 END:VEVENT
+BEGIN:VEVENT
+UID:053743f140234b87cd16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261121T140500
+DTEND;TZID=Europe/Moscow:20261121T154000
+SUMMARY:Менеджмент в профессиональной деяте
+ льности (Лекция)
+LOCATION:К-217
+DESCRIPTION:4 пара · Данилов С.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231
+END:VEVENT
 END:VCALENDAR

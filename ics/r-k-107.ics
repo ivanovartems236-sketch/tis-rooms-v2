@@ -247,6 +247,28 @@ DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
  по-231\, ОЗ-Эпо-242
 END:VEVENT
 BEGIN:VEVENT
+UID:2770860855b61e931263@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T101500
+DTEND;TZID=Europe/Moscow:20261117T115000
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Лекция)
+LOCATION:К-107
+DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
+ п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0c90a9c73dc99df69c65@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:Психология общения (Лекция)
+LOCATION:К-107
+DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
+END:VEVENT
+BEGIN:VEVENT
 UID:b99af7726bbc15b5d9a4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T101500
@@ -280,11 +302,13 @@ DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:9564e8465b6e5e18bb3e@tis-rooms
+UID:76ddf8f60b0d10bc4fbf@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
 DTEND;TZID=Europe/Moscow:20261119T115000
-SUMMARY:Архивное дело (Лекция)
+SUMMARY:Организация документооборота и доку
+ ментирование управленческой деятельнос
+ ти (Практика)
 LOCATION:К-107
 DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
  п-11-261

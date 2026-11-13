@@ -293,6 +293,28 @@ DESCRIPTION:4 пара · Приходченко О.В. · группы: О
  З-Ки-261
 END:VEVENT
 BEGIN:VEVENT
+UID:7463232a7d631256795c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T101500
+DTEND;TZID=Europe/Moscow:20261117T115000
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:6688838113997b2a4d49@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T140500
+DTEND;TZID=Europe/Moscow:20261117T154000
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:4 пара · Черепов П.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231
+END:VEVENT
+BEGIN:VEVENT
 UID:0f6cec30c78d742562d7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T155000
@@ -325,10 +347,10 @@ DESCRIPTION:4 пара · Шепеть И.П. · группы: О-МИСТ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:af76f27904448411f22b@tis-rooms
+UID:9f8a9b198bae33273e94@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T122000
-DTEND;TZID=Europe/Moscow:20261119T135500
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
 SUMMARY:Стандартизация\, сертификация и техн
  ическое документоведение (Лекция)
 LOCATION:К-501

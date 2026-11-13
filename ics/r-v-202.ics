@@ -598,17 +598,6 @@ DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:e59465a604ec2148b2c1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261116T140500
-DTEND;TZID=Europe/Moscow:20261116T154000
-SUMMARY:Основы проектирования баз данных (Пр
- актика)
-LOCATION:В-202
-DESCRIPTION:4 пара · Архипов В.В. · группы: О-Исп-
- 9-251
-END:VEVENT
-BEGIN:VEVENT
 UID:974a1d71368492c6a317@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T155000
@@ -629,47 +618,6 @@ SUMMARY:Теория решения изобретательских зад
 LOCATION:В-202
 DESCRIPTION:6 пара · Шепеть И.П. · группы: О-МИСТ-
  261
-END:VEVENT
-BEGIN:VEVENT
-UID:0b4bb19c0903cb0aa117@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T083000
-DTEND;TZID=Europe/Moscow:20261117T100500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:2d9d6039c9800984bab0@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T101500
-DTEND;TZID=Europe/Moscow:20261117T115000
-SUMMARY:Веб - программирование (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:e813a04c5da23405ac41@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T122000
-DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:Основы проектирования баз данных (Пр
- актика)
-LOCATION:В-202
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
- 9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:99bd675b0cf220a83659@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T140500
-DTEND;TZID=Europe/Moscow:20261117T154000
-SUMMARY:Базы данных (Практика)
-LOCATION:В-202
-DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:dc0a2917f6e47e557f85@tis-rooms
@@ -727,17 +675,6 @@ DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
-UID:d2b59bf86a8bccaa0ff1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261118T155000
-DTEND;TZID=Europe/Moscow:20261118T172500
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:В-202
-DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
- п-11-251\, О-Исп-9-241
-END:VEVENT
-BEGIN:VEVENT
 UID:487337c78c6a5ec57827@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
@@ -792,37 +729,6 @@ SUMMARY:Модели и методы проектирования инфо
 LOCATION:В-202
 DESCRIPTION:7 пара · Черепов П.В. · группы: О-МИС
  Т-261
-END:VEVENT
-BEGIN:VEVENT
-UID:28121c532c39bd8b7cd2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T083000
-DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Базы данных (Лекция)
-LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:77ee9f25458bf4261515@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T101500
-DTEND;TZID=Europe/Moscow:20261120T115000
-SUMMARY:Технология разработки программного 
- обеспечения (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:5147a8501d14afa504fd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T122000
-DTEND;TZID=Europe/Moscow:20261120T135500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-202
-DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
 UID:b30f8dccc8ffeb599278@tis-rooms

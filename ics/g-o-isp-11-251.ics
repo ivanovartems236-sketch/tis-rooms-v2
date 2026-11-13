@@ -422,17 +422,6 @@ DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
  п-11-251
 END:VEVENT
 BEGIN:VEVENT
-UID:39bf3b60da36d06c7b13@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261116T140500
-DTEND;TZID=Europe/Moscow:20261116T154000
-SUMMARY:Разработка мобильных приложений (Пр
- актика)
-LOCATION:К-401
-DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
 UID:83ea9c7e8cae25f216f0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T083000
@@ -455,12 +444,11 @@ DESCRIPTION:2 пара · Баранова Т.М. · группы: О-Ис
  п-11-251
 END:VEVENT
 BEGIN:VEVENT
-UID:75376ae37a7020193248@tis-rooms
+UID:e653159e11e8ab92131f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
 DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:зчО. Разработка мобильных приложени
- й
+SUMMARY:зчО.Разработка мобильных приложений
 LOCATION:К-502
 DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
  п-11-251
@@ -507,17 +495,6 @@ SUMMARY:Разработка программных модулей (Пра
  ктика)
 LOCATION:В-202
 DESCRIPTION:4 пара · Баранова Т.М. · группы: О-Ис
- п-11-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b80f79659d4f2959df85@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261118T155000
-DTEND;TZID=Europe/Moscow:20261118T172500
-SUMMARY:Разработка программных модулей (Пра
- ктика)
-LOCATION:В-202
-DESCRIPTION:5 пара · Баранова Т.М. · группы: О-Ис
  п-11-251
 END:VEVENT
 BEGIN:VEVENT

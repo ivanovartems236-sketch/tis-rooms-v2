@@ -276,33 +276,14 @@ DESCRIPTION:1 пара · Данилов С.В. · группы: ОЗ-Ис
  п-9-221
 END:VEVENT
 BEGIN:VEVENT
-UID:66a145fb1c642beb5bfd@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T083000
-DTEND;TZID=Europe/Moscow:20261117T100500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: ОЗ-Ис
- п-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:8c2272c04628d16ebde9@tis-rooms
+UID:84c70a97b1435596a024@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T101500
 DTEND;TZID=Europe/Moscow:20261117T115000
-SUMMARY:Веб - программирование (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: ОЗ-Ис
- п-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:fdaaf1b6a6c8eaa28d0b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261118T083000
-DTEND;TZID=Europe/Moscow:20261118T100500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-201
-DESCRIPTION:1 пара · Архипов В.В. · группы: ОЗ-Ис
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Ис
  п-9-221
 END:VEVENT
 BEGIN:VEVENT
@@ -317,27 +298,6 @@ DESCRIPTION:2 пара · Дерепасова О.В. · группы: ОЗ
  -Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
-UID:20270bd194fa998c7b96@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261118T122000
-DTEND;TZID=Europe/Moscow:20261118T135500
-SUMMARY:Технология разработки программного 
- обеспечения (Лаб.)
-LOCATION:В-201
-DESCRIPTION:3 пара · Архипов В.В. · группы: ОЗ-Ис
- п-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:df170664e7b40368e65b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261118T140500
-DTEND;TZID=Europe/Moscow:20261118T154000
-SUMMARY:Веб - программирование (Практика)
-LOCATION:В-201
-DESCRIPTION:4 пара · Архипов В.В. · группы: ОЗ-Ис
- п-9-221
-END:VEVENT
-BEGIN:VEVENT
 UID:ef1dec6b923ecc543376@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
@@ -349,35 +309,14 @@ DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Ис
  п-9-221
 END:VEVENT
 BEGIN:VEVENT
-UID:eab75fa6fe8abdab5120@tis-rooms
+UID:d20b2d010c33a92000f5@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T122000
-DTEND;TZID=Europe/Moscow:20261119T135500
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
 SUMMARY:Стандартизация\, сертификация и техн
  ическое документоведение (Лекция)
 LOCATION:К-501
 DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
- п-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:2e4eb84254c0c556fc9b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T101500
-DTEND;TZID=Europe/Moscow:20261120T115000
-SUMMARY:Технология разработки программного 
- обеспечения (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: ОЗ-Ис
- п-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:94a804bc453d96c166fa@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T122000
-DTEND;TZID=Europe/Moscow:20261120T135500
-SUMMARY:Веб - программирование (Лекция)
-LOCATION:В-202
-DESCRIPTION:3 пара · Архипов В.В. · группы: ОЗ-Ис
  п-9-221
 END:VEVENT
 BEGIN:VEVENT

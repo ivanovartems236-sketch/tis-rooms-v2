@@ -376,26 +376,25 @@ DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
  тТ-251
 END:VEVENT
 BEGIN:VEVENT
-UID:4e9381b62ec89da029cd@tis-rooms
+UID:1ea68cf90ebc0db0e4bf@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
 DTEND;TZID=Europe/Moscow:20261117T135500
-SUMMARY:зчО. Разработка мобильных приложени
- й
+SUMMARY:зчО.Разработка мобильных приложений
 LOCATION:К-502
 DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
  п-11-251\, О-Исп-9-241
 END:VEVENT
 BEGIN:VEVENT
-UID:1c733516f2680e827280@tis-rooms
+UID:ac31e3f15622f0f1cde4@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261117T140500
-DTEND;TZID=Europe/Moscow:20261117T154000
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
 SUMMARY:Организация документооборота и доку
  ментирование управленческой деятельнос
  ти (Практика)
 LOCATION:К-502
-DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
+DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT

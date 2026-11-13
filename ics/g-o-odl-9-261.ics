@@ -461,14 +461,14 @@ DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
  дл-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:120ee0c6e70ff4739dd5@tis-rooms
+UID:d9fcfb7e9e3eba397194@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T122000
 DTEND;TZID=Europe/Moscow:20261118T135500
-SUMMARY:Математика (Лекция)
+SUMMARY:Литература (Лекция)
 LOCATION:К-308
-DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
- 1
+DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
+ Одл-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:b6abf4ec8d6dff98cbad@tis-rooms
@@ -510,16 +510,6 @@ SUMMARY:Математика (Лекция)
 LOCATION:К-306
 DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
  1
-END:VEVENT
-BEGIN:VEVENT
-UID:0c3f5901e79a70ea1ea5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T083000
-DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Литература (Лекция)
-LOCATION:К-308
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Одл-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:dfda032814ed1a6adeef@tis-rooms

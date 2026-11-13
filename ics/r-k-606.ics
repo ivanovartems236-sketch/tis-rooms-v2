@@ -85,6 +85,72 @@ DESCRIPTION:3 пара · Петров О.П. · группы: О-Одл-9-
  261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
+UID:441273d2c2caed22522c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T083000
+DTEND;TZID=Europe/Moscow:20261117T100500
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6c334b0af85f47e90e0e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9d00db3fb857a9b8e6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T083000
+DTEND;TZID=Europe/Moscow:20261118T100500
+SUMMARY:Безопасность жизнедеятельности (Пра
+ ктика)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7761e8e44e9b900348b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T122000
+DTEND;TZID=Europe/Moscow:20261118T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
+BEGIN:VEVENT
+UID:edd3742552b6b78a86c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T140500
+DTEND;TZID=Europe/Moscow:20261118T154000
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0e5712b1d0e0775cf8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261119T083000
+DTEND;TZID=Europe/Moscow:20261119T100500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
+BEGIN:VEVENT
 UID:971bbbabddf249fe0897@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T101500
@@ -96,16 +162,15 @@ DESCRIPTION:2 пара · Петров О.П. · группы: О-Одл-9-
  261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:64e8fb313523a6a384b4@tis-rooms
+UID:3c3ca97dbfc1f4c952f3@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T140500
-DTEND;TZID=Europe/Moscow:20261119T154000
+DTSTART;TZID=Europe/Moscow:20261119T122000
+DTEND;TZID=Europe/Moscow:20261119T135500
 SUMMARY:Безопасность жизнедеятельности (Пра
  ктика)
 LOCATION:К-606
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
- 61\, О-Исп-11-241\, О-Исп-9-231\, О-Тэис-11-261\, ОЗ-Исп
- -11-231
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231
 END:VEVENT
 BEGIN:VEVENT
 UID:df50605dd3bfafbd3976@tis-rooms
@@ -117,5 +182,16 @@ SUMMARY:Основы безопасности и защиты Родины
 LOCATION:К-606
 DESCRIPTION:3 пара · Петров О.П. · группы: О-Одл-9-
  261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:57d2e984589c55b3ddd2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T155000
+DTEND;TZID=Europe/Moscow:20261120T172500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:5 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
 END:VEVENT
 END:VCALENDAR

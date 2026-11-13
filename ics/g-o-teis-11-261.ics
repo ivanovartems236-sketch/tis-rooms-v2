@@ -388,14 +388,15 @@ DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:740f6f4c1d420c5649e1@tis-rooms
+UID:4d64e996301bc95d6080@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T101500
 DTEND;TZID=Europe/Moscow:20261116T115000
-SUMMARY:Базы данных (Практика)
-LOCATION:В-201
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
+SUMMARY:Операционные системы и среды (Лекция
+ )
+LOCATION:К-401
+DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-Т
+ эис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:7e8129720630fe8ff1aa@tis-rooms
@@ -451,14 +452,14 @@ DESCRIPTION:3 пара · Варавина А.В. · группы: О-Тэ
  ис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:9caf5a72d24f03530711@tis-rooms
+UID:48c6b8207e6fe909f8fc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T140500
 DTEND;TZID=Europe/Moscow:20261117T154000
-SUMMARY:Базы данных (Практика)
-LOCATION:В-202
-DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
+SUMMARY:История России (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Варавина А.В. · группы: О-Тэ
+ ис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:6cf9fa3cfa567b5243a8@tis-rooms
@@ -525,25 +526,14 @@ DESCRIPTION:3 пара · Анкудинов К.А. · группы: О-Т
  эис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:9ce7d29afa456f4a1251@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T140500
-DTEND;TZID=Europe/Moscow:20261119T154000
-SUMMARY:Безопасность жизнедеятельности (Пра
- ктика)
-LOCATION:К-606
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Тэис-
- 11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:5fe7a590d070a447722f@tis-rooms
+UID:ce4cc5aea80aa5f1b7cf@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261120T083000
 DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Базы данных (Лекция)
-LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
+SUMMARY:Деловая культура (Лекция)
+LOCATION:К-301
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:90b3642d9db0625e0de5@tis-rooms

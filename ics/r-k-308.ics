@@ -403,6 +403,16 @@ DESCRIPTION:3 пара · Варавина А.В. · группы: О-Дп-
  11-261\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:f2f3d47e20473dfac2f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T140500
+DTEND;TZID=Europe/Moscow:20261117T154000
+SUMMARY:История России (Практика)
+LOCATION:К-308
+DESCRIPTION:4 пара · Варавина А.В. · группы: О-Дп-
+ 11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:190c2facf80be2593440@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T083000
@@ -413,14 +423,14 @@ DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
-UID:da5d43799037f7e4e6a6@tis-rooms
+UID:54bff6b2c59fc2489f1a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T122000
 DTEND;TZID=Europe/Moscow:20261118T135500
-SUMMARY:Математика (Лекция)
+SUMMARY:Литература (Лекция)
 LOCATION:К-308
-DESCRIPTION:3 пара · Тишук О.Ю. · группы: О-Одл-9-26
- 1\, О-Тэис-9-261\, О-Эбу-9-261
+DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:ac7c604f2e230e25aa07@tis-rooms
@@ -443,16 +453,6 @@ SUMMARY:Квалиметрия изделий легкой промышле
 LOCATION:К-308
 DESCRIPTION:3 пара · Приходченко О.В. · группы: О
  -МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:b1e2162ac4085aae8bad@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261120T083000
-DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Литература (Лекция)
-LOCATION:К-308
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:79466943d3f51f89cea1@tis-rooms

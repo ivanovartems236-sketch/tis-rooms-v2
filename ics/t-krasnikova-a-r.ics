@@ -58,16 +58,6 @@ DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Дп-11-261\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:4ccaf91ed08e3b3f33c2@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261116T101500
-DTEND;TZID=Europe/Moscow:20261116T115000
-SUMMARY:Психология общения (Лекция)
-LOCATION:К-106
-DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
- Исп-9-251
-END:VEVENT
-BEGIN:VEVENT
 UID:ee8bea7258ab4e251e5f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261116T122000
@@ -76,6 +66,16 @@ SUMMARY:Русский язык (Лекция)
 LOCATION:К-308
 DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
  Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e15624eaeb039d32f1ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261116T140500
+DTEND;TZID=Europe/Moscow:20261116T154000
+SUMMARY:Психология общения (Практика)
+LOCATION:К-106
+DESCRIPTION:4 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:8c1dd48dddb11e77acaa@tis-rooms
@@ -87,6 +87,16 @@ SUMMARY:Основы редактирования документов (П
 LOCATION:К-306
 DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b76575e4cc344092c03b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T122000
+DTEND;TZID=Europe/Moscow:20261117T135500
+SUMMARY:Психология общения (Лекция)
+LOCATION:К-107
+DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:80abebf411b5d8343ac6@tis-rooms
@@ -109,6 +119,16 @@ DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
  Дп-11-261\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:196144396dbe0d63965f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T122000
+DTEND;TZID=Europe/Moscow:20261118T135500
+SUMMARY:Литература (Лекция)
+LOCATION:К-308
+DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
 UID:ed17e23980f16df0f4ea@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261119T083000
@@ -129,14 +149,14 @@ DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
  Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:bb6476367780aed51a87@tis-rooms
+UID:8e03b9efafd3101243cd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261120T083000
 DTEND;TZID=Europe/Moscow:20261120T100500
-SUMMARY:Литература (Лекция)
-LOCATION:К-308
+SUMMARY:Деловая культура (Лекция)
+LOCATION:К-301
 DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+ Дп-11-261\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:d510dbb483d4bd69eec6@tis-rooms

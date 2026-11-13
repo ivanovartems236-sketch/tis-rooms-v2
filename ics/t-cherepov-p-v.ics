@@ -636,6 +636,17 @@ DESCRIPTION:7 пара · Черепов П.В. · группы: О-МИС
  Т-251
 END:VEVENT
 BEGIN:VEVENT
+UID:e75f4f9a26299806292e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261117T101500
+DTEND;TZID=Europe/Moscow:20261117T115000
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
 UID:29d4923ffe918f675fd9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T122000
@@ -647,15 +658,15 @@ DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
  Т-251
 END:VEVENT
 BEGIN:VEVENT
-UID:8c6bf35cd2929ffbe1f3@tis-rooms
+UID:8588d175f3143af8ac55@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261117T140500
 DTEND;TZID=Europe/Moscow:20261117T154000
-SUMMARY:Информационные технологии (Практика
- )
-LOCATION:К-406
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
 DESCRIPTION:4 пара · Черепов П.В. · группы: О-Исп-
- 9-251
+ 11-241\, О-Исп-9-231
 END:VEVENT
 BEGIN:VEVENT
 UID:bce0d5603434924a4fdd@tis-rooms
@@ -691,6 +702,17 @@ DESCRIPTION:7 пара · Черепов П.В. · группы: О-МЭ-26
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:d938f48f88f8aa3de995@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261118T101500
+DTEND;TZID=Europe/Moscow:20261118T115000
+SUMMARY:Информационные технологии (Практика
+ )
+LOCATION:К-401
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
+ 9-251
+END:VEVENT
+BEGIN:VEVENT
 UID:6edb246105b296a56264@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261118T122000
@@ -710,17 +732,6 @@ SUMMARY:Стандартизация\, сертификация и техн
  ическое документоведение (Практика)
 LOCATION:К-408
 DESCRIPTION:2 пара · Черепов П.В. · группы: О-Исп-
- 11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
-END:VEVENT
-BEGIN:VEVENT
-UID:e8b9a04e685e1ad561cc@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261119T122000
-DTEND;TZID=Europe/Moscow:20261119T135500
-SUMMARY:Стандартизация\, сертификация и техн
- ическое документоведение (Лекция)
-LOCATION:К-501
-DESCRIPTION:3 пара · Черепов П.В. · группы: О-Исп-
  11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
@@ -788,6 +799,17 @@ SUMMARY:Информационная безопасность и защит
 LOCATION:В-201
 DESCRIPTION:2 пара · Черепов П.В. · группы: О-Ист
  Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d203a242c2225393ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261120T122000
+DTEND;TZID=Europe/Moscow:20261120T135500
+SUMMARY:Стандартизация\, сертификация и техн
+ ическое документоведение (Лекция)
+LOCATION:К-501
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
 UID:97e9ae1688fa98175cb8@tis-rooms
