@@ -17,51 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d5fcc9e1277e077ed6b9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261102T140500
-DTEND;TZID=Europe/Moscow:20261102T154000
-SUMMARY:Основы подготовки диссертации (Прак
- тика)
-LOCATION:К-609
-DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
- руппы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:3174cc41137bf73d643c@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261102T155000
-DTEND;TZID=Europe/Moscow:20261102T172500
-SUMMARY:Основы подготовки диссертации (Прак
- тика)
-LOCATION:К-609
-DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
- руппы: О-МКИ-261
-END:VEVENT
-BEGIN:VEVENT
-UID:fbdaa9f1c0929e820f64@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T122000
-DTEND;TZID=Europe/Moscow:20261105T135500
-SUMMARY:Корпоративная социальная ответстве
- нность (Лекция)
-LOCATION:К-217
-DESCRIPTION:3 пара · Гончаров В.Н. / Зайченко И.А.
-  · группы: ОЗ-М-252
-END:VEVENT
-BEGIN:VEVENT
-UID:ef4b68cb45c5c5fa2068@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T173500
-DTEND;TZID=Europe/Moscow:20261105T191000
-SUMMARY:Принятие управленческих решений в с
- ервисной деятельности (Практика)
-LOCATION:К-201
-DESCRIPTION:6 пара · Гончаров В.Н. / Семенова Л.В.
-  · группы: З-Сж-241\, З-Сж-242\, З-Сп-242\, З-Ст-241\, 
- З-Ст-242\, З-Сэ-241\, З-Сэ-242
-END:VEVENT
-BEGIN:VEVENT
 UID:24652ab836d60ba08a22@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261111T155000

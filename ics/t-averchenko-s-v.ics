@@ -17,62 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b769f98bcdb6a9782a61@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261102T083000
-DTEND;TZID=Europe/Moscow:20261102T100500
-SUMMARY:Основы делопроизводства (Практика)
-LOCATION:К-107
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:f2e473c44c58a24462b1@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261102T140500
-DTEND;TZID=Europe/Moscow:20261102T154000
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Практика)
-LOCATION:К-401
-DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:c0ae8b6cea94e44be55b@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261103T083000
-DTEND;TZID=Europe/Moscow:20261103T100500
-SUMMARY:Основы делопроизводства (Лекция)
-LOCATION:К-106
-DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:eaec873a1afa856f522a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261103T101500
-DTEND;TZID=Europe/Moscow:20261103T115000
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Лекция)
-LOCATION:К-502
-DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:b3ac8f7dc43e7c103cd9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261103T140500
-DTEND;TZID=Europe/Moscow:20261103T154000
-SUMMARY:Организация документооборота и доку
- ментирование управленческой деятельнос
- ти (Практика)
-LOCATION:К-502
-DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
- п-11-261
-END:VEVENT
-BEGIN:VEVENT
 UID:c9913fe01ed82f5576d6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261109T101500

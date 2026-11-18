@@ -17,62 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eb814d428a1db16e18a5@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261102T083000
-DTEND;TZID=Europe/Moscow:20261102T100500
-SUMMARY:Высшая математика (Практика)
-LOCATION:К-121
-DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
- ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
- О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
- 1\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:3d0066efd4a9d2b4fc69@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261102T101500
-DTEND;TZID=Europe/Moscow:20261102T115000
-SUMMARY:Элементы высшей математики (Практик
- а)
-LOCATION:К-308
-DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
- сп-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:3becc1375cb5e4840203@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T083000
-DTEND;TZID=Europe/Moscow:20261106T100500
-SUMMARY:Высшая математика (Лекция)
-LOCATION:К-121
-DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
- ксМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, 
- О-Тб-261\, О-Тм-261\, ОЗ-ИстТ-261\, ОЗ-Ки-261\, ОЗ-М-26
- 1\, ОЗ-М-262
-END:VEVENT
-BEGIN:VEVENT
-UID:fe7700a3159489b2dc09@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T101500
-DTEND;TZID=Europe/Moscow:20261106T115000
-SUMMARY:Дискретная математика с элементами 
- математической логики (Лекция)
-LOCATION:К-301
-DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
- сп-9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:ff74a02c5cdfba601a6a@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T122000
-DTEND;TZID=Europe/Moscow:20261106T135500
-SUMMARY:Элементы высшей математики (Лекция)
-LOCATION:К-301
-DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
- сп-9-251
-END:VEVENT
-BEGIN:VEVENT
 UID:90bc3ffec436901fd192@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261109T101500

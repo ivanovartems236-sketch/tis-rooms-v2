@@ -17,50 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:08d0312af04b0b4f36df@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261103T140500
-DTEND;TZID=Europe/Moscow:20261103T154000
-SUMMARY:Основы подготовки научной и учебной 
- литературы (Практика)
-LOCATION:К-313
-DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
- руппы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:52b329f6a93afe8217ae@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261103T155000
-DTEND;TZID=Europe/Moscow:20261103T172500
-SUMMARY:Основы подготовки научной и учебной 
- литературы (Практика)
-LOCATION:К-313
-DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
- руппы: О-МКИ-251
-END:VEVENT
-BEGIN:VEVENT
-UID:466d51e332cd84e6f696@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261105T155000
-DTEND;TZID=Europe/Moscow:20261105T172500
-SUMMARY:Теоретические основы прогнозирован
- ия (Лекция)
-LOCATION:К-210
-DESCRIPTION:5 пара · Колосова О.Ю. / Ионова А.Ч. · 
- группы: ОЗ-М-231
-END:VEVENT
-BEGIN:VEVENT
-UID:8c045ef8ffd6a94ffe84@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261106T155000
-DTEND;TZID=Europe/Moscow:20261106T172500
-SUMMARY:Методология научных исследований (П
- рактика)
-LOCATION:К-201
-DESCRIPTION:5 пара · Колосова О.Ю. / Фурсов В.А. · 
- группы: О-МИСТ-261
-END:VEVENT
-BEGIN:VEVENT
 UID:424b563ec956447132ea@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261111T101500
