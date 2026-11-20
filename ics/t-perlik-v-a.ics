@@ -60,4 +60,15 @@ LOCATION:К-505
 DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
  руппы: О-Рт-231
 END:VEVENT
+BEGIN:VEVENT
+UID:fc53497f2931ca4aeb36@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Устройства приема и обработки сигна
+ лов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:2 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-231
+END:VEVENT
 END:VCALENDAR

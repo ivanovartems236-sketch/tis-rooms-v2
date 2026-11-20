@@ -303,4 +303,147 @@ LOCATION:К-502
 DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
  тТ-231
 END:VEVENT
+BEGIN:VEVENT
+UID:0c067fa3a000ba66474b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T083000
+DTEND;TZID=Europe/Moscow:20261123T100500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:36617bb58acd32cdc212@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:40364224b8d19c8b65cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лекция)
+LOCATION:В-201
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b1f48ad4258e994a7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T140500
+DTEND;TZID=Europe/Moscow:20261123T154000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-401
+DESCRIPTION:4 пара · Следский А.А. · группы: ОЗ-И
+ стТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:14bc5d6c4fe1b192ee6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T083000
+DTEND;TZID=Europe/Moscow:20261125T100500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: ОЗ-И
+ стТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:18d3a28ed53e8219b5aa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:В-201
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:464538f08d4690d8ed15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Технология программирования (Лекция
+ )
+LOCATION:К-401
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:36618f0e755bd355d01b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T140500
+DTEND;TZID=Europe/Moscow:20261126T154000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d37fbe862a53229ef46f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:5 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9e72bb38b32082236fb9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T140500
+DTEND;TZID=Europe/Moscow:20261209T154000
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:4 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4b45d2c712d8a072c503@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Системы поддержки принятия решений (
+ Лекция)
+LOCATION:К-501
+DESCRIPTION:5 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:367c75d72655e2c5fce6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T140500
+DTEND;TZID=Europe/Moscow:20261211T154000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd310c168403ada13f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Надежность информационных систем (Л
+ екция)
+LOCATION:К-408
+DESCRIPTION:5 пара · Следский А.А. · группы: З-Ис
+ тТ-231\, З-ИстУ-231
+END:VEVENT
 END:VCALENDAR

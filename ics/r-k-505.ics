@@ -393,4 +393,288 @@ LOCATION:К-505
 DESCRIPTION:4 пара · Братченко Н.Ю. · группы: ОЗ-
  Рт-231
 END:VEVENT
+BEGIN:VEVENT
+UID:a717f41ec7a6d674c67d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T083000
+DTEND;TZID=Europe/Moscow:20261123T100500
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-505
+DESCRIPTION:1 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d84e3be545f796222f5f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c0d045a4956349ec73@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Радиотехнические цепи и сигналы (Лек
+ ция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: О-Рт-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:55a2b9262cb56cdee082@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T083000
+DTEND;TZID=Europe/Moscow:20261124T100500
+SUMMARY:Физические основы микроэлектроники 
+ (Лаб.)
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:70d43336e245facea8f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:81b6d6b7f4284168eb09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T122000
+DTEND;TZID=Europe/Moscow:20261124T135500
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Лекция)
+LOCATION:К-505
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5bceacd5a24217f535f2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T140500
+DTEND;TZID=Europe/Moscow:20261124T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: ОЗ-
+ Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb93fe06f3015680206@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Вычислительные системы (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:719eb076df27e86149a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Вычислительные системы (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:18551f33567e9a929d1d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T083000
+DTEND;TZID=Europe/Moscow:20261126T100500
+SUMMARY:Электропреобразовательные устройст
+ ва в телекоммуникациях (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИксМ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa53240a9b32d0c2d16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c45bf35e6070010bcb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T140500
+DTEND;TZID=Europe/Moscow:20261126T154000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:05c47e70f6402a0600b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T083000
+DTEND;TZID=Europe/Moscow:20261127T100500
+SUMMARY:Электродинамика и распространение р
+ адиоволн (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:281652c09e5254280be5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:813f7a38fbc26dc4fec9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T122000
+DTEND;TZID=Europe/Moscow:20261127T135500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:add0f3f5487e550a3b2d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T140500
+DTEND;TZID=Europe/Moscow:20261127T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2a7b788a1fbf14c8e0c8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261128T083000
+DTEND;TZID=Europe/Moscow:20261128T100000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:f404aa598cdfabef7d0f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261128T101000
+DTEND;TZID=Europe/Moscow:20261128T114000
+SUMMARY:Основы автомобильной электроники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Горяинов М.Ф. · группы: О-Рт-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a75bb0ba7b13bda758e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T140500
+DTEND;TZID=Europe/Moscow:20261207T154000
+SUMMARY:Основы телевидения и видеотехники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: З-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9b681fde3a0a7cffb5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Радиопередающие устройства систем м
+ обильной связи (Лекция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ М-231\, З-ИксЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:43b00d1048f9df3dbb16@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T173500
+DTEND;TZID=Europe/Moscow:20261207T191000
+SUMMARY:Сети и системы мобильной связи (Лекц
+ ия)
+LOCATION:К-505
+DESCRIPTION:6 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a2667bacdc06396556@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Лекция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Рт-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5838a37c37adc400bc7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T173500
+DTEND;TZID=Europe/Moscow:20261208T191000
+SUMMARY:Основы автомобильной электроники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:6 пара · Горяинов М.Ф. · группы: З-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a53595bfd203d43c69@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T140500
+DTEND;TZID=Europe/Moscow:20261209T154000
+SUMMARY:Стандартизация\, сертификация и упра
+ вление качеством радиотехнических сист
+ ем (Лекция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Братченко Н.Ю. · группы: З-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e47808e458f44e2ff2d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Программно-аппаратные средства муль
+ тимедиа и компьютерной графики (Лекция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Братченко Н.Ю. · группы: З-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:86de28a4a8820f3b8e91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Безопасность и защита информации дл
+ я автоматизированных систем управления 
+ технологическими процессами (Практика)
+LOCATION:К-505
+DESCRIPTION:5 пара · Шепеть И.П. · группы: З-ИксЭ-
+ 231
+END:VEVENT
 END:VCALENDAR

@@ -187,4 +187,95 @@ SUMMARY:Общая физическая подготовка (Практи
 LOCATION:СЗ
 DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-261
 END:VEVENT
+BEGIN:VEVENT
+UID:355244880799d0603925@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:8e07742860fa424515f7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: ОЗ-
+ М-261
+END:VEVENT
+BEGIN:VEVENT
+UID:299b9ba38666dbb2f2b8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Микроэкономика (Практика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Сурцев А.С. / Семенова Н.В. · 
+ группы: ОЗ-М-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8e45ac7d330d1781d036@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T122000
+DTEND;TZID=Europe/Moscow:20261124T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: ОЗ-М-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:7acdb54b9c4ed14b1122@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T083000
+DTEND;TZID=Europe/Moscow:20261125T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-504
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: ОЗ-
+ М-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8f62e9930d8f4574d143@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Микроэкономика (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:506454a6ac03f80d38d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-М-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3e31f31587b3b1ece0cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: ОЗ-М-261
+END:VEVENT
+BEGIN:VEVENT
+UID:04c550277f7c54f23191@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T140500
+DTEND;TZID=Europe/Moscow:20261127T154000
+SUMMARY:История предпринимательства (Лекция
+ )
+LOCATION:К-107
+DESCRIPTION:4 пара · Семенова Н.В. · группы: ОЗ-М-
+ 261
+END:VEVENT
 END:VCALENDAR

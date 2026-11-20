@@ -38,4 +38,26 @@ LOCATION:К-107
 DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
  уппы: ОЗ-Эбу-231
 END:VEVENT
+BEGIN:VEVENT
+UID:a04e5f41b2ba5be659e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Комплексный экономический анализ (Л
+ екция)
+LOCATION:К-106
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: ОЗ-Эб
+ у-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5535ed1cbb8e0957c28b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Бюджетный учет и отчетность (Практик
+ а)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
+ бу-231
+END:VEVENT
 END:VCALENDAR

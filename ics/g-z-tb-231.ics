@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Тб-231 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:40e3c600670b72c0d203@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T140500
+DTEND;TZID=Europe/Moscow:20261207T154000
+SUMMARY:Экономическая теория (Лекция)
+LOCATION:К-306
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Тб-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7277484f8ec60c44b4e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Управление производственной безопа
+ сностью (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:37eac271a1273c3c4d4d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T173500
+DTEND;TZID=Europe/Moscow:20261207T191000
+SUMMARY:Основы управления качеством (Лекция)
+LOCATION:К-609
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7d1b8bbd9f2dcfa23f7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Надзор и контроль в сфере безопаснос
+ ти (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9dc69f40086d3eedae86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T173500
+DTEND;TZID=Europe/Moscow:20261208T191000
+SUMMARY:Специальная оценка условий труда (Ле
+ кция)
+LOCATION:К-503
+DESCRIPTION:6 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b10680e3fa963601ef43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T140500
+DTEND;TZID=Europe/Moscow:20261209T154000
+SUMMARY:Экономическая теория (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Тб-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4f006091658343b238@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d2820f3cf95e1052b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261210T155000
+DTEND;TZID=Europe/Moscow:20261210T172500
+SUMMARY:Защита от химических и биологически-
+ опасных факторов (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Тб-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:574ff3d871f666e167fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Защита от химических и биологически-
+ опасных факторов (Лаб.)
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Тб-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:4d4a6e549bf0ab72aa6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T173500
+DTEND;TZID=Europe/Moscow:20261211T191000
+SUMMARY:Управление потоками отходов произво
+ дства (Лекция)
+LOCATION:К-609
+DESCRIPTION:6 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:654796a1afe3d3ba4be8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T101500
+DTEND;TZID=Europe/Moscow:20261212T115000
+SUMMARY:Основы управления качеством (Лаб.)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec8db419a8fa62e5bd4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T122000
+DTEND;TZID=Europe/Moscow:20261212T135500
+SUMMARY:Производственный контроль в области
+  охраны труда (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+END:VCALENDAR

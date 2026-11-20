@@ -91,4 +91,46 @@ LOCATION:К-217
 DESCRIPTION:1 пара · Гончаров В.Н. / Ионова А.Ч. · 
  группы: ОЗ-М-251
 END:VEVENT
+BEGIN:VEVENT
+UID:0262e0db9ac839af46c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T155000
+DTEND;TZID=Europe/Moscow:20261124T172500
+SUMMARY:Инновационный менеджмент (Лекция)
+LOCATION:К-107
+DESCRIPTION:5 пара · Гончаров В.Н. · группы: О-МК
+ И-261
+END:VEVENT
+BEGIN:VEVENT
+UID:3d33eb580b4c0a20284d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T155000
+DTEND;TZID=Europe/Moscow:20261125T172500
+SUMMARY:Моделирование систем и объектов свя
+ зи (Практика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:000567516244a905bf4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T173500
+DTEND;TZID=Europe/Moscow:20261125T191000
+SUMMARY:Управление проектами (Практика)
+LOCATION:К-406
+DESCRIPTION:6 пара · Гончаров В.Н. / Черепов П.В. 
+ · группы: О-МИСТ-261\, ОЗ-МИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d18003ce247156c8117f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Моделирование систем и объектов свя
+ зи (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
+ группы: О-ИксМ-231
+END:VEVENT
 END:VCALENDAR

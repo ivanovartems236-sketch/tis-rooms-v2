@@ -261,4 +261,131 @@ SUMMARY:Современные проблемы науки и произв
 LOCATION:К-301
 DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
+BEGIN:VEVENT
+UID:7eae1b2287512a913e9a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T155000
+DTEND;TZID=Europe/Moscow:20261123T172500
+SUMMARY:Рекламная деятельность (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2b83c7369aef2c19bf80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T173500
+DTEND;TZID=Europe/Moscow:20261123T191000
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:6 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4b5d567d02bb8db92e33@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T192000
+DTEND;TZID=Europe/Moscow:20261123T205500
+SUMMARY:Рекламная деятельность (Практика)
+LOCATION:К-308
+DESCRIPTION:7 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fd03a6465eea8f7f71fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T140500
+DTEND;TZID=Europe/Moscow:20261124T154000
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6054f26e345ead0529a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T155000
+DTEND;TZID=Europe/Moscow:20261124T172500
+SUMMARY:Квалиметрия изделий легкой промышле
+ нности (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Приходченко О.В. · группы: О
+ -МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:078dbc24b2fa0e72bcf3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T173500
+DTEND;TZID=Europe/Moscow:20261125T191000
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:60845f887c62bd3d5579@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T192000
+DTEND;TZID=Europe/Moscow:20261125T205500
+SUMMARY:Современные методы и средства иссле
+ дований в легкой промышленности (Практи
+ ка)
+LOCATION:К-313
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b58ad9f1c0b60f7c98@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T140500
+DTEND;TZID=Europe/Moscow:20261126T154000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Лекция
+ )
+LOCATION:К-609
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f6390ae3a1340830adf5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T155000
+DTEND;TZID=Europe/Moscow:20261126T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Лекция)
+LOCATION:К-308
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c821d51a121e1e46766f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T173500
+DTEND;TZID=Europe/Moscow:20261126T191000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Практи
+ ка)
+LOCATION:К-308
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0b971082b0d420c121@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T192000
+DTEND;TZID=Europe/Moscow:20261126T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (П
+ рактика)
+LOCATION:К-308
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff5017914dba3a0bfe2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T192000
+DTEND;TZID=Europe/Moscow:20261127T205500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (Л
+ екция)
+LOCATION:К-503
+DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
 END:VCALENDAR

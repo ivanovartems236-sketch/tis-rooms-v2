@@ -245,4 +245,73 @@ LOCATION:В-202
 DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
  251
 END:VEVENT
+BEGIN:VEVENT
+UID:e1ec8b18596baf1853d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T140500
+DTEND;TZID=Europe/Moscow:20261123T154000
+SUMMARY:Методы и средства проектирования ин
+ формационных систем и технологий (Лаб.)
+LOCATION:В-201
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a328492f173d6de97d29@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T140500
+DTEND;TZID=Europe/Moscow:20261124T154000
+SUMMARY:Модели и методы поддержки принятия р
+ ешений (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:53284487883f39a57e91@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T155000
+DTEND;TZID=Europe/Moscow:20261124T172500
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Лекция)
+LOCATION:К-408
+DESCRIPTION:5 пара · Орлова А.Ю. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d4f1e5a0f359971cda@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T155000
+DTEND;TZID=Europe/Moscow:20261126T172500
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:5 пара · Орлова А.Ю. · группы: О-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:1893b9aa0012ee732f56@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Модели и методы поддержки принятия р
+ ешений (Практика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7e1f17e412399c87e4d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T140500
+DTEND;TZID=Europe/Moscow:20261127T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Практика)
+LOCATION:К-401
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: О-МИСТ-
+ 251
+END:VEVENT
 END:VCALENDAR

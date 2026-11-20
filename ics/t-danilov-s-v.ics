@@ -90,4 +90,25 @@ LOCATION:К-217
 DESCRIPTION:4 пара · Данилов С.В. · группы: О-Исп-
  11-241\, О-Исп-9-231
 END:VEVENT
+BEGIN:VEVENT
+UID:4e35fa926b1fb4f10c61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261128T083000
+DTEND;TZID=Europe/Moscow:20261128T100500
+SUMMARY:зчО.Экономика отрасли
+LOCATION:К-210
+DESCRIPTION:1 пара · Данилов С.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:2accc8522540ffc75e11@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261128T101500
+DTEND;TZID=Europe/Moscow:20261128T115000
+SUMMARY:зчО.Менеджмент в профессиональной д
+ еятельности
+LOCATION:К-210
+DESCRIPTION:2 пара · Данилов С.В. · группы: О-Исп-
+ 11-241\, О-Исп-9-231
+END:VEVENT
 END:VCALENDAR

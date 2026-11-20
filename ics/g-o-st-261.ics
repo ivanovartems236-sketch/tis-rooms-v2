@@ -282,4 +282,160 @@ LOCATION:К-504
 DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ст-
  261
 END:VEVENT
+BEGIN:VEVENT
+UID:474f85e4f385c5210b8b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-201
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:0056ea2833040f5cd2a5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-С
+ т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b84e5d7041f88ca9854a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T083000
+DTEND;TZID=Europe/Moscow:20261124T100500
+SUMMARY:Введение в профессию (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ториков А.В. · группы: О-Ст-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:515022720c286a178c12@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Основы предпринимательской деятель
+ ности (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:82092102c7c5404ac673@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T122000
+DTEND;TZID=Europe/Moscow:20261124T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:0594cf8c18a710e304b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T140500
+DTEND;TZID=Europe/Moscow:20261124T154000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:6e3c731824405fdaf4bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T083000
+DTEND;TZID=Europe/Moscow:20261125T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-504
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-С
+ т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ef541b22e315d0bd7e2b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Концепции современного естествозна
+ ния (Практика)
+LOCATION:В-103
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-С
+ т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b59804b26293a06808@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:66b2167c65714d8aa513@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T083000
+DTEND;TZID=Europe/Moscow:20261126T100500
+SUMMARY:Основы предпринимательской деятель
+ ности (Практика)
+LOCATION:К-204
+DESCRIPTION:1 пара · Субботин А.Е. / Ториков А.В. 
+ · группы: О-Ст-261
+END:VEVENT
+BEGIN:VEVENT
+UID:41ac7b4a022491e49c23@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-Ст-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7b7b65159ac17bffbcbd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Ст-261
+END:VEVENT
+BEGIN:VEVENT
+UID:672acbd2b993ac75d859@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:9a98262344d4ad425835@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T122000
+DTEND;TZID=Europe/Moscow:20261127T135500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ст-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:a968d36810eae0db4dd0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T140500
+DTEND;TZID=Europe/Moscow:20261127T154000
+SUMMARY:Концепции современного естествозна
+ ния (Лекция)
+LOCATION:К-301
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-С
+ т-261
+END:VEVENT
 END:VCALENDAR

@@ -89,4 +89,67 @@ LOCATION:К-107
 DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
  по-241
 END:VEVENT
+BEGIN:VEVENT
+UID:c2ad292536fe092516e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Микроэкономика (Практика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Сурцев А.С. / Семенова Н.В. · 
+ группы: ОЗ-М-261\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:2866c4b1a3b585604d80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Микроэкономика (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
+ 261\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f469afb38b478e439a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Государственное регулирование экон
+ омики (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
+ бу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:c037246b2cfbc21f358a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T192000
+DTEND;TZID=Europe/Moscow:20261125T205500
+SUMMARY:Микроэкономика (продвинутый уровень
+ ) (Лекция)
+LOCATION:К-217
+DESCRIPTION:7 пара · Семенова Н.В. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:9547bc4a016617cfda68@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T140500
+DTEND;TZID=Europe/Moscow:20261127T154000
+SUMMARY:История предпринимательства (Лекция
+ )
+LOCATION:К-107
+DESCRIPTION:4 пара · Семенова Н.В. · группы: ОЗ-М-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c0608f402caa7abadf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T155000
+DTEND;TZID=Europe/Moscow:20261127T172500
+SUMMARY:Логистика (Практика)
+LOCATION:К-210
+DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
+ 231\, ОЗ-Эпо-231
+END:VEVENT
 END:VCALENDAR

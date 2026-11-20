@@ -340,4 +340,147 @@ SUMMARY:История отрасли и введение в специал
 LOCATION:К-612
 DESCRIPTION:2 пара · Кутин А.О. · группы: О-Тб-261
 END:VEVENT
+BEGIN:VEVENT
+UID:7194289d238ab4bf4338@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T083000
+DTEND;TZID=Europe/Moscow:20261123T100500
+SUMMARY:Физика (Практика)
+LOCATION:В-102
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-Т
+ б-261
+END:VEVENT
+BEGIN:VEVENT
+UID:db48b31f941e6c46cba2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Физика (Практика)
+LOCATION:В-102
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-Т
+ б-261
+END:VEVENT
+BEGIN:VEVENT
+UID:219ab221340cdc708ab0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-Т
+ б-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8c27477544b4dfebd116@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:d7611a2dde79880460b7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T122000
+DTEND;TZID=Europe/Moscow:20261124T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:c90c8971c1b978baadb4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T140500
+DTEND;TZID=Europe/Moscow:20261124T154000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:4 пара · Кудашина В.Л. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:0573be30d02099fcf158@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T083000
+DTEND;TZID=Europe/Moscow:20261125T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-504
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-Т
+ б-261
+END:VEVENT
+BEGIN:VEVENT
+UID:205598ad8a150df5f7bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-504
+DESCRIPTION:2 пара · Приходченко О.В. · группы: О
+ -Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:419b0602a857ebe39526@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Практика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:a1522026e03f24a6676c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T083000
+DTEND;TZID=Europe/Moscow:20261126T100500
+SUMMARY:Физика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Левшенков В.Н. · группы: О-Т
+ б-261
+END:VEVENT
+BEGIN:VEVENT
+UID:eddac7515bb8bd44ef8c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:dd273c4d81bdd0d22ee2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Тб-261
+END:VEVENT
+BEGIN:VEVENT
+UID:55ec407193864b91141a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Химия (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: О-Т
+ б-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ea5e07e8bc2df68f6f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T122000
+DTEND;TZID=Europe/Moscow:20261127T135500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Тб-
+ 261
+END:VEVENT
 END:VCALENDAR

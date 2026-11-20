@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Сп-231 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:549300dabb1cb1ec7c27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Организация и технология специальны
+ х видов питания (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:65e389b1343c39b20313@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7b54bf987307d0d16c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T173500
+DTEND;TZID=Europe/Moscow:20261208T191000
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Лекци
+ я)
+LOCATION:К-208
+DESCRIPTION:6 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ba528a7db44ff98ae930@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:90133bbf91769295a124@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T173500
+DTEND;TZID=Europe/Moscow:20261209T191000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Субботин А.Е. / Лазарева Н.В.
+  · группы: З-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4da960726ea0fef9122d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T192000
+DTEND;TZID=Europe/Moscow:20261209T205500
+SUMMARY:Безопасность\, санитария и гигиена п
+ редприятий общественного питания (Практ
+ ика)
+LOCATION:К-208
+DESCRIPTION:7 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:28463fe7ff25751140ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261210T140500
+DTEND;TZID=Europe/Moscow:20261210T154000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:d2de8ea89c598ebe4c1d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9185cdcde8bc9442af1a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T101500
+DTEND;TZID=Europe/Moscow:20261212T115000
+SUMMARY:Барное дело (Лекция)
+LOCATION:К-205
+DESCRIPTION:2 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+END:VCALENDAR

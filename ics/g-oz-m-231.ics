@@ -57,4 +57,25 @@ LOCATION:К-217
 DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-23
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:00ac25eb0246fff4d79b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T140500
+DTEND;TZID=Europe/Moscow:20261127T154000
+SUMMARY:Стратегический менеджмент (Практика
+ )
+LOCATION:К-217
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:29d48ec515704d834fa4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T155000
+DTEND;TZID=Europe/Moscow:20261127T172500
+SUMMARY:Логистика (Практика)
+LOCATION:К-210
+DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
+ 231
+END:VEVENT
 END:VCALENDAR

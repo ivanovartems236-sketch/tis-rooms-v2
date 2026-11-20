@@ -175,4 +175,125 @@ LOCATION:К-609
 DESCRIPTION:5 пара · Приходченко О.В. · группы: О
  -МКИ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:454209b008f3967a91f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Композиция костюма (Практика)
+LOCATION:К-609
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5782aee6ca55a22b2b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Рисунок (Лаб.)
+LOCATION:К-609
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: ОЗ-К
+ и-261
+END:VEVENT
+BEGIN:VEVENT
+UID:66db4f94518fa7fd2ae5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Гигиена одежды (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Приходченко О.В. · группы: О
+ -Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:03d8da32044f1330647a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T140500
+DTEND;TZID=Europe/Moscow:20261126T154000
+SUMMARY:Проектирование одежды на основе объ
+ емных композиционных материалов (Лекция
+ )
+LOCATION:К-609
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0e2fd3553cc73b4c85@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T155000
+DTEND;TZID=Europe/Moscow:20261127T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd700a5588f778d0afe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Управление производственной безопа
+ сностью (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7321b912ccc147376be7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T173500
+DTEND;TZID=Europe/Moscow:20261207T191000
+SUMMARY:Основы управления качеством (Лекция)
+LOCATION:К-609
+DESCRIPTION:6 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:75f17d4665df02d8d6d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Надзор и контроль в сфере безопаснос
+ ти (Лекция)
+LOCATION:К-609
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5b3a8b5ae207ff3c0d5b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-609
+DESCRIPTION:5 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7c973a454d881f469cea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T173500
+DTEND;TZID=Europe/Moscow:20261211T191000
+SUMMARY:Управление потоками отходов произво
+ дства (Лекция)
+LOCATION:К-609
+DESCRIPTION:6 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:fce44bec4980d482b03a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T101500
+DTEND;TZID=Europe/Moscow:20261212T115000
+SUMMARY:Основы управления качеством (Лаб.)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e092b763c1ba8f68b4c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T122000
+DTEND;TZID=Europe/Moscow:20261212T135500
+SUMMARY:Производственный контроль в области
+  охраны труда (Лекция)
+LOCATION:К-609
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
 END:VCALENDAR

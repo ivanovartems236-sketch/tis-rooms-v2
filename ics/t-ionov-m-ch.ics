@@ -48,4 +48,24 @@ DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
  уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
  о-242
 END:VEVENT
+BEGIN:VEVENT
+UID:9adb08557be89b09afc7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T140500
+DTEND;TZID=Europe/Moscow:20261125T154000
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: О-Эбу-251
+END:VEVENT
+BEGIN:VEVENT
+UID:eab48d13062d761d7c60@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T122000
+DTEND;TZID=Europe/Moscow:20261127T135500
+SUMMARY:Финансовый менеджмент (Практика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Ионов М.Ч. / Зайченко И.А. · г
+ руппы: ОЗ-М-242
+END:VEVENT
 END:VCALENDAR

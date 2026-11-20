@@ -143,4 +143,67 @@ LOCATION:К-306
 DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
  1\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
+BEGIN:VEVENT
+UID:577a9a1b4dc2062e8ff8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Деловая культура (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:83d700caab64c5f93595@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Практикум по коммуникативной компет
+ ентности (Лекция)
+LOCATION:К-306
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: О-Тб-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:33aae7ed973823330c92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Исп-11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:663e51dc84ebf6fecd41@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности. (Практика)
+LOCATION:К-306
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Исп-11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
+END:VEVENT
+BEGIN:VEVENT
+UID:7f97690af72e9528dd06@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Психология общения (Практика)
+LOCATION:К-306
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c09040e71bfbedb2640d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T140500
+DTEND;TZID=Europe/Moscow:20261207T154000
+SUMMARY:Экономическая теория (Лекция)
+LOCATION:К-306
+DESCRIPTION:4 пара · Еремина Е.А. · группы: З-Тб-23
+ 1\, З-Тм-231
+END:VEVENT
 END:VCALENDAR

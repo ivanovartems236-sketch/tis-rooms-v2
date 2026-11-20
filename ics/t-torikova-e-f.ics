@@ -60,4 +60,59 @@ LOCATION:К-602
 DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:280c969c9ed1d03f0841@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T140500
+DTEND;TZID=Europe/Moscow:20261208T154000
+SUMMARY:Управление качеством услуг туризма (
+ Лекция)
+LOCATION:К-607
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d27355bd1a806f4025d2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Технология и организация гостинично
+ й деятельности (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:302da2320b408e63fa75@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T140500
+DTEND;TZID=Europe/Moscow:20261209T154000
+SUMMARY:Технология и организация экскурсион
+ ных услуг (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c03b598d9060854b04ee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261210T140500
+DTEND;TZID=Europe/Moscow:20261210T154000
+SUMMARY:Технология и организация гостинично
+ й деятельности (Практика)
+LOCATION:К-205
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:35fa7d9d668f52b4f5b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T140500
+DTEND;TZID=Europe/Moscow:20261211T154000
+SUMMARY:Технология разработки туристского м
+ аршрута (Лекция)
+LOCATION:К-607
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
 END:VCALENDAR

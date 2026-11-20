@@ -151,4 +151,87 @@ LOCATION:К-504
 DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-Эпо-
  252
 END:VEVENT
+BEGIN:VEVENT
+UID:85a8a99da42cac3fe8ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Маркетинг (Лекция)
+LOCATION:К-205
+DESCRIPTION:2 пара · Семенова Л.В. · группы: ОЗ-Э
+ по-252
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ecc7cfa379d634cbfb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Маркетинг (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-Э
+ по-252
+END:VEVENT
+BEGIN:VEVENT
+UID:4655bb6b5eef2e691b84@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T122000
+DTEND;TZID=Europe/Moscow:20261125T135500
+SUMMARY:Статистика: теория статистики (Практ
+ ика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-252
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9a28b0aed5e13f4f26@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T083000
+DTEND;TZID=Europe/Moscow:20261126T100500
+SUMMARY:Философия (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:09aa3cb065b489dac995@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эпо-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:83c4c01ea9e2fa4b6550@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:cba950f0eca8cca6c27f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T083000
+DTEND;TZID=Europe/Moscow:20261127T100500
+SUMMARY:Менеджмент (Лекция)
+LOCATION:К-107
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:667b687084c891ad6374@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Статистика: теория статистики (Лекци
+ я)
+LOCATION:К-217
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-252
+END:VEVENT
 END:VCALENDAR

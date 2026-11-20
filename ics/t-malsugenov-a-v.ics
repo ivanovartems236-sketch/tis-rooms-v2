@@ -113,4 +113,103 @@ LOCATION:К-612
 DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
  Тм-261
 END:VEVENT
+BEGIN:VEVENT
+UID:eee075c7895c3443b5c0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261128T083000
+DTEND;TZID=Europe/Moscow:20261128T100000
+SUMMARY:Введение в профессиональную деятель
+ ность (Лекция)
+LOCATION:К-612
+DESCRIPTION:1 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:0364894c61df9b50dc0a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261128T101000
+DTEND;TZID=Europe/Moscow:20261128T114000
+SUMMARY:Введение в профессиональную деятель
+ ность (Практика)
+LOCATION:К-612
+DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
+ Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:5976f798612eaf91b8cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Проектирование бытовой техники (Лек
+ ция)
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:19536253a21bb438c4a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T173500
+DTEND;TZID=Europe/Moscow:20261211T191000
+SUMMARY:Проектирование технологии восстано
+ вления работоспособности бытовых машин 
+ и приборов (Лекция)
+LOCATION:К-612
+DESCRIPTION:6 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bd82cd5237608eb1646a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T192000
+DTEND;TZID=Europe/Moscow:20261211T205500
+SUMMARY:Проектирование технологии восстано
+ вления работоспособности бытовых машин 
+ и приборов (Практика)
+LOCATION:К-612
+DESCRIPTION:7 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:24f5219b0b0c8de5c7e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T122000
+DTEND;TZID=Europe/Moscow:20261212T135500
+SUMMARY:Технология отраслевого машинострое
+ ния (Лекция)
+LOCATION:К-612
+DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:349498086c87ba274881@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T140500
+DTEND;TZID=Europe/Moscow:20261212T154000
+SUMMARY:Бытовые машины и приборы (Лекция)
+LOCATION:К-612
+DESCRIPTION:4 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6efe32eb2f1b0726b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T155000
+DTEND;TZID=Europe/Moscow:20261212T172500
+SUMMARY:Бытовые машины и приборы (Практика)
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5a633ca9ac9d3e5f3d59@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T173500
+DTEND;TZID=Europe/Moscow:20261212T191000
+SUMMARY:Проектирование бытовой техники (Пра
+ ктика)
+LOCATION:К-612
+DESCRIPTION:6 пара · Погребной М.Н. / Малсугенов 
+ А.В. · группы: З-Тм-231
+END:VEVENT
 END:VCALENDAR

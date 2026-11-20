@@ -102,4 +102,57 @@ LOCATION:К-107
 DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
  по-241
 END:VEVENT
+BEGIN:VEVENT
+UID:fbeb06cb75f8b7fa939a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T083000
+DTEND;TZID=Europe/Moscow:20261124T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a1fabf43c987a00820d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T083000
+DTEND;TZID=Europe/Moscow:20261125T100500
+SUMMARY:Бухгалтерский учет и анализ (Лекция)
+LOCATION:К-107
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-241
+END:VEVENT
+BEGIN:VEVENT
+UID:db750a274eaf46fc4a45@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T083000
+DTEND;TZID=Europe/Moscow:20261126T100500
+SUMMARY:Эконометрика (Практика)
+LOCATION:К-217
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: ОЗ-Эпо-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e0595c3f98da33cb60e9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Психология командной работы и лидер
+ ства (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
+ по-241
+END:VEVENT
+BEGIN:VEVENT
+UID:67526795185fe8f98009@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T122000
+DTEND;TZID=Europe/Moscow:20261127T135500
+SUMMARY:Бухгалтерский учет и анализ (Практик
+ а)
+LOCATION:К-106
+DESCRIPTION:3 пара · Шведова Н.Н. · группы: ОЗ-Эп
+ о-241
+END:VEVENT
 END:VCALENDAR

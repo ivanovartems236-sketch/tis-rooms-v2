@@ -366,4 +366,15 @@ LOCATION:СЗ
 DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-9-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:b81560078bdf110ffee9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T083000
+DTEND;TZID=Europe/Moscow:20261123T100500
+SUMMARY:УП.04 Учебная практика "Сопровождение
+  и обслуживание программного обеспечени
+ я компьютерных систем"
+LOCATION:
+DESCRIPTION:1 пара ·  · группы: О-Исп-9-241
+END:VEVENT
 END:VCALENDAR

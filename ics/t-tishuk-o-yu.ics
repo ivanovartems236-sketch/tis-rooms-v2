@@ -86,4 +86,34 @@ LOCATION:К-306
 DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
  1\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
+BEGIN:VEVENT
+UID:765ebeb7a7f4e5b807ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T083000
+DTEND;TZID=Europe/Moscow:20261124T100500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ddebd6298926afe850c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T140500
+DTEND;TZID=Europe/Moscow:20261125T154000
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:4 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f01449a218fea59f0989@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T083000
+DTEND;TZID=Europe/Moscow:20261126T100500
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
 END:VCALENDAR

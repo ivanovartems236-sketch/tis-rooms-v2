@@ -27,4 +27,15 @@ LOCATION:К-607
 DESCRIPTION:3 пара · Надеина А.Е. / Торикова Е.Ф. 
  · группы: З-Т-242
 END:VEVENT
+BEGIN:VEVENT
+UID:6bacd2483ae4b0ac0195@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Экономический анализ деятельности т
+ уристского предприятия (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Надеина А.Е. / Лазарева Н.В. 
+ · группы: З-Т-231
+END:VEVENT
 END:VCALENDAR

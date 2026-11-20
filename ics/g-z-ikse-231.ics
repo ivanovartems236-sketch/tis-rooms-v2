@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-ИксЭ-231 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6659da0af2ca9c972f63@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T140500
+DTEND;TZID=Europe/Moscow:20261207T154000
+SUMMARY:Инфокоммуникационные технологии в с
+ фере энергосбережения (Лекция)
+LOCATION:К-502
+DESCRIPTION:4 пара · Черепов П.В. · группы: З-Икс
+ Э-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b6841dee63c6a15331be@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Радиопередающие устройства систем м
+ обильной связи (Лекция)
+LOCATION:К-505
+DESCRIPTION:5 пара · Сагдеев К.М. · группы: З-Икс
+ Э-231
+END:VEVENT
+BEGIN:VEVENT
+UID:573ec2f54f26681cd8b7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T173500
+DTEND;TZID=Europe/Moscow:20261207T191000
+SUMMARY:Безопасность и защита информации дл
+ я автоматизированных систем управления 
+ технологическими процессами (Лекция)
+LOCATION:К-506
+DESCRIPTION:6 пара · Шепеть И.П. · группы: З-ИксЭ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:885303b47c52ed35cb96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T140500
+DTEND;TZID=Europe/Moscow:20261208T154000
+SUMMARY:Системы диспетчерского управления и
+  сбора данных на объектах энергетики (Ле
+ кция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Горяинов М.Ф. · группы: З-Ик
+ сЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dedfdf7051457b327727@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Системы диспетчерского управления и
+  сбора данных на объектах энергетики (Пр
+ актика)
+LOCATION:К-506
+DESCRIPTION:5 пара · Горяинов М.Ф. · группы: З-Ик
+ сЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:81f9ff547fd018b26670@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T140500
+DTEND;TZID=Europe/Moscow:20261209T154000
+SUMMARY:Радиоприёмные устройства систем моб
+ ильной связи (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Сагдеев К.М. · группы: З-Икс
+ Э-231
+END:VEVENT
+BEGIN:VEVENT
+UID:77f006bd1612aa0b4d4d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Стандарты и технологии систем мобил
+ ьной связи (Практика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:693f7c080e3f5c59e1fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T173500
+DTEND;TZID=Europe/Moscow:20261209T191000
+SUMMARY:Информационно-коммуникационные тех
+ нологии в энергетике (Лекция)
+LOCATION:В-202
+DESCRIPTION:6 пара · Черепов П.В. · группы: З-Икс
+ Э-231
+END:VEVENT
+BEGIN:VEVENT
+UID:21dc6954e1c691fcc161@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261210T140500
+DTEND;TZID=Europe/Moscow:20261210T154000
+SUMMARY:Стандарты и технологии систем мобил
+ ьной связи (Лекция)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c6dad303ac212518c806@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261210T155000
+DTEND;TZID=Europe/Moscow:20261210T172500
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:61a88ae1689bebf89516@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T140500
+DTEND;TZID=Europe/Moscow:20261211T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лекция)
+LOCATION:К-506
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: З-И
+ ксЭ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b49a0408f491a2b3daa3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Безопасность и защита информации дл
+ я автоматизированных систем управления 
+ технологическими процессами (Практика)
+LOCATION:К-505
+DESCRIPTION:5 пара · Шепеть И.П. · группы: З-ИксЭ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9c5e17b48098520fa6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T083000
+DTEND;TZID=Europe/Moscow:20261212T100500
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:1 пара · Черепов П.В. · группы: З-Икс
+ Э-231
+END:VEVENT
+END:VCALENDAR

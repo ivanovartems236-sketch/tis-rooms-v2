@@ -60,4 +60,70 @@ LOCATION:К-602
 DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
  231
 END:VEVENT
+BEGIN:VEVENT
+UID:ba1015dda16c8582746b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T140500
+DTEND;TZID=Europe/Moscow:20261124T154000
+SUMMARY:Менеджмент автотранспортных и серви
+ сных предприятий (Практика)
+LOCATION:К-602
+DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9b108fcde73fce6e19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T140500
+DTEND;TZID=Europe/Moscow:20261207T154000
+SUMMARY:Техническая диагностика систем и ус
+ тройств автомобилей (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7d27490dab2927163e80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T155000
+DTEND;TZID=Europe/Moscow:20261207T172500
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Лекция)
+LOCATION:К-602
+DESCRIPTION:5 пара · Фурсов В.А. · группы: З-Сэ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d865aa8fa02ab0911151@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T140500
+DTEND;TZID=Europe/Moscow:20261209T154000
+SUMMARY:Технология и организация экскурсион
+ ных услуг (Лекция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a7b3c520a375f2ede4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Экономический анализ деятельности т
+ уристского предприятия (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Надеина А.Е. / Лазарева Н.В. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dd2217116d7e1a537272@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T140500
+DTEND;TZID=Europe/Moscow:20261211T154000
+SUMMARY:Основы брендинга и мерчандайзинга (Л
+ екция)
+LOCATION:К-602
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-Ки-
+ 231
+END:VEVENT
 END:VCALENDAR

@@ -37,4 +37,24 @@ LOCATION:К-217
 DESCRIPTION:5 пара · Сурцев А.С. / Зайченко И.А. · 
  группы: ОЗ-М-251
 END:VEVENT
+BEGIN:VEVENT
+UID:f0ab108bd1ed3d29c8f8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Микроэкономика (Практика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Сурцев А.С. / Семенова Н.В. · 
+ группы: ОЗ-М-261\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:749a3dd922744d726245@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Сурцев А.С. · группы: ОЗ-Эпо-
+ 251
+END:VEVENT
 END:VCALENDAR

@@ -160,4 +160,37 @@ LOCATION:К-606
 DESCRIPTION:5 пара · Петров О.П. · группы: О-Исп-11
  -241\, О-Исп-9-231\, ОЗ-Исп-11-231
 END:VEVENT
+BEGIN:VEVENT
+UID:be69207cc32a2c690148@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T083000
+DTEND;TZID=Europe/Moscow:20261127T100500
+SUMMARY:Основы безопасности и защиты Родины 
+ (Лекция)
+LOCATION:К-606
+DESCRIPTION:1 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb6410318d8947f1b1b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T101500
+DTEND;TZID=Europe/Moscow:20261127T115000
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:2 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc3b8fbf57de87232b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261127T122000
+DTEND;TZID=Europe/Moscow:20261127T135500
+SUMMARY:Безопасность жизнедеятельности (Лек
+ ция)
+LOCATION:К-606
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-11
+ -241\, О-Исп-9-231\, ОЗ-Исп-11-231
+END:VEVENT
 END:VCALENDAR

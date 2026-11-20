@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tis-rooms//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Группа З-Сж-231 — ТИС
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:84172b05a3cb91e3c113@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261207T173500
+DTEND;TZID=Europe/Moscow:20261207T191000
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Лекция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ff325f120890c5009216@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261208T155000
+DTEND;TZID=Europe/Moscow:20261208T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:dc75651586d2a782d17e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T155000
+DTEND;TZID=Europe/Moscow:20261209T172500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-607
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a59d9acfe2f98f955b5c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261209T173500
+DTEND;TZID=Europe/Moscow:20261209T191000
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Субботин А.Е. / Лазарева Н.В.
+  · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:beeb53a1fa1b592776c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261210T140500
+DTEND;TZID=Europe/Moscow:20261210T154000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-208
+DESCRIPTION:4 пара · Семенова Л.В. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:41adbde02c8ae8dd067b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T155000
+DTEND;TZID=Europe/Moscow:20261211T172500
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6691bbf479eb54b743ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261211T173500
+DTEND;TZID=Europe/Moscow:20261211T191000
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Лекция)
+LOCATION:К-205
+DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:695b26ea6b274e915906@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261212T101500
+DTEND;TZID=Europe/Moscow:20261212T115000
+SUMMARY:Управление многоквартирными домами 
+ (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Сж-
+ 231
+END:VEVENT
+END:VCALENDAR

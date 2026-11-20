@@ -176,4 +176,95 @@ SUMMARY:Общая физическая подготовка (Практи
 LOCATION:СЗ
 DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-262
 END:VEVENT
+BEGIN:VEVENT
+UID:aed221fa71ce216fc2d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T101500
+DTEND;TZID=Europe/Moscow:20261123T115000
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 262
+END:VEVENT
+BEGIN:VEVENT
+UID:3f70e27ec546eeb503ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261123T122000
+DTEND;TZID=Europe/Moscow:20261123T135500
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: ОЗ-
+ М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:dbaf730bbd9f697bd6dd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T083000
+DTEND;TZID=Europe/Moscow:20261124T100500
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-210
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: ОЗ-М-26
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1fca1b94f7eb462ea4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T101500
+DTEND;TZID=Europe/Moscow:20261124T115000
+SUMMARY:Микроэкономика (Практика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Сурцев А.С. / Семенова Н.В. · 
+ группы: ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:d162a21961234c6823d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261124T122000
+DTEND;TZID=Europe/Moscow:20261124T135500
+SUMMARY:История России (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: ОЗ-М-
+ 262
+END:VEVENT
+BEGIN:VEVENT
+UID:e672ff48d97bb2c05147@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T083000
+DTEND;TZID=Europe/Moscow:20261125T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-504
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: ОЗ-
+ М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba785ec90fe2dcab17b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261125T101500
+DTEND;TZID=Europe/Moscow:20261125T115000
+SUMMARY:Микроэкономика (Лекция)
+LOCATION:К-217
+DESCRIPTION:2 пара · Семенова Н.В. · группы: ОЗ-М-
+ 262
+END:VEVENT
+BEGIN:VEVENT
+UID:6917e19aa180b2276b99@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T101500
+DTEND;TZID=Europe/Moscow:20261126T115000
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:1e76f1851d28832df29e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261126T122000
+DTEND;TZID=Europe/Moscow:20261126T135500
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: ОЗ-М-262
+END:VEVENT
 END:VCALENDAR
