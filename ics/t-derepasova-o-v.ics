@@ -145,4 +145,36 @@ LOCATION:К-306
 DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
  Исп-11-241\, О-Исп-9-231\, ОЗ-Исп-11-231\, ОЗ-Исп-9-221
 END:VEVENT
+BEGIN:VEVENT
+UID:ef8394e4f077f1568f83@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Иностранный язык (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Дерепасова О.В. · группы: О-
+ Одл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7345d47b274fa9493714@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Дерепасова О.В. · группы: О-
+ Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b878dd13201782c6dddb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Иностранный язык в профессиональной
+  деятельности (Практика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
+ Дп-11-261\, О-Исп-9-251\, О-Тэис-11-261
+END:VEVENT
 END:VCALENDAR

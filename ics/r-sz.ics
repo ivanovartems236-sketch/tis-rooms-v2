@@ -162,4 +162,45 @@ DESCRIPTION:4 пара · Петров О.П. · группы: О-Исп-11
  -241\, О-Исп-9-231\, О-Исп-9-251\, ОЗ-Исп-11-231\, ОЗ-Ис
  п-9-221
 END:VEVENT
+BEGIN:VEVENT
+UID:f9262a88e22069e0f5e5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
+ 61\, О-Одл-9-261\, О-Тэис-11-261\, О-Тэис-9-261\, О-Эбу-
+ 9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:457a55c591a89191319d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-11-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:adeed7253a27723c98c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-9-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2253922568bfbf3ae589@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Физическая культура (Практика)
+LOCATION:СЗ
+DESCRIPTION:5 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-11-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
 END:VCALENDAR

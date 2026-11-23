@@ -377,4 +377,15 @@ SUMMARY:УП.04 Учебная практика "Сопровождение
 LOCATION:
 DESCRIPTION:1 пара ·  · группы: О-Исп-11-251
 END:VEVENT
+BEGIN:VEVENT
+UID:0e6738f94344aa7d7b14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:УП.04 Учебная практика "Сопровождение
+  и обслуживание программного обеспечени
+ я компьютерных систем"
+LOCATION:
+DESCRIPTION:1 пара ·  · группы: О-Исп-11-251
+END:VEVENT
 END:VCALENDAR

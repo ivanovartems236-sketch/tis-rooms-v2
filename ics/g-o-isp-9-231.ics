@@ -560,4 +560,15 @@ LOCATION:К-210
 DESCRIPTION:2 пара · Данилов С.В. · группы: О-Исп-
  9-231
 END:VEVENT
+BEGIN:VEVENT
+UID:21a7e15cd6947e7deb08@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:ПП.01 Производственная практика "Разр
+ аботка модулей программного обеспечени
+ я для компьютерных систем"
+LOCATION:
+DESCRIPTION:1 пара ·  · группы: О-Исп-9-231
+END:VEVENT
 END:VCALENDAR

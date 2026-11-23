@@ -196,4 +196,35 @@ LOCATION:К-301
 DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-Т
  эис-11-261
 END:VEVENT
+BEGIN:VEVENT
+UID:4cb6b0d94de512806d65@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Дискретная математика с элементами 
+ математической логики (Лекция)
+LOCATION:К-301
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:31375f22dcdef76f1f7b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Элементы высшей математики (Лекция)
+LOCATION:К-306
+DESCRIPTION:3 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
+UID:bc02238b48912c67e29e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Элементы высшей математики (Лекция)
+LOCATION:К-301
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
 END:VCALENDAR
