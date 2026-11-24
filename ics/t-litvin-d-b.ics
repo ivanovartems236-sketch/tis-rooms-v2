@@ -328,24 +328,24 @@ DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
  241
 END:VEVENT
 BEGIN:VEVENT
-UID:acf869da1ff5ed4bc6ef@tis-rooms
+UID:d55bc0e04f8685cd2557@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261201T083000
-DTEND;TZID=Europe/Moscow:20261201T100500
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
 SUMMARY:Основы алгоритмизации и программиро
  вания (Лекция)
-LOCATION:К-401
+LOCATION:К-406
 DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
  251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:c9c6e05e3912f7d65ad1@tis-rooms
+UID:074ac5b937f21a3d9d98@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261201T101500
-DTEND;TZID=Europe/Moscow:20261201T115000
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
 SUMMARY:Основы алгоритмизации и программиро
  вания (Практика)
-LOCATION:К-408
+LOCATION:К-406
 DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
  251\, О-Тэис-11-261
 END:VEVENT

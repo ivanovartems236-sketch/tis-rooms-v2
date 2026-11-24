@@ -341,6 +341,16 @@ DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
  9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:1fade66ee99187210e43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Базы данных (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:84db490e9ccac9c2d9ab@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261202T101500
@@ -382,24 +392,14 @@ DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
  с-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:df83aff8a788cba3f10d@tis-rooms
+UID:1afe9e655bfcf28940b7@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261204T083000
-DTEND;TZID=Europe/Moscow:20261204T100500
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
 SUMMARY:Основы проектирования баз данных (Ле
  кция)
 LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
+DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
  9-251
-END:VEVENT
-BEGIN:VEVENT
-UID:7a3a04f9a5fe3830e3f9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261204T101500
-DTEND;TZID=Europe/Moscow:20261204T115000
-SUMMARY:Базы данных (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
 END:VEVENT
 END:VCALENDAR

@@ -670,12 +670,12 @@ DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСЭ-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:244cdc4ef1cfe4d1e426@tis-rooms
+UID:02cc012530fca1de58e6@tis-rooms
 DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261201T083000
-DTEND;TZID=Europe/Moscow:20261201T100500
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
 SUMMARY:География (Лекция)
-LOCATION:К-205
+LOCATION:К-204
 DESCRIPTION:1 пара · Ториков А.В. · группы: О-Одл-
  9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT

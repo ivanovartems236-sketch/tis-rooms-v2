@@ -599,26 +599,24 @@ DESCRIPTION:3 пара · Дерепасова О.В. · группы: О-
  Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:67f7fc271f6c75d763c1@tis-rooms
+UID:ac0b6a96486bad4cbd34@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T083000
 DTEND;TZID=Europe/Moscow:20261201T100500
-SUMMARY:Основы алгоритмизации и программиро
- вания (Лекция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
- 251
+SUMMARY:Элементы высшей математики (Лекция)
+LOCATION:К-306
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:fd12c0eeacc33304f452@tis-rooms
+UID:9f596f49a1e69f503f52@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T101500
 DTEND;TZID=Europe/Moscow:20261201T115000
-SUMMARY:Основы алгоритмизации и программиро
- вания (Практика)
-LOCATION:К-408
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
- 251
+SUMMARY:Психология общения (Практика)
+LOCATION:К-106
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:5164544f2178aee93b79@tis-rooms
@@ -715,34 +713,36 @@ DESCRIPTION:3 пара · Петров О.П. · группы: О-Исп-9-
  251
 END:VEVENT
 BEGIN:VEVENT
-UID:cdcd5cb97d7a8a06c6ae@tis-rooms
+UID:a16f4797e00002722b84@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T083000
 DTEND;TZID=Europe/Moscow:20261204T100500
-SUMMARY:Основы проектирования баз данных (Ле
- кция)
-LOCATION:В-202
-DESCRIPTION:1 пара · Архипов В.В. · группы: О-Исп-
- 9-251
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251
 END:VEVENT
 BEGIN:VEVENT
-UID:6d788d63991ebcdd6239@tis-rooms
+UID:6c31313289ec221ec170@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T101500
 DTEND;TZID=Europe/Moscow:20261204T115000
-SUMMARY:Элементы высшей математики (Лекция)
-LOCATION:К-301
-DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-И
- сп-9-251
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251
 END:VEVENT
 BEGIN:VEVENT
-UID:5dc1e59eeea851c606a4@tis-rooms
+UID:9e2a04271dd65072af80@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T122000
 DTEND;TZID=Europe/Moscow:20261204T135500
-SUMMARY:Психология общения (Практика)
-LOCATION:К-106
-DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
- Исп-9-251
+SUMMARY:Основы проектирования баз данных (Ле
+ кция)
+LOCATION:В-202
+DESCRIPTION:3 пара · Архипов В.В. · группы: О-Исп-
+ 9-251
 END:VEVENT
 END:VCALENDAR

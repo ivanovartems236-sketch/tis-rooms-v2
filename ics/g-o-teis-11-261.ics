@@ -598,26 +598,25 @@ DESCRIPTION:4 пара · Петров О.П. · группы: О-Тэис-
  11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:074cbfa299b758444ccc@tis-rooms
+UID:d11eac5135287b779610@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T083000
 DTEND;TZID=Europe/Moscow:20261201T100500
-SUMMARY:Основы алгоритмизации и программиро
- вания (Лекция)
-LOCATION:К-401
-DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+SUMMARY:Деловая культура (Практика)
+LOCATION:К-106
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:3a4457964ca8d9529ab4@tis-rooms
+UID:47269c85a8780afd83bd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T101500
 DTEND;TZID=Europe/Moscow:20261201T115000
-SUMMARY:Основы алгоритмизации и программиро
- вания (Практика)
-LOCATION:К-408
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
- 11-261
+SUMMARY:Математический аппарат в отрасли ин
+ формационных технологий (Практика)
+LOCATION:К-301
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: О-Т
+ эис-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:e6c58083b7c069a71231@tis-rooms
@@ -628,6 +627,16 @@ SUMMARY:История России (Лекция)
 LOCATION:К-308
 DESCRIPTION:3 пара · Варавина А.В. · группы: О-Тэ
  ис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:98f65f2431bf800280f9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Базы данных (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Архипов В.В. · группы: О-Тэи
+ с-11-261
 END:VEVENT
 BEGIN:VEVENT
 UID:ca5454718cae6af963a7@tis-rooms
@@ -723,23 +732,25 @@ DESCRIPTION:5 пара · Петров О.П. · группы: О-Тэис-
  11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:194a31244a1fcb2d3dfd@tis-rooms
+UID:845ce8f1e076bb857fad@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T083000
 DTEND;TZID=Europe/Moscow:20261204T100500
-SUMMARY:Деловая культура (Практика)
-LOCATION:К-301
-DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Тэис-11-261
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:eb5ca6c896dc7b4e2e87@tis-rooms
+UID:1d8d3e50ee1f6f82fe10@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T101500
 DTEND;TZID=Europe/Moscow:20261204T115000
-SUMMARY:Базы данных (Практика)
-LOCATION:В-202
-DESCRIPTION:2 пара · Архипов В.В. · группы: О-Тэи
- с-11-261
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Тэис-
+ 11-261
 END:VEVENT
 END:VCALENDAR

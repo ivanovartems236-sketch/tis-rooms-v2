@@ -686,17 +686,6 @@ DESCRIPTION:4 пара · Черепов П.В. · группы: О-Ист
  Т-261
 END:VEVENT
 BEGIN:VEVENT
-UID:82b1ef4cf004b8d12ea9@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261201T101500
-DTEND;TZID=Europe/Moscow:20261201T115000
-SUMMARY:Основы алгоритмизации и программиро
- вания (Практика)
-LOCATION:К-408
-DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
- 251\, О-Тэис-11-261
-END:VEVENT
-BEGIN:VEVENT
 UID:e4a79c5c4028babb9916@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261202T083000

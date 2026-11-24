@@ -615,12 +615,11 @@ DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
  61
 END:VEVENT
 BEGIN:VEVENT
-UID:275f36090c15df7d9604@tis-rooms
+UID:0277a858a4bc6cc59842@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T083000
 DTEND;TZID=Europe/Moscow:20261201T100500
-SUMMARY:Основы редактирования документов (П
- рактика)
+SUMMARY:Деловая культура (Практика)
 LOCATION:К-106
 DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Дп-11-261
@@ -723,12 +722,13 @@ DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
-UID:888e84a3d14f91b03288@tis-rooms
+UID:dd33a9c76717bbdac266@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T083000
 DTEND;TZID=Europe/Moscow:20261204T100500
-SUMMARY:Деловая культура (Практика)
-LOCATION:К-301
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-106
 DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Дп-11-261
 END:VEVENT

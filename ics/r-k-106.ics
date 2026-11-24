@@ -319,15 +319,24 @@ DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
  Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
-UID:26e9ed9f81ae04050cc2@tis-rooms
+UID:8f47486db775dc68555f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T083000
 DTEND;TZID=Europe/Moscow:20261201T100500
-SUMMARY:Основы редактирования документов (П
- рактика)
+SUMMARY:Деловая культура (Практика)
 LOCATION:К-106
 DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
- Дп-11-261
+ Дп-11-261\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fd98b386f3d199deae61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Психология общения (Практика)
+LOCATION:К-106
+DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
+ Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:3e807184f4c6a457a148@tis-rooms
@@ -370,6 +379,17 @@ DESCRIPTION:4 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:1ad21b44b01d61a77924@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Основы редактирования документов (П
+ рактика)
+LOCATION:К-106
+DESCRIPTION:1 пара · Красникова А.Р. · группы: О-
+ Дп-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:7bcad07fb6296fc86e8d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T101500
@@ -379,16 +399,6 @@ SUMMARY:Основы редактирования документов (П
 LOCATION:К-106
 DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
  Дп-11-261
-END:VEVENT
-BEGIN:VEVENT
-UID:fac9b6fffcc22e8877b3@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261204T122000
-DTEND;TZID=Europe/Moscow:20261204T135500
-SUMMARY:Психология общения (Практика)
-LOCATION:К-106
-DESCRIPTION:3 пара · Красникова А.Р. · группы: О-
- Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
 UID:7636f1554bb2dfecb247@tis-rooms

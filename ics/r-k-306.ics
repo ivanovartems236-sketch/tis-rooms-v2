@@ -197,6 +197,16 @@ DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
  Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:bb9c93abd9aa5b63c300@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Элементы высшей математики (Лекция)
+LOCATION:К-306
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
+ сп-9-251
+END:VEVENT
+BEGIN:VEVENT
 UID:99f1a73fde8417cfc59d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261202T101500

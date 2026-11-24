@@ -702,6 +702,28 @@ DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-И
  сп-9-251\, О-Тэис-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:c5684b7d06592586780d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5087dd1cc8d160054d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Основы алгоритмизации и программиро
+ вания (Практика)
+LOCATION:К-406
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
+ 251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
 UID:25056a1815a427348af2@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T122000

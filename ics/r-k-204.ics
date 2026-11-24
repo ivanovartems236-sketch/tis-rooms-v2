@@ -798,6 +798,16 @@ DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Од
  л-9-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
+UID:41ef043ffa15437cd022@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:География (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ториков А.В. · группы: О-Одл-
+ 9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
 UID:9692be5a3ad643ef706a@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

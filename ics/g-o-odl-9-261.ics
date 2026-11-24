@@ -572,14 +572,14 @@ DESCRIPTION:4 пара · Петров О.П. · группы: О-Одл-9-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:5018cf5804db91a77e65@tis-rooms
+UID:7037335ce844b4b7a3d6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T083000
 DTEND;TZID=Europe/Moscow:20261201T100500
-SUMMARY:География (Лекция)
-LOCATION:К-205
-DESCRIPTION:1 пара · Ториков А.В. · группы: О-Одл-
- 9-261
+SUMMARY:Математика (Лекция)
+LOCATION:К-308
+DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:f44a8b65129441662f9c@tis-rooms
@@ -673,14 +673,14 @@ DESCRIPTION:5 пара · Петров О.П. · группы: О-Одл-9-
  261
 END:VEVENT
 BEGIN:VEVENT
-UID:c477e9bf29aa999aa899@tis-rooms
+UID:590da704d3c19aa128cf@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T083000
 DTEND;TZID=Europe/Moscow:20261204T100500
-SUMMARY:Математика (Лекция)
-LOCATION:К-308
-DESCRIPTION:1 пара · Тишук О.Ю. · группы: О-Одл-9-26
- 1
+SUMMARY:География (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Ториков А.В. · группы: О-Одл-
+ 9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:1e3f5ecae135ae2cd30f@tis-rooms
