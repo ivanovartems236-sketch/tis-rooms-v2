@@ -17,18 +17,6 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:191b3a9f6c4e9ed5ddd8@tis-rooms
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=Europe/Moscow:20261110T122000
-DTEND;TZID=Europe/Moscow:20261110T135500
-SUMMARY:Техническое диагностирование и конт
- роль технического состояния автотрансп
- ортных средств (Практика)
-LOCATION:К-122
-DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
- руппы: О-МСТ-251
-END:VEVENT
-BEGIN:VEVENT
 UID:62650f1d9448e459475f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261123T122000
