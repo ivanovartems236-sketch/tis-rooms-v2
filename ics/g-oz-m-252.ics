@@ -128,4 +128,66 @@ LOCATION:К-201
 DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
  252
 END:VEVENT
+BEGIN:VEVENT
+UID:39bee84c744b1692a9a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Учет и анализ: финансовый учет и анал
+ из (Лекция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:e927200f7ec94fa4933e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Учет и анализ: финансовый учет и анал
+ из (Практика)
+LOCATION:К-217
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:73f02d9cb6d00847a902@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Этика профессиональной деятельност
+ и (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5a25eddbb2803242d7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d54429d7f551e81e43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-М-252
+END:VEVENT
+BEGIN:VEVENT
+UID:f67d411861f54a472b64@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Мировая экономика и международные э
+ кономические отношения (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-М-252
+END:VEVENT
 END:VCALENDAR

@@ -71,4 +71,48 @@ LOCATION:К-301
 DESCRIPTION:4 пара · Аксенова И.С. / Приходченко 
  О.В. · группы: О-МКИ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:79bfcd89fd9ebe192516@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:570159499c85dc865ecb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:7beb5ac3c46e43ec9d9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3404b13c6e53400418@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
 END:VCALENDAR

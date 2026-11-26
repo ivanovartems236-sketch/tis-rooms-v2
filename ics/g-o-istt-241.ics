@@ -231,4 +231,111 @@ LOCATION:К-408
 DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:e5c10d36c456689dd762@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Моделирование систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1c5008881d6ce9449a88@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:4dbe45246ae035d212e4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1f976bc6accc10cdf3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:97dbde655f938afbb5e0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Программирование (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:907ee9f0e7f76c9405bc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:5e373430ef7e84823bab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: О-Ис
+ тТ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6702d59a22e0ac7e7f6c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-408
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd28cce3dcb884cd8c7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ef0121770c8d2c25c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
 END:VCALENDAR

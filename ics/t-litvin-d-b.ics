@@ -199,6 +199,78 @@ DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-ИстТ-
  241
 END:VEVENT
 BEGIN:VEVENT
+UID:794226b93de612514b55@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:7ccd7022f0066a8b6f2a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Программирование (Лаб.)
+LOCATION:К-408
+DESCRIPTION:3 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:7179e1aa23cfea08dc01@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Компьютерная геометрия и графика (Ла
+ б.)
+LOCATION:К-408
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:85745d21d7cc38230e86@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Системы компьютерного моделировани
+ я (Практика)
+LOCATION:К-408
+DESCRIPTION:5 пара · Литвин Д.Б. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8eabaf8341e4504fce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T173500
+DTEND;TZID=Europe/Moscow:20261201T191000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:В-201
+DESCRIPTION:6 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:852157b2e4da58a0ebd8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T192000
+DTEND;TZID=Europe/Moscow:20261201T205500
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:В-201
+DESCRIPTION:7 пара · Литвин Д.Б. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:9b61a8b47acc9c36c892@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Программирование (Лаб.)
+LOCATION:В-202
+DESCRIPTION:2 пара · Литвин Д.Б. · группы: ОЗ-Ист
+ Т-241
+END:VEVENT
+BEGIN:VEVENT
 UID:d55bc0e04f8685cd2557@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T083000
@@ -219,6 +291,16 @@ SUMMARY:Основы алгоритмизации и программиро
 LOCATION:К-406
 DESCRIPTION:2 пара · Литвин Д.Б. · группы: О-Исп-9-
  251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1462cfa578e63e4782@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T173500
+DTEND;TZID=Europe/Moscow:20261204T191000
+SUMMARY:зач.Геоинформационные системы
+LOCATION:К-501
+DESCRIPTION:6 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 231
 END:VEVENT
 BEGIN:VEVENT
 UID:6566a1cfd96dee58cc30@tis-rooms

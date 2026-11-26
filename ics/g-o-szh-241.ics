@@ -289,4 +289,134 @@ LOCATION:К-208
 DESCRIPTION:3 пара · Макеенко И.П. · группы: О-Сж-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:f0f6f508de1ae752da3f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Технологии управления ТБО (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Макеенко И.П. · группы: О-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:3000006e68fb74195d5d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Конструкции инженерных систем\, внут
+ ридомового и внутриквартирного оборудо
+ вания (Практика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:25f103741e5a19cbc0e8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-205
+DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:7718d7d39da316fc543c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d09c6cf07e0daa1a8c26@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6a820d2b475e45dcb7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Технологические процессы в сервисе (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:51aff807215f1cdb97be@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:eec2e6ca9112ca20e9c0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:207a7e0decb18834d7e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Технологии управления ТБО (Практика)
+LOCATION:К-205
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:46fc65f401240c09e190@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Организация и планирование деятельн
+ ости предприятий сервиса (Практика)
+LOCATION:К-205
+DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-Сж-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a00fcf0571bf5e0e3825@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Лекция)
+LOCATION:К-205
+DESCRIPTION:2 пара · Макеенко И.П. · группы: О-Сж-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:7444451f722458f50935@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-205
+DESCRIPTION:3 пара · Макеенко И.П. · группы: О-Сж-
+ 241
+END:VEVENT
 END:VCALENDAR

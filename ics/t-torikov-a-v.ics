@@ -395,6 +395,129 @@ DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСЭ-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:9a491432ba1b3ca7d325@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта подстанций электрическ
+ их сетей
+LOCATION:К-602
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Сэ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7657fd40920b39425e4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Автоэксплуатационные материалы (Пра
+ ктика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Субботин А.Е. / Ториков А.В. 
+ · группы: О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:99b1776ffe53aff1f70f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Управление качеством услуг сервиса (
+ Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Сж-23
+ 1\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f303e570c529ef240f27@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Устойчивое развитие туризма (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb5fb097e09a78f1181@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Особые условия технической эксплуат
+ ации и экологическая безопасность автом
+ обилей (Практика)
+LOCATION:К-205
+DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:aa6373283539cabe0318@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Лекция)
+LOCATION:К-201
+DESCRIPTION:1 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:defa12bea56218d3347e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Практика)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:48a26dd4023b9f03be87@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Техническая диагностика систем и ус
+ тройств автомобилей (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:479e833f4256db7a1fa7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Ториков А.В. · группы: О-МСЭ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:06fb1840d6d7dcc8b51f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:зчО.Туристско-рекреационное проекти
+ рование
+LOCATION:К-205
+DESCRIPTION:5 пара · Ториков А.В. · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:58f8dd1e75bbdd0cc1a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Современные технологии повышения ра
+ ботоспособности и восстановления детал
+ ей автомобилей (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
 UID:02cc012530fca1de58e6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261204T083000
@@ -403,6 +526,51 @@ SUMMARY:География (Лекция)
 LOCATION:К-204
 DESCRIPTION:1 пара · Ториков А.В. · группы: О-Одл-
  9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:101f95d0eb3024be06ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Электрооборудование и электронные с
+ истемы автомобиля (Лекция)
+LOCATION:К-204
+DESCRIPTION:2 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:bf68fa6f03706763f352@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Ториков А.В. · группы: О-Ст-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a4ea8334a0302e2dd1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:экз.Техническая диагностика систем 
+ и устройств автомобилей
+LOCATION:К-504
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3c5471f2b25a6ed29a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Организация контроля технического с
+ остояния автомобилей (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Ториков А.В. · группы: З-Ст-23
+ 1
 END:VEVENT
 BEGIN:VEVENT
 UID:4ab0e8d63bee8d34e05f@tis-rooms

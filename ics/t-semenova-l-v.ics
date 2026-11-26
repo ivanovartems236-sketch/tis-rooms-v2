@@ -321,6 +321,125 @@ DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
  251\, ОЗ-М-252
 END:VEVENT
 BEGIN:VEVENT
+UID:f54c96b2bbf473d9b9c0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Менеджмент и маркетинг на предприят
+ иях легкой промышленности (Практика)
+LOCATION:К-204
+DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-К
+ и-241
+END:VEVENT
+BEGIN:VEVENT
+UID:9bc479b20a212ef9b6ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Управление качеством услуг сервиса (
+ Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Сж-
+ 231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dc84317e1ccb7372127f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Маркетинг (Практика)
+LOCATION:К-205
+DESCRIPTION:3 пара · Семенова Л.В. · группы: О-Эб
+ у-251\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк
+ -252
+END:VEVENT
+BEGIN:VEVENT
+UID:0cdc55674158f20e0630@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Менеджмент автотранспортных и серви
+ сных предприятий (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Семенова Л.В. · группы: О-МС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a6738dab02eed7382d80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Сж-
+ 241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:274d09d1888d5461a257@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:20757af3639cb707531c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Организация и планирование деятельн
+ ости предприятий сервиса (Практика)
+LOCATION:К-205
+DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:86cfde357a77724d5d6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Энергоменеджмент (Практика)
+LOCATION:К-205
+DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-МСЭ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fe59df6580b872a0305b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Менеджмент и маркетинг на предприят
+ иях легкой промышленности (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd4af4009e7e6f2b9b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Менеджмент и маркетинг на предприят
+ иях легкой промышленности (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Семенова Л.В. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:fb377e1a2ae14af5543b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Энергоменеджмент (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Семенова Л.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
 UID:0a2e9e24da69471d78e9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261210T140500

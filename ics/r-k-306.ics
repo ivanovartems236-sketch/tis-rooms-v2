@@ -144,6 +144,28 @@ DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: О-И
  сп-9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:03d198b7ffc439f5d0ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Особенности проектирования одеж
+ ды по индивидуальным заказам
+LOCATION:К-306
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe11d2fff453829c81f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T173500
+DTEND;TZID=Europe/Moscow:20261201T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
 UID:99f1a73fde8417cfc59d@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261202T101500

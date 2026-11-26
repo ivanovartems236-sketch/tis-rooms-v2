@@ -268,4 +268,134 @@ LOCATION:К-210
 DESCRIPTION:2 пара · Данилов С.В. · группы: О-Исп-
  11-241\, О-Исп-9-231
 END:VEVENT
+BEGIN:VEVENT
+UID:b13d3d6194834dae08e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Этика профессиональной деятельност
+ и (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-М-
+ 252\, ОЗ-Эбу-231\, ОЗ-Эбу-252\, ОЗ-Эпо-231\, ОЗ-Эпо-25
+ 2\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a42a80c5d699342a85@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-231\, ОЗ-Эбу-242\, ОЗ-Эпо-231\, ОЗ-Эп
+ о-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fd256bfc2e6c3f0adbb1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Делопроизводство (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2dcf8177023791b307fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Теория экономического анализа (Лекц
+ ия)
+LOCATION:К-210
+DESCRIPTION:4 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:f49aa38c9ce1f7b91d96@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Самоменеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:5 пара · Зайченко И.А. · группы: О-Эб
+ у-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b10b43145ad3465549@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: О-Эбу-25
+ 1\, ОЗ-Эбу-252\, ОЗ-Эпо-251\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0a56d91b089fe873e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Экономическая оценка инвестиций (Ле
+ кция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-231\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:589c4c70b5a4db8a5c68@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231\, ОЗ-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:259ff21f9fe273673248@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Теория экономического анализа (Прак
+ тика)
+LOCATION:К-210
+DESCRIPTION:1 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:86c0c2bea90bf4409c8a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Делопроизводство (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Шведова Н.Н. · группы: О-Эбу-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:c57cb6501d47fd170a92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Статистика: социально-экономическая
+  статистика (Лекция)
+LOCATION:К-210
+DESCRIPTION:3 пара · Зайченко И.А. · группы: О-Эб
+ у-251
+END:VEVENT
+BEGIN:VEVENT
+UID:fa095a13d24b2005b8d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Статистика: теория статистики (Практ
+ ика)
+LOCATION:К-210
+DESCRIPTION:4 пара · Зайченко И.А. · группы: О-Эб
+ у-251
+END:VEVENT
 END:VCALENDAR

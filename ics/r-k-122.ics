@@ -86,4 +86,26 @@ LOCATION:К-122
 DESCRIPTION:3 пара · Фурсов В.А. · группы: О-МСТ-25
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:753feabfb970a10dbdae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-122
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:929b33e7c6ac2cca7aa6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Практика)
+LOCATION:К-122
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сэ-231
+END:VEVENT
 END:VCALENDAR

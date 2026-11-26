@@ -149,4 +149,55 @@ LOCATION:К-201
 DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-М-
  251
 END:VEVENT
+BEGIN:VEVENT
+UID:6d46031f6b23608d3765@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-М-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b62242ea5c1344f4a422@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Самоменеджмент (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e4b4cda1d71d62069e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Учет и анализ: управленческий учет (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:c702ae9e402879427b4a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-М-251
+END:VEVENT
+BEGIN:VEVENT
+UID:99e5046579c800241dfd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Учет и анализ: управленческий учет (Л
+ екция)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
 END:VCALENDAR

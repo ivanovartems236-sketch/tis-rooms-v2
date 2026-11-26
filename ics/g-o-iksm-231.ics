@@ -282,4 +282,125 @@ LOCATION:К-506
 DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-И
  ксМ-231
 END:VEVENT
+BEGIN:VEVENT
+UID:f56a7761458846af94ec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Икс
+ М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6aea695f7601e05893@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Икс
+ М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf4f72201e52fa1bc5b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b68653f4ba4bbb4491b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:408938c30b09306a7e31@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Оборудование систем мобильной связи
+  (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:120afe341edd0b2ec8cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Оборудование систем мобильной связи
+  (Практика)
+LOCATION:К-506
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:baf479262416bad347f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Стандарты и технологии систем мобил
+ ьной связи (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:935126b0ca1d25b7783b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Практика)
+LOCATION:К-413
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9dbb241c00485b1fab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Сети и системы мобильной связи (Лекц
+ ия)
+LOCATION:К-413
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b23de64ed2920276d9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Сети и системы мобильной связи (Прак
+ тика)
+LOCATION:К-413
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:43d3423be119b72de34f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Стандарты и технологии систем мобил
+ ьной связи (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: О-Ик
+ сМ-231
+END:VEVENT
 END:VCALENDAR

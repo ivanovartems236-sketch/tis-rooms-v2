@@ -224,4 +224,92 @@ LOCATION:К-204
 DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:4dd0aa73e4e81776c3ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Управление проектами (Лекция)
+LOCATION:К-201
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:999a728d4d78cc5cb355@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T173500
+DTEND;TZID=Europe/Moscow:20261130T191000
+SUMMARY:Технологии управления сервисной сре
+ дой (Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2ed0313acb4cd8df49e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Технологии профессиональных коммун
+ икаций в сервисе (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Чимонина И.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b2bfa50a6733457735@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T173500
+DTEND;TZID=Europe/Moscow:20261201T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c11c8f5908853c37e1f7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T173500
+DTEND;TZID=Europe/Moscow:20261202T191000
+SUMMARY:Современные подходы к организационн
+ о- управленческой деятельности (Практик
+ а)
+LOCATION:К-201
+DESCRIPTION:6 пара · Чимонина И.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:88d0d7f0c8bbba57befd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Теория решения изобретательских зад
+ ач (Практика)
+LOCATION:К-204
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:19ac189ba5cf87dafdfa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Энергосбережение и энергоаудит пред
+ приятий и организаций (Лекция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Лазарева Н.В. · группы: О-МС
+ Э-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9447e7760ef11c3ee270@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T192000
+DTEND;TZID=Europe/Moscow:20261203T205500
+SUMMARY:Управление системами энергообеспеч
+ ения хозяйствующих субъектов (Лекция)
+LOCATION:К-201
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСЭ-26
+ 1
+END:VEVENT
 END:VCALENDAR

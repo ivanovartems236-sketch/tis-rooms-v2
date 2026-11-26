@@ -453,6 +453,270 @@ LOCATION:К-503
 DESCRIPTION:7 пара · Дрофа Е.А. · группы: О-МКИ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:ee11db47956a1ed2b3b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:24f4bbec54ca4a734db0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7a16e007443e5957ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e20ff4c3290b292c1619@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:4 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:73c0949b113e17ff844c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Оборудование швейного производства 
+ (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5fc06250a9cd1e4bc6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Оборудование швейного производства 
+ (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:37e1055ff14062aa9dec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1851f86c897a1fe9a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:84f95e3b4296ca48852f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1\, О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d78f6f40ceb8a87777@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1\, О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe8899d84627f6a7bcc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:4 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2716092717c936363a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:02789f8e7e2e02e81197@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:1 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:72bb5314c9df84d7483f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f9dbc0d2c4a65c10a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Практика)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d2623999b5da99e86e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:d22e4008129cf287ecb8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Ресурсосберегающие системы в отрасл
+ ях легкой промышленности (Практика)
+LOCATION:К-503
+DESCRIPTION:6 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e57e5c99eadf4c88550d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Смирнова М.Ю. · группы: ОЗ-К
+ и-241
+END:VEVENT
+BEGIN:VEVENT
+UID:c70037ca4cf6e0d00fbd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:fe09bb8218545c3df6b7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: З-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7f34455382914a1af5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Теория решения изобретательских зад
+ ач (Лаб.)
+LOCATION:К-503
+DESCRIPTION:4 пара · Дрофа Е.А. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:2d3273d2894e4f424407@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Современные проблемы науки и произв
+ одства изделий легкой промышленности (Л
+ екция)
+LOCATION:К-503
+DESCRIPTION:5 пара · Дрофа Е.А. · группы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:208b4caa484585d506ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T101500
+DTEND;TZID=Europe/Moscow:20261205T115000
+SUMMARY:зач.Профессиональная подготовка
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5b74c6acdf86f0e67736@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T122000
+DTEND;TZID=Europe/Moscow:20261205T135500
+SUMMARY:Наноматериалы и нанотехнологии (Пра
+ ктика)
+LOCATION:К-503
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
 UID:9e0726672fbdbe0f94f0@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261208T173500

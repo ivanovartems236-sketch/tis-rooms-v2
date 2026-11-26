@@ -222,6 +222,26 @@ DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
  п-11-261
 END:VEVENT
 BEGIN:VEVENT
+UID:984c91080374ee25826d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. · группы: ОЗ-М-231\
+ , ОЗ-Эбу-231\, ОЗ-Эпо-231
+END:VEVENT
+BEGIN:VEVENT
+UID:984c91080374ee25826d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. / Ионова А.Ч. · гр
+ уппы: ОЗ-М-242\, ОЗ-Эбу-242\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
 UID:80c160f88402122ed560@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T101500
@@ -232,5 +252,58 @@ SUMMARY:Организация документооборота и доку
 LOCATION:К-107
 DESCRIPTION:2 пара · Аверченко С.В. · группы: О-Д
  п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:9a80973df315f38bff3e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Самоменеджмент (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:78be11c88db28d1e483a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Учет и анализ: управленческий учет (П
+ рактика)
+LOCATION:К-107
+DESCRIPTION:4 пара · Зайченко И.А. · группы: ОЗ-М-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:08edaf16499ae13642bb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Мировая экономика и международные э
+ кономические отношения (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-М-252\
+ , ОЗ-Эбу-252\, ОЗ-Эпо-241\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b3cd26f84cf1692009@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Теоретические основы прогнозирован
+ ия (Лекция)
+LOCATION:К-107
+DESCRIPTION:4 пара · Колосова О.Ю. / Ионова А.Ч. · 
+ группы: ОЗ-М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:47f1679046cc43cfb3f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Экономика предприятия (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Семенова Н.В. · группы: ОЗ-Э
+ по-241
 END:VEVENT
 END:VCALENDAR

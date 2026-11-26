@@ -17,6 +17,104 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ad4ad17b9d373ae5da76@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Монтаж\, эксплуатация и ремонт те
+ хнологического оборудования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0b985ef70ddc49460a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Экономическая теория
+LOCATION:К-301
+DESCRIPTION:3 пара · Еремина Е.А. · группы: З-Тм-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:91103dafb1a51f7ee2a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Проектирование предприятий по ремон
+ ту бытовых машин и приборов (Практика)
+LOCATION:К-612
+DESCRIPTION:3 пара · Меронюк С.А. / Приходченко О
+ .В. · группы: З-Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b207db120ee483f87da2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Организация фирменного обслуживани
+ я бытовых машин и приборов (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:2180dba66b795fb87f89@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:зач.Проектирование технологии восст
+ ановления работоспособности бытовых ма
+ шин и приборов
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:451ffc3077bae3ee49a7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Технология отраслевого машинострое
+ ния (Практика)
+LOCATION:К-612
+DESCRIPTION:6 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ed2653a67fab35401dc3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T192000
+DTEND;TZID=Europe/Moscow:20261203T205500
+SUMMARY:Проектирование бытовой техники (Пра
+ ктика)
+LOCATION:К-612
+DESCRIPTION:7 пара · Погребной М.Н. / Малсугенов 
+ А.В. · группы: З-Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4d83d4be6b42a95cf5ac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:экз.Проектирование оснастки для рем
+ онта технологического оборудования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:2c80d22eed1bb1b4c49a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T122000
+DTEND;TZID=Europe/Moscow:20261205T135500
+SUMMARY:экз.Бытовые машины и приборы
+LOCATION:К-612
+DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
 UID:434130dc6e3b783f5dfa@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

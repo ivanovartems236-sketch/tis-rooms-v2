@@ -17,6 +17,149 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:9412e8a63e3c0da1db6a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Стандарты и технологии систем мо
+ бильной связи
+LOCATION:К-501
+DESCRIPTION:2 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:05f140537ccf73c6951d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:экз.Стандарты и технологии систем мо
+ бильной связи
+LOCATION:К-501
+DESCRIPTION:3 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a807672d80ccabd47252@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:экз.Стандарты и технологии систем мо
+ бильной связи
+LOCATION:К-501
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:103738fbbf06a518837b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Проектирование и эксплуатация сетей
+  связи (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd32183c70ef4891c68@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:зач.Теория информационной безопасно
+ сти и защита инфокоммуникаций
+LOCATION:К-506
+DESCRIPTION:5 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:1330be83a5d58458fcd9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Протасов К.А. / Черепов П.В. 
+ · группы: З-ИксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e3430b28690d937a3cb2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-Икс
+ М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf15aa8a17aea106215@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:зач.Оборудование систем мобильной с
+ вязи
+LOCATION:К-413
+DESCRIPTION:4 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:459e0d313f131738f2ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Сети и системы мобильной связи (Прак
+ тика)
+LOCATION:К-413
+DESCRIPTION:5 пара · Солчатов М.Э. · группы: З-Ик
+ сМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5f20ac8a6f8a187f64d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:59eba8aba64f2e5a4343@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лаб.)
+LOCATION:К-505
+DESCRIPTION:5 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2821d5f41b7e17bfa510@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T173500
+DTEND;TZID=Europe/Moscow:20261204T191000
+SUMMARY:Радиопередающие устройства систем м
+ обильной связи (Практика)
+LOCATION:К-505
+DESCRIPTION:6 пара · Сагдеев К.М. · группы: З-Икс
+ М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:c84393d260e61290c604@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Радиоприёмные устройства систем моб
+ ильной связи (Практика)
+LOCATION:К-505
+DESCRIPTION:1 пара · Сагдеев К.М. · группы: З-Икс
+ М-231
+END:VEVENT
+BEGIN:VEVENT
 UID:5f5e18df5b498e2c4edd@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

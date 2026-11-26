@@ -17,6 +17,17 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:4e18c03a3542f61f8c1e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Проектирование предприятий по ремон
+ ту бытовых машин и приборов (Практика)
+LOCATION:К-612
+DESCRIPTION:3 пара · Меронюк С.А. / Приходченко О
+ .В. · группы: З-Тм-231
+END:VEVENT
+BEGIN:VEVENT
 UID:731ae6d18016f46ce1c3@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261208T155000

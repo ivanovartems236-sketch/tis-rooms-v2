@@ -240,4 +240,111 @@ LOCATION:К-204
 DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
  251
 END:VEVENT
+BEGIN:VEVENT
+UID:90d21a91eea0253427ea@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc3591a2e74b45640b5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T173500
+DTEND;TZID=Europe/Moscow:20261130T191000
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6b231b9845b83b6cef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T192000
+DTEND;TZID=Europe/Moscow:20261130T205500
+SUMMARY:Ресурсосбережение при проведении те
+ хнического обслуживания и ремонта автом
+ обилей (Лекция)
+LOCATION:К-208
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee2c2aab07caafc4daa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Менеджмент автотранспортных и серви
+ сных предприятий (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Семенова Л.В. · группы: О-МС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8799de8c39c5cd1fe28e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Особые условия технической эксплуат
+ ации и экологическая безопасность автом
+ обилей (Практика)
+LOCATION:К-205
+DESCRIPTION:5 пара · Ториков А.В. · группы: О-МСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:5d75b9c1f89ea7be52f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Лекция)
+LOCATION:К-208
+DESCRIPTION:5 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:26f07a491a2357f37675@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T173500
+DTEND;TZID=Europe/Moscow:20261202T191000
+SUMMARY:Современные технологии повышения ра
+ ботоспособности и восстановления детал
+ ей автомобилей (Лекция)
+LOCATION:К-208
+DESCRIPTION:6 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:0942bce628dee7483496@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T192000
+DTEND;TZID=Europe/Moscow:20261202T205500
+SUMMARY:Ресурсосбережение при проведении те
+ хнического обслуживания и ремонта автом
+ обилей (Практика)
+LOCATION:К-208
+DESCRIPTION:7 пара · Фурсов В.А. · группы: О-МСТ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f89def6f44c67e8729@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Современные технологии повышения ра
+ ботоспособности и восстановления детал
+ ей автомобилей (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСТ-
+ 251
+END:VEVENT
 END:VCALENDAR

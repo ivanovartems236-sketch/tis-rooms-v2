@@ -161,4 +161,78 @@ LOCATION:К-217
 DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
  бу-252
 END:VEVENT
+BEGIN:VEVENT
+UID:55b969cfd9152f9079fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Этика профессиональной деятельност
+ и (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ бу-252
+END:VEVENT
+BEGIN:VEVENT
+UID:2f74efe552144ba36c80@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Маркетинг (Практика)
+LOCATION:К-205
+DESCRIPTION:3 пара · Семенова Л.В. · группы: ОЗ-Э
+ бу-252
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9185dd5e431ee6a877@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-Эбу-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:dd69f1d811f22e5d5f46@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Статистика: социально-экономическая
+  статистика (Практика)
+LOCATION:К-217
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ бу-252
+END:VEVENT
+BEGIN:VEVENT
+UID:f45b4e857945b972d8f3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Менеджмент (Практика)
+LOCATION:К-210
+DESCRIPTION:1 пара · Ионова А.Ч. · группы: ОЗ-Эбу-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:d89388b4dfa208d6f61b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-Эбу-
+ 252
+END:VEVENT
+BEGIN:VEVENT
+UID:77e2d2d1fd721b05c0a9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Мировая экономика и международные э
+ кономические отношения (Практика)
+LOCATION:К-107
+DESCRIPTION:3 пара · Ионова А.Ч. · группы: ОЗ-Эбу-
+ 252
+END:VEVENT
 END:VCALENDAR

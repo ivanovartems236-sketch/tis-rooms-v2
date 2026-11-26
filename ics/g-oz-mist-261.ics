@@ -123,4 +123,37 @@ LOCATION:В-103
 DESCRIPTION:5 пара · Левшенков В.Н. · группы: ОЗ-
  МИСТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:5a9755d52e41306d7875@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Современные проблемы науки и произв
+ одства (информационные системы) (Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Черепов П.В. · группы: ОЗ-МИ
+ СТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:782373d18da1e58e3cc8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Смирнова Н.Г. · группы: ОЗ-М
+ ИСТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b88353e6870a32ac894e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T173500
+DTEND;TZID=Europe/Moscow:20261204T191000
+SUMMARY:Методология научных исследований (Л
+ екция)
+LOCATION:К-201
+DESCRIPTION:6 пара · Фурсов В.А. · группы: ОЗ-МИС
+ Т-261
+END:VEVENT
 END:VCALENDAR

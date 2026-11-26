@@ -17,6 +17,39 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:a80c05c789df7bf47de3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Экономический анализ деятельности т
+ уристского предприятия (Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Надеина А.Е. / Лазарева Н.В. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:844e456b912ec01ac4b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Технология и организация экскурсион
+ ных услуг (Практика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f0624c2a3c5d8bcbf129@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Технология организации внутреннего 
+ туризма (Лекция)
+LOCATION:К-602
+DESCRIPTION:1 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
 UID:6bacd2483ae4b0ac0195@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261209T155000

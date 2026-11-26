@@ -17,6 +17,72 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:7d4b961054e850c913d7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Безопасность транспортных средств (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2bbc52161fbfe983775b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-602
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dfd17a16ff9dc4a3b189@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-205
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Ст-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7d2f0ca7e2e3628c33@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad379a9eabf115bb971@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:экз.Техническая диагностика систем 
+ и устройств автомобилей
+LOCATION:К-504
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:59f563d3bba6a11400d3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Организация контроля технического с
+ остояния автомобилей (Лекция)
+LOCATION:К-205
+DESCRIPTION:1 пара · Ториков А.В. · группы: З-Ст-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:92d5d78e899778bf62c7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

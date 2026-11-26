@@ -70,4 +70,58 @@ LOCATION:К-210
 DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-Э
  по-231
 END:VEVENT
+BEGIN:VEVENT
+UID:9150c0205161b9c34a66@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. · группы: ОЗ-Эпо-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:a56ca4bc29cc84ae8d7c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Этика профессиональной деятельност
+ и (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-231
+END:VEVENT
+BEGIN:VEVENT
+UID:20d84d4e7770605d8354@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Экономическая оценка инвестиций (Пр
+ актика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-231
+END:VEVENT
+BEGIN:VEVENT
+UID:683bf7c325d77673e08d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эпо-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f453f39928bb38011dd3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Экономическая оценка инвестиций (Ле
+ кция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-231
+END:VEVENT
 END:VCALENDAR

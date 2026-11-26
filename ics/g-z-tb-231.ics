@@ -17,6 +17,98 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ab6ad7dfe10599cd12c1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Экспертиза проектов по обеспечению 
+ техносферной безопасности (Лекция)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2c279e57b7b83fb12d29@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Надзор и контроль в сфере безопаснос
+ ти (Практика)
+LOCATION:К-609
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:edd498a9fa572204ce97@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Экономическая теория
+LOCATION:К-301
+DESCRIPTION:3 пара · Еремина Е.А. · группы: З-Тб-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d3bf9ba9a5c07434d2ec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Экономика (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-Тб-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:2a49e0cb98198f7ba29b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Управление производственной безопа
+ сностью (Практика)
+LOCATION:К-609
+DESCRIPTION:2 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:682d3615c1fde812c413@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:зач.Основы управления качеством
+LOCATION:К-609
+DESCRIPTION:3 пара · Дрофа Е.А. · группы: З-Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed233648048bf10bb9f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Специальная оценка условий труда (Ла
+ б.)
+LOCATION:К-609
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ff2748bce0d50e6c6dde@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Управление потоками отходов произво
+ дства (Практика)
+LOCATION:К-609
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Тб-231
+END:VEVENT
+BEGIN:VEVENT
+UID:687ba1bf1aab4edb76c5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T101500
+DTEND;TZID=Europe/Moscow:20261205T115000
+SUMMARY:экз.Защита от химических и биологиче
+ ски-опасных факторов
+LOCATION:К-313
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Тб-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:40e3c600670b72c0d203@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

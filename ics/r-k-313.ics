@@ -204,6 +204,116 @@ DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:c05aaee46ac74ad88741@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Проектирование одежды с объемным ут
+ еплителем (Практика)
+LOCATION:К-313
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:89786611a4e283e9424e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Практ
+ ика)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:05392a0a6e940a21d7bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Проектирование детской одежды (Лаб.)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:555b5b64a5804dcf470d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:0adb2f85c2f6caf69717@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ff59eb5961312a0740df@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Проектирование одежды с объемным ут
+ еплителем (Лекция)
+LOCATION:К-313
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:36695dc98fa959d80c8e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:экз.Основы конструирования и технол
+ огии производства радиоэлектронных сре
+ дств
+LOCATION:К-313
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:951ad9186c14139d8139@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:экз.Основы конструирования и технол
+ огии производства радиоэлектронных сре
+ дств
+LOCATION:К-313
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:eb34223dc677c93829c3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:экз.Основы конструирования и технол
+ огии производства радиоэлектронных сре
+ дств
+LOCATION:К-313
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc4110938dbf453e0a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T101500
+DTEND;TZID=Europe/Moscow:20261205T115000
+SUMMARY:экз.Защита от химических и биологиче
+ ски-опасных факторов
+LOCATION:К-313
+DESCRIPTION:2 пара · Макеенко И.П. · группы: З-Тб-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:7a8282dfd1927d39d1eb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

@@ -17,6 +17,83 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:8deb26b7939b8687ec4c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Технология и организация гостин
+ ичной деятельности
+LOCATION:К-607
+DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:95e5649bf034a78664ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:экз.Технология и организация гостин
+ ичной деятельности
+LOCATION:К-607
+DESCRIPTION:3 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f832a37ce74cc1e5e5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:экз.Технология и организация гостин
+ ичной деятельности
+LOCATION:К-607
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:452ebcc3ec0ff1ab3d1f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Технология разработки туристского м
+ аршрута (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ca747934f869957351fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T173500
+DTEND;TZID=Europe/Moscow:20261201T191000
+SUMMARY:Управление качеством услуг туризма (
+ Практика)
+LOCATION:К-201
+DESCRIPTION:6 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d78d2ae6b10e512b70ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Технология и организация экскурсион
+ ных услуг (Практика)
+LOCATION:К-208
+DESCRIPTION:5 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e1ecd2d9eacf2d7dd651@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Технология организации внутреннего 
+ туризма (Лекция)
+LOCATION:К-602
+DESCRIPTION:1 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
 UID:280c969c9ed1d03f0841@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261208T140500

@@ -334,6 +334,46 @@ DESCRIPTION:4 пара · Шепеть И.П. · группы: О-ИстТ-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:b0a7de8425f5d1facc7d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Основы теории цепей (Практика)
+LOCATION:К-502
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1badf381484fccd644f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:4798a4158f426ef75b24@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-И
+ ксМ-261\, О-Рт-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f212ff6487a20b483a9c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Автоматизированные информацион
+ но-управляющие системы
+LOCATION:К-502
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: З-ИстУ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:63c6f2d7de42a4132f66@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261202T083000
@@ -344,6 +384,92 @@ SUMMARY:Организация документооборота и доку
 LOCATION:К-502
 DESCRIPTION:1 пара · Аверченко С.В. · группы: О-Д
  п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:651f0104159f6bb1ba8b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-502
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3aa5264ba4f819e15218@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Протасов К.А. / Черепов П.В. 
+ · группы: З-ИксМ-231\, З-ИксЭ-231\, З-ИстТ-231\, З-
+ ИстУ-231\, З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa4d57a3dae99675891@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лаб.)
+LOCATION:К-502
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:e91c4071d0fc5e74359d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:4 пара · Левшенков В.Н. · группы: О-К
+ и-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:469c5aba4e1ea6bc77f6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Химия (Лаб.)
+LOCATION:К-502
+DESCRIPTION:5 пара · Левшенков В.Н. · группы: О-К
+ и-261\, О-Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:98379a5208101cf237cc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:зач.Системы поддержки принятия реше
+ ний
+LOCATION:К-502
+DESCRIPTION:6 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f2026fcfd9534b2a2130@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Теория электрических цепей (Практик
+ а)
+LOCATION:К-502
+DESCRIPTION:2 пара · Шепеть И.П. · группы: О-ИксМ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:7053bb473a72da070b5e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Электротехника и электроника (Лаб.)
+LOCATION:К-502
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИстТ-
+ 251
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3c3a6e7b1c434fceca@tis-rooms

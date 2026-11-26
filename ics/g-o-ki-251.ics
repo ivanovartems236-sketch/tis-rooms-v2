@@ -285,4 +285,150 @@ LOCATION:К-313
 DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-25
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:d9e2f653b6a802d35900@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d653f28e726e12fc0fd6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Технология изделий легкой промышлен
+ ности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Аксенова И.С. / Приходченко 
+ О.В. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2c240e81f4f9b8ea00e5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Оборудование швейного производства 
+ (Лаб.)
+LOCATION:К-503
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:623962f24139c4831c56@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Оборудование швейного производства 
+ (Лаб.)
+LOCATION:К-503
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:04adf36c8cbd26c3ae9d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Механика (Лаб.)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3de9772c561484262c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1822e3f89f30f5631fc5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:83a3d38679b33783b7be@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b472ba61c741b9a68ca7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1c33bcdf539276440749@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Основы прикладной антропологии и би
+ омеханики (Практика)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:034d21196151d4bbb423@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:8596999e1f88927e5dee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:История костюма и моды (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:2422507ec3e65f949bdf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:1e602891b9aa07f50ee5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:5 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
 END:VCALENDAR

@@ -290,4 +290,156 @@ LOCATION:К-205
 DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
  241
 END:VEVENT
+BEGIN:VEVENT
+UID:1d68e0f0b0e8509d816c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:335ddd172a6ff8091277@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Технологические процессы в сервисе (
+ Лекция)
+LOCATION:К-205
+DESCRIPTION:3 пара · Фурсов В.А. · группы: О-Сп-241
+END:VEVENT
+BEGIN:VEVENT
+UID:a71459f6a07bb32b8db7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Организация развлекательно-досугов
+ ой деятельности (Практика)
+LOCATION:К-205
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:de59181694067492aee9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Сп-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6c2eef98ca9f5542a3bb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-Сп-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc64604bb35164a011a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Технологические процессы в сервисе (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сп-241
+END:VEVENT
+BEGIN:VEVENT
+UID:39c3633534c866109033@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:19cbc9841e779903c7d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сп-241
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfb5ae6c8853a826f28@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Сервировка и декорирование стола (Пр
+ актика)
+LOCATION:К-201
+DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:c40bb95e56e77c42a205@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Организация и планирование деятельн
+ ости предприятий сервиса (Практика)
+LOCATION:К-205
+DESCRIPTION:3 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-Сп-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d96fc3b7e075cdaa9c88@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Товароведение продовольственных то
+ варов (Практика)
+LOCATION:К-205
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:4e23b9e3a9a4f7b4d9d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Товароведение продовольственных то
+ варов (Лекция)
+LOCATION:К-201
+DESCRIPTION:2 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:82ffcf7d473ef894e214@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Сервировка и декорирование стола (Ле
+ кция)
+LOCATION:К-201
+DESCRIPTION:3 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:6630fe06cd760c6fea55@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Организация производства и технолог
+ ии обслуживания на предприятиях сервиса
+  (по отраслям) (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Чимонина И.В. · группы: О-Сп-
+ 241
+END:VEVENT
 END:VCALENDAR

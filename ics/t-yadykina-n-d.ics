@@ -37,4 +37,25 @@ LOCATION:К-205
 DESCRIPTION:2 пара · Ядыкина Н.Д. / Чимонина И.В. 
  · группы: О-Сп-231\, ОЗ-Сп-231
 END:VEVENT
+BEGIN:VEVENT
+UID:e426348cb0cd411e450a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Барное дело (Практика)
+LOCATION:К-607
+DESCRIPTION:4 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: З-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:94cf958e18ea9682e9a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-210
+DESCRIPTION:3 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: О-Сп-231\, ОЗ-Сп-231
+END:VEVENT
 END:VCALENDAR

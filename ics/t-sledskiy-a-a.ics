@@ -215,6 +215,106 @@ DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
  тТ-231
 END:VEVENT
 BEGIN:VEVENT
+UID:f8ab70f85b36c696e90a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:84040927a3298e6ed433@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6874ad62e5300e2661a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Периферийное оборудование вычис
+ лительных систем
+LOCATION:К-501
+DESCRIPTION:3 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7796a57485683fe3e1b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Системы поддержки принятия решений (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ff471ed901b55aa146d7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Периферийное оборудование вычислит
+ ельных систем (Лаб.)
+LOCATION:В-201
+DESCRIPTION:5 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:359e0f45c8a3c996bc50@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Технология программирования (Лекция
+ )
+LOCATION:К-401
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3becb15cec74bb14bc9e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Системы поддержки принятия решений (
+ Лаб.)
+LOCATION:К-502
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b3c6a3f5b97d24d88b76@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Технология программирования (Лаб.)
+LOCATION:К-401
+DESCRIPTION:3 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:ceb363f83bf8c4900be6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:зач.Системы поддержки принятия реше
+ ний
+LOCATION:К-502
+DESCRIPTION:6 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
 UID:d37fbe862a53229ef46f@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

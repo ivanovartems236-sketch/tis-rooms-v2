@@ -17,6 +17,71 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1d9c4cb3011d0138820f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:экз.Безопасность\, санитария и гигие
+ на предприятий общественного питания
+LOCATION:К-602
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:de1e6e96ce135d60cbe0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Барное дело (Практика)
+LOCATION:К-607
+DESCRIPTION:4 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: З-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a2fb5851f4512d9d2663@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-205
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:91c0d7fd091d2ac949b8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:df676167320ffd032726@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:9ccf7bf290eecd3a650b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Калькулирование на предприятиях общ
+ ественного питания (Лекция)
+LOCATION:К-204
+DESCRIPTION:1 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:549300dabb1cb1ec7c27@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

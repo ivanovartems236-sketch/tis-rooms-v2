@@ -17,6 +17,145 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:47905c4814ccb58f9986@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:2088e2e1eff925a31d6e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Периферийное оборудование вычис
+ лительных систем
+LOCATION:К-501
+DESCRIPTION:3 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ac9a4e102b4225dbeb92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Информационная безопасность и защит
+ а информации (Практика)
+LOCATION:К-406
+DESCRIPTION:4 пара · Черепов П.В. · группы: З-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d33c80e1216ce820d300@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Протасов К.А. / Черепов П.В. 
+ · группы: З-ИстТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cbf9bedbab67b1453b7e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:497e2a52e1845c44728d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T173500
+DTEND;TZID=Europe/Moscow:20261202T191000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-ИстТ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a993d56416e4398bdeed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Инструментальные средства информац
+ ионных систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: З-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:0a90d9240182d4f70527@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лаб.)
+LOCATION:К-401
+DESCRIPTION:5 пара · Протасов К.А. / Саиег Т.Х. · г
+ руппы: З-ИстТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:81f09a66845403690297@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:зач.Системы поддержки принятия реше
+ ний
+LOCATION:К-502
+DESCRIPTION:6 пара · Следский А.А. · группы: З-Ис
+ тТ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:6c1c9a6b67a5df85a0b4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Управление данными (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: З-ИстТ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4e435ced2944260720a6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:44a39f0d8cc984f1d8ef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T173500
+DTEND;TZID=Europe/Moscow:20261204T191000
+SUMMARY:зач.Геоинформационные системы
+LOCATION:К-501
+DESCRIPTION:6 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:eefe1689dcb5cf2f5fb7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Информационная теория управления (Л
+ екция)
+LOCATION:К-401
+DESCRIPTION:1 пара · Черепов П.В. · группы: З-Ист
+ Т-231
+END:VEVENT
+BEGIN:VEVENT
 UID:2791ac510963b03631fb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

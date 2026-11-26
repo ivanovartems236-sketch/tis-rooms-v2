@@ -60,4 +60,37 @@ LOCATION:К-408
 DESCRIPTION:2 пара · Перлик В.А. / Сагдеев К.М. · г
  руппы: О-Рт-231
 END:VEVENT
+BEGIN:VEVENT
+UID:74ac29a7c15ce5c2c5bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Радиотехнические цепи и сигналы (Лаб
+ .)
+LOCATION:К-413
+DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:3547c1ef438196ceb2bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Радиотехнические цепи и сигналы (Пра
+ ктика)
+LOCATION:К-413
+DESCRIPTION:2 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:cc44409e267c9d9f0318@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Практика)
+LOCATION:К-505
+DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-231
+END:VEVENT
 END:VCALENDAR

@@ -17,6 +17,125 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f7bd92dbb13830412328@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:"САПР одежды ""Грация""" (Практика)
+LOCATION:В-202
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:41d4b813d850e3036bc2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:"САПР одежды ""Грация""" (Лаб.)
+LOCATION:В-202
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:d36331bcfbfaa54bb4e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Особенности проектирования одеж
+ ды по индивидуальным заказам
+LOCATION:К-306
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:665fa0c1980ad0737291@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-122
+DESCRIPTION:4 пара · Лазарева Н.В. · группы: З-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:22d8b6653cbc4842b6d5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Проектирование изделий легкой промы
+ шленности в САПР (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a2c4141c575a7a94e1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Проектирование изделий легкой промы
+ шленности в САПР (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:36f427c914a61490bcf7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Лекци
+ я)
+LOCATION:К-308
+DESCRIPTION:2 пара · Еремина Е.А. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:f12553e0a130af091656@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Проектирование детской одежды (Лекц
+ ия)
+LOCATION:К-308
+DESCRIPTION:3 пара · Еремина Е.А. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6b41cbf290ab2cbcc31c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: З-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd08fc3d99120c37b29@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T101500
+DTEND;TZID=Europe/Moscow:20261205T115000
+SUMMARY:зач.Профессиональная подготовка
+LOCATION:К-503
+DESCRIPTION:2 пара · Приходченко О.В. · группы: З
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea1ccdcfa74ba036a31@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T122000
+DTEND;TZID=Europe/Moscow:20261205T135500
+SUMMARY:Наноматериалы и нанотехнологии (Пра
+ ктика)
+LOCATION:К-503
+DESCRIPTION:3 пара · Приходченко О.В. · группы: З
+ -Ки-231
+END:VEVENT
+BEGIN:VEVENT
 UID:0023f8452429fe9498d4@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

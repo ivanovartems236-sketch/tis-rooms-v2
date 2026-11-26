@@ -47,6 +47,49 @@ DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
  251
 END:VEVENT
 BEGIN:VEVENT
+UID:3dec69ffbe2aadc39021@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Монтаж\, эксплуатация и ремонт те
+ хнологического оборудования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6bdd8a2c15512b814d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Механика (Лаб.)
+LOCATION:К-612
+DESCRIPTION:3 пара · Калинина А.С. · группы: О-Ки-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:220c1d91e1451c68194a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Организация фирменного обслуживани
+ я бытовых машин и приборов (Лекция)
+LOCATION:К-609
+DESCRIPTION:4 пара · Калинина А.С. · группы: З-Тм-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:88dec713512d3e90840f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:экз.Проектирование оснастки для рем
+ онта технологического оборудования
+LOCATION:К-612
+DESCRIPTION:2 пара · Калинина А.С. · группы: З-Тм-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:b7ad81df24094438f711@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261208T140500

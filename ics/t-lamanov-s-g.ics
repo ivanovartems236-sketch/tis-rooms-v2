@@ -108,6 +108,106 @@ DESCRIPTION:1 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
 END:VEVENT
 BEGIN:VEVENT
+UID:f0b6d06545c7c6860bec@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Безопасность транспортных средств (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2481156c92eff108c060@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e41de25bfa9f7d1171@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T173500
+DTEND;TZID=Europe/Moscow:20261130T191000
+SUMMARY:Техническое диагностирование и конт
+ роль технического состояния автотрансп
+ ортных средств (Практика)
+LOCATION:К-208
+DESCRIPTION:6 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-МСТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec6fa6186bc6b08761b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Технологические процессы в сервисе (
+ Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:eed116fe39118beda9f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-602
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e6cfc4d0150ae3d66bdd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Принятие управленческих решений в с
+ ервисной деятельности (Практика)
+LOCATION:К-201
+DESCRIPTION:3 пара · Ламанов С.Г. / Семенова Л.В. 
+ · группы: О-Сж-241\, О-Сп-241\, О-Ст-241
+END:VEVENT
+BEGIN:VEVENT
+UID:4c4327dc5885d1276fee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сж-231\, З-Сп-231\, З-Ст-231\, З-Сэ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f9bc173e7c1b75742bee@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:358728bbd85bd19cd066@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Управление многоквартирными домами 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
 UID:c0035e5518f7187bcabc@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261211T155000

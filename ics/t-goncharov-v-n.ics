@@ -91,4 +91,26 @@ LOCATION:К-505
 DESCRIPTION:2 пара · Гончаров В.Н. / Шепеть И.П. · 
  группы: О-ИксМ-231
 END:VEVENT
+BEGIN:VEVENT
+UID:3c2ab35160e9a12e8d19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:4 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f94440b1681db5f8c144@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Основы подготовки диссертации (Прак
+ тика)
+LOCATION:К-609
+DESCRIPTION:5 пара · Гончаров В.Н. / Дрофа Е.А. · г
+ руппы: О-МКИ-261
+END:VEVENT
 END:VCALENDAR

@@ -145,4 +145,67 @@ LOCATION:К-506
 DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
  т-231
 END:VEVENT
+BEGIN:VEVENT
+UID:7df944656e68054fa179@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Физические основы микроэлектроники 
+ (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-Р
+ т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:19c5608a883f7b7cfa98@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Электроника (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:af57d0df821e64c03752@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Электроника (Лаб.)
+LOCATION:К-505
+DESCRIPTION:3 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f753548efcf4c675b000@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Квантовая и оптическая электроника (
+ Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:1eec25b14cfb0c824df5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Электроника (Лекция)
+LOCATION:К-413
+DESCRIPTION:1 пара · Гривенная Н.В. · группы: О-И
+ ксМ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:39fed6ffeadc7a51eede@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Квантовая и оптическая электроника (
+ Практика)
+LOCATION:К-217
+DESCRIPTION:2 пара · Гривенная Н.В. · группы: О-Р
+ т-241
+END:VEVENT
 END:VCALENDAR

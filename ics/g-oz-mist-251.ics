@@ -117,4 +117,50 @@ LOCATION:К-502
 DESCRIPTION:2 пара · Орлова А.Ю. · группы: ОЗ-МИС
  Т-251
 END:VEVENT
+BEGIN:VEVENT
+UID:7f7f16d09477ef028a83@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Системная инженерия (Практика)
+LOCATION:К-501
+DESCRIPTION:5 пара · Шепеть И.П. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2983bd7cf7e9b674a9c9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Инструментальные платформы информа
+ ционных и коммуникационных технологий (
+ Лекция)
+LOCATION:К-401
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: ОЗ-МИСТ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:29628753635cf5b3c767@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Практика)
+LOCATION:В-202
+DESCRIPTION:5 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac65ba428c46c1e367c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Методы исследования и моделирования
+  информационных процессов и технологий (
+ Лекция)
+LOCATION:В-202
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: ОЗ-МИС
+ Т-251
+END:VEVENT
 END:VCALENDAR

@@ -39,6 +39,50 @@ DESCRIPTION:2 пара · Малсугенов А.В. · группы: О-
  Тм-261
 END:VEVENT
 BEGIN:VEVENT
+UID:d8c767b503b95b746ad4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:зач.Проектирование технологии восст
+ ановления работоспособности бытовых ма
+ шин и приборов
+LOCATION:К-612
+DESCRIPTION:5 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:58b559783313b3d812df@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Технология отраслевого машинострое
+ ния (Практика)
+LOCATION:К-612
+DESCRIPTION:6 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9e35e197429157dcaf4f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T192000
+DTEND;TZID=Europe/Moscow:20261203T205500
+SUMMARY:Проектирование бытовой техники (Пра
+ ктика)
+LOCATION:К-612
+DESCRIPTION:7 пара · Погребной М.Н. / Малсугенов 
+ А.В. · группы: З-Тм-231
+END:VEVENT
+BEGIN:VEVENT
+UID:8508cc0440b3f90da8af@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T122000
+DTEND;TZID=Europe/Moscow:20261205T135500
+SUMMARY:экз.Бытовые машины и приборы
+LOCATION:К-612
+DESCRIPTION:3 пара · Малсугенов А.В. · группы: З-
+ Тм-231
+END:VEVENT
+BEGIN:VEVENT
 UID:5976f798612eaf91b8cb@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261211T155000

@@ -254,6 +254,17 @@ DESCRIPTION:2 пара · Красникова А.Р. · группы: О-
  Исп-9-251
 END:VEVENT
 BEGIN:VEVENT
+UID:f45f56b1b3b0ec801213@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Проектирование услуг на предприятия
+ х сервиса (Лекция)
+LOCATION:К-106
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: ОЗ-С
+ п-231
+END:VEVENT
+BEGIN:VEVENT
 UID:3e807184f4c6a457a148@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261201T140500

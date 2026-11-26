@@ -63,6 +63,63 @@ DESCRIPTION:5 пара · Целиковская О.С. / Приходче
  нко О.В. · группы: О-МКИ-261
 END:VEVENT
 BEGIN:VEVENT
+UID:3c2ace7d335eae73dc10@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:766fdaa09510e861a087@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5f1c1d1d652a247f2d29@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:4 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:74145fa77750cc76da51@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Моделирование и оптимизация процесс
+ ов проектирования изделий легкой промыш
+ ленности (Практика)
+LOCATION:К-503
+DESCRIPTION:5 пара · Целиковская О.С. / Приходче
+ нко О.В. · группы: О-МКИ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:1888088f889e4e236d44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: З-Ки-231
+END:VEVENT
+BEGIN:VEVENT
 UID:f3ae4a7e977ea72f504b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261209T140500

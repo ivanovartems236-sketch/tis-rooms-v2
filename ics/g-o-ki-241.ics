@@ -280,4 +280,133 @@ SUMMARY:Конструктивное моделирование одежд
 LOCATION:К-503
 DESCRIPTION:3 пара · Дрофа Е.А. · группы: О-Ки-241
 END:VEVENT
+BEGIN:VEVENT
+UID:17e7027b30bfdba70133@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Композиция костюма (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:742894d0a19d3ecbb0c4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:3 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:908160c4dc374d29c6b3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Конструирование изделий легкой пром
+ ышленности (Лаб.)
+LOCATION:К-503
+DESCRIPTION:4 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:44fa0bb8d915219ff885@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: О-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:dd4f5096663d2b86bb3a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: О-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:72ad16004b9bee9ff48f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:46f78c84673b2c4cfc44@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ac269870518e0349b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:864df73216b6e011d88d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:1 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:64263228482f843d0d65@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Конструктивное моделирование одежд
+ ы (Практика)
+LOCATION:К-503
+DESCRIPTION:2 пара · Смирнова М.Ю. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:993decce2d09d24f0f9c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Менеджмент и маркетинг на предприят
+ иях легкой промышленности (Практика)
+LOCATION:К-208
+DESCRIPTION:2 пара · Семенова Л.В. · группы: О-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4933e5940f2ce879d6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Менеджмент и маркетинг на предприят
+ иях легкой промышленности (Практика)
+LOCATION:К-208
+DESCRIPTION:3 пара · Семенова Л.В. · группы: О-Ки-
+ 241
+END:VEVENT
 END:VCALENDAR

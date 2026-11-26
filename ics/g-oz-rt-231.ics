@@ -149,4 +149,70 @@ LOCATION:К-413
 DESCRIPTION:4 пара · Горяинов М.Ф. · группы: ОЗ-Р
  т-231
 END:VEVENT
+BEGIN:VEVENT
+UID:4f87f42297703e8bd7f0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Черепов П.В. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9e31b6df8a4c160077@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:0da3f2ca532472b037b0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-408
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2dfe495666e5d5393389@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5588602d671b429ff736@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Устройства генерирования и формиров
+ ания сигналов (Лаб.)
+LOCATION:К-505
+DESCRIPTION:3 пара · Сагдеев К.М. · группы: ОЗ-Рт-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:51905f190c51987f1502@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: ОЗ-
+ Рт-231
+END:VEVENT
 END:VCALENDAR

@@ -78,4 +78,35 @@ LOCATION:К-506
 DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
  группы: О-ИксМ-241
 END:VEVENT
+BEGIN:VEVENT
+UID:dc8861fd60a889e00229@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Цифровая схемотехника телекоммуник
+ ационных устройств (Лаб.)
+LOCATION:К-505
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3f22d1f16cb535e059@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Радиопередающие устройства (Лаб.)
+LOCATION:К-506
+DESCRIPTION:2 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
+BEGIN:VEVENT
+UID:07a46ebfe8eae0cd97cf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Общая теория связи (Лаб.)
+LOCATION:К-506
+DESCRIPTION:3 пара · Кутепов А.Л. / Сагдеев К.М. · 
+ группы: О-ИксМ-241
+END:VEVENT
 END:VCALENDAR

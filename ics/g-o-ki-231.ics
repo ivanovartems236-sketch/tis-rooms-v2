@@ -275,4 +275,136 @@ LOCATION:В-202
 DESCRIPTION:3 пара · Еремина Ю.В. · группы: О-Ки-23
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:b452b401abcfc13b00f4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Проектирование одежды с объемным ут
+ еплителем (Практика)
+LOCATION:К-313
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b65fa1793aeae8f2918c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Основы экономической деятельности п
+ редприятий лёгкой промышленности (Практ
+ ика)
+LOCATION:К-313
+DESCRIPTION:2 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6f718bc9aaa7bb7293@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Проектирование детской одежды (Лаб.)
+LOCATION:К-313
+DESCRIPTION:3 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:9170ca3ce3d240434301@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:47368128a13c2c3004b7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:19f766ee70eaecdc64f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e963d677e232695215b6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Конструкторско-технологическая под
+ готовка производства (Лаб.)
+LOCATION:В-301
+DESCRIPTION:3 пара · Целиковская О.С. / Дрофа Е.А.
+  · группы: О-Ки-231
+END:VEVENT
+BEGIN:VEVENT
+UID:24642b6cc562f8d33e7f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Проектирование одежды с объемным ут
+ еплителем (Лекция)
+LOCATION:К-313
+DESCRIPTION:1 пара · Еремина Е.А. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:fad7aaea88a8ed51630c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лаб.)
+LOCATION:В-202
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b842709203c96fb71d6f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лаб.)
+LOCATION:В-202
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4307eb03a4516b15976d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:313fcd09e9c89f59fc09@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
 END:VCALENDAR

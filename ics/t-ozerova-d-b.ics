@@ -134,4 +134,122 @@ LOCATION:В-301
 DESCRIPTION:5 пара · Озерова Д.Б. · группы: О-Ки-25
  1
 END:VEVENT
+BEGIN:VEVENT
+UID:0c2799342359d77e9fe7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-26
+ 1\, О-Тб-261\, О-Тм-261\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8738257e60dcd061d4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Введение в профессию (Практика)
+LOCATION:К-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-26
+ 1\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4f29251b56843f3003@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:79b6e577d0f7cd021d19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5972ea8ec905de932c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1\, О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:5945b7b650435282eac8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-24
+ 1\, О-Ки-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1760b15afc663e3774c0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лаб.)
+LOCATION:В-202
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:777ec1ab333b0c3166de@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Конструирование одежды на индивидуа
+ льного потребителя (Лаб.)
+LOCATION:В-202
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:80831c2eb2dc3b5aab34@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Профессиональная подготовка (Практи
+ ка)
+LOCATION:К-503
+DESCRIPTION:2 пара · Озерова Д.Б. · группы: ОЗ-Ки-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6ca7cd31c9ab49b3e3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:4 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:aa728f7d7b9c2e2f76f2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Архитектоника объемных форм (Лаб.)
+LOCATION:В-301
+DESCRIPTION:5 пара · Озерова Д.Б. · группы: О-Ки-25
+ 1
+END:VEVENT
 END:VCALENDAR

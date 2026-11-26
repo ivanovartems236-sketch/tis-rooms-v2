@@ -71,4 +71,48 @@ LOCATION:К-502
 DESCRIPTION:2 пара · Колосова О.Ю. / Черепов П.В. 
  · группы: О-ИстТ-261\, ОЗ-ИстТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:0f362e27b738ce9863b0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:4 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:9d778c8c6269fb9352f5@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Основы подготовки научной и учебной 
+ литературы (Практика)
+LOCATION:К-313
+DESCRIPTION:5 пара · Колосова О.Ю. / Дрофа Е.А. · г
+ руппы: О-МКИ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:56a6382589c890e9f674@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Теоретические основы прогнозирован
+ ия (Лекция)
+LOCATION:К-107
+DESCRIPTION:4 пара · Колосова О.Ю. / Ионова А.Ч. · 
+ группы: ОЗ-М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:784e88e5b7a107e64336@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Методология научных исследований (П
+ рактика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Колосова О.Ю. / Фурсов В.А. · 
+ группы: О-МИСТ-261
+END:VEVENT
 END:VCALENDAR

@@ -160,6 +160,116 @@ DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
  т-241
 END:VEVENT
 BEGIN:VEVENT
+UID:1de0ba53151bdef85dfd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Лекция)
+LOCATION:К-505
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:99fb835eee9538d1ce19@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Теория информационной безопасности 
+ и защита инфокоммуникаций (Практика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:15b8e0fdc6bbd119af4b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:df63bc0a4590b080ba92@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:962e42841e5d28fa5b6d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:зач.Теория информационной безопасно
+ сти и защита инфокоммуникаций
+LOCATION:К-506
+DESCRIPTION:5 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7ffefabf29698cf77f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Электродинамика и распространение р
+ адиоволн (Практика)
+LOCATION:К-413
+DESCRIPTION:1 пара · Шаяхметов О.Х. · группы: О-И
+ ксМ-251\, О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:a20558620ec0c388169a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Цифровые устройства и микропроцессо
+ ры (Лекция)
+LOCATION:К-505
+DESCRIPTION:2 пара · Шаяхметов О.Х. · группы: О-Р
+ т-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d60b4888bba0b6569e12@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-505
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: ОЗ-
+ Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:4a50ba396ef140ca1f65@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-505
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-231\, З-ИксЭ-231\, З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:fc4d5c4be019931bccfe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лаб.)
+LOCATION:К-505
+DESCRIPTION:5 пара · Шаяхметов О.Х. · группы: З-И
+ ксМ-231\, З-ИксЭ-231
+END:VEVENT
+BEGIN:VEVENT
 UID:b1f78f0f159861082ef7@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261208T155000

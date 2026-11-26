@@ -50,6 +50,84 @@ DESCRIPTION:4 пара · Субботин А.Е. / Семенова Л.В.
   · группы: О-МСТ-251
 END:VEVENT
 BEGIN:VEVENT
+UID:96bbce152ef62761bb21@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта подстанций электрическ
+ их сетей
+LOCATION:К-602
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Сэ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a28d59d9156938e2b603@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:экз.Безопасность\, санитария и гигие
+ на предприятий общественного питания
+LOCATION:К-602
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:883426e2f241e3e529ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта автомобилей (Практика)
+LOCATION:К-602
+DESCRIPTION:4 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f75cc14d0e2e76ef395e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:4d9254baa216ff6fd42b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Основы брендинга и мерчандайзинга (П
+ рактика)
+LOCATION:К-602
+DESCRIPTION:3 пара · Лазарева Н.В. · группы: О-Ки-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:ff4dfd47d68ec704a48d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Организация и технология специальны
+ х видов питания (Практика)
+LOCATION:К-602
+DESCRIPTION:5 пара · Чимонина И.В. · группы: З-Сп-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:e10959449fc8d9211bd2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Технология организации внутреннего 
+ туризма (Лекция)
+LOCATION:К-602
+DESCRIPTION:1 пара · Надеина А.Е. / Торикова Е.Ф. 
+ · группы: З-Т-231
+END:VEVENT
+BEGIN:VEVENT
 UID:5a9b108fcde73fce6e19@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

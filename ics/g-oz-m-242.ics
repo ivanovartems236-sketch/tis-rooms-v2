@@ -108,4 +108,45 @@ LOCATION:К-217
 DESCRIPTION:4 пара · Шведова Н.Н. · группы: ОЗ-М-24
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:089ebe2d77f96dce3110@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. / Ионова А.Ч. · гр
+ уппы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:46807d86d0129fb8a0dc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3e1fc821daf01357de4e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-М-242
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8f10e248b808290da9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-М-
+ 242
+END:VEVENT
 END:VCALENDAR

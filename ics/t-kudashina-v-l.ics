@@ -150,4 +150,71 @@ DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
  сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
  Тб-261\, О-Тм-261
 END:VEVENT
+BEGIN:VEVENT
+UID:07868797a6148be915fc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:c478cb20746006af9c82@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-301
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-И
+ стТ-261\, ОЗ-Ки-261\, ОЗ-М-261\, ОЗ-М-262
+END:VEVENT
+BEGIN:VEVENT
+UID:b8a75418875c91a5db59@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-301
+DESCRIPTION:5 пара · Кудашина В.Л. · группы: О-МЭ-
+ 261
+END:VEVENT
+BEGIN:VEVENT
+UID:8b48a08fb20cfa89be63@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T173500
+DTEND;TZID=Europe/Moscow:20261201T191000
+SUMMARY:Профессиональная коммуникация на ин
+ остранном языке (Практика)
+LOCATION:К-306
+DESCRIPTION:6 пара · Кудашина В.Л. · группы: О-МС
+ Т-261\, О-МСЭ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:a034035a78f9ba6c732d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:1e73b5f2d8d003ba9f2b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
 END:VCALENDAR

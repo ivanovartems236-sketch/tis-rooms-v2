@@ -220,4 +220,73 @@ LOCATION:К-504
 DESCRIPTION:5 пара · Приходченко О.В. · группы: О
  З-Ки-261
 END:VEVENT
+BEGIN:VEVENT
+UID:7e9a1ae985c31b27c766@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8cb1755874a0b1b5fd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Основы проектной деятельности (Прак
+ тика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Озерова Д.Б. · группы: О-Ки-26
+ 1\, О-Тб-261\, О-Тм-261\, ОЗ-Ки-261
+END:VEVENT
+BEGIN:VEVENT
+UID:75f67890701d60f0d0d8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-241\, О-ИстТ-241\, О-Ки-241\, О-Рт-241\, ОЗ-ИксМ-241
+ \, ОЗ-ИстТ-241\, ОЗ-Ки-241\, ОЗ-М-242\, ОЗ-Эбу-242\, О
+ З-Эпо-241\, ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:e1df70894a0d3c2c46a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: О-ИксМ-
+ 251\, О-ИстТ-251\, О-Ки-251\, О-Рт-251\, О-Эбу-251\, ОЗ-
+ ИстТ-251\, ОЗ-М-251\, ОЗ-М-252\, ОЗ-Эбу-252\, ОЗ-Эпо-2
+ 51\, ОЗ-Эпо-252\, ОЗ-Эфк-252
+END:VEVENT
+BEGIN:VEVENT
+UID:17a0199cfd68684e5597@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-504
+DESCRIPTION:3 пара · Кудашина В.Л. · группы: О-Ик
+ сМ-261\, О-ИстТ-261\, О-Ки-261\, О-Рт-261\, О-Ст-261\, О-
+ Тб-261\, О-Тм-261
+END:VEVENT
+BEGIN:VEVENT
+UID:8d15f28b3e4c7316abfb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:экз.Техническая диагностика систем 
+ и устройств автомобилей
+LOCATION:К-504
+DESCRIPTION:4 пара · Ториков А.В. · группы: З-Ст-23
+ 1
+END:VEVENT
 END:VCALENDAR

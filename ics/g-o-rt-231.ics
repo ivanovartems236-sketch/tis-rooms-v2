@@ -259,4 +259,127 @@ SUMMARY:Основы конструирования и технологии
 LOCATION:К-505
 DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
 END:VEVENT
+BEGIN:VEVENT
+UID:81c9ffce0d5ec7d6b950@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T083000
+DTEND;TZID=Europe/Moscow:20261130T100500
+SUMMARY:Системы искусственного интеллекта (
+ Лекция)
+LOCATION:В-201
+DESCRIPTION:1 пара · Черепов П.В. · группы: О-Рт-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac63b735d2ea1b4c097@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-408
+DESCRIPTION:2 пара · Черепов П.В. · группы: О-Рт-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:41d56182c99b82286791@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Лекция)
+LOCATION:К-413
+DESCRIPTION:3 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:80b8b8777a8bfdb2d4ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Устройства сверхвысоких частот и ан
+ тенны (Практика)
+LOCATION:К-413
+DESCRIPTION:4 пара · Шаяхметов О.Х. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0506571208c98eec3a0a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-408
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:a220900f685b409061fa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Основы телевидения и видеотехники (Л
+ екция)
+LOCATION:К-505
+DESCRIPTION:4 пара · Сапилкина В.И. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:21effefcdedf8d2cac24@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2028a1ddd5c3fa3e40@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Устройства приема и обработки сигна
+ лов (Практика)
+LOCATION:К-505
+DESCRIPTION:1 пара · Перлик В.А. / Сагдеев К.М. · г
+ руппы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:13de49cf1819bff5e9bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Основы телевидения и видеотехники (П
+ рактика)
+LOCATION:К-505
+DESCRIPTION:2 пара · Сапилкина В.И. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3655d4ee4e58a1b04c0d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Стандартизация\, сертификация и упра
+ вление качеством радиотехнических сист
+ ем (Лекция)
+LOCATION:К-506
+DESCRIPTION:2 пара · Братченко Н.Ю. · группы: О-Р
+ т-231
+END:VEVENT
+BEGIN:VEVENT
+UID:41a26db10ddfe3e5478d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Стандартизация\, сертификация и упра
+ вление качеством радиотехнических сист
+ ем (Практика)
+LOCATION:К-506
+DESCRIPTION:3 пара · Братченко Н.Ю. · группы: О-Р
+ т-231
+END:VEVENT
 END:VCALENDAR

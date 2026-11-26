@@ -27,4 +27,27 @@ LOCATION:В-201
 DESCRIPTION:3 пара · Протасов К.А. / Саиег Т.Х. · г
  руппы: О-ИстТ-231
 END:VEVENT
+BEGIN:VEVENT
+UID:e0ae9e7fc1cff71277a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Протасов К.А. / Черепов П.В. 
+ · группы: З-ИксМ-231\, З-ИксЭ-231\, З-ИстТ-231\, З-
+ ИстУ-231\, З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1669ff3f2c4ebc9dcb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лаб.)
+LOCATION:К-401
+DESCRIPTION:5 пара · Протасов К.А. / Саиег Т.Х. · г
+ руппы: З-ИстТ-231\, З-ИстУ-231
+END:VEVENT
 END:VCALENDAR

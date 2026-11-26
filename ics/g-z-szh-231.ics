@@ -17,6 +17,82 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:f34da83dba1fd82d9e87@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b3ab2567c77fd5048854@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T173500
+DTEND;TZID=Europe/Moscow:20261130T191000
+SUMMARY:Эксплуатация и обслуживание многокв
+ артирных домов (Практика)
+LOCATION:К-204
+DESCRIPTION:6 пара · Макеенко И.П. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b54e22abc911d7a8ed@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T155000
+DTEND;TZID=Europe/Moscow:20261201T172500
+SUMMARY:экз.Эксплуатация и обслуживание мно
+ гоквартирных домов
+LOCATION:К-208
+DESCRIPTION:5 пара · Макеенко И.П. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:bebfc0157827713fb7c2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-205
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8f09dfcc5a439ced7b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:e628fbf2d248dea94481@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Управление многоквартирными домами 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3386f1d994ba3cd58a9a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Цифровизация в сфере ЖКХ (Лекция)
+LOCATION:К-201
+DESCRIPTION:1 пара · Макеенко И.П. · группы: З-Сж-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:84172b05a3cb91e3c113@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T173500

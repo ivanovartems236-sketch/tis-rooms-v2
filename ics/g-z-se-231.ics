@@ -17,6 +17,73 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:1e6a6213162395502874@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Организация технического обслуж
+ ивания и ремонта подстанций электрическ
+ их сетей
+LOCATION:К-602
+DESCRIPTION:2 пара · Ториков А.В. · группы: З-Сэ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:18cf32d85db25e2d3a22@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Лекц
+ ия)
+LOCATION:К-208
+DESCRIPTION:4 пара · Фурсов В.А. · группы: З-Сэ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:d26b779935463e2beafc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:зчО.Проектирование услуг на предпри
+ ятиях сервиса
+LOCATION:К-205
+DESCRIPTION:2 пара · Лазарева Н.В. · группы: З-Сэ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:60f954c5b5d502d8db36@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Экономический анализ деятельности с
+ ервисного предприятия (Практика)
+LOCATION:К-204
+DESCRIPTION:4 пара · Ламанов С.Г. / Лазарева Н.В. 
+ · группы: З-Сэ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:34b679054f86349f919a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Практика)
+LOCATION:К-122
+DESCRIPTION:3 пара · Фурсов В.А. · группы: З-Сэ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:60966c50461a53881372@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Организация технического обслужива
+ ния и ремонта линий электропередач (Прак
+ тика)
+LOCATION:К-208
+DESCRIPTION:1 пара · Фурсов В.А. · группы: З-Сэ-231
+END:VEVENT
+BEGIN:VEVENT
 UID:eb1813c670f17bfbd278@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

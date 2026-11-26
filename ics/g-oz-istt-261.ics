@@ -223,4 +223,98 @@ LOCATION:К-501
 DESCRIPTION:2 пара · Черепов П.В. · группы: ОЗ-Ис
  тТ-261
 END:VEVENT
+BEGIN:VEVENT
+UID:6d88ca2e0d7b6ae9eba3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Иностранный язык (Практика)
+LOCATION:К-301
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-И
+ стТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:bd137f6d632c3ca61bd8@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Основы российской государственност
+ и (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-Ист
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3c3ee9ae7bb33fffe4@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Высшая математика (Практика)
+LOCATION:К-121
+DESCRIPTION:2 пара · Хачатурян Р.Е. · группы: ОЗ-
+ ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:016f398c185a91280b37@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Основы проектной деятельности (Лекц
+ ия)
+LOCATION:К-501
+DESCRIPTION:3 пара · Черепов П.В. · группы: ОЗ-Ис
+ тТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:19965dd283cd300ee4bf@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Основы российской государственност
+ и (Практика)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Ист
+ Т-261
+END:VEVENT
+BEGIN:VEVENT
+UID:da162477e3686d3fc4cb@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:История России (Лекция)
+LOCATION:К-121
+DESCRIPTION:2 пара · Смирнова Н.Г. · группы: ОЗ-И
+ стТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:ec239283b17573ed4807@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:История России (Практика)
+LOCATION:К-121
+DESCRIPTION:3 пара · Смирнова Н.Г. · группы: ОЗ-И
+ стТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:e85c49b84da8ff12554f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Высшая математика (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Хачатурян Р.Е. · группы: ОЗ-
+ ИстТ-261
+END:VEVENT
+BEGIN:VEVENT
+UID:f873a22109afab4a1dc3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Ист
+ Т-261
+END:VEVENT
 END:VCALENDAR

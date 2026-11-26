@@ -39,6 +39,93 @@ DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
  руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
 END:VEVENT
 BEGIN:VEVENT
+UID:5d595d107c28230de811@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:экз.Технология и организация гостин
+ ичной деятельности
+LOCATION:К-607
+DESCRIPTION:2 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:393ed6200d585ef7f2b1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:экз.Технология и организация гостин
+ ичной деятельности
+LOCATION:К-607
+DESCRIPTION:3 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:7b47e922e9f6dabdcfbc@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:экз.Технология и организация гостин
+ ичной деятельности
+LOCATION:К-607
+DESCRIPTION:4 пара · Торикова Е.Ф. · группы: З-Т-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8d25b03e70d45d68ad5e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Энерго- и ресурсосбережение в систем
+ е ЖКХ (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0a54e0a9b3f6680088f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Барное дело (Практика)
+LOCATION:К-607
+DESCRIPTION:4 пара · Ядыкина Н.Д. / Чимонина И.В. 
+ · группы: З-Сп-231
+END:VEVENT
+BEGIN:VEVENT
+UID:9879c89addb3ad208561@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Лекция)
+LOCATION:К-607
+DESCRIPTION:2 пара · Фурсов В.А. · группы: О-Сж-231\
+ , О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:203dbb0aeda35780ed15@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Инфраструктура предприятий сервиса 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:3 пара · Ламанов С.Г. / Фурсов В.А. · г
+ руппы: О-Сж-231\, О-Сп-231\, О-Ст-231
+END:VEVENT
+BEGIN:VEVENT
+UID:0a22af4f188b14a8553a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Управление многоквартирными домами 
+ (Практика)
+LOCATION:К-607
+DESCRIPTION:5 пара · Ламанов С.Г. / Макеенко И.П. 
+ · группы: З-Сж-231
+END:VEVENT
+BEGIN:VEVENT
 UID:ca8cc09f03d1c90791ed@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261208T140500

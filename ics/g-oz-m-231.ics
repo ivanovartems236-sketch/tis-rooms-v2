@@ -58,4 +58,24 @@ LOCATION:К-210
 DESCRIPTION:5 пара · Семенова Н.В. · группы: ОЗ-М-
  231
 END:VEVENT
+BEGIN:VEVENT
+UID:0f4abe2b10bba05ced98@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. · группы: ОЗ-М-231
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8cd2b7dbfb2569b149@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Теоретические основы прогнозирован
+ ия (Лекция)
+LOCATION:К-107
+DESCRIPTION:4 пара · Колосова О.Ю. / Ионова А.Ч. · 
+ группы: ОЗ-М-231
+END:VEVENT
 END:VCALENDAR

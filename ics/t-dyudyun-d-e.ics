@@ -199,6 +199,142 @@ LOCATION:К-505
 DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
 END:VEVENT
 BEGIN:VEVENT
+UID:fa7b110d4988d7d74718@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-408
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb73cdbb3b8ac8c67e7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Лекция)
+LOCATION:К-413
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: ОЗ-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:508dbb52d849ea6a477a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Практика)
+LOCATION:К-408
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:cbebb118def750aaefef@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Радиоматериалы и радиокомпоненты (Л
+ екция)
+LOCATION:К-408
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:8952b140629e383a40a2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Основы конструирования и технологии
+  производства радиоэлектронных средств 
+ (Лекция)
+LOCATION:К-413
+DESCRIPTION:5 пара · Дюдюн Д.Е. · группы: О-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2e87905d49b16cd53c71@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T173500
+DTEND;TZID=Europe/Moscow:20261202T191000
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Практика)
+LOCATION:К-505
+DESCRIPTION:6 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:455fdc5ac695c71bb510@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T083000
+DTEND;TZID=Europe/Moscow:20261203T100500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-Рт-241
+END:VEVENT
+BEGIN:VEVENT
+UID:da87e4e9ac52e3222baa@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:экз.Основы конструирования и технол
+ огии производства радиоэлектронных сре
+ дств
+LOCATION:К-313
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:aedd41c68fef0389096c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:экз.Основы конструирования и технол
+ огии производства радиоэлектронных сре
+ дств
+LOCATION:К-313
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:da61c4dfa1fc092f1ba9@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:экз.Основы конструирования и технол
+ огии производства радиоэлектронных сре
+ дств
+LOCATION:К-313
+DESCRIPTION:4 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1a9db8f35af4b0c7bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T083000
+DTEND;TZID=Europe/Moscow:20261204T100500
+SUMMARY:Цифровая обработка сигналов (Лаб.)
+LOCATION:К-408
+DESCRIPTION:1 пара · Дюдюн Д.Е. · группы: О-ИксМ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:216f72a86ad091445585@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T101500
+DTEND;TZID=Europe/Moscow:20261204T115000
+SUMMARY:Радиоматериалы и радиокомпоненты (Л
+ аб.)
+LOCATION:К-408
+DESCRIPTION:2 пара · Дюдюн Д.Е. · группы: О-Рт-251
+END:VEVENT
+BEGIN:VEVENT
+UID:2299d8c7e988549eebe0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T122000
+DTEND;TZID=Europe/Moscow:20261204T135500
+SUMMARY:Электропреобразовательные устройст
+ ва радиоэлектронных систем (Лаб.)
+LOCATION:К-401
+DESCRIPTION:3 пара · Дюдюн Д.Е. · группы: З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
 UID:1308ec20b9f631ccdab9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

@@ -49,4 +49,36 @@ LOCATION:К-217
 DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
  бу-231
 END:VEVENT
+BEGIN:VEVENT
+UID:f0230c1cad6c03c68651@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. · группы: ОЗ-Эбу-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:1aac8d7479baa18aec03@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Этика профессиональной деятельност
+ и (Лекция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ бу-231
+END:VEVENT
+BEGIN:VEVENT
+UID:b901ad1e1cebcf42b005@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эбу-231
+END:VEVENT
 END:VCALENDAR

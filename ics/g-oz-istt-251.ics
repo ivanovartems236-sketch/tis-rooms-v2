@@ -123,4 +123,36 @@ LOCATION:К-501
 DESCRIPTION:1 пара · Шепеть И.П. · группы: ОЗ-Ист
  Т-251
 END:VEVENT
+BEGIN:VEVENT
+UID:4eff650524d0d3ba1f90@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Общая физическая подготовка (Практи
+ ка)
+LOCATION:СЗ
+DESCRIPTION:4 пара · Петров О.П. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:f81ff7963f7413d8ed75@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Теория вероятностей и математическа
+ я статистика (Лекция)
+LOCATION:К-301
+DESCRIPTION:2 пара · Левшенков В.Н. · группы: ОЗ-
+ ИстТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:63631ef0546eacf25a60@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Философия (Лекция)
+LOCATION:К-504
+DESCRIPTION:2 пара · Герман Р.Э. · группы: ОЗ-Ист
+ Т-251
+END:VEVENT
 END:VCALENDAR

@@ -149,6 +149,69 @@ DESCRIPTION:4 пара · Еремина Ю.В. · группы: О-Тм-26
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:35ea02e0757d920eb9a3@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Композиция костюма (Лаб.)
+LOCATION:В-301
+DESCRIPTION:2 пара · Еремина Ю.В. · группы: О-Ки-24
+ 1\, ОЗ-Ки-241
+END:VEVENT
+BEGIN:VEVENT
+UID:d64706ef9bb067c00391@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:"САПР одежды ""Грация""" (Практика)
+LOCATION:В-202
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:48b9323cddf156b612e2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:"САПР одежды ""Грация""" (Лаб.)
+LOCATION:В-202
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:c71cbff60315d752ca93@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Основы инженерного творчества (Прак
+ тика)
+LOCATION:К-301
+DESCRIPTION:3 пара · Еремина Ю.В. · группы: О-Тм-26
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:81fe497a742e3a601b21@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Проектирование изделий легкой промы
+ шленности в САПР (Практика)
+LOCATION:В-202
+DESCRIPTION:4 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:973ff9f42b51a06c8a43@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Проектирование изделий легкой промы
+ шленности в САПР (Лаб.)
+LOCATION:В-202
+DESCRIPTION:5 пара · Еремина Ю.В. · группы: З-Ки-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
 UID:b14f413597bc5530a40b@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T155000

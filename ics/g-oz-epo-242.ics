@@ -136,4 +136,80 @@ LOCATION:К-504
 DESCRIPTION:2 пара · Кудашина В.Л. · группы: ОЗ-Э
  по-242
 END:VEVENT
+BEGIN:VEVENT
+UID:661ff761ebb367737985@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Бизнес-планирование (Практика)
+LOCATION:К-107
+DESCRIPTION:2 пара · Сурцев А.С. / Ионова А.Ч. · гр
+ уппы: ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:85f51e1b553476832aac@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Правовое обеспечение профессиональ
+ ной деятельности (Лекция)
+LOCATION:К-121
+DESCRIPTION:1 пара · Герман Р.Э. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:136985a875c60ced4bda@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Физическая культура и спорт (Практик
+ а)
+LOCATION:СЗ
+DESCRIPTION:2 пара · Петров О.П. · группы: ОЗ-Эпо-
+ 242
+END:VEVENT
+BEGIN:VEVENT
+UID:90ac6ac4966ee110f3ba@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Экономическая оценка инвестиций (Пр
+ актика)
+LOCATION:К-217
+DESCRIPTION:3 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:b1094c8850e10b407b2c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:Психология командной работы и лидер
+ ства (Практика)
+LOCATION:К-504
+DESCRIPTION:1 пара · Кудашина В.Л. · группы: ОЗ-Э
+ по-242
+END:VEVENT
+BEGIN:VEVENT
+UID:411386c8bd244f4e279a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T101500
+DTEND;TZID=Europe/Moscow:20261202T115000
+SUMMARY:Комплексный экономический анализ (П
+ рактика)
+LOCATION:К-210
+DESCRIPTION:2 пара · Ионов М.Ч. / Шведова Н.Н. · гр
+ уппы: ОЗ-Эпо-242
+END:VEVENT
+BEGIN:VEVENT
+UID:3a891ab4fc51626768a0@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Экономическая оценка инвестиций (Ле
+ кция)
+LOCATION:К-210
+DESCRIPTION:2 пара · Зайченко И.А. · группы: ОЗ-Э
+ по-242
+END:VEVENT
 END:VCALENDAR

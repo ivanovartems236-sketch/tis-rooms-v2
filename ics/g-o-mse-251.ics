@@ -196,4 +196,83 @@ LOCATION:К-208
 DESCRIPTION:6 пара · Ториков А.В. · группы: О-МСЭ-
  251
 END:VEVENT
+BEGIN:VEVENT
+UID:9f10b719308eb1bcd3f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Теория и модели организации сервиса 
+ энергетического оборудования (Лекция)
+LOCATION:К-204
+DESCRIPTION:4 пара · Фурсов В.А. · группы: О-МСЭ-25
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:320d9da702db0b0c2a14@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Лекция)
+LOCATION:К-204
+DESCRIPTION:5 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:6b50c5575f52c202874b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Организация технического обслужива
+ ния и ремонта энергетического оборудова
+ ния (Практика)
+LOCATION:К-201
+DESCRIPTION:4 пара · Ториков А.В. · группы: О-МСЭ-
+ 251
+END:VEVENT
+BEGIN:VEVENT
+UID:e03e1331aa64690ff89a@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Технико-экономическое обоснование п
+ роектов в сфере энергосбережения и ресу
+ рсосбережения (Практика)
+LOCATION:К-201
+DESCRIPTION:5 пара · Лазарева Н.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:b8fed749b1d60096ee61@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T173500
+DTEND;TZID=Europe/Moscow:20261203T191000
+SUMMARY:Энергоменеджмент (Практика)
+LOCATION:К-205
+DESCRIPTION:6 пара · Субботин А.Е. / Семенова Л.В.
+  · группы: О-МСЭ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:3f36807504171ab71610@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Энергоменеджмент (Лекция)
+LOCATION:К-205
+DESCRIPTION:4 пара · Семенова Л.В. · группы: О-МС
+ Э-251
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d38994d91fb16db169@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Оценка управления техническим состо
+ янием объектов и систем сервиса энергет
+ ического оборудования (Практика)
+LOCATION:К-205
+DESCRIPTION:5 пара · Макеенко И.П. · группы: О-МС
+ Э-251
+END:VEVENT
 END:VCALENDAR

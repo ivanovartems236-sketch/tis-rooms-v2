@@ -17,6 +17,136 @@ TZNAME:MSK
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2bfbfd6c702d73dbd6bd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Теория автоматического управления (
+ Лаб.)
+LOCATION:К-401
+DESCRIPTION:4 пара · Черепов П.В. · группы: З-Ист
+ У-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7359b5334b16c855399c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T155000
+DTEND;TZID=Europe/Moscow:20261130T172500
+SUMMARY:зач.Микроконтроллерная техника сист
+ ем управления
+LOCATION:К-501
+DESCRIPTION:5 пара · Шепеть И.П. · группы: З-ИстУ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:d8148af536466335f062@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:зач.Автоматизированные информацион
+ но-управляющие системы
+LOCATION:К-502
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: З-ИстУ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6d1c8909b658152ae08d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Информационная безопасность и защит
+ а информации (Практика)
+LOCATION:К-406
+DESCRIPTION:4 пара · Черепов П.В. · группы: З-Ист
+ У-231
+END:VEVENT
+BEGIN:VEVENT
+UID:7d24ed124be815f5d196@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T140500
+DTEND;TZID=Europe/Moscow:20261202T154000
+SUMMARY:Системы искусственного интеллекта (
+ Практика)
+LOCATION:К-502
+DESCRIPTION:4 пара · Протасов К.А. / Черепов П.В. 
+ · группы: З-ИстУ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:47ab29c0c159b6b892fe@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-Ист
+ У-231
+END:VEVENT
+BEGIN:VEVENT
+UID:64419875e19b4235e8b2@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T173500
+DTEND;TZID=Europe/Moscow:20261202T191000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-ИстУ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd83f8aa3a7ffdd81a1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Инструментальные средства информац
+ ионных систем (Лекция)
+LOCATION:К-401
+DESCRIPTION:4 пара · Орлова А.Ю. · группы: З-ИстУ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:97dad4d3ddab61eea33d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T155000
+DTEND;TZID=Europe/Moscow:20261203T172500
+SUMMARY:Проектирование информационных сист
+ ем управления (Лаб.)
+LOCATION:К-401
+DESCRIPTION:5 пара · Протасов К.А. / Саиег Т.Х. · г
+ руппы: З-ИстУ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:3d26540c4c422da9572d@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Управление данными (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: З-ИстУ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:8a7fcaec638a01818cb6@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстУ-23
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6c863aeea54eeeb8392b@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261205T083000
+DTEND;TZID=Europe/Moscow:20261205T100500
+SUMMARY:Информационная теория управления (Л
+ екция)
+LOCATION:К-401
+DESCRIPTION:1 пара · Черепов П.В. · группы: З-Ист
+ У-231
+END:VEVENT
+BEGIN:VEVENT
 UID:83a4aa8d9c65bddeddf9@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261207T140500

@@ -434,6 +434,93 @@ DESCRIPTION:5 пара · Черепов П.В. · группы: О-Исп-
  11-241\, О-Исп-9-231\, ОЗ-Исп-9-221
 END:VEVENT
 BEGIN:VEVENT
+UID:da28bda14410f8a42bcd@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T101500
+DTEND;TZID=Europe/Moscow:20261130T115000
+SUMMARY:Моделирование систем (Лекция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:a48b6652f38dfce4b150@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T122000
+DTEND;TZID=Europe/Moscow:20261130T135500
+SUMMARY:Инфокоммуникационные системы и сети
+  (Лекция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Шепеть И.П. · группы: О-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3710506d53bccab356@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261130T140500
+DTEND;TZID=Europe/Moscow:20261130T154000
+SUMMARY:Геоинформационные системы (Лаб.)
+LOCATION:К-406
+DESCRIPTION:4 пара · Литвин Д.Б. · группы: З-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
+UID:188666829477fbc080ab@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T083000
+DTEND;TZID=Europe/Moscow:20261201T100500
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:1 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:faff38b9ffd0cc830209@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T101500
+DTEND;TZID=Europe/Moscow:20261201T115000
+SUMMARY:Стандартизация\, сертификация и конт
+ роль качества информационных систем (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:2 пара · Следский А.А. · группы: О-Ис
+ тТ-251
+END:VEVENT
+BEGIN:VEVENT
+UID:25e2828d10f98ee24fd7@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T122000
+DTEND;TZID=Europe/Moscow:20261201T135500
+SUMMARY:Технологии обработки информации (Ле
+ кция)
+LOCATION:К-406
+DESCRIPTION:3 пара · Черепов П.В. · группы: О-Ист
+ Т-251
+END:VEVENT
+BEGIN:VEVENT
+UID:1941f8c06c879208b7f1@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261201T140500
+DTEND;TZID=Europe/Moscow:20261201T154000
+SUMMARY:Информационная безопасность и защит
+ а информации (Практика)
+LOCATION:К-406
+DESCRIPTION:4 пара · Черепов П.В. · группы: З-Ист
+ Т-231\, З-ИстУ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:2bcc7d77efed591d6b33@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T083000
+DTEND;TZID=Europe/Moscow:20261202T100500
+SUMMARY:ПП САПР (Лекция)
+LOCATION:К-406
+DESCRIPTION:1 пара · Шепеть И.П. · группы: О-ИстТ-
+ 231
+END:VEVENT
+BEGIN:VEVENT
 UID:ec215da63f231a971aa6@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261202T101500
@@ -442,6 +529,16 @@ SUMMARY:Информатика (Лекция)
 LOCATION:К-406
 DESCRIPTION:2 пара · Анкудинов К.А. · группы: О-О
  дл-9-261\, О-Тэис-9-261\, О-Эбу-9-261
+END:VEVENT
+BEGIN:VEVENT
+UID:b40d4c4fb85b99d5921c@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T122000
+DTEND;TZID=Europe/Moscow:20261202T135500
+SUMMARY:Специальные разделы информатики (Ла
+ б.)
+LOCATION:К-406
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: О-Рт-251
 END:VEVENT
 BEGIN:VEVENT
 UID:842fa6534def39f63906@tis-rooms
@@ -454,6 +551,27 @@ DESCRIPTION:4 пара · Саиег Т.Х. · группы: О-Исп-9-25
  1
 END:VEVENT
 BEGIN:VEVENT
+UID:3fc4ecf07dd91177b9ca@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T155000
+DTEND;TZID=Europe/Moscow:20261202T172500
+SUMMARY:Системы искусственного интеллекта (
+ Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Черепов П.В. · группы: З-Икс
+ М-231\, З-ИксЭ-231\, З-ИстТ-231\, З-ИстУ-231\, З-Рт-231
+END:VEVENT
+BEGIN:VEVENT
+UID:ddae01ab3e5cc7ce20ce@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261202T173500
+DTEND;TZID=Europe/Moscow:20261202T191000
+SUMMARY:Моделирование систем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:6 пара · Саиег Т.Х. · группы: З-ИстТ-23
+ 1\, З-ИстУ-231
+END:VEVENT
+BEGIN:VEVENT
 UID:5c7726eda15f6644072e@tis-rooms
 DTSTAMP:20260901T000000Z
 DTSTART;TZID=Europe/Moscow:20261203T083000
@@ -463,6 +581,39 @@ SUMMARY:Операционные системы и среды (Лекция
 LOCATION:К-406
 DESCRIPTION:1 пара · Анкудинов К.А. · группы: О-И
  сп-9-251\, О-Тэис-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:655fc46947bec102757e@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T101500
+DTEND;TZID=Europe/Moscow:20261203T115000
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:2 пара · Саиег Т.Х. · группы: О-ИстТ-24
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:784c28e7135ad85cc66f@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T122000
+DTEND;TZID=Europe/Moscow:20261203T135500
+SUMMARY:Компьютерная геометрия и графика (Пр
+ актика)
+LOCATION:К-406
+DESCRIPTION:3 пара · Саиег Т.Х. · группы: ОЗ-ИстТ-
+ 241
+END:VEVENT
+BEGIN:VEVENT
+UID:7164372ee16e651c85ae@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261203T140500
+DTEND;TZID=Europe/Moscow:20261203T154000
+SUMMARY:Информационно-коммуникационные тех
+ нологии в энергетике (Практика)
+LOCATION:К-406
+DESCRIPTION:4 пара · Черепов П.В. · группы: З-Икс
+ Э-231
 END:VEVENT
 BEGIN:VEVENT
 UID:c5684b7d06592586780d@tis-rooms
@@ -497,6 +648,27 @@ SUMMARY:Организация документооборота и доку
 LOCATION:К-406
 DESCRIPTION:3 пара · Аверченко С.В. · группы: О-Д
  п-11-261
+END:VEVENT
+BEGIN:VEVENT
+UID:597fb4e6811970d15814@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T140500
+DTEND;TZID=Europe/Moscow:20261204T154000
+SUMMARY:Управление данными (Лекция)
+LOCATION:К-406
+DESCRIPTION:4 пара · Саиег Т.Х. · группы: З-ИстТ-23
+ 1\, З-ИстУ-231
+END:VEVENT
+BEGIN:VEVENT
+UID:f84b9fb0d36058da9b41@tis-rooms
+DTSTAMP:20260901T000000Z
+DTSTART;TZID=Europe/Moscow:20261204T155000
+DTEND;TZID=Europe/Moscow:20261204T172500
+SUMMARY:Администрирование информационных с
+ истем (Лаб.)
+LOCATION:К-406
+DESCRIPTION:5 пара · Саиег Т.Х. · группы: З-ИстТ-23
+ 1\, З-ИстУ-231
 END:VEVENT
 BEGIN:VEVENT
 UID:06fbfdeaa3f724537907@tis-rooms
