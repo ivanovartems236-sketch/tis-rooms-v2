@@ -132,9 +132,8 @@ DTSTART;TZID=Europe/Moscow:20261130T140500
 DTEND;TZID=Europe/Moscow:20261130T154000
 SUMMARY:Физическая культура (Практика)
 LOCATION:СЗ
-DESCRIPTION:4 пара · Петров О.П. · группы: О-Дп-11-2
- 61\, О-Одл-9-261\, О-Тэис-11-261\, О-Тэис-9-261\, О-Эбу-
- 9-261
+DESCRIPTION:4 пара · Петров О.П. · группы: О-Одл-9-
+ 261\, О-Тэис-11-261\, О-Тэис-9-261\, О-Эбу-9-261
 END:VEVENT
 BEGIN:VEVENT
 UID:3cbde73df29382f7ad08@tis-rooms
